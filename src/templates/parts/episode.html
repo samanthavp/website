@@ -1,0 +1,20 @@
+<h1>#{{no}}. {{title}}</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+      <img class="episode-img-b" src="{{root}}/img/episodes/{{img-b}}"></img> 
+      <!-- caption -->
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 col-xl-8">
+      <div class="player-container">
+        <iframe id="player"
+        src="https://player.blubrry.com/id/{{blubrry}}/"
+        scrolling="no" width="100%" frameborder="0"></iframe>
+      </div>
+      <p>{{date}}</p>
+      <p>{{descr}}</p>
+      <p>Written by: {{author}}</p>
+      <!-- <p>{{links}}</p> -->
+    </div>
+  </div>  
+</div>
