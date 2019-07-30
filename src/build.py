@@ -1,9 +1,21 @@
-import os, shutil, json, copy
+import os
+import json
 
 VERBOSE = 3
+SRC = 'src'
+OUT = 'html'
 
-def make_key(str):
-  return "{{{{{}}}}}".format(str)
+def make_key(string):
+  return "{{{{{}}}}}".format(string)
+
+def make_slug(string):
+  return str(string).replace(" ","-").lower()
+
+def fname_page(name,ext="html"):
+  return os.path.join(OUT,make_slug(name)+ext)
+
+def fname_episode(name,ext=".html"):
+  return os.path.join(OUT,"episodes",make_slug(name)+ext)
 
 def slen(obj):
   return len(obj) if isinstance(obj,list) else \
@@ -27,7 +39,7 @@ class Template:
     self.src = src
     self.name = os.path.split(os.path.splitext(src)[0])[1]
     self.load_content()
-  
+
   def get_content(self):
     return self.content
 
@@ -58,9 +70,11 @@ class Template:
     self.content = self.get_sub_content(subs)
 
 def get_templates(folder):
-  return {os.path.splitext(file)[0]: Template(os.path.join(base,file))
-    for base,dirs,files in os.walk(folder)
-      for file in files}
+  return {
+      os.path.splitext(file)[0]: Template(os.path.join(base,file))
+      for base,dirs,files in os.walk(folder)
+      for file in files
+    }
 
 def dictpop(d,k):
   d.pop(k)
@@ -72,77 +86,90 @@ def dictmerge(d,*ds):
   return d
 
 if __name__ == "__main__":
-  outpath = os.path.join("html") # TODO -> config file
-  inpath  = os.path.join("src")
+  # ================================================================================================
   status("Loading: Content",level=0)
-  # TODO: -> content dict
-  pages    = load_json(os.path.join(inpath,"content","pages.json"))
-  episodes = load_json(os.path.join(inpath,"content","episodes.json"))
-  profiles = load_json(os.path.join(inpath,"content","team.json"))
-  listens  = load_json(os.path.join(inpath,"content","listen-on.json"))
-  templates = {
-    "pages": get_templates(os.path.join(inpath,"templates","pages")),
-    "parts": get_templates(os.path.join(inpath,"templates","parts")),
-    "nav":   get_templates(os.path.join(inpath,"templates","nav")),
+  content = {
+    key: load_json(os.path.join(SRC,"content",key+".json"))
+    for key in ["pages","episodes","team","listen-on"]
   }
-  
+  templates = {
+    key: get_templates(os.path.join(SRC,"templates",key))
+    for key in ["pages","parts","nav"]
+  }
+  # ================================================================================================
   status("Building: parts",level=0)
-  
+  # ------------------------------------------------------------------------------------------------
   status("Building: navbar",level=1)
-  content = ""
-  for page in pages:
-    content += templates["nav"]["li"].get_sub_content(page)
-  templates["parts"]["nav"].set_sub_content({"li":content})
-
+  html = ""
+  for page in content["pages"]:
+    html += templates["nav"]["li"].get_sub_content(page)
+  templates["parts"]["nav"].set_sub_content({
+      "li": html,
+    })
+  # ------------------------------------------------------------------------------------------------
   status("Building: team",level=1)
-  content = ""
-  for profile in profiles:
-    profile.update({"id":profile["name"].replace(' ','-')})
-    content += templates["parts"]["profile-tile"].get_sub_content(profile)
-  templates["parts"]["team"].set_sub_content({"profile-tile":content})
-
+  html = ""
+  for profile in content["team"]:
+    profile.update({
+        "id": make_slug(profile["name"]),
+      })
+    html += templates["parts"]["profile-tile"].get_sub_content(profile)
+  templates["parts"]["team"].set_sub_content({
+      "profile-tile": html,
+    })
+  # ------------------------------------------------------------------------------------------------
   status("Building: episode-tiles",level=1)
-  content = ""
-  for episode in episodes:
-    content += templates["parts"]["episode-tile"].get_sub_content(episode)
-  templates["parts"]["episodes"].set_sub_content({"episode-tile":content})
-
+  html = ""
+  for episode in content["episodes"]:
+    html += templates["parts"]["episode-tile"].get_sub_content(episode)
+  templates["parts"]["episodes"].set_sub_content({
+      "episode-tile": html,
+    })
+  # ------------------------------------------------------------------------------------------------
   status("Building: episodes",level=1)
-  for episode in episodes:
+  for episode in content["episodes"]:
     episode.update({"root":".."})
-    # epi = copy.copy(episode)
-    # links = "".join([
-    #   templates["parts"]["link"].get_sub_content(link)
-    #   for link in epi.pop("links")
-    # ])
-    subs = {k:t.get_sub_content({
-        "title":episode["title"],
-        "root": episode["root"],
-        # "links": links,
-      }) for k,t in templates["parts"].items()}
-    subs.update({"episode": templates["parts"]["episode"].get_sub_content(episode)})
-    with open(os.path.join(outpath,"episodes",str(episode["no"])+".html"),"w") as f:
+    subs = {
+      key: temp.get_sub_content({
+          "title":episode["title"],
+          "root": episode["root"],
+        })
+        for key,temp in templates["parts"].items()
+      }
+    subs.update({
+        "episode": templates["parts"]["episode"].get_sub_content(episode),
+      })
+    with open(fname_episode(episode["no"]),"w") as f:
       f.write(templates["pages"]["episode"].get_sub_content(subs))
-  
+  # ------------------------------------------------------------------------------------------------
   status("Building: Listen Links",level=1)
-  links = ""
-  for listen in listens:
-    links += templates["parts"]["listen-on"].get_sub_content(listen)
-  templates["parts"]["listen-on"].content = links
-
+  html = ""
+  for listen in content["listen-on"]:
+    html += templates["parts"]["listen-on"].get_sub_content(listen)
+  templates["parts"]["listen-on"].content = html # HACK
+  # ================================================================================================
   status("Building: Pages",level=0)
-  for page in pages:
+  for page in content["pages"]:
+    # ----------------------------------------------------------------------------------------------
     status("Building: {}".format(page["href"]),level=1)
     key = os.path.splitext(page["href"])[0]
-    subs = {k:t.get_sub_content({
-        "title": page["title"],
+    subs = {
+      key: temp.get_sub_content({
+          "title": page["title"],
+          "root": ".",
+        })
+        for key,temp in templates["parts"].items()
+      }
+    subs.update({
         "root": ".",
-      }) for k,t in templates["parts"].items()}
-    subs.update({"root":"."})
+      })
     if page["title"] == "HOME":
-      subs.update({"blubrry":episodes[0]["blubrry"]})
-    with open(os.path.join(outpath,page["href"]),"w") as f:
+      subs.update({
+          "blubrry": content["episodes"][0]["blubrry"]
+        })
+    with open(fname_page(page["href"],ext=""),"w") as f:
       f.write(templates["pages"][key].get_sub_content(subs))
+  # ================================================================================================
   status("Done",level=0)
 
 # TODO: head needs to resolve relative links for nested pages
