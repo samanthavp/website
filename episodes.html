@@ -3,33 +3,40 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <!-- TODO: upgrade to bootstrap 4.3.1 -->
   <script src="./js/main.js"></script>
   <link type="text/css" rel="stylesheet" href="./css/style.css"/>
   <link rel="icon" href="./img/icons/favicon.ico">
 </head>
 
 <body>
-<div class="container">
-  <nav id="nav" class="navbar navbar-static-top">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="./index.html">
-        <div class="raw-talk">Raw Talk Podcast</div>
-        <!-- <img class="navbar-logo" src="./img/nav-logo.png"></img> -->
-      </a>
-      <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
-        <div class="hamburger">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-      </button>
-      <div class="collapse navbar-collapse navbar-collapse-content">
-        <ul id="nav-list" class="nav navbar-nav navbar-right">
-          <li class="nav-item">
+<div class="header">
+  <div class="header-img-container">
+    <div class="header-img"></div>
+  </div>
+  <div class="container">
+    <nav id="nav" class="navbar navbar-static-top">
+      <div class="container-fluid">
+        <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
+          <div class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </button>
+        <div class="collapse navbar-collapse navbar-collapse-content">
+          <ul class="nav navbar-nav navbar-left sidenav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html">Raw Talk</a>
+            </li>
+          </ul>
+          <ul id="nav-list" class="nav navbar-nav navbar-right">
+            <li class="nav-item">
   <a class="nav-link" href="./index.html">HOME</a>
 </li>
 <li class="nav-item">
@@ -42,62 +49,511 @@
   <a class="nav-link" href="./contact.html">CONTACT</a>
 </li>
 
-        </ul>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+  </div>
 </div>
 
 <h1>EPISODES</h1>
 <div class="container with-loader">
   <div class="loader"></div>
   <div class="row load-content hidden">
-    <div class="episode-tile img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+    <div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/62.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#62: </span>Artificial Intelligence in Medicine: where are we now?
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/62/med-ai-chairs.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
   <a href="episodes/61.html">
-    <div class="episode-tile-header">
-      <div class="episode-tile-title">#61. Alternative Facts, Pseudoscience, Real Debate</div>
-      <!-- <div class="episode-tile-no">61</div>
-      <div class="episode-tile-title">Alternative Facts, Pseudoscience, Real Debate</div> -->
+    <div class="tile-episode-header">
+      <span class="episode-no">#61: </span>Alternative Facts, Pseudoscience, Real Debate
     </div>
-    <div class="episode-img-container">
-      <img class="episode-img-a" src="./img/episodes/61a.jpg"/>
-    </div>
+    <img class="episode-img-tile" src="./img/episodes/61/Jesse-X.jpg"/>
   </a>
 </div>
-<div class="episode-tile img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
   <a href="episodes/60.html">
-    <div class="episode-tile-header">
-      <div class="episode-tile-title">#60. Mental Health Meets the Law</div>
-      <!-- <div class="episode-tile-no">60</div>
-      <div class="episode-tile-title">Mental Health Meets the Law</div> -->
+    <div class="tile-episode-header">
+      <span class="episode-no">#60: </span>Mental Health Meets the Law
     </div>
-    <div class="episode-img-container">
-      <img class="episode-img-a" src="./img/episodes/60a.jpg"/>
-    </div>
+    <img class="episode-img-tile" src="./img/episodes/60/James-Kennedy.jpg"/>
   </a>
 </div>
-<div class="episode-tile img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
-  <a href="episodes/61.html">
-    <div class="episode-tile-header">
-      <div class="episode-tile-title">#61. Alternative Facts, Pseudoscience, Real Debate</div>
-      <!-- <div class="episode-tile-no">61</div>
-      <div class="episode-tile-title">Alternative Facts, Pseudoscience, Real Debate</div> -->
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/59.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#59: </span>Let's Get Personal
     </div>
-    <div class="episode-img-container">
-      <img class="episode-img-a" src="./img/episodes/61a.jpg"/>
-    </div>
+    <img class="episode-img-tile" src="./img/episodes/59/First-Last.jpg"/>
   </a>
 </div>
-<div class="episode-tile img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
-  <a href="episodes/60.html">
-    <div class="episode-tile-header">
-      <div class="episode-tile-title">#60. Mental Health Meets the Law</div>
-      <!-- <div class="episode-tile-no">60</div>
-      <div class="episode-tile-title">Mental Health Meets the Law</div> -->
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/58.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#58: </span>Our Aging Population: The Silver Tsunami or Red Herring?
     </div>
-    <div class="episode-img-container">
-      <img class="episode-img-a" src="./img/episodes/60a.jpg"/>
+    <img class="episode-img-tile" src="./img/episodes/58/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/57.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#57: </span>Autism: Unraveling the Spectrum
     </div>
+    <img class="episode-img-tile" src="./img/episodes/57/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/56.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#56: </span>Mirror, Mirror - The Science Behind Skin &amp; Cosmetics
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/56/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/55.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#55: </span>Food for Thought: Unpacking Nutritional Science
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/55/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/54.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#54: </span>Sex, Society and Science
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/54/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/53.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#53: </span>Indigenous Perspectives on Health
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/53/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/52.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#52: </span>Respect Your Rhythm
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/52/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/51.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#51: </span>From "Miracle Drug" to Epidemic
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/51/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/50.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#50: </span>From Surgical Mesh to DBS -  Medical Devices in the 21st Century
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/50/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/49.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#49: </span>Canada Legalizes Cannabis
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/49/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/48.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#48: </span>Unpacking Autoimmunity: Myths, Microbes &amp; Misdiagnoses
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/48/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/47.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#47: </span>Graduate Student Mental Health
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/47/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/46.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#46: </span>Season 3 is here!
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/46/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/45.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#45: </span>New Methods of Science Communication
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/45/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/44.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#44: </span>Public Engagement in Science
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/44/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/43.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#43: </span>Advancing Kidney Transplants &amp; Medical Culture
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/43/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/42.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#42: </span>Mindfulness - A Personal &amp; Professional Project
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/42/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/41.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#41: </span>Unpacking the Award-Winning Documentary - Unrest
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/41/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/40.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#40: </span>What Does it Mean to Survive Cancer?
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/40/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/39.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#39: </span>Economics &amp; Childhood Cancer Treatment
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/39/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/38.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#38: </span>Pollution &amp; Our Lungs
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/38/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/37.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#37: </span>Neurodegeneration, Concussions, &amp; Misconceptions
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/37/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/36.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#36: </span>The Future is Neuroscience!
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/36/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/35.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#35: </span>Comics and Medicine
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/35/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/34.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#34: </span>Simulation in Healthcare
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/34/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/33.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#33: </span>Sleep &amp; Anesthesia Explained
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/33/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/32.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#32: </span>Delivering Quality End of Life Care
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/32/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/31.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#31: </span>Sex, Gender, &amp; the Brain
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/31/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/30.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#30: </span>Hearing Loss, Language &amp; Learning
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/30/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/29.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#29: </span>Personalizing Cancer Medicine
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/29/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/28.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#28: </span>History &amp; Ethics of Stem Cells
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/28/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/27.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#27: </span>Assessing Medical Learners
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/27/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/26.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#26: </span>Suicide - Who is Susceptible?
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/26/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/25.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#25: </span>Mathematical Magic and STIs
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/25/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/24.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#24: </span>Combating Treatment Resistant Depression
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/24/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/23.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#23: </span>Nature, Nurture &amp; Mood Disorders
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/23/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/22.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#22: </span>We're Back!
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/22/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/21.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#21: </span>The Gender &amp; Diversity Gap in STEMM
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/21/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/20.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#20: </span>Advances in Epilepsy Care
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/20/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/19.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#19: </span>Mapping Language with MEG
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/19/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/18.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#18: </span>Motor Control &amp; Movement Disorders
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/18/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/17.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#17: </span>Neuroimaging Chronic Pain
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/17/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/16.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#16: </span>Restoring Sight with Stem Cells
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/16/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/15.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#15: </span>From Cells to Tissues
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/15/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/14.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#14: </span>Living with Cystic Fibrosis
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/14/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/13.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#13: </span>Engineering Better Lungs
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/13/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/12.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#12: </span>Graduate Professional Development
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/12/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/11.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#11: </span>Re-Imagining the PhD
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/11/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/10.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#10: </span>Undergrads Ask
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/10/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/9.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#9: </span>Grad Students Answer
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/9/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/8.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#8: </span>Marrying Art, Science &amp; Design
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/8/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/7.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#7: </span>Becoming a Health Research Translator
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/7/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/6.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#6: </span>Concussion in Sports
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/6/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/5.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#5: </span>Essentials of Spinal Cord Injury
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/5/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/4.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#4: </span>Demystifying Schizophrenia
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/4/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/3.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#3: </span>Kids, Kidneys &amp; Double Degrees
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/3/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/2.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#2: </span>Polymers that Promote Healing
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/2/First-Last.jpg"/>
+  </a>
+</div>
+<div class="tile-episode img-link col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+  <a href="episodes/1.html">
+    <div class="tile-episode-header">
+      <span class="episode-no">#1: </span>Introducing Raw Talk (formerly known as Raw Data)
+    </div>
+    <img class="episode-img-tile" src="./img/episodes/1/First-Last.jpg"/>
   </a>
 </div>
 
@@ -105,6 +561,11 @@
 </div>
 
 <div class="footer">
+  <div class="container">
+    <div class="row">
+      <!-- {{social}} -->
+    </div>
+  </div>
 </div>
 
 </body>
