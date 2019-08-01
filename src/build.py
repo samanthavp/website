@@ -1,7 +1,8 @@
 import os
+import re
 import json
 
-VERBOSE = 3
+VERBOSE = 2
 SRC = 'src'
 OUT = 'html'
 
@@ -11,7 +12,10 @@ def make_key(string):
 def make_slug(string):
   return str(string).replace(" ","-").lower()
 
-def fname_page(name,ext="html"):
+def fname_content(name,ext=".json"):
+  return os.path.join(SRC,"content",str(name)+ext)
+
+def fname_page(name,ext=".html"):
   return os.path.join(OUT,make_slug(name)+ext)
 
 def fname_episode(name,ext=".html"):
@@ -22,13 +26,14 @@ def slen(obj):
          1 if isinstance(obj,str) else 0
 
 def load_json(fname):
+  status("Loading: {}".format(fname),level=1)
   with open(fname,"r") as f:
     return json.load(f)
 
 def status(message,level=1):
   if VERBOSE is not False and (level <= VERBOSE):
     print([
-      "-"*50+"\n {}\n"+"-"*50,
+      "-"*50+"\n{}\n"+"-"*50,
       " + {}",
       "   > {}",
       "     . {}",
@@ -89,9 +94,14 @@ if __name__ == "__main__":
   # ================================================================================================
   status("Loading: Content",level=0)
   content = {
-    key: load_json(os.path.join(SRC,"content",key+".json"))
-    for key in ["pages","episodes","team","listen-on"]
+    key: load_json(fname_content(key))
+    for key in ["pages","team","listen-on"]
   }
+  content["episodes"] = [
+    load_json(os.path.join(path,fname))
+    for path,_,fnames in os.walk(fname_content("episodes",ext=""))
+    for fname in sorted(fnames, key = lambda fn: int(re.split('(\d*)\.json',fn)[1]))
+  ][::-1]
   templates = {
     key: get_templates(os.path.join(SRC,"templates",key))
     for key in ["pages","parts","nav"]
@@ -113,17 +123,24 @@ if __name__ == "__main__":
     profile.update({
         "id": make_slug(profile["name"]),
       })
-    html += templates["parts"]["profile-tile"].get_sub_content(profile)
+    html += templates["parts"]["tile-profile"].get_sub_content(profile)
   templates["parts"]["team"].set_sub_content({
-      "profile-tile": html,
+      "tile-profile": html,
     })
   # ------------------------------------------------------------------------------------------------
-  status("Building: episode-tiles",level=1)
+  status("Building: episode-content",level=1)
+  for episode in content["episodes"]:
+    episode.pop("links")
+    episode.update({
+      "authors": ", ".join(episode["authors"]),
+    })
+  # ------------------------------------------------------------------------------------------------
+  status("Building: tile-episodes",level=1)
   html = ""
   for episode in content["episodes"]:
-    html += templates["parts"]["episode-tile"].get_sub_content(episode)
+    html += templates["parts"]["tile-episode"].get_sub_content(episode)
   templates["parts"]["episodes"].set_sub_content({
-      "episode-tile": html,
+      "tile-episode": html,
     })
   # ------------------------------------------------------------------------------------------------
   status("Building: episodes",level=1)
@@ -137,12 +154,12 @@ if __name__ == "__main__":
         for key,temp in templates["parts"].items()
       }
     subs.update({
-        "episode": templates["parts"]["episode"].get_sub_content(episode),
+        "episode": templates["parts"]["episode"].get_sub_content(episode)
       })
     with open(fname_episode(episode["no"]),"w") as f:
       f.write(templates["pages"]["episode"].get_sub_content(subs))
   # ------------------------------------------------------------------------------------------------
-  status("Building: Listen Links",level=1)
+  status("Building: Listen-On",level=1) # TODO: listen-on & social from same template, different content
   html = ""
   for listen in content["listen-on"]:
     html += templates["parts"]["listen-on"].get_sub_content(listen)

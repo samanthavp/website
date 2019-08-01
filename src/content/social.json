@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Facebook",
+    "href": "https://www.facebook.com/rawtalkpodcast/",
+    "img": "{{root}}/img/icons/facebook.png"
+  },
+  {
+    "title": "Instagram",
+    "href": "https://www.instagram.com/rawtalkpodcast/",
+    "img": "{{root}}/img/icons/instagram.png"
+  },
+  {
+    "title": "Twitter",
+    "href": "https://twitter.com/rawtalkpodcast",
+    "img": "{{root}}/img/icons/twitter.png"
+  }
+]

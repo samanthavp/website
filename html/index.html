@@ -3,33 +3,40 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <!-- TODO: upgrade to bootstrap 4.3.1 -->
   <script src="./js/main.js"></script>
   <link type="text/css" rel="stylesheet" href="./css/style.css"/>
   <link rel="icon" href="./img/icons/favicon.ico">
 </head>
 
 <body>
-<div class="container">
-  <nav id="nav" class="navbar navbar-static-top">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="./index.html">
-        <div class="raw-talk">Raw Talk Podcast</div>
-        <!-- <img class="navbar-logo" src="./img/nav-logo.png"></img> -->
-      </a>
-      <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
-        <div class="hamburger">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-      </button>
-      <div class="collapse navbar-collapse navbar-collapse-content">
-        <ul id="nav-list" class="nav navbar-nav navbar-right">
-          <li class="nav-item">
+<div class="header">
+  <div class="header-img-container">
+    <div class="header-img"></div>
+  </div>
+  <div class="container">
+    <nav id="nav" class="navbar navbar-static-top">
+      <div class="container-fluid">
+        <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
+          <div class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </button>
+        <div class="collapse navbar-collapse navbar-collapse-content">
+          <ul class="nav navbar-nav navbar-left sidenav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html">Raw Talk</a>
+            </li>
+          </ul>
+          <ul id="nav-list" class="nav navbar-nav navbar-right">
+            <li class="nav-item">
   <a class="nav-link" href="./index.html">HOME</a>
 </li>
 <li class="nav-item">
@@ -42,54 +49,40 @@
   <a class="nav-link" href="./contact.html">CONTACT</a>
 </li>
 
-        </ul>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+  </div>
 </div>
 
 <h1>Raw Talk Podcast</h1>
 <div class="container">
   <div class="row">
     <!-- <div class="banner-container col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <img class="banner" src="./img/banner.png"></img>
+      <img class="banner" src="./img/brand/banner.svg"></img>
+    </div> -->
+    <!-- <div class="player-container col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+      <iframe id="player"
+      src="https://player.blubrry.com/id/47378035/"
+      scrolling="no" width="100%" frameborder="0"></iframe>
     </div> -->
     <div class="centered col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p>Listen on:</p>
+      <h2>Support the Show:</h2>
     </div>
-    <div class="centered col-xs-12 col-sm-4 col-md-4 col-lg-4 col-xl-4">
-  <a class="icon" href="https://itunes.apple.com/ca/podcast/raw-talk-podcast/id1155325532" target="_blank">
-    <div class="icon-container img-link">
-      <img class="icon" src="./img/icons/apple-podcast.png"/>
-      <p>Apple Podcasts</p>
+    <div class="centered col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+      <h2>Listen on:</h2>
     </div>
-  </a>
-</div>
-<div class="centered col-xs-12 col-sm-4 col-md-4 col-lg-4 col-xl-4">
-  <a class="icon" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvcmF3ZGF0YWltcy54bWw%3D" target="_blank">
-    <div class="icon-container img-link">
-      <img class="icon" src="./img/icons/google-podcast.png"/>
-      <p>Google Podcasts</p>
-    </div>
-  </a>
-</div>
-<div class="centered col-xs-12 col-sm-4 col-md-4 col-lg-4 col-xl-4">
-  <a class="icon" href="https://open.spotify.com/show/3ysqAH8DDSWj3srdobUaZG" target="_blank">
-    <div class="icon-container img-link">
-      <img class="icon" src="./img/icons/spotify.png"/>
-      <p>Spotify</p>
-    </div>
-  </a>
-</div>
-
-    <div class="player-container col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <iframe id="player"
-      src="https://player.blubrry.com/id/44349755/"
-      scrolling="no" width="100%" frameborder="0"></iframe>
-    </div>
+    {{listen-on}}
   </div>
 </div>
+
 <div class="footer">
+  <div class="container">
+    <div class="row">
+      <!-- {{social}} -->
+    </div>
+  </div>
 </div>
 
 </body>

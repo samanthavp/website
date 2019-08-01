@@ -13,5 +13,10 @@
     "title": "Spotify",
     "href": "https://open.spotify.com/show/3ysqAH8DDSWj3srdobUaZG",
     "img": "{{root}}/img/icons/spotify.png"
+  },
+  {
+    "title": "Stitcher",
+    "href": "https://www.stitcher.com/podcast/raw-talk-podcast",
+    "img": "{{root}}/img/icons/stitcher.png"
   }
 ]
