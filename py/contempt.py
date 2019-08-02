@@ -49,8 +49,7 @@ class Template():
       return '' if join else []
     subs = utils.flatten(subs)
     if sortby is not None:
-      subs = sorted(subs,key=sortkey)
-    keys = self.get_keys()
+      subs = sorted(subs,key=sortby)
     content = [self.content for i in range(len(subs))]
     for s,sub in enumerate(subs):
       for key,value in sub.items():
@@ -94,7 +93,7 @@ def drill(template,templates,contents,join=True):
       subs += [isubs]
   else: # if no subs, make sure to return content at least once
     subs = {}
-  return template.get_sub_content(subs,join=join) 
+  return template.get_sub_content(subs,join=join)
 
 def get_templates(path,exts='.html'):
   return {
@@ -104,7 +103,7 @@ def get_templates(path,exts='.html'):
 
 def get_content(path,exts='.json'):
   parts = path.split(os.path.sep)
-  content = utils.path_dict(path,exts='.json',fun=utils.load_json)
+  content = utils.path_dict(path,exts=exts,fun=utils.load_json)
   for part in parts:
     content = content[part]
   return content

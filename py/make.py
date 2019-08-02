@@ -14,6 +14,7 @@ def sort(dicts,reverse=False):
     for cast,key in [(int,'no'),(int,'sort'),(str,'name'),(str,'title')]:
       if key in item:
         return cast(item[key])
+    return None
   return sorted(dicts,key=key,reverse=reverse)
 
 def get_content():
