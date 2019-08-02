@@ -36,6 +36,12 @@ def unique(iterobj):
   u = set()
   return [obj for obj in iterobj if not (obj in u or u.add(obj))]
 
+def dictmerge(*dicts,ordered=False):
+  if not ordered:
+    return {k:d[k] for d in dicts for k in d}
+  else:
+    return odict([(k,d[k]) for d in dicts for k in d])
+
 def iter_files(paths,exts=None):
   def checkext(path):
     return exts is None or os.path.splitext(path)[1] in flatten(exts)

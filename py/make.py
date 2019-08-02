@@ -27,7 +27,7 @@ def get_content():
   for member in team:
     member['id'] = make_slug(member['name'])
   for episode in episodes:
-    episode['templates'] = {'body': 'episode', 'link': 'link'}
+    episode['templates'] = {'body': 'episode', 'links': 'link'}
     episode['href']      = os.path.join('episodes',str(episode['no'])+'.html')
     episode['authors']   = ' and '.join(episode['authors'])
     c['page'].append(episode)

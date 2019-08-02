@@ -42,8 +42,10 @@ class Template():
     return get_keys(self.content)
 
   def get_sub_content(self,subs,join=True,sortby=None,indent=True):
-    if not subs:
+    if subs == {}:
       return self.content
+    if subs == []:
+      return '' if join else []
     subs = utils.flatten(subs)
     if sortby is not None:
       subs = sorted(subs,key=sortkey)
@@ -66,20 +68,30 @@ class Template():
     return self
 
 def drill(template,templates,contents,join=True):
+  # adding templates: singleton
   subs = {}
   for key in template.get_keys():
     if key in templates:
       subs.update({ key : drill(templates[key], templates, contents) })
   template = Template(template.get_sub_content(subs), name=template.name)
-  subs = []
+  # adding content: possibly repeated
   if template.name in contents:
+    subs = []
+    # assume the content is a list of dicts
     for isubs in utils.flatten(contents[template.name]):
+      # the content may specify nested templates
       tmap = isubs.pop('templates',{})
+      # TODO: need to resolve nesting of items:
+      # currently inconsistent due to unordered dict access
       for ckey,tkey in tmap.items():
-        itemplate = templates[tkey]
+        itemplate = Template(templates[tkey].content,tkey)
+        if ckey in isubs:
+          itemplate.set_sub_content(isubs[ckey])
         csub = Template(drill(itemplate,templates,contents),itemplate.name).get_sub_content(isubs)
         isubs.update({ ckey : csub })
       subs += [isubs]
+  else:
+    subs = {}
   return template.get_sub_content(subs,join=join) 
 
 def get_templates(path,exts='.html'):
