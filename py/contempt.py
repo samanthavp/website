@@ -36,7 +36,7 @@ class Template():
 
   def to_file(self,fname,root='.'):
     with open(fname,'w') as f:
-      f.write(self.get_sub_content({ 'root' : os.path.relpath(root,fname) }))
+      f.write(self.get_sub_content({ 'root' : os.path.relpath(root,os.path.split(fname)[0]) }))
 
   def get_keys(self):
     return get_keys(self.content)

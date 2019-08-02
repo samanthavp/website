@@ -44,7 +44,7 @@ def make_pages(root='html'):
   pages = ct.drill(templates['page'],templates,contents,join=False)
   # and write to file
   for page,spec in zip(pages,contents['page']):
-    ct.Template(page).to_file(make_fname(root,spec['href']),root=root)
+    ct.Template(page).to_file(make_fname(root,spec['href']),root='html')
 
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
