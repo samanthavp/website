@@ -14,7 +14,7 @@ def status(message,level=1):
 
 def load_json(fname):
   with open(fname,'r') as f:
-    return json.load(f)
+    return json.load(f,object_pairs_hook=odict)
 
 def listlen(obj):
   return len(obj) if isinstance(obj,list) else 1 if isinstance(obj,str) else 0

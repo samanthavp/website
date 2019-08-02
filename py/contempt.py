@@ -42,6 +42,7 @@ class Template():
     return get_keys(self.content)
 
   def get_sub_content(self,subs,join=True,sortby=None,indent=True):
+    # n.b.: {} yields self.content while [] yields empty conteny (zero repetitions)
     if subs == {}:
       return self.content
     if subs == []:
@@ -68,29 +69,30 @@ class Template():
     return self
 
 def drill(template,templates,contents,join=True):
-  # adding templates: singleton
+  # adding templates: singleton -> subs = {}
   subs = {}
   for key in template.get_keys():
     if key in templates:
       subs.update({ key : drill(templates[key], templates, contents) })
   template = Template(template.get_sub_content(subs), name=template.name)
-  # adding content: possibly repeated
+  # adding content: possibly repeated -> subs = []
   if template.name in contents:
     subs = []
     # assume the content is a list of dicts
     for isubs in utils.flatten(contents[template.name]):
       # the content may specify nested templates
       tmap = isubs.pop('templates',{})
-      # TODO: need to resolve nesting of items:
-      # currently inconsistent due to unordered dict access
+      # note: please use odict to resolve content in nested templates (inner first)
       for ckey,tkey in tmap.items():
         itemplate = Template(templates[tkey].content,tkey)
         if ckey in isubs:
           itemplate.set_sub_content(isubs[ckey])
+        # drill the nested template
         csub = Template(drill(itemplate,templates,contents),itemplate.name).get_sub_content(isubs)
         isubs.update({ ckey : csub })
+      # append the content from this dict in the list
       subs += [isubs]
-  else:
+  else: # if no subs, make sure to return content at least once
     subs = {}
   return template.get_sub_content(subs,join=join) 
 
