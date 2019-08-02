@@ -9,83 +9,250 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <!-- TODO: upgrade to bootstrap 4.3.1 -->
-  <script src="./js/main.js"></script>
-  <link type="text/css" rel="stylesheet" href="./css/style.css"/>
-  <link rel="icon" href="./img/icons/favicon.ico">
+  <script src="../js/main.js"></script>
+  <link type="text/css" rel="stylesheet" href="../css/style.css"/>
+  <link rel="icon" href="../img/icons/favicon.ico">
 </head>
-
 <body>
-<div class="header">
-  <div class="header-img-container">
-    <div class="header-img"></div>
-  </div>
-  <div class="container">
-    <nav id="nav" class="navbar navbar-static-top">
-      <div class="container-fluid">
-        <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
-          <div class="hamburger">
-            <span></span>
-            <span></span>
-            <span></span>
+  <div class="header">
+    <div class="header-img-container">
+      <div class="header-img"></div>
+    </div>
+      <div class="container">
+        <nav id="nav" class="navbar navbar-static-top">
+          <div class="container-fluid">
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
+              <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </button>
+            <div class="collapse navbar-collapse navbar-collapse-content">
+              <ul class="nav navbar-nav navbar-left sidenav">
+                <li class="nav-item">
+                  <a class="nav-link" href="../index.html">Raw Talk</a>
+                </li>
+              </ul>
+              <ul id="nav-list" class="nav navbar-nav navbar-right">
+                <li class="nav-item">
+                  <a class="nav-link" href="../index.html">HOME</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="../team.html">TEAM</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="../episodes.html">EPISODES</a>
+                </li>
+              </ul>
+            </div>
           </div>
+        </nav>
+      </div>
+    <h1>TEAM</h1>
+  </div>
+  <div class="container with-loader">
+    <div class="loader"></div>
+    <div class="row load-content hidden">
+      <div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <button data-toggle="modal" data-target="#aditi-desai">
+          <img class="profile-img" src="../img/team/aditi-desai.jpg"/>
         </button>
-        <div class="collapse navbar-collapse navbar-collapse-content">
-          <ul class="nav navbar-nav navbar-left sidenav">
-            <li class="nav-item">
-              <a class="nav-link" href="./index.html">Raw Talk</a>
-            </li>
-          </ul>
-          <ul id="nav-list" class="nav navbar-nav navbar-right">
-            <li class="nav-item">
-  <a class="nav-link" href="./index.html">HOME</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="./team.html">TEAM</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="./episodes.html">EPISODES</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="./contact.html">CONTACT</a>
-</li>
-
-          </ul>
+        <h4 class="tile-profile-header">
+          <span>Aditi Desai</span><br>
+          <span><i>Show Host</i></span>
+        </h4>
+      </div>
+      <div class="modal modal-lg" id="aditi-desai" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
+                    <img class="profile-img" src="../img/team/aditi-desai.jpg"/>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
+                    <h4>Aditi Desai</h4>
+                    <h4><i>Show Host</i></h4>
+                    <div class="profile-bio">
+                      <p>Hey listeners, my name is Aditi and I'm a first year MSc student at the Institute of Medical Science. For my research, I am investigating the physical health outcomes of siblings of childhood cancer survivors. In other words, I am trying to find out whether cancer and cancer treatment in a particular child impacts the health and wellbeing of other children in the same family. Outside of research, I love to swim, drink copious amounts of coffee, and crack that's what she said jokes to my disapproving friends. I am extremely excited to be a part of Season 3, as I will get to learn about and share all the amazing research that is happening in Toronto. Remember to tune in, and until next time, #keepitraw!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-    </nav>
-  </div>
-</div>
-
-<h1>TEAM</h1>
-<div class="container with-loader">
-  <div class="loader"></div>
-  <div class="row load-content hidden">
-    <div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-  <button data-toggle="modal" data-target="#melissa-galati">
-    <img class="profile-img" src="./img/team/melissa-galati.jpg"/>
-  </button>
-  <h4 class="tile-profile-header">
-    <span>Melissa Galati</span><br>
-    <span><i>Executive Producer</i></span>
-  </h4>
-</div>
-<div class="modal modal-lg" id="melissa-galati" role="dialog">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
+      <div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <button data-toggle="modal" data-target="#ekaterina-an">
+          <img class="profile-img" src="../img/team/ekaterina-an.jpg"/>
         </button>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
-              <img class="profile-img" src="./img/team/melissa-galati.jpg"/>
+        <h4 class="tile-profile-header">
+          <span>Ekaterina An</span><br>
+          <span><i>Audio Engineer & Webmaster</i></span>
+        </h4>
+      </div>
+      <div class="modal modal-lg" id="ekaterina-an" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
+                    <img class="profile-img" src="../img/team/ekaterina-an.jpg"/>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
+                    <h4>Ekaterina An</h4>
+                    <h4><i>Audio Engineer & Webmaster</i></h4>
+                    <div class="profile-bio">
+                      <p>Hello! I'm Kat, a recent MSc grad at the Institute of Medical Science, studying the emotional, social, and psychological impact of having advanced cancer. As a member of Raw Talk from the very first episode, I'm excited to see how much the show has changed and grown! This season, I'll be tackling the behind-the-scenes of podcast production as an Audio Engineer and Webmaster. We have lots of exciting science storytelling coming your way so make sure to tune in and as always, keep it raw!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
-              <h4>Melissa Galati</h4>
-              <h4><i>Executive Producer</i></h4>
-              <div class="profile-bio">
-                <p>Hello! I'm a 4th year PhD student in the Institute of Medical Science here at U of T. When I'm not podcasting, I study cancer genetics at the Hospital for Sick Children. I've been with Raw Talk since Season 1 doing everything from hosting to communications! As one of this year's Executive Producers I'm excited to bring more stories to the show and really engage with the research community in the Faculty of Medicine this year. Other interests: Coffee, sleeping, soccer, cooking, coffee, yoga, rock climbing, comedy, coffee, napping, reading, and writing.</p>
+          </div>
+        </div>
+      </div>
+      <div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <button data-toggle="modal" data-target="#grace-jacobs">
+          <img class="profile-img" src="../img/team/grace-jacobs.jpg"/>
+        </button>
+        <h4 class="tile-profile-header">
+          <span>Grace Jacobs</span><br>
+          <span><i>Executive Producer</i></span>
+        </h4>
+      </div>
+      <div class="modal modal-lg" id="grace-jacobs" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
+                    <img class="profile-img" src="../img/team/grace-jacobs.jpg"/>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
+                    <h4>Grace Jacobs</h4>
+                    <h4><i>Executive Producer</i></h4>
+                    <div class="profile-bio">
+                      <p>Hi listeners! I'm Grace, a third year PhD student in the Institute of Medical Science. My research combines imaging and genetic approaches to study the mechanisms of psychiatric symptom development in youth populations. We have some great stories and science to share this season! I'm beyond excited to be taking over as one of the Executive Producers and work with each of the wonderful members of the Raw Talk team. Don't forget to tune in, let us know what you think, and of course, keep it raw!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <button data-toggle="modal" data-target="#hajer-nakua">
+          <img class="profile-img" src="../img/team/hajer-nakua.jpg"/>
+        </button>
+        <h4 class="tile-profile-header">
+          <span>Hajer Nakua</span><br>
+          <span><i>Communications Executive</i></span>
+        </h4>
+      </div>
+      <div class="modal modal-lg" id="hajer-nakua" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
+                    <img class="profile-img" src="../img/team/hajer-nakua.jpg"/>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
+                    <h4>Hajer Nakua</h4>
+                    <h4><i>Communications Executive</i></h4>
+                    <div class="profile-bio">
+                      <p>Hello everyone! My name is Hajer Nakua and I'm just starting the first year of my Master's in Medical Science. My project investigates and cortical-amygdala networks of patients with neurodevelopmental disorders and their behaviour phenotypes. I'm looking forward to being the Communications Executive of the Raw Talk Podcast in season 3 and overall being part of such an amazing team! Outside of school and extracurriculars, I love to experiment with new recipes, read thought provoking books and maintaining a healthy & active lifestyle!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <button data-toggle="modal" data-target="#jabir-mohamed">
+          <img class="profile-img" src="../img/team/jabir-mohamed.jpg"/>
+        </button>
+        <h4 class="tile-profile-header">
+          <span>Jabir Mohamed</span><br>
+          <span><i>Publica Relations Executive</i></span>
+        </h4>
+      </div>
+      <div class="modal modal-lg" id="jabir-mohamed" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
+                    <img class="profile-img" src="../img/team/jabir-mohamed.jpg"/>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
+                    <h4>Jabir Mohamed</h4>
+                    <h4><i>Publica Relations Executive</i></h4>
+                    <div class="profile-bio">
+                      <p>Hello hello, Jabir here and I'm a recent MSc graduate of the IMS. At Raw Talk, I co-lead public relations efforts, manage branding, and spend a lot of time thinking about program development. Although I love everything about the show, it's the people involved - scientists, health professionals, and faces you see on this page - that bring me most joy. Outside of podcasting, I'm into swimming, finding new music, and spending time with my nephews and nieces.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <button data-toggle="modal" data-target="#melissa-galati">
+          <img class="profile-img" src="../img/team/melissa-galati.jpg"/>
+        </button>
+        <h4 class="tile-profile-header">
+          <span>Melissa Galati</span><br>
+          <span><i>Executive Producer</i></span>
+        </h4>
+      </div>
+      <div class="modal modal-lg" id="melissa-galati" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
+                    <img class="profile-img" src="../img/team/melissa-galati.jpg"/>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
+                    <h4>Melissa Galati</h4>
+                    <h4><i>Executive Producer</i></h4>
+                    <div class="profile-bio">
+                      <p>Hello! I'm a 4th year PhD student in the Institute of Medical Science here at U of T. When I'm not podcasting, I study cancer genetics at the Hospital for Sick Children. I've been with Raw Talk since Season 1 doing everything from hosting to communications! As one of this year's Executive Producers I'm excited to bring more stories to the show and really engage with the research community in the Faculty of Medicine this year. Other interests: Coffee, sleeping, soccer, cooking, coffee, yoga, rock climbing, comedy, coffee, napping, reading, and writing.</p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -93,188 +260,11 @@
       </div>
     </div>
   </div>
-</div>
-<div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-  <button data-toggle="modal" data-target="#grace-jacobs">
-    <img class="profile-img" src="./img/team/grace-jacobs.jpg"/>
-  </button>
-  <h4 class="tile-profile-header">
-    <span>Grace Jacobs</span><br>
-    <span><i>Executive Producer</i></span>
-  </h4>
-</div>
-<div class="modal modal-lg" id="grace-jacobs" role="dialog">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
-              <img class="profile-img" src="./img/team/grace-jacobs.jpg"/>
-            </div>
-            <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
-              <h4>Grace Jacobs</h4>
-              <h4><i>Executive Producer</i></h4>
-              <div class="profile-bio">
-                <p>Hi listeners! I'm Grace, a third year PhD student in the Institute of Medical Science. My research combines imaging and genetic approaches to study the mechanisms of psychiatric symptom development in youth populations. We have some great stories and science to share this season! I'm beyond excited to be taking over as one of the Executive Producers and work with each of the wonderful members of the Raw Talk team. Don't forget to tune in, let us know what you think, and of course, keep it raw!</p>
-              </div>
-            </div>
-          </div>
-        </div>
+  <div class="footer">
+    <div class="container">
+      <div class="row">
       </div>
     </div>
   </div>
-</div>
-<div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-  <button data-toggle="modal" data-target="#jabir-mohamed">
-    <img class="profile-img" src="./img/team/jabir-mohamed.jpg"/>
-  </button>
-  <h4 class="tile-profile-header">
-    <span>Jabir Mohamed</span><br>
-    <span><i>Publica Relations Executive</i></span>
-  </h4>
-</div>
-<div class="modal modal-lg" id="jabir-mohamed" role="dialog">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
-              <img class="profile-img" src="./img/team/jabir-mohamed.jpg"/>
-            </div>
-            <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
-              <h4>Jabir Mohamed</h4>
-              <h4><i>Publica Relations Executive</i></h4>
-              <div class="profile-bio">
-                <p>Hello hello, Jabir here and I'm a recent MSc graduate of the IMS. At Raw Talk, I co-lead public relations efforts, manage branding, and spend a lot of time thinking about program development. Although I love everything about the show, it's the people involved - scientists, health professionals, and faces you see on this page - that bring me most joy. Outside of podcasting, I'm into swimming, finding new music, and spending time with my nephews and nieces.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-  <button data-toggle="modal" data-target="#hajer-nakua">
-    <img class="profile-img" src="./img/team/hajer-nakua.jpg"/>
-  </button>
-  <h4 class="tile-profile-header">
-    <span>Hajer Nakua</span><br>
-    <span><i>Communications Executive</i></span>
-  </h4>
-</div>
-<div class="modal modal-lg" id="hajer-nakua" role="dialog">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
-              <img class="profile-img" src="./img/team/hajer-nakua.jpg"/>
-            </div>
-            <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
-              <h4>Hajer Nakua</h4>
-              <h4><i>Communications Executive</i></h4>
-              <div class="profile-bio">
-                <p>Hello everyone! My name is Hajer Nakua and I'm just starting the first year of my Master's in Medical Science. My project investigates and cortical-amygdala networks of patients with neurodevelopmental disorders and their behaviour phenotypes. I'm looking forward to being the Communications Executive of the Raw Talk Podcast in season 3 and overall being part of such an amazing team! Outside of school and extracurriculars, I love to experiment with new recipes, read thought provoking books and maintaining a healthy & active lifestyle!</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-  <button data-toggle="modal" data-target="#ekaterina-an">
-    <img class="profile-img" src="./img/team/ekaterina-an.jpg"/>
-  </button>
-  <h4 class="tile-profile-header">
-    <span>Ekaterina An</span><br>
-    <span><i>Audio Engineer & Webmaster</i></span>
-  </h4>
-</div>
-<div class="modal modal-lg" id="ekaterina-an" role="dialog">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
-              <img class="profile-img" src="./img/team/ekaterina-an.jpg"/>
-            </div>
-            <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
-              <h4>Ekaterina An</h4>
-              <h4><i>Audio Engineer & Webmaster</i></h4>
-              <div class="profile-bio">
-                <p>Hello! I'm Kat, a recent MSc grad at the Institute of Medical Science, studying the emotional, social, and psychological impact of having advanced cancer. As a member of Raw Talk from the very first episode, I'm excited to see how much the show has changed and grown! This season, I'll be tackling the behind-the-scenes of podcast production as an Audio Engineer and Webmaster. We have lots of exciting science storytelling coming your way so make sure to tune in and as always, keep it raw!</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="tile-profile img-link col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-  <button data-toggle="modal" data-target="#aditi-desai">
-    <img class="profile-img" src="./img/team/aditi-desai.jpg"/>
-  </button>
-  <h4 class="tile-profile-header">
-    <span>Aditi Desai</span><br>
-    <span><i>Show Host</i></span>
-  </h4>
-</div>
-<div class="modal modal-lg" id="aditi-desai" role="dialog">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col sm-4 col-lg-4 col-xl-3">
-              <img class="profile-img" src="./img/team/aditi-desai.jpg"/>
-            </div>
-            <div class="col-xs-12 col-sm-6 col sm-8 col-lg-8 col-xl-9">
-              <h4>Aditi Desai</h4>
-              <h4><i>Show Host</i></h4>
-              <div class="profile-bio">
-                <p>Hey listeners, my name is Aditi and I'm a first year MSc student at the Institute of Medical Science. For my research, I am investigating the physical health outcomes of siblings of childhood cancer survivors. In other words, I am trying to find out whether cancer and cancer treatment in a particular child impacts the health and wellbeing of other children in the same family. Outside of research, I love to swim, drink copious amounts of coffee, and crack that's what she said jokes to my disapproving friends. I am extremely excited to be a part of Season 3, as I will get to learn about and share all the amazing research that is happening in Toronto. Remember to tune in, and until next time, #keepitraw!</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-  </div>
-</div>
-
-<div class="footer">
-  <div class="container">
-    <div class="row">
-      <!-- {{social}} -->
-    </div>
-  </div>
-</div>
-
 </body>
 </html>

@@ -10,5 +10,10 @@
   "notes": "Raw Talk recently hosted their second annual live event, entitled Medicine Meets Machine: The Emerging Role of Artificial Intelligence (AI) in Healthcare. Today’s episode with Grace and Stephania shares the discussion from our first panel of experts focusing on current applications and limitations of AI in medicine. Our speakers share perspectives from healthcare, academia, industry, and policy development. You’ll hear from Dr. Oren Kraus, Dr. Jason Lerch, Dr. Marzyeh Ghassemi and Dr. Joanna Yu, as well as moderator Dr. Shreejoy Tripathy about the realities of AI and the challenges involved, as well as the implications of AI for their own work.",
   "authors": ["Grace Jacobs"],
   "tags": [],
-  "links": []
+  "links": [
+    {
+      "title": "hello!",
+      "href": "https://www.youtube.com"
+    }
+  ]
 }

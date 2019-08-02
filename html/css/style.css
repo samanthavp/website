@@ -16,11 +16,11 @@ a:hover {
 }
 h1 {
   width: 100%;
-  background: #16264e;
   color: #e0e7c8;
   margin: 0 0 30px 0;
   padding: 30px 0;
   text-align: center;
+  position: relative;
 }
 button {
   background: none;
@@ -88,7 +88,7 @@ button {
   color: #ffffff;
 }
 @media (min-width: 768px) {.nav-link {
-  padding: 40px 10px !important;
+  padding: 40px 20px !important;
 }}
 .navbar-toggle {
   margin: 0;
@@ -112,7 +112,7 @@ button {
 }
 .header-img-container {
   position: absolute;
-  height: 100px;
+  height: 200px;
   width: 100%;
 }
 .header-img {
@@ -127,9 +127,8 @@ button {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: linear-gradient(#16264e99,#16264eff);
+  background: linear-gradient(#16264ecc,#16264eff);
   content: " ";
-  z-index: -1;
 }
 .footer {
   position: relative;

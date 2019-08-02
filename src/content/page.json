@@ -1,0 +1,23 @@
+[
+  {
+    "title": "HOME",
+    "href": "index.html",
+    "templates": {
+      "body": "home"
+    }
+  },
+  {
+    "title": "TEAM",
+    "href": "team.html",
+    "templates": {
+      "body": "team"
+    }
+  },
+  {
+    "title": "EPISODES",
+    "href": "episodes.html",
+    "templates": {
+      "body": "episodes"
+    }
+  }
+]
