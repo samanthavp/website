@@ -9,81 +9,59 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <!-- TODO: upgrade to bootstrap 4.3.1 -->
-  <script src="./js/main.js"></script>
-  <link type="text/css" rel="stylesheet" href="./css/style.css"/>
-  <link rel="icon" href="./img/icons/favicon.ico">
+  <script src="../js/main.js"></script>
+  <link type="text/css" rel="stylesheet" href="../css/style.css"/>
+  <link rel="icon" href="../img/icons/favicon.ico">
 </head>
-
 <body>
-<div class="header">
-  <div class="header-img-container">
-    <div class="header-img"></div>
-  </div>
-  <div class="container">
-    <nav id="nav" class="navbar navbar-static-top">
-      <div class="container-fluid">
-        <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
-          <div class="hamburger">
-            <span></span>
-            <span></span>
-            <span></span>
+  <div class="header">
+    <div class="header-img-container">
+      <div class="header-img"></div>
+    </div>
+      <div class="container">
+        <nav id="nav" class="navbar navbar-static-top">
+          <div class="container-fluid">
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-content">
+              <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </button>
+            <div class="collapse navbar-collapse navbar-collapse-content">
+              <ul class="nav navbar-nav navbar-left sidenav">
+                <li class="nav-item">
+                  <a class="nav-link" href="../index.html">Raw Talk</a>
+                </li>
+              </ul>
+              <ul id="nav-list" class="nav navbar-nav navbar-right">
+                <li class="nav-item">
+                  <a class="nav-link" href="../index.html">HOME</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="../team.html">TEAM</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="../episodes.html">EPISODES</a>
+                </li>
+              </ul>
+            </div>
           </div>
-        </button>
-        <div class="collapse navbar-collapse navbar-collapse-content">
-          <ul class="nav navbar-nav navbar-left sidenav">
-            <li class="nav-item">
-              <a class="nav-link" href="./index.html">Raw Talk</a>
-            </li>
-          </ul>
-          <ul id="nav-list" class="nav navbar-nav navbar-right">
-            <li class="nav-item">
-  <a class="nav-link" href="./index.html">HOME</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="./team.html">TEAM</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="./episodes.html">EPISODES</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="./contact.html">CONTACT</a>
-</li>
-
-          </ul>
-        </div>
+        </nav>
       </div>
-    </nav>
+    <h1>HOME</h1>
   </div>
-</div>
-
-<h1>Raw Talk Podcast</h1>
-<div class="container">
-  <div class="row">
-    <!-- <div class="banner-container col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <img class="banner" src="./img/brand/banner.svg"></img>
-    </div> -->
-    <!-- <div class="player-container col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <iframe id="player"
-      src="https://player.blubrry.com/id/47378035/"
-      scrolling="no" width="100%" frameborder="0"></iframe>
-    </div> -->
-    <div class="centered col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <h2>Support the Show:</h2>
-    </div>
-    <div class="centered col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <h2>Listen on:</h2>
-    </div>
-    {{listen-on}}
-  </div>
-</div>
-
-<div class="footer">
-  <div class="container">
-    <div class="row">
-      <!-- {{social}} -->
+  <div class="container with-loader">
+    <div class="loader"></div>
+    <div class="row load-content hidden">
+      Hello world!
     </div>
   </div>
-</div>
-
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+      </div>
+    </div>
+  </div>
 </body>
 </html>
