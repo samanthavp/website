@@ -1,16 +1,20 @@
 {
-  "no": "38",
-  "title": "Pollution &; Our Lungs",
+  "no": 38,
+  "title": "Pollution & Our Lungs",
   "blubrry": "########",
   "date": "May 2, 2018",
   "season": 0,
-  "img-tile": "First-Last.jpg",
+  "img-tile": "",
   "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "img-page": "",
   "notes": "Living in a dense urban jungle is not without its risks, and cities in Canada are no exception. Toronto is regarded as the most polluted city in Canada, but what could this be attributed to? How do global events shape the quality of the air we breathe? In this episode, Kat sits down with Dr. Chung-Wai Chow, a lung transplant physician and leading researcher at UHN, to discuss the effects of environmental air pollution on respiratory health, techniques to assess pollution levels and Dr. Chow's journey as a clinician scientist.&nbsp; We also hear from Marija and students across campus who delve deeper into perceptions on exposure, ways to increase awareness and how to minimize our ecological footprint. Until next time, keep it raw!",
   "authors": [
     "Jesse Knight"
   ],
   "tags": [],
-  "links": []
+  "links": [
+  { "title": "",
+    "href": ""
+  }
+]
 }

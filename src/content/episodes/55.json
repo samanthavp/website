@@ -1,16 +1,36 @@
 {
-  "no": "55",
+  "no": 55,
   "title": "Food for Thought: Unpacking Nutritional Science",
-  "blubrry": "########",
+  "blubrry": "42161181",
   "date": "February 27, 2019",
-  "season": 0,
-  "img-tile": "First-Last.jpg",
-  "img-caption": "",
-  "img-page": "First-Last.jpg",
-  "notes": "",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "season": 3,
+  "img-tile": "daiva-nielsen.jpg",
+  "img-caption": "Dr. Carol Loffelmann, Assistant Professor, University of Toronto",
+  "img-page": "carol-loffelmann.jpg",
+  "notes": "What’s the science behind the new and improved Canada Food Guide? Is the hype surrounding the keto diet and intermittent fasting supported by evidence? Can your genetic code tell you what diet is best for you? In this installment of Raw Talk, you’ll find out! Dr. Carol Loffelmann shares how she leveraged her scientific and medical expertise as an anesthesiologist and Assistant Professor at U of T on her journey to becoming an advocate for evidence-based nutritional guidelines and the health benefits of a low-carb, high-fat diet. Expanding on this, you’ll hear about the glycemic index from the man who created it, Dr. David Jenkins, a Scientist at Li Ka Shing Knowledge Institute. Dr. Hoon-Ki Sung, Scientist at Sick Kids Hospital, also takes us through how intermittent fasting actually works and what happens in our fat cells. To learn about the future of food, we spoke with Dr. Daiva Nielsen, Assistant Professor at McGill University, about nutrigenomics and how genetic variation affects individuals’ response to diet. Finally, we chowed down on the Beyond Meat Burger, made with 100% plant-based protein, with MD/PhD candidate Amy Khan. Your hunger for nutritional knowledge will be satisfied after this one!",
+  "authors": ["James Saravanamuttu"],
   "tags": [],
-  "links": []
+  "links": [
+    { "title": "Canada Food Guide",
+      "href": "https://food-guide.canada.ca/en/"
+    },
+    { "title": "Food Guides From Around the World",
+      "href": "https://www.cbc.ca/news/health/canada-food-guide-international-guidelines-1.4962611"
+    },
+    { "title": "Canadian Clinicians for Therapeutic Nutrition",
+      "href": "https://www.changethefoodguide.ca/"
+    },
+    { "title": "Dr. Jenkins\u2019 Top 10 Healthiest Foods",
+      "href": "http://www.stmichaelsfoundation.com/news/articles/dr-david-jenkins-top-10.html"
+    },
+    { "title": "Science of the Impossible Burger",
+      "href": "https://impossiblefoods.com/heme"
+    },
+    { "title": "MacLean\u2019s Less Meat, More Choice",
+      "href": "https://www.macleans.ca/society/less-meat-more-choice-a-look-at-key-food-issues-in-2018/"
+    },
+    { "title": "Ultimate Veggie Burger Taste Test",
+      "href": "https://www.youtube.com/watch?v=JVy5yTBAO1E"
+    }
+  ]
 }

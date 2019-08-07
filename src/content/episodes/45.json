@@ -1,16 +1,20 @@
 {
-  "no": "45",
+  "no": 45,
   "title": "New Methods of Science Communication",
   "blubrry": "########",
   "date": "August 22, 2018",
   "season": 0,
-  "img-tile": "First-Last.jpg",
+  "img-tile": "",
   "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "img-page": "",
   "notes": "For our season finale, we pick up from last episode to bring you the second instalment of our Raw Talk Live event, a panel discussion focusing on new methods of science communication. Our panelists provide their unique perspectives on how we can (and why we should!) use new media and technologies to make science more accessible to the public. You'll hear from Dr. Vicky Forster, a Postdoc at SickKids Hospital and Science Communicator; Kevin Millar, Senior VP of Creative and Medical Science at INVIVO Communications; Elah Feder, Co-Host and Producer of the Undiscovered Podcast; Helen Kontozopoulos, Co-Founder and Co-Director of the Department of Computer Science Innovation Lab, University of Toronto; and our moderator, Eryn Tong, Raw Talk Podcaster and MSc Candidate. To reflect further on the rich discussion and insights from the panel, you'll hear from Richie and Eryn throughout this episode as well. We'll be back shortly for the debut of Season 3, but until then, keep it raw!",
   "authors": [
     "Jesse Knight"
   ],
   "tags": [],
-  "links": []
+  "links": [
+  { "title": "",
+    "href": ""
+  }
+]
 }

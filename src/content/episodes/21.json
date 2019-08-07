@@ -1,16 +1,20 @@
 {
-  "no": "21",
-  "title": "The Gender &; Diversity Gap in STEMM",
+  "no": 21,
+  "title": "The Gender & Diversity Gap in STEMM",
   "blubrry": "########",
   "date": "September 1, 2017",
   "season": 0,
-  "img-tile": "First-Last.jpg",
+  "img-tile": "",
   "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "img-page": "",
   "notes": "For our 21st and final episode of Raw Talk Season 1, we decided to share something a little different with you guys. We've spent the last year talking to incredible scientists here at the University of Toronto; but we usually get them to discuss their research and personal journeys. Today's episode features discussion on an issue that has recently attracted a lot of media attention\u2014namely, the gender and diversity gap in science, technology, engineering, mathematics, and medicine (STEMM). The discussion is an excerpt from a panel event called It was never a dress, hosted by several members of the Raw Talk team. You'll hear from several incredible clinicians and scientists at U of T including Dr. Ren\u00e9e Hlo\u017eek, Dr. Gillian Einstein, Dr. Sharmistha Mishra, Dr. Molly Shoichet (who you may remember from Episode 2 of Raw Talk), and Dr. Kona Williams. We hope you enjoy their stories, candidness, and clear passion for their work. Until next Season, keep it raw!",
   "authors": [
     "Jesse Knight"
   ],
   "tags": [],
-  "links": []
+  "links": [
+  { "title": "",
+    "href": ""
+  }
+]
 }

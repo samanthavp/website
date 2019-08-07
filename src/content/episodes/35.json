@@ -1,16 +1,20 @@
 {
-  "no": "35",
+  "no": 35,
   "title": "Comics and Medicine",
   "blubrry": "########",
   "date": "March 21, 2018",
   "season": 0,
-  "img-tile": "First-Last.jpg",
+  "img-tile": "",
   "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "img-page": "",
   "notes": "What do comics and medicine have in common? A lot more than you may think! In this episode, Dr. Shelley Wall, Assistant Professor in the Biomedical Communications program, chats with Jabir about the power of the visual narrative, how graphic medicine contributes to the generation of knowledge, and traces her own journey from a PhD in romantic literature to becoming a biomedical communicator. Swapna and Kat visit the Thomas Fisher Rare Book Library to sit down with Alexandra Carter, the librarian of the history of science and medicine, to trace the evolution of medical illustration. The gals also chat with Teva Harrison, award-winning writer and visual artist, about her graphic memoir chronicling her experience with being diagnosed with metastatic breast cancer.",
   "authors": [
     "Jesse Knight"
   ],
   "tags": [],
-  "links": []
+  "links": [
+  { "title": "",
+    "href": ""
+  }
+]
 }

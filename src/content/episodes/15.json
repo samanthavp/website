@@ -1,16 +1,20 @@
 {
-  "no": "15",
+  "no": 15,
   "title": "From Cells to Tissues",
   "blubrry": "########",
   "date": "May 12, 2017",
   "season": 0,
-  "img-tile": "First-Last.jpg",
+  "img-tile": "",
   "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "img-page": "",
   "notes": "This month, we're kicking off our theme of foundational research! On this episode, we hear from the amazing Dr. Helen McNeill, an expert in biology and molecular genetics. Dr. McNeil's passion and love for science are contagious as she discusses her current work involving cell organization and growth pathway models using drosophila (better known as fruit flies) and mice. You'll hear about her discovery of the Ft gene, the art of naming novel genes, emerging technologies in basic science, and her journey across a multitude of academic settings in the US, UK and Canada. This episode also features our first Journal Club segment, which discusses some of the translational aspects of this key work in cancer research, and a Word on the Street segment from our own Hillary Chan. Until next time, keep it raw!",
   "authors": [
     "Jesse Knight"
   ],
   "tags": [],
-  "links": []
+  "links": [
+  { "title": "",
+    "href": ""
+  }
+]
 }

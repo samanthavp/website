@@ -10,6 +10,7 @@ body {
 p {
   font-family: "Ubuntu", sans-serif;
   font-size: 16px;
+  color: #333333;
 }
 a:hover {
   text-decoration: none;
@@ -87,9 +88,16 @@ button {
   text-transform: uppercase;
   color: #ffffff;
 }
-@media (min-width: 768px) {.nav-link {
-  padding: 40px 20px !important;
-}}
+@media (min-width: 768px) {
+  .nav-link {
+    padding: 40px 20px !important;
+  }
+}
+@media (max-width: 768px) {
+  .navbar-collapse {
+    padding-top: 20px;
+  }
+}
 .navbar-toggle {
   margin: 0;
   padding: 10px 0;
@@ -150,7 +158,8 @@ button {
 }
 .episode-img-tile {
   width: 100%;
-  max-height: 260px;
+  margin-bottom: 0;
+  /* max-height: 250px; */
 }
 .episode-img-page {
   width: 100%;
@@ -171,8 +180,8 @@ button {
   padding: 10px;
   z-index: 1;
 }
-.episode-no {
-  color: #ffffff;
+.links-container {
+  margin-top: 15px;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
@@ -209,4 +218,24 @@ button {
   right: 0;
   top: 0;
   z-index: 999999;
+}
+/* ---------------------------------------------------------------------------------------------- */
+/* contact */
+.form-control {
+  width: 100%;
+  margin: 10px 0px;
+  border-radius: 0;
+  border: 1px solid #cccccc;
+}
+textarea.form-control {
+  min-height: 150px;
+}
+.btn {
+  color: #ffffff;
+  background: #16264e;
+  border-radius: 0;
+}
+.btn:hover {
+  color: #ffffff;
+  background: #233f77;
 }

@@ -49,6 +49,8 @@ def make_pages(root='html'):
   for page,spec in zip(pages,contents['page']):
     ct.Template(page).to_file(make_fname(root,spec['href']),root=root)
 
+print('starting',flush=True)
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
 make_pages()
+print('done',flush=True)

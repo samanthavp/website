@@ -1,17 +1,48 @@
 {
-  "no": "54",
+  "no": 54,
   "title": "Sex, Society and Science",
-  "blubrry": "########",
+  "blubrry": "41792285",
   "date": "February 13, 2019",
-  "season": 0,
-  "img-tile": "First-Last.jpg",
-  "img-caption": "",
-  "img-page": "First-Last.jpg",
-  "notes": "Think back to your first sexual education experience. What did you learn? Who taught you? How has your understanding of sex, sexuality, and gender changed as you got older? In this episode of Raw Talk, we explored these questions and more. Toronto District School Board teacher, Laura Brown, shared her thoughts on changes to the Ontario Health and Physical Education Curriculum. AIDS Committee Toronto worker, Alex Urquhart discusses PrEP as a revolutionary medication in the gay community. We also had some fun with Dr. Jessica Maxwell (http://jessmaxwell.com) chatting about her PhD and current postdoctoral work on relationships and how to boost sexual well-being and satisfaction. Finally, we brought back Dr.Gillian Einstein (https://einsteinlab.ca), who walks us through the biology and neuroscience behind sexual differentiation, and what science says about both sex and sexuality existing on spectrums.",
-  "authors": [
-    "Melissa Galati"
-  ],
+  "season": 3,
+  "img-tile": "jessica-maxwell.jpg",
+  "img-caption": "Laura Brown, Teacher with the Toronto District School Board",
+  "img-page": "laura-brown.jpg",
+  "notes": "Think back to your first sexual education experience. What did you learn? Who taught you? How has your understanding of sex, sexuality, and gender changed as you got older? In this episode of Raw Talk, we explored these questions and more. Toronto District School Board teacher, Laura Brown, shared her thoughts on changes to the Ontario Health and Physical Education Curriculum. AIDS Committee Toronto worker, Alex Urquhart discusses PrEP as a revolutionary medication in the gay community. We also had some fun with Dr. Jessica Maxwell chatting about her PhD and current postdoctoral work on relationships and how to boost sexual well-being and satisfaction. Finally, we brought back Dr. Gillian Einstein, who walks us through the biology and neuroscience behind sexual differentiation, and what science says about both sex and sexuality existing on spectrums.",
+  "authors": ["Melissa Galati"],
   "tags": [],
   "links": [
+    { "title": "Episode #31: Sex, Gender and the Brain",
+      "href": "http://www.rawtalkpodcast.com/2018/01/23/ep-31-dr-gillian-einstein/"
+    },
+    { "title": "University of Toronto Sexual Education Centre",
+      "href": "https://www.sec.sa.utoronto.ca"
+    },
+    { "title": "Walt Disney \u2013 The Story of Menstruation (1946)",
+      "href": "https://www.youtube.com/watch?v=bjIJZyoKRlg"
+    },
+    { "title": "Ontario\u2019s Health and Physical Education Curriculum (2015)",
+      "href": "https://www.ontario.ca/page/sex-education-ontario"
+    },
+    { "title": "Ontario\u2019s Health and Physical Education Curriculum (1998)",
+      "href": "https://www.scribd.com/document/386196374/1998-Ontario-Curriculum-Grades-1-8-Health-and-Physical-Education"
+    },
+    { "title": "Testosterone Rex by Cordelia Fine",
+      "href": "https://books.wwnorton.com/books/Testosterone-Rex/"
+    },
+    { "title": "Closer by Sarah Barmak",
+      "href": "https://chbooks.com/Books/C/Closer"
+    },
+    { "title": "AIDS Committee Toronto",
+      "href": "https://www.actoronto.org"
+    },
+    { "title": "The Lived Experience of Female Genital Cutting (FGC) in Somali-Canadian Women\u2019s Daily Lives (article)",
+      "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206886"
+    },
+    { "title": "Sex Beyond the Genitalia: the human brain mosaic (article)",
+      "href": "https://www.pnas.org/content/112/50/15468.long"
+    },
+    { "title": "Male or Female? Brains are Intersex (article)",
+      "href": "https://www.frontiersin.org/articles/10.3389/fnint.2011.00057/full"
+    }
   ]
 }

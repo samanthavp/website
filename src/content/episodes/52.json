@@ -1,16 +1,14 @@
 {
-  "no": "52",
+  "no": 52,
   "title": "Respect Your Rhythm",
-  "blubrry": "########",
+  "blubrry": "40832574",
   "date": "January 9, 2019",
-  "season": 0,
-  "img-tile": "First-Last.jpg",
-  "img-caption": "",
-  "img-page": "First-Last.jpg",
-  "notes": "There is no shortage of phrases related to time -  and for good reason! Nearly all biological processes have evolved to follow a day-night cycle every 24 hours. In our fifty-second episode, Max and Richie talk all things circadian rhythm, and discuss how this phenomenon can also impact day-to-day things like wellbeing, illness and even jet-lag. To supplement their discussion, Richie sits down with U of T Professor and circadian expert, Dr. Martin Ralph, who sheds light on how these cycles are intimately-linked to just about every complex disease you can name, and provides some much-needed advice to keep our internal clocks synchronized. Although the exact mechanisms of circadian control are still a topic of active research (not to mention the highlight of the 2017 Nobel Prize in Medicine), this is an episode to stay awake for\u2026 unless it's past your bedtime. Until next time, keep it raw!",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "season": 3,
+  "img-tile": "martin-ralph-landscape.jpg",
+  "img-caption": "Dr. Martin Ralph, Professor, University of Toronto",
+  "img-page": "martin-ralph-portrait.jpg",
+  "notes": "There is no shortage of phrases related to time - and for good reason! Nearly all biological processes have evolved to follow a day-night cycle every 24 hours. In our fifty-second episode, Max and Richie talk all things circadian rhythm, and discuss how this phenomenon can also impact day-to-day things like wellbeing, illness and even jet-lag. To supplement their discussion, Richie sits down with U of T Professor and circadian expert, Dr. Martin Ralph, who sheds light on how these cycles are intimately-linked to just about every complex disease you can name, and provides some much-needed advice to keep our internal clocks synchronized. Although the exact mechanisms of circadian control are still a topic of active research (not to mention the highlight of the 2017 Nobel Prize in Medicine), this is an episode to stay awake for\u2026 unless it's past your bedtime. Until next time, keep it raw!",
+  "authors": ["Richie Jeremian"],
   "tags": [],
   "links": []
 }

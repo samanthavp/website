@@ -1,16 +1,20 @@
 {
-  "no": "25",
+  "no": 25,
   "title": "Mathematical Magic and STIs",
   "blubrry": "########",
   "date": "October 27, 2017",
   "season": 0,
-  "img-tile": "First-Last.jpg",
+  "img-tile": "",
   "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "img-page": "",
   "notes": "Have you ever wondered what mathematical modelling can teach us about how and why HIV and sexually transmitted infections spread in various geographical areas? Or why it's important to engage the public when discussing research priorities? What about the serious implications of stigma and the language associated with it? In this episode of Raw Talk, Alex sits down with infectious disease clinician and scientist, Dr. Sharmistha Mishra to discuss the magic of mathematics, vulnerability and stigma, and what it really means to do community-centered research. We also hear from Steven Tingley, who talks openly with Jabir about living with HIV, managing his health, and trying to break the stigma. Until next time, keep it raw!",
   "authors": [
     "Jesse Knight"
   ],
   "tags": [],
-  "links": []
+  "links": [
+  { "title": "",
+    "href": ""
+  }
+]
 }

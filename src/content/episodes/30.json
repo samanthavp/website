@@ -1,16 +1,20 @@
 {
-  "no": "30",
-  "title": "Hearing Loss, Language &; Learning",
+  "no": 30,
+  "title": "Hearing Loss, Language & Learning",
   "blubrry": "########",
   "date": "January 10, 2018",
   "season": 0,
-  "img-tile": "First-Last.jpg",
+  "img-tile": "",
   "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "img-page": "",
   "notes": "What structure holds the three smallest bones in the body? If you guessed the ears, you're right! Kicking off 2018, the first episode of this year is all about our auditory system, and its influence on brain development. In this episode, Jabir sits down with Dr. Karen Gordon, a scientist, audiologist, and Director of Research in Archie's Cochlear Implant Laboratory at Sick Kids Hospital. They discuss the different types and causes of hearing loss, the consequences of hearing loss on language and learning and how the brain adapts when hearing is restored. We also hear from Marija, who speaks with Noah, one of Dr. Gordon's patients. Noah shares his incredible story of what every day is like living with two cochlear implants and how devices have changed over the years. Until next time, keep it raw!",
   "authors": [
     "Jesse Knight"
   ],
   "tags": [],
-  "links": []
+  "links": [
+  { "title": "",
+    "href": ""
+  }
+]
 }

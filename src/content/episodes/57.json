@@ -1,17 +1,27 @@
 {
-  "no": "57",
+  "no": 57,
   "title": "Autism: Unraveling the Spectrum",
-  "blubrry": "########",
+  "blubrry": "42854337",
   "date": "March 27, 2019",
-  "season": 0,
-  "img-tile": "First-Last.jpg",
-  "img-caption": "",
-  "img-page": "First-Last.jpg",
+  "season": 3,
+  "img-tile": "steven-scherer.jpg",
+  "img-caption": "Connie Putterman, Advocate for autism research and MSc candidate",
+  "img-page": "connie-putterman.jpg",
   "notes": "In the past, the term autism was used to describe the symptoms of schizophrenia and was (incorrectly!) thought to have been caused by apathetic \"refrigerator mothers\". Today, we use the term autism spectrum disorder (ASD) to describe developmental conditions that affect the communication and behaviour of individuals, with a wide range of symptoms and severities. Clearly, ASD is a complex condition and our understanding of it is constantly evolving. In this episode, you'll hear from two clinician-scientists at CAMH, Dr. Meng-Chuan Lai and Dr. Stephanie Ameis, who cover all the basics on ASD, and some newer research topics like sex and gender differences in autism. Dr. Stephen Scherer, a senior scientist at The Hospital for Sick Children, told us about his work on MSSNG, an exciting collaboration with Google and Autism Speaks, to uncover the genetic basis of ASD. You'll also hear from Connie Putterman, telling the story of her son's ASD diagnosis and how she came to be an advocate for autism research, as well as Rouya Botlani, who shares what she's learned through her work with students who have autism, at U of T Accessibility Services.",
-  "authors": [
-    "Thamiya Vasanthakumar"
-  ],
+  "authors": ["Thamiya Vasanthakumar"],
   "tags": [],
   "links": [
+    { "title": "MSSNG",
+      "href": "https://www.mss.ng"
+    },
+    { "title": "POND Network",
+      "href": "https://pond-network.ca"
+    },
+    { "title": "Connie Putterman’s The Parent Link",
+      "href": "https://cputterman.tumblr.com"
+    },
+    { "title": "Connie Putterman’s TedX Talk",
+      "href": "https://www.youtube.com/watch?v=8zFuvALoSgU"
+    }
   ]
 }

@@ -1,16 +1,39 @@
 {
-  "no": "48",
-  "title": "Unpacking Autoimmunity: Myths, Microbes &; Misdiagnoses",
-  "blubrry": "########",
+  "no": 48,
+  "title": "Unpacking Autoimmunity: Myths, Microbes & Misdiagnoses",
+  "blubrry": "38239770",
   "date": "October 3, 2018",
-  "season": 0,
-  "img-tile": "First-Last.jpg",
-  "img-caption": "",
-  "img-page": "First-Last.jpg",
-  "notes": "Inflammation, the gut, microbes, cortisol, and sore joints\u2026what do these things have in common? Tune in to this week's episode as we explore what it's like living with an autoimmune condition. You'll hear the perspectives of four individuals -  Vanessa, Bonnie, Yohanna, and Megan -  as they reflect on their journeys to receiving their diagnoses. They share their thoughts on navigating the Canadian Healthcare System and give advice for those newly diagnosed. You'll also hear from Dr. Kenneth Croitoru - gastroenterologist at Mount Sinai Hospital and Professor in the Department of Immunology at U of T -  as well as Dr. Jayne Danska - Senior Scientist at The Hospital for Sick Children and Professor in Medical Biophysics and Immunology at U of T -  who breakdown autoimmunity, debunk some common myths associated with autoimmune diseases, and discuss some of their exciting work in identifying factors causing susceptibility to Crohn's and Type I Diabetes respectively. Until next time, #KeepItRaw!",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "season": 3,
+  "img-tile": "jayne-danska.jpg",
+  "img-caption": "Bonnie Lewis, episode host",
+  "img-page": "bonnie-lewis.jpg",
+  "notes": "Inflammation, the gut, microbes, cortisol, and sore joints\u2026what do these things have in common? Tune in to this week's episode as we explore what it's like living with an autoimmune condition. You'll hear the perspectives of four individuals -  Vanessa, Bonnie, Yohanna, and Megan -  as they reflect on their journeys to receiving their diagnoses. They share their thoughts on navigating the Canadian Healthcare System and give advice for those newly diagnosed. You'll also hear from Dr. Kenneth Croitoru - gastroenterologist at Mount Sinai Hospital and Professor in the Department of Immunology at U of T -  as well as Dr. Jayne Danska - Senior Scientist at The Hospital for Sick Children and Professor in Medical Biophysics and Immunology at U of T - who breakdown autoimmunity, debunk some common myths associated with autoimmune diseases, and discuss some of their exciting work in identifying factors causing susceptibility to Crohn's and Type I Diabetes respectively. Until next time, #KeepItRaw!",
+  "authors": ["Aditi Desai"],
   "tags": [],
-  "links": []
+  "links": [
+    { "title": "University of Toronto Sports Medicine Clinic",
+      "href": "https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic"
+    },
+    { "title": "University Health Network Arthritis Program",
+      "href": "https://www.uhn.ca/Arthritis"
+    },
+    { "title": "Juvenile Diabetes Research Foundation (JDRF)",
+      "href": "https://www.jdrf.ca/"
+    },
+    { "title": "Danska Lab",
+      "href": "http://www.sickkids.ca/Research/Danska-lab/"
+    },
+    { "title": "Article: Host lifestyle affects human microbiota on daily timescales",
+      "href": "https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-7-r89"
+    },
+    { "title": "Crohn's and Colitis Canada",
+      "href": "http://crohnsandcolitis.ca/"
+    },
+    { "title": "The GEM Project",
+      "href": "http://www.gemproject.ca/"
+    },
+    { "title": "Croitoru Lab",
+      "href": "http://croitorulab.com/"
+    }
+  ]
 }
