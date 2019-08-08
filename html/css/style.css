@@ -17,11 +17,21 @@ a:hover {
 }
 h1 {
   width: 100%;
-  color: #e0e7c8;
+  color: #ffffff;
   margin: 0 0 30px 0;
-  padding: 30px 0;
+  padding: 30px;
   text-align: center;
   position: relative;
+  font-size: 240%;
+}
+h2 {
+  font-size: 200%;
+}
+h3 {
+  font-size: 150%;
+}
+h4 {
+  font-size: 120%;
 }
 button {
   background: none;
@@ -35,23 +45,9 @@ button {
   text-align: center;
 }
 /* menus etc */
-.hamburger {
-  padding: 5px;
-  margin: 10px;
-}
-.hamburger>span {
-  display: block;
-  height: 5px;
-  width: 40px;
-  background: #ffffff;
-  margin: 5px;
-}
-.hamburger:hover>span {
-  background: #233f77;
-}
 .loader {
-  border: 5px solid #e0e7c8;
-  border-top: 5px solid #233f77;
+  border: 5px solid #eeeeee;
+  border-top: 5px solid #6186d1;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -76,42 +72,20 @@ button {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* navbar */
-.navbar {
-  margin-bottom: 0;
-  border: none;
+.navbar-toggler-bar {
+  background: #ffffff;
+  width: 40px;
+  height: 5px;
+  margin: 5px 0;
 }
-.nav-item {
-  margin: 0;
+.navbar-toggler:hover > .navbar-toggler-bar {
+  background: #6186d1;
 }
 .nav-link {
-  font-size: 24px;
-  text-transform: uppercase;
-  color: #ffffff;
+  color: #ffffff !important;
 }
-@media (min-width: 768px) {
-  .nav-link {
-    padding: 40px 20px !important;
-  }
-}
-@media (max-width: 768px) {
-  .navbar-collapse {
-    padding-top: 20px;
-  }
-}
-.navbar-toggle {
-  margin: 0;
-  padding: 10px 0;
-}
-.nav-item > a.nav-link:hover {
-  background: none;
-  color: #2d4d9f;
-}
-.raw-talk {
-  font-size: 24px;
-  margin: 25px 0;
-}
-.navbar-brand {
-  height: 100px;
+.nav-link:hover {
+  color: #6186d1 !important;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* header & footer */
@@ -120,7 +94,7 @@ button {
 }
 .header-img-container {
   position: absolute;
-  height: 200px;
+  height: 176px;
   width: 100%;
 }
 .header-img {
@@ -154,12 +128,10 @@ button {
 .img-caption p,
 .date {
   color: #999999;
-  font-size: 14px;
 }
 .episode-img-tile {
   width: 100%;
   margin-bottom: 0;
-  /* max-height: 250px; */
 }
 .episode-img-page {
   width: 100%;
@@ -189,23 +161,18 @@ button {
   padding: 5px;
 }
 .tile-profile-header {
+  position: absolute;
   color: #ffffff;
   background: #0006;
   padding: 5px;
-  bottom: -5px;
+  bottom: 5;
   left: 15px;
-  position: absolute;
+  margin: 0;
+  font-size: 100%;
 }
 .profile-img {
-  position: relative;
   width: 100%;
 }
-.modal {
-  width: 100%;
-}
-@media (min-width: 768px) {.modal {
-  margin-top: 20%;
-}}
 .modal-content {
   border-radius: 0;
 }
@@ -218,6 +185,8 @@ button {
   right: 0;
   top: 0;
   z-index: 999999;
+  font-size: 200%;
+  font-family: Arial, sans-serif;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* contact */
@@ -237,5 +206,9 @@ textarea.form-control {
 }
 .btn:hover {
   color: #ffffff;
-  background: #233f77;
+  background: #6186d1;
+}
+.btn > * {
+  margin: 0;
+  padding: 5px;
 }
