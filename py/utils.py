@@ -3,15 +3,6 @@ import json
 from collections import OrderedDict as odict
 from functools import reduce
 
-def status(message,level=1):
-  if VERBOSE is not False and (level <= VERBOSE):
-    print([
-      "-"*50+"\n{}\n"+"-"*50,
-      " + {}",
-      "   > {}",
-      "     . {}",
-    ][level].format(message),flush=True)
-
 def load_json(fname):
   with open(fname,'r') as f:
     return json.load(f,object_pairs_hook=odict)

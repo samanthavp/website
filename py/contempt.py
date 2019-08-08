@@ -2,6 +2,14 @@ import os
 import re
 import utils
 
+verbose = False
+verb = {
+  'rw':    1,
+  'drill': 1,
+  'sub':   2,
+  'key':   3,
+}
+
 def make_key(string):
   return '{{{{{}}}}}'.format(string)
 
@@ -13,6 +21,19 @@ def get_keys(string):
 
 def make_name(path):
   return os.path.split(os.path.splitext(path)[0])[1]
+
+def status(msg,level):
+  if (verbose >= level) and (verbose is not None) and (level is not None):
+    print([
+      '-'*50+'\n{}\n'+'-'*50,
+      '+ {}',
+      '  > {}',
+      '    - {}',
+    ][level].format(msg))
+
+def load_json(fname):
+  status('Loading: {}'.format(fname),level=verb['rw'])
+  return utils.load_json(fname)
 
 class Template():
   def __init__(self,content=None,name=None,fname=None):
@@ -30,11 +51,13 @@ class Template():
     return '< Template \'{}\'>'.format(self.name)
 
   def from_file(self,fname):
+    status('Loading: {}'.format(fname),level=verb['rw'])
     with open(fname,'r') as f:
       self.content = f.read()
     return self
 
   def to_file(self,fname,root='.'):
+    status('Writing: {}'.format(fname),level=verb['rw'])
     with open(fname,'w') as f:
       f.write(self.get_sub_content({ 'root' : os.path.relpath(root,os.path.split(fname)[0]) }))
 
@@ -51,12 +74,14 @@ class Template():
     if sortby is not None:
       subs = sorted(subs,key=sortby)
     content = [self.content for i in range(len(subs))]
+    status('sub: {} ({})'.format(self.name,len(subs)),level=verb['sub'])
     for s,sub in enumerate(subs):
       for key,value in sub.items():
         fkey = make_key(key)
         if fkey in self.content:
           if indent:
             value = utils.indent(str(value),len(re.findall('( *)'+re.escape(fkey),self.content)[0]))
+          status('key: {}'.format(key),level=verb['key'])
           content[s] = content[s].replace(fkey,value.rstrip())
     if join is True:
       return ''.join([''.join(cs) for cs in content])
@@ -68,6 +93,7 @@ class Template():
     return self
 
 def drill(template,templates,contents,join=True):
+  status('Drill: {}'.format(template.name),level=1)
   # adding templates: singleton -> subs = {}
   subs = {}
   for key in template.get_keys():
@@ -96,14 +122,16 @@ def drill(template,templates,contents,join=True):
   return template.get_sub_content(subs,join=join)
 
 def get_templates(path,exts='.html'):
+  status('LOADING TEMPLATES',level=0)
   return {
     make_name(fname): Template(fname=fname)
     for fname in utils.iter_files(path,exts=exts)
   }
 
 def get_content(path,exts='.json'):
+  status('LOADING CONTENT',level=0)
   parts = path.split(os.path.sep)
-  content = utils.path_dict(path,exts=exts,fun=utils.load_json)
+  content = utils.path_dict(path,exts=exts,fun=load_json)
   for part in parts:
     content = content[part]
   return content

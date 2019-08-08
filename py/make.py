@@ -39,18 +39,23 @@ def get_content():
   c['tile-profile'] = team
   return c
 
-def make_pages(root='html'):
+def make_pages():
+  ct.status('GENERATING PAGES',level=0)
   # pre-compute some elements
   templates['navbar'].content = ct.drill(templates['navbar'],templates,contents)
   templates['footer'].content = ct.drill(templates['footer'],templates,contents)
   # generate complete templates
-  pages = ct.drill(templates['page'],templates,contents,join=False)
-  # and write to file
+  return ct.drill(templates['page'],templates,contents,join=False)
+
+def write_pages(root='html'):
+  # write to file
+  ct.status('WRITING PAGES',level=0)
   for page,spec in zip(pages,contents['page']):
     ct.Template(page).to_file(make_fname(root,spec['href']),root=root)
 
-print('starting',flush=True)
+ct.verbose = 1
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
-make_pages()
-print('done',flush=True)
+pages     = make_pages()
+write_pages()
+ct.status('DONE',level=0)
