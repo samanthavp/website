@@ -8,7 +8,15 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbar">
       <ul id="nav-list" class="navbar-nav">
         {{nav-item}}
+        <li class="nav-item">
+          <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+            <h3><i class="fa fa-search"></i></h3>
+          </a>
+        </li>
       </ul>
     </div>
   </nav>
+  <form class="collapse searchbar" id="searchbar" method="GET" action="{{root}}/episodes.html">
+    <input class="search" type="text" name="q" placeholder="Search">
+  </form>
 </div>

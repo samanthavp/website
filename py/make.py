@@ -1,7 +1,7 @@
 import os
 from copy import copy
 import contempt as ct
-from utils import odict
+import utils
 
 def make_slug(string):
   return str(string).replace(' ','-').lower()
@@ -25,12 +25,13 @@ def get_content():
   team     = sort(c['team'].values())
   # collect the navbar before adding episodes to pages
   c['nav-item'] = copy(c['page'])
+  write_index(episodes,'episodes')
   # clean up some fields on the fly
   for member in team:
     member['id'] = make_slug(member['name'])
   for episode in episodes:
     episode['title']     = '#{}: {}'.format(episode['no'],episode['title'])
-    episode['templates'] = odict([('links','link'),('body','episode')])
+    episode['templates'] = utils.odict([('links','link'),('body','episode')])
     episode['href']      = os.path.join('episodes',str(episode['no'])+'.html')
     episode['authors']   = ' and '.join(episode['authors'])
     c['page'].append(episode)
@@ -47,13 +48,18 @@ def make_pages():
   # generate complete templates
   return ct.drill(templates['page'],templates,contents,join=False)
 
-def write_pages(root='html'):
+def write_pages():
   # write to file
   ct.status('WRITING PAGES',level=0)
   for page,spec in zip(pages,contents['page']):
     ct.Template(page).to_file(make_fname(root,spec['href']),root=root)
 
+def write_index(content,name):
+  ct.status('Writing index: {}'.format(name),level=1)
+  utils.save_json(content,make_fname(root,'search',name,ext='.json'),indent=1)
+
 ct.verbose = 1
+root = 'html'
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
 pages     = make_pages()

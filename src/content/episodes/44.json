@@ -1,20 +1,14 @@
 {
   "no": 44,
   "title": "Public Engagement in Science",
-  "blubrry": "########",
+  "blubrry": "36004269",
   "date": "August 8, 2018",
-  "season": 0,
-  "img-tile": "",
+  "season": 2,
+  "img-tile": "scituation-welcome.jpg",
   "img-caption": "",
-  "img-page": "",
+  "img-page": "scituation-panel-1-sit.jpg",
   "notes": "August is flashback month, as we move back in time to present you recordings from the event we hosted back in May, Raw Talk Live. This week's instalment presents the first of two panel discussions, and explores public engagement in science. We hear from an array of speakers, diving into the personal and the political dimensions of this theme. Joining us is Dr. Mehrdad Hariri, CEO and Founder of the Canadian Science Policy Centre; Doina Oncel, the CEO and Founder of hEr VOLUTION; Dan Weaver, PhD Candidate at the Department of Physics, University of Toronto; Connie Putterman, a long-time parent advocate in the autism research world, and now a Masters candidate in the Translational Research Program, University of Toronto; and our moderator Tetyana Pekar, Founder and Academic Editor at Pekar Editing. Of course, you will also be hearing from your trusty hosts Jabir and Alex, as they reflect on the discussion, and the experience of organizing a live-podcasting event. Until next time, keep it raw!",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "authors": ["Alexandra Mogadam"],
   "tags": [],
-  "links": [
-  { "title": "",
-    "href": ""
-  }
-]
+  "links": []
 }

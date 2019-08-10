@@ -7,6 +7,10 @@ def load_json(fname):
   with open(fname,'r') as f:
     return json.load(f,object_pairs_hook=odict)
 
+def save_json(obj,fname,**kwargs):
+  with open(fname,'w') as f:
+    json.dump(obj,f,**kwargs)
+
 def listlen(obj):
   return len(obj) if isinstance(obj,list) else 1 if isinstance(obj,str) else 0
 

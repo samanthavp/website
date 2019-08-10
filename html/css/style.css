@@ -9,7 +9,7 @@ body {
 }
 p {
   font-family: "Ubuntu", sans-serif;
-  font-size: 16px;
+  /* font-size: 16px; */
   color: #333333;
 }
 a:hover {
@@ -19,7 +19,7 @@ h1 {
   width: 100%;
   color: #ffffff;
   margin: 0 0 30px 0;
-  padding: 30px;
+  padding: 20px;
   text-align: center;
   position: relative;
   font-size: 240%;
@@ -72,6 +72,13 @@ button {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* navbar */
+.navbar {
+  padding-top: 25px;
+}
+.navbar-toggler {
+  padding: 0;
+  margin-bottom: 10px;
+}
 .navbar-toggler-bar {
   background: #ffffff;
   width: 40px;
@@ -83,9 +90,34 @@ button {
 }
 .nav-link {
   color: #ffffff !important;
+  display: inline-block;
 }
-.nav-link:hover {
+.nav-link > h3 {
+  margin: 0;
+}
+.nav-link:hover,
+.nav-link:hover i {
   color: #6186d1 !important;
+  cursor: pointer;
+}
+.searchbar {
+  width: 100%;
+}
+.search {
+  color: #ffffff;
+  background-color: #16264e;
+  border: 2px #6186d199 solid;
+  padding: 8px;
+  margin: 0;
+  width: 100%;
+  position: relative;
+  z-index: 99;
+}
+.search::placeholder {
+  color: #ffffff;
+}
+.fa {
+  color: #ffffff;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* header & footer */
@@ -190,15 +222,6 @@ button {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* contact */
-.form-control {
-  width: 100%;
-  margin: 10px 0px;
-  border-radius: 0;
-  border: 1px solid #cccccc;
-}
-textarea.form-control {
-  min-height: 150px;
-}
 .btn {
   color: #ffffff;
   background: #16264e;
