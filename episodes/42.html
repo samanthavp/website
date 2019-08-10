@@ -5,9 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
   <script src="../js/main.js"></script>
   <link type="text/css" rel="stylesheet" href="../css/style.css"/>
   <link rel="icon" href="../img/icons/favicon.ico">
@@ -38,9 +40,17 @@
               <li class="nav-item">
                 <a class="nav-link" href="../contact.html"><h3>CONTACT</h3></a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                  <h3><i class="fa fa-search"></i></h3>
+                </a>
+              </li>
             </ul>
           </div>
         </nav>
+        <form class="collapse searchbar" id="searchbar" method="GET" action="../episodes.html">
+          <input class="search" type="text" name="q" placeholder="Search">
+        </form>
       </div>
     <h1>#42: Mindfulness - A Personal & Professional Project</h1>
   </div>
@@ -50,24 +60,25 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-            <img class="episode-img-page" src="../img/episodes/42/"></img> 
+            <img class="episode-img-page" src="../img/episodes/42/agnes-wong-portrait.jpg"></img> 
             <div class="img-caption"><p></p></div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 col-xl-8">
             <div class="player-container">
               <iframe id="player"
-              src="https://player.blubrry.com/id/########/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
+              src="https://player.blubrry.com/id/35454607/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
               scrolling="no" width="100%" frameborder="0"></iframe>
             </div>
             <p class="date">July 11, 2018</p>
             <div class="notes-container">
               <!-- <h4>Show Notes</h4> -->
               <p>Mindfulness is becoming increasingly integrated in mainstream society, but is this new wave of wisdom effective or just the latest trend? How does mindfulness impact our view of ourselves and our view of the world? In this episode, Marija and Grace sit down with Dr. Agnes Wong, a Professor of Ophthalmology and Vision Sciences at the University of Toronto, Ophthalmologist at the Hospital for Sick Children, and recent mindfulness advocate. They delve into the core foundation of mindfulness practice, and its potential for positive and lasting change. Grace then chats with Elli Weisbaum, a long-time mindfulness expert and instructor. Elli discusses the diversity of mindfulness techniques and shares a short practice that you can try yourself! On this special episode we are also running an exciting challenge called "5 for 5". Take 5 minutes of your day to do any form of mindfulness practice for 5 days in a row and share your experience with us on social media by tagging @rawtalkpodcast or using the hashtag #RawTalk5for5. In doing so, you'll be entered to win exciting prizes! Until next time, keep it raw!</p>
-              <p><i>&#8212; Written by: Jesse Knight</i></p>
+              <p><i>&#8212; Written by: Marija Zivcevska</i></p>
             </div>
             <div class="links-container">
               <!-- <h4>Links</h4> -->
-              <a href=></a><br>
+              <a href=http://www.elliweisbaum.com/blog/>Elli's Blog</a><br>
+              <a href=https://www.sickkids.ca/eventlistings/2018/mindfulness-research-symposium.html>Mindfulness Research Synposium</a><br>
             </div>
           </div>
         </div>  

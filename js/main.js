@@ -4,7 +4,28 @@ $(window).on("load",function(){
   $(".load-content").removeClass("hidden");
   $(".loader").addClass("hidden");
 });
-// document.addEventListener("DOMContentLoaded", function(e) { 
-//   document.getElementsByClassName("load-content").classList.remove("hidden");
-//   document.getElementsByClassName("loader").classList.add("hidden");
-// });
+
+var qregex = /[\?&]q=([^&]+)/g;
+var matches = qregex.exec(window.location.search);
+if (matches && matches[1]) {
+  var q = decodeURIComponent(matches[1].replace(/\+/g, "%20"));
+  $.getJSON("search/episodes.json").then(function(episodes) {
+    options = {
+      keys: ["no","title","notes","authors","links"],
+      id: "no",
+      location: null,
+      tokenize: true,
+      matchAllTokens: true,
+      distance: 5,
+      shouldSort: true,
+      threshold: 0.1,
+    }
+    var fuse = new Fuse(episodes, options)
+    var ids = fuse.search(q)
+    $(".tile-episode").each(function() {
+      if (ids.includes($(this).attr("id")) === false) {
+        $(this).hide();
+      }
+    })
+  });
+}

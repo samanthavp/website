@@ -5,9 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
   <script src="../js/main.js"></script>
   <link type="text/css" rel="stylesheet" href="../css/style.css"/>
   <link rel="icon" href="../img/icons/favicon.ico">
@@ -38,9 +40,17 @@
               <li class="nav-item">
                 <a class="nav-link" href="../contact.html"><h3>CONTACT</h3></a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                  <h3><i class="fa fa-search"></i></h3>
+                </a>
+              </li>
             </ul>
           </div>
         </nav>
+        <form class="collapse searchbar" id="searchbar" method="GET" action="../episodes.html">
+          <input class="search" type="text" name="q" placeholder="Search">
+        </form>
       </div>
     <h1>#1: Introducing Raw Talk (formerly known as Raw Data)</h1>
   </div>
@@ -50,24 +60,24 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-            <img class="episode-img-page" src="../img/episodes/1/"></img> 
+            <img class="episode-img-page" src="../img/episodes/1/raw-talk-logo.jpg"></img> 
             <div class="img-caption"><p></p></div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 col-xl-8">
             <div class="player-container">
               <iframe id="player"
-              src="https://player.blubrry.com/id/########/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
+              src="https://player.blubrry.com/id/20018065/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
               scrolling="no" width="100%" frameborder="0"></iframe>
             </div>
-            <p class="date">December 31, 2016</p>
+            <p class="date">September 16, 2016</p>
             <div class="notes-container">
               <!-- <h4>Show Notes</h4> -->
               <p>On the first episode of the podcast, the Raw Talk team discusses all you need to know about the show, from inspiration to implementation, and everything in between. You'll learn why a podcast and video series make a winning combination, and how we're using themes, to provide more engaging content. We also spend a good portion introducing ourselves - sometimes revealing a little too much - while playing a game of "Kat Chats." We've got big plans for Season 1, and we can't wait for you to hear what's in store. Until next time, keep it raw!</p>
-              <p><i>&#8212; Written by: Jesse Knight</i></p>
+              <p><i>&#8212; Written by: Jabir Mohamed</i></p>
             </div>
             <div class="links-container">
               <!-- <h4>Links</h4> -->
-              <a href=></a><br>
+              
             </div>
           </div>
         </div>  
