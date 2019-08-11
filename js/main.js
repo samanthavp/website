@@ -27,5 +27,8 @@ if (matches && matches[1]) {
         $(this).hide();
       }
     })
+    var searchbar = $("#searchbar")
+    searchbar.addClass("show")
+    searchbar.find("input").val(q)
   });
 }
