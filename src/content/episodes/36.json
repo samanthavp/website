@@ -1,16 +1,14 @@
 {
   "no": 36,
   "title": "The Future is Neuroscience!",
-  "blubrry": "########",
+  "blubrry": "32939756",
   "date": "April 4, 2018",
   "season": 2,
-  "img-tile": "",
-  "img-caption": "",
-  "img-page": "",
+  "img-tile": "freda-miller-writing.jpg",
+  "img-caption": "Dr. Freda Miller, Senior Scientist at the Hospital for Sick Children",
+  "img-page": "freda-miller-portrait.jpg",
   "notes": "Repairing the damaged brain is the one of the holy grails of neuroscience. On this episode, Grace and Melissa sit down with Dr. Freda Miller, a Senior Scientist at the Hospital for Sick Children, who firmly believes that studying the developing brain can give us insights into how to rebuild it in circumstances of damage or degeneration. Dr. Miller is a Canada Research Chair in Developmental Neurobiology, a Fellow of the Royal Society of Canada, and a Howard Hughes Medical Institute International Research Scholar. She discusses her transition from biochemistry to neuroscience, gives advice to budding scientists, and explains why she engages in science communication. She also talks about how her research has finally led her to several clinical trials in children with brain injury. Our hosts also catch up with Dr. Donald Mabbott, Clinical Psychologist and Neuroscientist, to discuss how some of Dr. Miller's findings with a drug called metformin resulted in a pilot clinical trial for children with acquired brain injury after cancer treatment.",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "authors": ["Melissa Galati"],
   "tags": [],
   "links": [
   { "title": "",

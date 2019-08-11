@@ -1,20 +1,39 @@
 {
   "no": 41,
   "title": "Unpacking the Award-Winning Documentary - Unrest",
-  "blubrry": "########",
+  "blubrry": "34934953",
   "date": "June 20, 2018",
   "season": 2,
-  "img-tile": "",
+  "img-tile": "unrest-panel.jpg",
   "img-caption": "",
-  "img-page": "",
+  "img-page": "shoes-on-stairs.jpg",
   "notes": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a debilitating and misunderstood disease that affects 20 million people globally. Raw Talk had the chance to attend a screening of the award-winning documentary, Unrest. Unrest explores the personal journey of Jennifer Brea from ME/CFS patient to advocate to storyteller. Join Grace and Melissa as they reflect on the compelling documentary and share the unique perspectives of the event moderator, Scott Simpson, co-founder of Millions Missing Canada; as well as panelists Dr. Wilfred de Vega, ME/CFS scientist; Larissa Fan and Kirsten Dahlin Nolan, ME/CFS patients and advocates; and Dr. Sarah Selke, physician specializing in ME/CFS. We explored everything from proposed causes of ME/CFS, to diagnostic criteria, to treatments and coping mechanisms. Press play to learn more about the millions that medicine left behind. A big thank-you to Laura Best and SciComm Toronto for bringing this topic to our attention.",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "authors": ["Melissa Galati"],
   "tags": [],
   "links": [
-  { "title": "",
-    "href": ""
-  }
-]
+    { "title": "Unrest (film)",
+      "href": "https://www.unrest.film"
+    },
+    { "title": "Canadian Consensus Criteria",
+      "href": "http://me-pedia.org/wiki/Canadian_Consensus_Criteria"
+    },
+    { "title": "Science for ME",
+      "href": "https://www.s4me.info/"
+    },
+    { "title": "MEpedia",
+      "href": "http://me-pedia.org/wiki/Welcome_to_MEpedia"
+    },
+    { "title": "CFIDS & Fibromyalgia Self-Help",
+      "href": "http://www.cfidsselfhelp.org/"
+    },
+    { "title": "ME & CFS Canada",
+      "href": "https://www.facebook.com/groups/328175370869025/"
+    },
+    { "title": "Millions Missing Canada",
+      "href": "http://www.millionsmissingcanada.ca/"
+    },
+    { "title": "Naviaux et al. PNAS, 2016",
+      "href": "http://www.pnas.org/content/113/37/E5472"
+    }
+  ]
 }
