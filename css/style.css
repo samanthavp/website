@@ -18,8 +18,8 @@ a:hover {
 h1 {
   width: 100%;
   color: #ffffff;
-  margin: 0 0 30px 0;
   padding: 20px;
+  margin: 0;
   text-align: center;
   position: relative;
   font-size: 240%;
@@ -44,6 +44,12 @@ button {
 .centered {
   text-align: center;
 }
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
 /* menus etc */
 .loader {
   border: 5px solid #eeeeee;
@@ -52,7 +58,7 @@ button {
   width: 50px;
   height: 50px;
   animation: spin 1s linear infinite;
-  margin: auto;
+  margin: 50px auto;
 }
 @keyframes spin {
   0% { transform: rotate(0deg); }
@@ -70,6 +76,12 @@ button {
 .img-link:hover {
   cursor: pointer;
   /* transform: scale(1.02); */
+}
+.section {
+  margin-top: 80px;
+}
+#HOME .footer {
+  min-height: 0;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* navbar */
@@ -107,7 +119,7 @@ button {
 .search {
   color: #ffffff;
   background-color: #16264e;
-  border: 2px #6186d199 solid;
+  border: 2px #ffffff33 solid;
   padding: 8px;
   margin: 0;
   width: 100%;
@@ -145,12 +157,14 @@ button {
   background: linear-gradient(#16264ecc,#16264eff);
   content: " ";
 }
+.body {
+  margin: 30px auto;
+}
 .footer {
   position: relative;
   bottom: 0;
   width: 100%;
   min-height: 60px;
-  margin-top: 30px;
   background: #16264e;
 }
 .sponsor-img {
@@ -158,6 +172,39 @@ button {
   max-width: 300px;
   max-height: 80px;
   margin: 10px;
+}
+/* ---------------------------------------------------------------------------------------------- */
+/* home */
+#home h1 {
+  visibility: hidden;
+}
+.home {
+  background: #16264e;
+  color: #ffffff;
+  padding: 30px 0;
+}
+.tagline {
+  /* min-height: 100vh; */
+  padding: 100px 20px;
+}
+.tagline-main {
+  clear: both;
+  font-size: 250%;
+  /* font-family: "Georgia", serif; */
+}
+.tagline-sub {
+  clear: both;
+  padding: 50px 0;
+  font-size: 150%;
+  text-transform: uppercase;
+}
+.logo-mic {
+  width: 100%;
+  margin-left: -15px;
+}
+.logo-name {
+  width: 100%;
+  max-height: 300px;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* episodes */
