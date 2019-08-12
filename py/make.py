@@ -11,7 +11,7 @@ def make_fname(*args,ext='.html'):
 
 def sort(dicts,reverse=False):
   def key(item):
-    for cast,key in [(int,'no'),(int,'sort'),(str,'name'),(str,'title')]:
+    for cast,key in [(float,'no'),(float,'sort'),(str,'name'),(str,'title')]:
       if key in item:
         return cast(item[key])
     return None

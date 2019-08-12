@@ -1,11 +1,11 @@
 [
   {
-    "title": "Apple Podcasts",
+    "title": "Apple",
     "href": "https://itunes.apple.com/ca/podcast/raw-talk-podcast/id1155325532",
     "img": "apple-podcast.png"
   },
   {
-    "title": "Google Podcasts",
+    "title": "Google",
     "href": "https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvcmF3ZGF0YWltcy54bWw%3D",
     "img": "google-podcast.png"
   },

@@ -2,22 +2,39 @@
   <h2>Under construction...</h2>
   <img src="img/under-construction.png"/>
 -->
-<div class="col-12 centered">
-  <h3>About:</h3>
-</div>
-<div class="col-12 centered">
-  <h3>Listen on:</h3>
-</div>
-<div class="col-12 container">
-  <div class="row justify-content-center">
-    {{listen-on}}
-  </div>
-</div>
-<div class="col-12 centered">
-  <h3>Sponsors:</h3>
-</div>
-<div class="col-12 container">
-  <div class="row justify-content-center">
-    {{sponsor}}
+<div class="home">
+  <div class="container-fluid">
+    <div class="row justify-content-center">
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <img class="logo-mic" src="{{root}}/img/brand/mic-white-blue.svg"/>
+      </div>
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <img class="logo-name" src="{{root}}/img/brand/logo-name-trans.svg"/>
+      </div>
+      <div class="tagline col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+          <div class="tagline-main left">Behind every discovery,</div><br>
+          <div class="tagline-main right">there's a story.</div><br>
+          <div class="tagline-sub centered">Scientists talk. We listen.</div>
+      </div>
+      <div class="col-12"></div>
+      <div class="centered section container col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <h3>New episodes every other Wednesday. Listen on:</h3>
+        <div class="row justify-content-center">
+          {{listen-on}}
+        </div>
+      </div>
+      <div class="centered section container col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <h3>Follow us on:</h3>
+        <div class="row justify-content-center">
+          {{social}}
+        </div>
+      </div>
+      <div class="col-12 centered section container">
+        <h3>Thanks to our sponsors:</h3>
+        <div class="row justify-content-center">
+          {{sponsor}}
+        </div>
+      </div>
+    </div>
   </div>
 </div>
