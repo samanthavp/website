@@ -1,20 +1,14 @@
 {
   "no": 29,
   "title": "Personalizing Cancer Medicine",
-  "blubrry": "########",
+  "blubrry": "29887239",
   "date": "December 22, 2017",
   "season": 2,
-  "img-tile": "",
-  "img-caption": "",
-  "img-page": "",
+  "img-tile": "brad-wouters-forward.jpg",
+  "img-caption": "Dr. Brad Wouters, Executive Vice President of Science and Research at UHN",
+  "img-page": "brad-wouters-back.jpg",
   "notes": "Cancer is a leading cause of death worldwide, but what makes it so difficult to treat? What is tumor hypoxia and how can it influence biology to drive a poor prognosis? In this episode, Richie sits down with Dr. Brad Wouters, the Executive Vice President of Science and Research at UHN to discuss the vast advancement in the field and the need for collaborative integration between basic and clinical research in order to drive treatment and improve outcomes. In this episode we get to see an interesting perspective from both a researcher and a policy maker. Then we hear from Marija who delves deeper into what personalized medicine is, and how it fits into our current healthcare system. Until next time, keep it raw!",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "authors": ["Marija Zivcevska"],
   "tags": [],
-  "links": [
-  { "title": "",
-    "href": ""
-  }
-]
+  "links": []
 }
