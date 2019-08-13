@@ -24,7 +24,8 @@ def get_content():
   episodes = sort(c['episodes'].values(),reverse=True)
   team     = sort(c['team'].values())
   # collect the navbar before adding episodes to pages
-  c['nav-item'] = copy(c['page'])
+  navpages = ['HOME','EPISODES','TEAM','CONTACT']
+  c['nav-item'] = [page for page in c['page'] if page['title'] in navpages]
   write_index(episodes,'episodes')
   # clean up some fields on the fly
   for member in team:
