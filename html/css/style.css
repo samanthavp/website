@@ -129,8 +129,8 @@ button {
 .search::placeholder {
   color: #ffffff;
 }
-.fa {
-  color: #ffffff;
+.search-icon {
+  height: 20px;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* header & footer */
