@@ -64,13 +64,22 @@ button {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-.icon {
+.icon-listen {
   width: 50px;
   margin: 5px;
 }
+.icon-social {
+  width: 25px;
+  position: relative;
+  z-index: 99;
+  opacity: 0.5;
+}
+.icon-social:hover {
+  opacity: 1;
+}
 .icon-container {
   text-align: center;
-  padding: 5px;
+  padding: 10px;
   margin: 0;
 }
 .img-link:hover {
@@ -78,10 +87,12 @@ button {
   /* transform: scale(1.02); */
 }
 .section {
-  margin-top: 80px;
+  margin-top: 60px;
 }
-#HOME .footer {
-  min-height: 0;
+.top-right {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* navbar */
@@ -171,38 +182,42 @@ button {
   height: auto;
   max-width: 300px;
   max-height: 80px;
-  margin: 10px;
+  margin: 5px;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* home */
 #home h1 {
   visibility: hidden;
 }
+#HOME .footer {
+  min-height: 0;
+}
 .home {
   background: #16264e;
   color: #ffffff;
-  padding: 30px 0;
+  padding: 0;
+  padding-top: 30px;
 }
 .tagline {
-  /* min-height: 100vh; */
-  padding: 100px 20px;
+  margin: 60px auto;
+  width: 100%;
+  max-width: 500px;
 }
 .tagline-main {
   clear: both;
-  font-size: 250%;
-  /* font-family: "Georgia", serif; */
+  font-size: 200%;
 }
 .tagline-sub {
   clear: both;
   padding: 50px 0;
-  font-size: 150%;
+  font-size: 140%;
   text-transform: uppercase;
 }
 .logo-mic {
   width: 100%;
-  margin-left: -15px;
+  margin-left: -30px;
 }
-.logo-name {
+.logo-main {
   width: 100%;
   max-height: 300px;
 }
