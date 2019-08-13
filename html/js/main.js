@@ -26,6 +26,11 @@ if (matches && matches[1]) {
         $(this).hide();
       }
     })
+    if (ids.length == 0) {
+      $("#no-search-results").removeClass("hidden")
+    } else {
+      $("#no-search-results").addClass("hidden")
+    }
     var searchbar = $("#searchbar")
     searchbar.addClass("show")
     searchbar.find("input").val(q)
