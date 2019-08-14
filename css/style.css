@@ -1,6 +1,7 @@
 /* blue-dark:  #16264e; */
 /* blue-main:  #233f77; */
 /* gray-light: #e0e7c8; */
+/* TODO: migrate from px -> rem */
 /* ---------------------------------------------------------------------------------------------- */
 /* globals */
 body {
@@ -16,12 +17,11 @@ a:hover {
   text-decoration: none;
 }
 h1 {
-  width: 100%;
+  position: relative;
   color: #e0e7c8;
-  padding: 20px;
+  padding: 10px;
   margin: 0;
   text-align: center;
-  position: relative;
   font-size: 240%;
 }
 h2 {
@@ -41,8 +41,14 @@ button {
 .hidden {
   display: none;
 }
-.centered {
+.center {
   text-align: center;
+}
+.align-left {
+  text-align: left;
+}
+.align-right {
+  text-align: right;
 }
 .left {
   float: left;
@@ -64,6 +70,13 @@ button {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+.title-block {
+  padding: 0 30px;
+}
+.icon-arrow {
+  width: 40px;
+  margin: 5px;
+}
 .icon-listen {
   width: 50px;
   margin: 5px;
@@ -71,7 +84,7 @@ button {
 .icon-social {
   width: 25px;
   position: relative;
-  z-index: 99;
+  z-index: 2;
   opacity: 0.5;
 }
 .icon-social:hover {
@@ -135,7 +148,7 @@ button {
   margin: 0;
   width: 100%;
   position: relative;
-  z-index: 99;
+  z-index: 2;
 }
 .search::placeholder {
   color: #e0e7c8;
@@ -146,11 +159,13 @@ button {
 /* ---------------------------------------------------------------------------------------------- */
 /* header & footer */
 .header {
+  display: flex;
+  flex-flow: row wrap;
   background: #16264e;
 }
 .header-img-container {
   position: absolute;
-  height: 176px;
+  height: 163px;
   width: 100%;
 }
 .header-img {
@@ -159,7 +174,6 @@ button {
   background: url("../img/brand/banner-dark-crop.svg");
   background-size: cover;
   background-position: center;
-  filter: brightness(1);
 }
 .header-img::after {
   position: absolute;
@@ -168,8 +182,17 @@ button {
   background: linear-gradient(#16264ecc,#16264eff);
   content: " ";
 }
+.header-content {
+  position: absolute;
+  top: 0;
+}
 .body {
-  margin: 30px auto;
+  margin: 0px auto;
+}
+@media (min-width:576px) {
+  .body {
+    margin: 30px auto;
+  }
 }
 .footer {
   position: relative;
@@ -234,6 +257,9 @@ button {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* episodes */
+.episode-col {
+  padding: 5px;
+}
 .img-caption {
   padding: 5px;
 }
@@ -265,7 +291,19 @@ button {
   z-index: 1;
 }
 .links-container {
+  position: relative;
+  z-index: 9999;
   margin-top: 15px;
+}
+.link-arrow {
+  padding:  10px !important;
+  opacity: 0.5;
+}
+.link-arrow:hover {
+  opacity: 1;
+}
+.arrow-None {
+  display: none;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
@@ -300,7 +338,7 @@ button {
   margin: 10px;
   right: 0;
   top: 0;
-  z-index: 999999;
+  z-index: 99;
   font-size: 200%;
   font-family: Arial, sans-serif;
 }
