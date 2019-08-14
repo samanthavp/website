@@ -17,7 +17,7 @@ a:hover {
 }
 h1 {
   width: 100%;
-  color: #ffffff;
+  color: #e0e7c8;
   padding: 20px;
   margin: 0;
   text-align: center;
@@ -104,7 +104,7 @@ button {
   margin-bottom: 10px;
 }
 .navbar-toggler-bar {
-  background: #ffffff;
+  background: #e0e7c8;
   width: 40px;
   height: 5px;
   margin: 5px 0;
@@ -113,7 +113,7 @@ button {
   background: #6186d1;
 }
 .nav-link {
-  color: #ffffff !important;
+  color: #e0e7c8 !important;
   display: inline-block;
 }
 .nav-link > h3 {
@@ -128,9 +128,9 @@ button {
   width: 100%;
 }
 .search {
-  color: #ffffff;
+  color: #e0e7c8;
   background-color: #16264e;
-  border: 2px #ffffff33 solid;
+  border: 2px #e0e7c833 solid;
   padding: 8px;
   margin: 0;
   width: 100%;
@@ -138,7 +138,7 @@ button {
   z-index: 99;
 }
 .search::placeholder {
-  color: #ffffff;
+  color: #e0e7c8;
 }
 .search-icon {
   height: 20px;
@@ -194,7 +194,7 @@ button {
 }
 .home {
   background: #16264e;
-  color: #ffffff;
+  color: #e0e7c8;
   padding: 0;
   padding-top: 30px;
 }
@@ -205,7 +205,7 @@ button {
 }
 .tagline-main {
   clear: both;
-  font-size: 200%;
+  font-size: 180%;
 }
 .tagline-sub {
   clear: both;
@@ -220,6 +220,17 @@ button {
 .logo-main {
   width: 100%;
   max-height: 300px;
+}
+.sponsor-container {
+  padding: 10px;
+}
+@media (min-width:992px) {
+  .lg-left {
+    float: left;
+  }
+  .lg-right {
+    float: right;
+  }
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* episodes */
@@ -248,7 +259,7 @@ button {
   margin: 0;
   height: 65px;
   background: #16264e;
-  color: #ffffff;
+  color: #e0e7c8;
   font-size: 120%;
   padding: 10px;
   z-index: 1;
@@ -263,7 +274,7 @@ button {
 }
 .tile-profile-header {
   position: absolute;
-  color: #ffffff;
+  color: #e0e7c8;
   background: #0006;
   padding: 5px;
   bottom: 5;
@@ -296,12 +307,12 @@ button {
 /* ---------------------------------------------------------------------------------------------- */
 /* contact */
 .btn {
-  color: #ffffff;
+  color: #e0e7c8;
   background: #16264e;
   border-radius: 0;
 }
 .btn:hover {
-  color: #ffffff;
+  color: #e0e7c8;
   background: #6186d1;
 }
 .btn > * {
