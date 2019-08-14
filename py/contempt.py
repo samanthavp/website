@@ -23,7 +23,7 @@ def make_name(path):
   return os.path.split(os.path.splitext(path)[0])[1]
 
 def status(msg,level):
-  if (verbose >= level) and (verbose is not None) and (level is not None):
+  if (verbose is not None) and (level is not None) and (verbose >= level):
     print([
       '-'*50+'\n{}\n'+'-'*50,
       '+ {}',

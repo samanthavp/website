@@ -28,6 +28,9 @@ def get_content():
   c['nav-item'] = [page for page in c['page'] if page['title'] in navpages]
   write_index(episodes,'episodes')
   # clean up some fields on the fly
+  for page in c['page']:
+    page['next'] = None
+    page['prev'] = None
   for member in team:
     member['id'] = make_slug(member['name'])
   for episode in episodes:
@@ -35,6 +38,8 @@ def get_content():
     episode['templates'] = utils.odict([('links','link'),('body','episode')])
     episode['href']      = os.path.join('episodes',str(episode['no'])+'.html')
     episode['authors']   = ' and '.join(episode['authors'])
+    episode['next']      = episode['no']+1 if episode['no'] < len(episodes) else None
+    episode['prev']      = episode['no']-1 if episode['no'] >= 1 else None
     c['page'].append(episode)
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
@@ -59,7 +64,7 @@ def write_index(content,name):
   ct.status('Writing index: {}'.format(name),level=1)
   utils.save_json(content,make_fname(root,'search',name,ext='.json'),indent=1)
 
-ct.verbose = 1
+ct.verbose = None
 root = 'html'
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
