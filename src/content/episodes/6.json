@@ -1,20 +1,14 @@
 {
   "no": 6,
   "title": "Concussion in Sports",
-  "blubrry": "########",
+  "blubrry": "20018070",
   "date": "December 31, 2016",
   "season": 1,
-  "img-tile": "",
-  "img-caption": "",
-  "img-page": "",
+  "img-tile": "andrew-baker-interview.jpg",
+  "img-caption": "Dr. Andrew Baker",
+  "img-page": "andrew-baker-sitting.jpg",
   "notes": "When you're watching a hockey game or even playing sports yourself, do you ever think about concussions? What do athletes or the public think know about concussions? What do our experts at U of T say? In the sixth episode, we continue the theme of \"Neurotrauma\" with a special focus on sport concussions. &nbsp;Tune in as we hear Jabir & Richie interview Dr. Andrew Baker, Hillary ask U of T-ers what they know about concussions, and Dr. Michael Hutchison of U of T's Concussion Program emphasize what we need to be cautious about when dealing with a potential concussion on our new segment, Life Supply. Until next time, keep it raw!",
-  "authors": [
-    "Jesse Knight"
-  ],
+  "authors": ["Hillary Chan"],
   "tags": [],
-  "links": [
-  { "title": "",
-    "href": ""
-  }
-]
+  "links": []
 }

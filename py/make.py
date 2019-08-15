@@ -39,7 +39,7 @@ def get_content():
     episode['href']      = os.path.join('episodes',str(episode['no'])+'.html')
     episode['authors']   = ' and '.join(episode['authors'])
     episode['next']      = episode['no']+1 if episode['no'] < len(episodes) else None
-    episode['prev']      = episode['no']-1 if episode['no'] >= 1 else None
+    episode['prev']      = episode['no']-1 if episode['no'] > 1 else None
     c['page'].append(episode)
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes

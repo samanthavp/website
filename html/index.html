@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16264e">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./css/bootstrap.min.css"/>
@@ -18,57 +19,74 @@
     <div class="header-img-container">
       <div class="header-img"></div>
     </div>
-      <div class="container">
-        <nav id="nav" class="navbar navbar-expand-sm">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-          </button>
-          <div class="collapse navbar-collapse justify-content-end" id="navbar">
-            <ul id="nav-list" class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="./index.html"><h3>HOME</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./team.html"><h3>TEAM</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./episodes.html"><h3>EPISODES</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./contact.html"><h3>CONTACT</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
-                  <h3><img class="search-icon" src="./img/icons/search.svg"/></h3>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-        <form class="collapse searchbar" id="searchbar" method="GET" action="./episodes.html">
-          <input class="search" type="text" name="q" placeholder="Search">
-        </form>
+    <div class="container">
+      <nav id="nav" class="navbar navbar-expand-sm">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbar">
+          <ul id="nav-list" class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html"><h3>HOME</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./team.html"><h3>TEAM</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./episodes.html"><h3>EPISODES</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html"><h3>CONTACT</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                <h3><img class="search-icon" src="./img/icons/search.svg"/></h3>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <form class="collapse searchbar" id="searchbar" method="GET" action="./episodes.html">
+        <input class="search" type="text" name="q" placeholder="Search">
+      </form>
+    </div>
+    <!-- <div class="top-right">
+      <div class="icon-container">
+        <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="./img/icons/facebook.svg"/><br>
+        </a>
       </div>
-      <div class="top-right">
-        <div class="icon-container">
-          <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="./img/icons/facebook.svg"/><br>
+      <div class="icon-container">
+        <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="./img/icons/instagram.svg"/><br>
+        </a>
+      </div>
+      <div class="icon-container">
+        <a href="https://twitter.com/rawtalkpodcast" target="_blank">
+          <img class="icon-social" src="./img/icons/twitter.svg"/><br>
+        </a>
+      </div>
+    </div> -->
+    <div class="container-fluid">
+      <div class="row justify-content-between no-gutters">
+        <!-- TODO: add swipe to this? -->
+        <div class="link-arrow align-left col-2 col-md-1 order-md-1">
+          <a class="arrow-None" href=./episodes/None.html>
+            <img class="icon-arrow" src="./img/icons/arrow-left.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="./img/icons/instagram.svg"/><br>
+        <div class="link-arrow align-right col-2 col-md-1 order-md-3">
+          <a class="arrow-None" href=./episodes/None.html>
+            <img class="icon-arrow" src="./img/icons/arrow-right.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://twitter.com/rawtalkpodcast" target="_blank">
-            <img class="icon-social" src="./img/icons/twitter.svg"/><br>
-          </a>
+        <div class="center col-12 col-md-10 order-md-2">
+          <h1>HOME</h1>
         </div>
       </div>
-    <h1>HOME</h1>
+    </div>
   </div>
   <!--
     <h2>Under construction...</h2>
@@ -82,10 +100,10 @@
             <div class="tagline">
               <div class="tagline-main left">Behind every discovery,</div><br>
               <div class="tagline-main right">there's a story.</div><br>
-              <div class="tagline-sub centered">Scientists talk. We listen.</div>
+              <div class="tagline-sub center">Scientists talk. We listen.</div>
           </div>
         </div>
-        <div class="col-12 col-md-6 order-2 order-md-1 container centered">
+        <div class="col-12 col-md-6 order-2 order-md-1 container center">
           <img class="logo-mic" src="./img/brand/mic-white-blue.svg"/>
           <div class="section">
             <h3>New episodes every other Wednesday. Listen on:</h3>
@@ -117,7 +135,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 order-last centered section container">
+        <div class="col-12 order-last center section container">
           <div class="row justify-content-center align-items-end">
             <div class="sponsor-container col-12 col-lg-4 order-lg-2 col-xl-6">
               <h3>Want to support the show?</h3>

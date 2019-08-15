@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16264e">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./css/bootstrap.min.css"/>
@@ -18,57 +19,74 @@
     <div class="header-img-container">
       <div class="header-img"></div>
     </div>
-      <div class="container">
-        <nav id="nav" class="navbar navbar-expand-sm">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-          </button>
-          <div class="collapse navbar-collapse justify-content-end" id="navbar">
-            <ul id="nav-list" class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="./index.html"><h3>HOME</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./team.html"><h3>TEAM</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./episodes.html"><h3>EPISODES</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./contact.html"><h3>CONTACT</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
-                  <h3><img class="search-icon" src="./img/icons/search.svg"/></h3>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-        <form class="collapse searchbar" id="searchbar" method="GET" action="./episodes.html">
-          <input class="search" type="text" name="q" placeholder="Search">
-        </form>
+    <div class="container">
+      <nav id="nav" class="navbar navbar-expand-sm">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbar">
+          <ul id="nav-list" class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html"><h3>HOME</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./team.html"><h3>TEAM</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./episodes.html"><h3>EPISODES</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html"><h3>CONTACT</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                <h3><img class="search-icon" src="./img/icons/search.svg"/></h3>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <form class="collapse searchbar" id="searchbar" method="GET" action="./episodes.html">
+        <input class="search" type="text" name="q" placeholder="Search">
+      </form>
+    </div>
+    <!-- <div class="top-right">
+      <div class="icon-container">
+        <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="./img/icons/facebook.svg"/><br>
+        </a>
       </div>
-      <div class="top-right">
-        <div class="icon-container">
-          <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="./img/icons/facebook.svg"/><br>
+      <div class="icon-container">
+        <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="./img/icons/instagram.svg"/><br>
+        </a>
+      </div>
+      <div class="icon-container">
+        <a href="https://twitter.com/rawtalkpodcast" target="_blank">
+          <img class="icon-social" src="./img/icons/twitter.svg"/><br>
+        </a>
+      </div>
+    </div> -->
+    <div class="container-fluid">
+      <div class="row justify-content-between no-gutters">
+        <!-- TODO: add swipe to this? -->
+        <div class="link-arrow align-left col-2 col-md-1 order-md-1">
+          <a class="arrow-None" href=./episodes/None.html>
+            <img class="icon-arrow" src="./img/icons/arrow-left.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="./img/icons/instagram.svg"/><br>
+        <div class="link-arrow align-right col-2 col-md-1 order-md-3">
+          <a class="arrow-None" href=./episodes/None.html>
+            <img class="icon-arrow" src="./img/icons/arrow-right.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://twitter.com/rawtalkpodcast" target="_blank">
-            <img class="icon-social" src="./img/icons/twitter.svg"/><br>
-          </a>
+        <div class="center col-12 col-md-10 order-md-2">
+          <h1>TEAM</h1>
         </div>
       </div>
-    <h1>TEAM</h1>
+    </div>
   </div>
   <div class="loader"></div>
   <div class="container body load-content hidden">
@@ -132,7 +150,7 @@
                     <h4>Grace Jacobs</h4>
                     <h4><i>Executive Producer & Audio Eng.</i></h4>
                     <div class="profile-bio">
-                      <p>Hi listeners! I'm Grace, a third year PhD student in the Institute of Medical Science. My research combines imaging and genetic approaches to study the mechanisms of psychiatric symptom development in youth populations. We have some great stories and science to share this season! I'm beyond excited to be taking over as one of the Executive Producers and work with each of the wonderful members of the Raw Talk team. Don't forget to tune in, let us know what you think, and of course, keep it raw!</p>
+                      <p>Hi listeners! My name is Grace, and I'm a fourth year PhD student in the Institute of Medical Science. My research uses structural and functional magnetic resonance imaging to study brain circuitry and mechanisms underlying psychosis and neurodevelopmental disorders in children and youth. We have some great stories and science to share this season! I'm beyond excited to be an Executive Producer again this year and work with everyone on the Raw Talk team to bring you fantastic content. Check out our episodes and let us know what you think!</p>
                     </div>
                   </div>
                 </div>
@@ -385,7 +403,7 @@
         </button>
         <h4 class="tile-profile-header">
           Stephania Assimopoulos<br>
-          <i>Show Host</i>
+          <i>Show Host & Public Relations</i>
         </h4>
       </div>
       <div class="modal" id="stephania-assimopoulos" role="dialog">
@@ -402,9 +420,9 @@
                   </div>
                   <div class="col-12 col-sm-6 col-md-8 col-lg-8 col-xl-8">
                     <h4>Stephania Assimopoulos</h4>
-                    <h4><i>Show Host</i></h4>
+                    <h4><i>Show Host & Public Relations</i></h4>
                     <div class="profile-bio">
-                      <p></p>
+                      <p>Hi there! I'm Stephania, and I am a PhD student at the Department of Medical Biophysics, studying cardiac abnormalities in Autism Spectrum Disorder. This is my second Season at Raw Talk, and I am part of the public relations (PR) and brand management team. Our goal is to bring this podcast to everyone that loves science and stories as much as we do! We're also here to listen, so help us make our stories the best possible. Tune in because some exciting stuff is on your way!</p>
                     </div>
                   </div>
                 </div>
@@ -574,7 +592,7 @@
                     <h4>Zeynep Kahramanoglu</h4>
                     <h4><i>Show Host</i></h4>
                     <div class="profile-bio">
-                      <p></p>
+                      <p>Hi listeners! My name is Zeynep and I'm a research technician in a cancer immunology lab in Toronto. I got my MSc from Western University in Pathology and Laboratory Medicine, with my thesis focused on ovarian cancer. I'm very excited to join the Raw Talk podcast team as a Show Host for season 4! So hopefully, you'll be reading this in my voice. I'm a big advocate for science literacy and making it accessible for everyone in a way that is accurate and fun! In my spare time, I enjoy windsurfing, kickboxing and reviewing new restaurants in the city with amateur expertise.</p>
                     </div>
                   </div>
                 </div>
@@ -846,7 +864,7 @@
                     <h4>Thamiya Vasanthakumar</h4>
                     <h4><i>Communications Exec</i></h4>
                     <div class="profile-bio">
-                      <p></p>
+                      <p>Hi listeners! I'm Thamiya and I'm excited to be back for season 4 of Raw Talk as the communications executive. I joined the podcast last year and had a great time working with the team to share the wonderful research happening at UofT. I'm a 5th year PhD candidate at the Hospital for Sick Children, studying the atomic structure of proteins using electron microscopy. If I'm not in the lab, you'll probably find me outside hiking or paddling (or napping).</p>
                     </div>
                   </div>
                 </div>
@@ -856,15 +874,15 @@
         </div>
       </div>
       <div class="tile-profile img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
-        <button data-toggle="modal" data-target="#allison-wong">
+        <button data-toggle="modal" data-target="#alison-wong">
           <img class="profile-img-tile" src="./img/team/default.svg"/>
         </button>
         <h4 class="tile-profile-header">
-          Allison Wong<br>
+          Alison Wong<br>
           <i>Communications</i>
         </h4>
       </div>
-      <div class="modal" id="allison-wong" role="dialog">
+      <div class="modal" id="alison-wong" role="dialog">
         <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
           <div class="modal-content">
             <div class="modal-body">
@@ -877,10 +895,10 @@
                     <img class="profile-img-main" src="./img/team/default.svg"/>
                   </div>
                   <div class="col-12 col-sm-6 col-md-8 col-lg-8 col-xl-8">
-                    <h4>Allison Wong</h4>
+                    <h4>Alison Wong</h4>
                     <h4><i>Communications</i></h4>
                     <div class="profile-bio">
-                      <p></p>
+                      <p>Hey listeners, I'm Alison, and I'm one of the communications executives here at Raw Talk Podcast! I'm so excited to be part of a team that melds two of the loves in my life: science, and podcasts! Outside of the podcast, you can catch me in the lab studying developmental immunology and immunotherapy. In my spare time I'm an avid baker, and I love running and cycling too. I'm really looking forward to seeing how Season 4 unfolds, and to sharing some exciting stories on science and medicine with you all.</p>
                     </div>
                   </div>
                 </div>

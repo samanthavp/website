@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16264e">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/bootstrap.min.css"/>
@@ -18,82 +19,100 @@
     <div class="header-img-container">
       <div class="header-img"></div>
     </div>
-      <div class="container">
-        <nav id="nav" class="navbar navbar-expand-sm">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-          </button>
-          <div class="collapse navbar-collapse justify-content-end" id="navbar">
-            <ul id="nav-list" class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="../index.html"><h3>HOME</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../team.html"><h3>TEAM</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../episodes.html"><h3>EPISODES</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../contact.html"><h3>CONTACT</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
-                  <h3><img class="search-icon" src="../img/icons/search.svg"/></h3>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-        <form class="collapse searchbar" id="searchbar" method="GET" action="../episodes.html">
-          <input class="search" type="text" name="q" placeholder="Search">
-        </form>
+    <div class="container">
+      <nav id="nav" class="navbar navbar-expand-sm">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbar">
+          <ul id="nav-list" class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html"><h3>HOME</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../team.html"><h3>TEAM</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../episodes.html"><h3>EPISODES</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../contact.html"><h3>CONTACT</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                <h3><img class="search-icon" src="../img/icons/search.svg"/></h3>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <form class="collapse searchbar" id="searchbar" method="GET" action="../episodes.html">
+        <input class="search" type="text" name="q" placeholder="Search">
+      </form>
+    </div>
+    <!-- <div class="top-right">
+      <div class="icon-container">
+        <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="../img/icons/facebook.svg"/><br>
+        </a>
       </div>
-      <div class="top-right">
-        <div class="icon-container">
-          <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="../img/icons/facebook.svg"/><br>
+      <div class="icon-container">
+        <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="../img/icons/instagram.svg"/><br>
+        </a>
+      </div>
+      <div class="icon-container">
+        <a href="https://twitter.com/rawtalkpodcast" target="_blank">
+          <img class="icon-social" src="../img/icons/twitter.svg"/><br>
+        </a>
+      </div>
+    </div> -->
+    <div class="container-fluid">
+      <div class="row justify-content-between no-gutters">
+        <!-- TODO: add swipe to this? -->
+        <div class="link-arrow align-left col-2 col-md-1 order-md-1">
+          <a class="arrow-13" href=../episodes/13.html>
+            <img class="icon-arrow" src="../img/icons/arrow-left.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="../img/icons/instagram.svg"/><br>
+        <div class="link-arrow align-right col-2 col-md-1 order-md-3">
+          <a class="arrow-11" href=../episodes/11.html>
+            <img class="icon-arrow" src="../img/icons/arrow-right.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://twitter.com/rawtalkpodcast" target="_blank">
-            <img class="icon-social" src="../img/icons/twitter.svg"/><br>
-          </a>
+        <div class="center col-12 col-md-10 order-md-2">
+          <h1>#12: Graduate Professional Development</h1>
         </div>
       </div>
-    <h1>#12: Graduate Professional Development</h1>
+    </div>
   </div>
+  <!-- TODO: replace this with JS -->
   <div class="container body">
     <div class="row">
-      <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-        <img class="episode-img-page" src="../img/episodes/12/"></img> 
-        <div class="img-caption"><p></p></div>
+      <div class="episode-col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+        <img class="episode-img-page" src="../img/episodes/12/darlene-homonko-headshot.jpg"></img> 
+        <div class="img-caption"><p>Dr. Darlene Homonko, Director of the Office of Technology Transfer and Industrial Liaison at the Lunenfeld-Tanenbaum Research Institute</p></div>
       </div>
-      <div class="col-12 col-sm-6 col-md-6 col-lg-8 col-xl-8">
+      <div class="episode-col col-12 col-sm-6 col-md-6 col-lg-8 col-xl-8">
         <div class="player-container">
           <iframe id="player"
-          src="https://player.blubrry.com/id/########/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
+          src="https://player.blubrry.com/id/22081951/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
           scrolling="no" width="100%" frameborder="0"></iframe>
         </div>
         <p class="date">March 24, 2017</p>
         <div class="notes-container">
           <!-- <h4>Show Notes</h4> -->
-          <p>Keeping with the theme of Student Engagement, we're ending the month with the woman who has figuratively (and nearly literally) done it all, Dr. Darlene Homonko! She's Director of the Office of Technology Transfer and Industrial Liaison at the Lunenfeld-Tanenbaum Research Institute and, she took the time to share her incredibly winding journey with us. Dr. Homonko tells us why it's okay to switch fields once, twice, or maybe even five times, why failure is a boon to personal growth, and offers her advice to students who aren't sure what the heck they want to do after grad school. Finally, Melissa dishes the inside scoop on the Graduate Professional Skills (GPS) program by catching up with Liam O'Leary- Graduate Programming Coordinator for the School of Graduate Studies at the University of Toronto— who discusses the nitty gritty of GPS, and gives his top picks from the program. If you're in need of a pep-talk, this is just the episode. Until next time, keep it raw!</p>
-          <p><i>&#8212; Written by: Jesse Knight</i></p>
+          <p>Keeping with the theme of Student Engagement, we're ending the month with the woman who has figuratively (and nearly literally) done it all, Dr. Darlene Homonko! She's Director of the Office of Technology Transfer and Industrial Liaison at the Lunenfeld-Tanenbaum Research Institute and, she took the time to share her incredibly winding journey with us. Dr. Homonko tells us why it's okay to switch fields once, twice, or maybe even five times, why failure is a boon to personal growth, and offers her advice to students who aren't sure what the heck they want to do after grad school. Finally, Melissa dishes the inside scoop on the Graduate Professional Skills (GPS) program by catching up with Liam O'Leary- Graduate Programming Coordinator for the School of Graduate Studies at the University of Toronto - who discusses the nitty gritty of GPS, and gives his top picks from the program. If you're in need of a pep-talk, this is just the episode. Until next time, keep it raw!</p>
+          <p><i>&#8212; Written by: Melissa Galati</i></p>
         </div>
         <div class="links-container">
           <!-- <h4>Links</h4> -->
-          <a href=></a><br>
+          
         </div>
       </div>
-    </div>  
+    </div>
   </div>
   <div class="footer">
     <div class="container">
