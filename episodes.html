@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16264e">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./css/bootstrap.min.css"/>
@@ -18,57 +19,74 @@
     <div class="header-img-container">
       <div class="header-img"></div>
     </div>
-      <div class="container">
-        <nav id="nav" class="navbar navbar-expand-sm">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-          </button>
-          <div class="collapse navbar-collapse justify-content-end" id="navbar">
-            <ul id="nav-list" class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="./index.html"><h3>HOME</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./team.html"><h3>TEAM</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./episodes.html"><h3>EPISODES</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./contact.html"><h3>CONTACT</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
-                  <h3><img class="search-icon" src="./img/icons/search.svg"/></h3>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-        <form class="collapse searchbar" id="searchbar" method="GET" action="./episodes.html">
-          <input class="search" type="text" name="q" placeholder="Search">
-        </form>
+    <div class="container">
+      <nav id="nav" class="navbar navbar-expand-sm">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbar">
+          <ul id="nav-list" class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html"><h3>HOME</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./team.html"><h3>TEAM</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./episodes.html"><h3>EPISODES</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html"><h3>CONTACT</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                <h3><img class="search-icon" src="./img/icons/search.svg"/></h3>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <form class="collapse searchbar" id="searchbar" method="GET" action="./episodes.html">
+        <input class="search" type="text" name="q" placeholder="Search">
+      </form>
+    </div>
+    <!-- <div class="top-right">
+      <div class="icon-container">
+        <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="./img/icons/facebook.svg"/><br>
+        </a>
       </div>
-      <div class="top-right">
-        <div class="icon-container">
-          <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="./img/icons/facebook.svg"/><br>
+      <div class="icon-container">
+        <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="./img/icons/instagram.svg"/><br>
+        </a>
+      </div>
+      <div class="icon-container">
+        <a href="https://twitter.com/rawtalkpodcast" target="_blank">
+          <img class="icon-social" src="./img/icons/twitter.svg"/><br>
+        </a>
+      </div>
+    </div> -->
+    <div class="container-fluid">
+      <div class="row justify-content-between no-gutters">
+        <!-- TODO: add swipe to this? -->
+        <div class="link-arrow align-left col-2 col-md-1 order-md-1">
+          <a class="arrow-None" href=./episodes/None.html>
+            <img class="icon-arrow" src="./img/icons/arrow-left.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="./img/icons/instagram.svg"/><br>
+        <div class="link-arrow align-right col-2 col-md-1 order-md-3">
+          <a class="arrow-None" href=./episodes/None.html>
+            <img class="icon-arrow" src="./img/icons/arrow-right.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://twitter.com/rawtalkpodcast" target="_blank">
-            <img class="icon-social" src="./img/icons/twitter.svg"/><br>
-          </a>
+        <div class="center col-12 col-md-10 order-md-2">
+          <h1>EPISODES</h1>
         </div>
       </div>
-    <h1>EPISODES</h1>
+    </div>
   </div>
   <div class="loader"></div>
   <div class="container body load-content hidden">
@@ -422,7 +440,7 @@
           <div class="tile-episode-header">
             #19: Mapping Language with MEG
           </div>
-          <img class="episode-img-tile" src="./img/episodes/19/"/>
+          <img class="episode-img-tile" src="./img/episodes/19/elizabeth-pang-headshot.jpg"/>
         </a>
       </div>
       <div id="18" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -430,7 +448,7 @@
           <div class="tile-episode-header">
             #18: Motor Control & Movement Disorders
           </div>
-          <img class="episode-img-tile" src="./img/episodes/18/"/>
+          <img class="episode-img-tile" src="./img/episodes/18/robert-chen-headshot-wide.jpg"/>
         </a>
       </div>
       <div id="17" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -438,7 +456,7 @@
           <div class="tile-episode-header">
             #17: Neuroimaging Chronic Pain
           </div>
-          <img class="episode-img-tile" src="./img/episodes/17/"/>
+          <img class="episode-img-tile" src="./img/episodes/17/karen-davis-wide.jpg"/>
         </a>
       </div>
       <div id="16" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -446,7 +464,7 @@
           <div class="tile-episode-header">
             #16: Restoring Sight with Stem Cells
           </div>
-          <img class="episode-img-tile" src="./img/episodes/16/"/>
+          <img class="episode-img-tile" src="./img/episodes/16/derek-van-der-kooy-talking.jpg"/>
         </a>
       </div>
       <div id="15" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -454,7 +472,7 @@
           <div class="tile-episode-header">
             #15: From Cells to Tissues
           </div>
-          <img class="episode-img-tile" src="./img/episodes/15/"/>
+          <img class="episode-img-tile" src="./img/episodes/15/helen-mcneill-wide.jpg"/>
         </a>
       </div>
       <div id="14" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -462,7 +480,7 @@
           <div class="tile-episode-header">
             #14: Living with Cystic Fibrosis
           </div>
-          <img class="episode-img-tile" src="./img/episodes/14/"/>
+          <img class="episode-img-tile" src="./img/episodes/14/felix-ratjen-interview.jpg"/>
         </a>
       </div>
       <div id="13" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -470,7 +488,7 @@
           <div class="tile-episode-header">
             #13: Engineering Better Lungs
           </div>
-          <img class="episode-img-tile" src="./img/episodes/13/"/>
+          <img class="episode-img-tile" src="./img/episodes/13/shaf-keshavjee-lab.jpg"/>
         </a>
       </div>
       <div id="12" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -478,7 +496,7 @@
           <div class="tile-episode-header">
             #12: Graduate Professional Development
           </div>
-          <img class="episode-img-tile" src="./img/episodes/12/"/>
+          <img class="episode-img-tile" src="./img/episodes/12/darlene-homonko-interview.jpg"/>
         </a>
       </div>
       <div id="11" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -486,7 +504,7 @@
           <div class="tile-episode-header">
             #11: Re-Imagining the PhD
           </div>
-          <img class="episode-img-tile" src="./img/episodes/11/"/>
+          <img class="episode-img-tile" src="./img/episodes/11/reinhart-reithmeier-wide.jpg"/>
         </a>
       </div>
       <div id="10" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -494,7 +512,7 @@
           <div class="tile-episode-header">
             #10: Undergrads Ask
           </div>
-          <img class="episode-img-tile" src="./img/episodes/10/"/>
+          <img class="episode-img-tile" src="./img/episodes/10/logo-left.jpg"/>
         </a>
       </div>
       <div id="9" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -502,7 +520,7 @@
           <div class="tile-episode-header">
             #9: Grad Students Answer
           </div>
-          <img class="episode-img-tile" src="./img/episodes/9/"/>
+          <img class="episode-img-tile" src="./img/episodes/9/logo-right.jpg"/>
         </a>
       </div>
       <div id="8" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -510,7 +528,7 @@
           <div class="tile-episode-header">
             #8: Marrying Art, Science & Design
           </div>
-          <img class="episode-img-tile" src="./img/episodes/8/"/>
+          <img class="episode-img-tile" src="./img/episodes/8/jodie-jenkinson-listening.jpg"/>
         </a>
       </div>
       <div id="7" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -518,7 +536,7 @@
           <div class="tile-episode-header">
             #7: Becoming a Health Research Translator
           </div>
-          <img class="episode-img-tile" src="./img/episodes/7/"/>
+          <img class="episode-img-tile" src="./img/episodes/7/richard-foty-interview.jpg"/>
         </a>
       </div>
       <div id="6" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -526,7 +544,7 @@
           <div class="tile-episode-header">
             #6: Concussion in Sports
           </div>
-          <img class="episode-img-tile" src="./img/episodes/6/"/>
+          <img class="episode-img-tile" src="./img/episodes/6/andrew-baker-interview.jpg"/>
         </a>
       </div>
       <div id="5" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -534,7 +552,7 @@
           <div class="tile-episode-header">
             #5: Essentials of Spinal Cord Injury
           </div>
-          <img class="episode-img-tile" src="./img/episodes/5/"/>
+          <img class="episode-img-tile" src="./img/episodes/5/michael-fehlings-wide.jpg"/>
         </a>
       </div>
       <div id="4" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -542,7 +560,7 @@
           <div class="tile-episode-header">
             #4: Demystifying Schizophrenia
           </div>
-          <img class="episode-img-tile" src="./img/episodes/4/"/>
+          <img class="episode-img-tile" src="./img/episodes/4/albert-wong-interview.jpg"/>
         </a>
       </div>
       <div id="3" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -550,7 +568,7 @@
           <div class="tile-episode-header">
             #3: Kids, Kidneys & Double Degrees
           </div>
-          <img class="episode-img-tile" src="./img/episodes/3/"/>
+          <img class="episode-img-tile" src="./img/episodes/3/norman-rosenblum-interview.jpg"/>
         </a>
       </div>
       <div id="2" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
@@ -558,7 +576,7 @@
           <div class="tile-episode-header">
             #2: Polymers that Promote Healing
           </div>
-          <img class="episode-img-tile" src="./img/episodes/2/"/>
+          <img class="episode-img-tile" src="./img/episodes/2/molly-shoichet-interview.jpg"/>
         </a>
       </div>
       <div id="1" class="tile-episode img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">

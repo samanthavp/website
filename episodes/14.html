@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16264e">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/bootstrap.min.css"/>
@@ -18,82 +19,100 @@
     <div class="header-img-container">
       <div class="header-img"></div>
     </div>
-      <div class="container">
-        <nav id="nav" class="navbar navbar-expand-sm">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-            <div class="navbar-toggler-bar"></div>
-          </button>
-          <div class="collapse navbar-collapse justify-content-end" id="navbar">
-            <ul id="nav-list" class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="../index.html"><h3>HOME</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../team.html"><h3>TEAM</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../episodes.html"><h3>EPISODES</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../contact.html"><h3>CONTACT</h3></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
-                  <h3><img class="search-icon" src="../img/icons/search.svg"/></h3>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-        <form class="collapse searchbar" id="searchbar" method="GET" action="../episodes.html">
-          <input class="search" type="text" name="q" placeholder="Search">
-        </form>
+    <div class="container">
+      <nav id="nav" class="navbar navbar-expand-sm">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbar">
+          <ul id="nav-list" class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html"><h3>HOME</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../team.html"><h3>TEAM</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../episodes.html"><h3>EPISODES</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../contact.html"><h3>CONTACT</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                <h3><img class="search-icon" src="../img/icons/search.svg"/></h3>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <form class="collapse searchbar" id="searchbar" method="GET" action="../episodes.html">
+        <input class="search" type="text" name="q" placeholder="Search">
+      </form>
+    </div>
+    <!-- <div class="top-right">
+      <div class="icon-container">
+        <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="../img/icons/facebook.svg"/><br>
+        </a>
       </div>
-      <div class="top-right">
-        <div class="icon-container">
-          <a href="https://www.facebook.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="../img/icons/facebook.svg"/><br>
+      <div class="icon-container">
+        <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
+          <img class="icon-social" src="../img/icons/instagram.svg"/><br>
+        </a>
+      </div>
+      <div class="icon-container">
+        <a href="https://twitter.com/rawtalkpodcast" target="_blank">
+          <img class="icon-social" src="../img/icons/twitter.svg"/><br>
+        </a>
+      </div>
+    </div> -->
+    <div class="container-fluid">
+      <div class="row justify-content-between no-gutters">
+        <!-- TODO: add swipe to this? -->
+        <div class="link-arrow align-left col-2 col-md-1 order-md-1">
+          <a class="arrow-15" href=../episodes/15.html>
+            <img class="icon-arrow" src="../img/icons/arrow-left.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://www.instagram.com/rawtalkpodcast/" target="_blank">
-            <img class="icon-social" src="../img/icons/instagram.svg"/><br>
+        <div class="link-arrow align-right col-2 col-md-1 order-md-3">
+          <a class="arrow-13" href=../episodes/13.html>
+            <img class="icon-arrow" src="../img/icons/arrow-right.svg"/>
           </a>
         </div>
-        <div class="icon-container">
-          <a href="https://twitter.com/rawtalkpodcast" target="_blank">
-            <img class="icon-social" src="../img/icons/twitter.svg"/><br>
-          </a>
+        <div class="center col-12 col-md-10 order-md-2">
+          <h1>#14: Living with Cystic Fibrosis</h1>
         </div>
       </div>
-    <h1>#14: Living with Cystic Fibrosis</h1>
+    </div>
   </div>
+  <!-- TODO: replace this with JS -->
   <div class="container body">
     <div class="row">
-      <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-        <img class="episode-img-page" src="../img/episodes/14/"></img> 
-        <div class="img-caption"><p></p></div>
+      <div class="episode-col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+        <img class="episode-img-page" src="../img/episodes/14/felix-ratjen-on-steps.jpg"></img> 
+        <div class="img-caption"><p>Dr. Felix Ratjen, Division Chief of Paediatric Respiratory Medicine at SickKids, Senior Scientist at the Research Institute in the Translational Medicine research program, and co-lead of the CF Centre at SickKids)</p></div>
       </div>
-      <div class="col-12 col-sm-6 col-md-6 col-lg-8 col-xl-8">
+      <div class="episode-col col-12 col-sm-6 col-md-6 col-lg-8 col-xl-8">
         <div class="player-container">
           <iframe id="player"
-          src="https://player.blubrry.com/id/########/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
+          src="https://player.blubrry.com/id/23081664/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
           scrolling="no" width="100%" frameborder="0"></iframe>
         </div>
         <p class="date">April 28, 2017</p>
         <div class="notes-container">
           <!-- <h4>Show Notes</h4> -->
           <p>Every day, we take ~12-20 breaths per minute, that adds up to anywhere between 12,000-30,000 breaths per day! Now imagine if your lungs failed to function properly, what would happen to your quality of life? How long would you be able to live? What therapies are available to you? These are some of the questions patients diagnosed with cystic fibrosis (CF) have to pose. On Episode 14 of Raw Talk Podcast, we sit down with Dr. Felix Ratjen (Division Chief of Paediatric Respiratory Medicine at The Hospital for Sick Children, Senior Scientist at the Research Institute in the Translational Medicine research program, and co-lead of the CF Centre at SickKids) to discuss CF, from its cause to current treatments, and how his research has not only prolonged but improved quality of life in CF patients. We also feature our second "Classics" segment on this episode, highlighting Dr. Lap-Chee Tsui's remarkable research contributions to the field of CF, which was conducted right here at The Hospital for Sick Children! Finally, we unveil our first ever "Patient Perspective" segment as we sit down with the very awesome and humble, Jeremie Saunders, to discuss his experiences after being diagnosed with CF and how this inspired him to start the amazing SickBoy podcast! Until next time, keep it raw!</p>
-          <p><i>&#8212; Written by: Jesse Knight</i></p>
+          <p><i>&#8212; Written by: Romina Nejad</i></p>
         </div>
         <div class="links-container">
           <!-- <h4>Links</h4> -->
-          <a href=></a><br>
+          
         </div>
       </div>
-    </div>  
+    </div>
   </div>
   <div class="footer">
     <div class="container">
