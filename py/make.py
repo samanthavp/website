@@ -34,7 +34,7 @@ def get_content():
   for member in team:
     member['id'] = make_slug(member['name'])
   for episode in episodes:
-    episode['title']     = '#{}: {}'.format(episode['no'],episode['title'])
+    episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
     episode['templates'] = utils.odict([('links','link'),('body','episode')])
     episode['href']      = os.path.join('episodes',str(episode['no'])+'.html')
     episode['authors']   = ' and '.join(episode['authors'])
@@ -64,7 +64,7 @@ def write_index(content,name):
   ct.status('Writing index: {}'.format(name),level=1)
   utils.save_json(content,make_fname(root,'search',name,ext='.json'),indent=1)
 
-ct.verbose = None
+ct.verbose = 1
 root = 'html'
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
