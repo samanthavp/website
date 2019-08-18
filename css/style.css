@@ -94,6 +94,34 @@ button {
 .img-link:hover {
   cursor: pointer;
 }
+.img-link-hover {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #00000033;
+  text-align: center;
+}
+.img-link-hover-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+span.img-link-hover-content {
+  font-size: 200%;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+}
+img.img-link-hover-content {
+  width: 30px;
+}
+.img-link:hover .img-link-hover {
+  opacity: 1;
+}
 .section {
   margin: 30px auto;
 }
@@ -261,7 +289,6 @@ button {
   margin: 0;
   padding: 5px;
 }
-
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
 .tile-profile {
@@ -270,12 +297,10 @@ button {
 .tile-profile-header {
   position: absolute;
   color: #e0e7c8;
-  background: #16264e99;
+  background: #00000099;
   padding: 5px;
   margin: 0;
-  bottom: 5;
-  width: calc(100% - 10px);
-  min-height: 60px;
+  bottom: 15px;
 }
 .profile-img-tile {
   width: 100%;
