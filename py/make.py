@@ -24,7 +24,7 @@ def get_content():
   episodes = sort(c['episodes'].values(),reverse=True)
   team     = sort(c['team'].values())
   # collect the navbar before adding episodes to pages
-  navpages = ['HOME','EPISODES','TEAM','CONTACT']
+  navpages = ['HOME','ABOUT','EPISODES','TEAM','CONTACT']
   c['nav-item'] = [page for page in c['page'] if page['title'] in navpages]
   write_index(episodes,'episodes')
   # clean up some fields on the fly
@@ -33,13 +33,15 @@ def get_content():
     page['prev'] = None
   for member in team:
     member['id'] = make_slug(member['name'])
-  for episode in episodes:
+  for i,episode in enumerate(episodes):
     episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
     episode['templates'] = utils.odict([('links','link'),('body','episode')])
     episode['href']      = os.path.join('episodes',str(episode['no'])+'.html')
     episode['authors']   = ' and '.join(episode['authors'])
     episode['next']      = episode['no']+1 if episode['no'] < len(episodes) else None
     episode['prev']      = episode['no']-1 if episode['no'] > 1 else None
+    header = (episode['no'] == len(episodes)) or (episode['season'] < episodes[i-1]['season'])
+    episode['templates'].update({'maybe-season-header':'season-header' if header else 'none'})
     c['page'].append(episode)
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
@@ -64,7 +66,7 @@ def write_index(content,name):
   ct.status('Writing index: {}'.format(name),level=1)
   utils.save_json(content,make_fname(root,'search',name,ext='.json'),indent=1)
 
-ct.verbose = 1
+ct.verbose = None
 root = 'html'
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
