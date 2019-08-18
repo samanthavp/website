@@ -178,6 +178,10 @@ img.img-link-hover-content {
 .search-icon {
   height: 20px;
 }
+#no-search-results {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 /* ---------------------------------------------------------------------------------------------- */
 /* header & footer */
 .header {
