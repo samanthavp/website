@@ -27,10 +27,11 @@ if (matches && matches[1]) {
       }
     })
     if (ids.length == 0) {
-      $("#no-search-results").removeClass("hidden")
+      $("#no-search-results").show();
     } else {
-      $("#no-search-results").addClass("hidden")
+      $("#no-search-results").hide();
     }
+    $(".season-header").hide();
     var searchbar = $("#searchbar")
     searchbar.addClass("show")
     searchbar.find("input").val(q)
