@@ -1,11 +1,13 @@
 <div class="tile-profile img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
   <button data-toggle="modal" data-target="#{{id}}">
     <img class="profile-img-tile" src="{{root}}/img/team/{{img}}"/>
+    <div class="tile-profile-header">
+      {{name}}<br>
+    </div>
+    <div class="img-link-hover">
+      <span class="img-link-hover-content">+</span>
+    </div>
   </button>
-  <div class="tile-profile-header">
-    {{name}}<br>
-    <i>{{title}}</i>
-  </div>
 </div>
 <div class="modal" id="{{id}}" role="dialog">
   <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
