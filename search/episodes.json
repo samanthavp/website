@@ -1,5 +1,21 @@
 [
  {
+  "no": 63,
+  "title": "Artificial Intelligence in Medicine: Future and Ethical Considerations",
+  "blubrry": "47900056",
+  "date": "August 14, 2019",
+  "season": 3,
+  "img-tile": "med-ai-panel-2.jpg",
+  "img-caption": "Panel 2: (left to right) Chris Hammill, Dr. Alison Paprica, Dr. Sunit Das, and Dr. Allan Miranda (not shown)",
+  "img-page": "med-ai-panel-2-vote.jpg",
+  "notes": "Where do you see medicine in 20 years? Does it involve Artificial Intelligence? We think it does, which is why this summer we hosted our second annual live event entitled Medicine Meets Machine: The Emerging Role of Artificial Intelligence (AI) in Healthcare! This episode is all about the future and ethical considerations of AI in medicine. Our panelists come from diverse backgrounds and share their unique opinions on what should be feared and what the public has wrong about AI. We will hear from Alison Paprica, Christopher Hammill, Sunit Das as well as moderator Allan Miranda about the path we must take to ensure a productive future with AI.",
+  "authors": [
+   "Nazanin Ijad"
+  ],
+  "tags": [],
+  "links": []
+ },
+ {
   "no": 62,
   "title": "Artificial Intelligence in Medicine: where are we now?",
   "blubrry": "47378035",
@@ -7,7 +23,7 @@
   "season": 3,
   "img-tile": "med-ai-chairs.jpg",
   "img-caption": "Panel 1: (left to right) Dr. Joanna Yu, Dr. Jason Lerch, Dr. Marzyeh Ghassemi, Dr. Oren Kraus, and Dr. Shreejoy Tripathy",
-  "img-page": "med-ai-panel.jpg",
+  "img-page": "med-ai-panel-1.jpg",
   "notes": "Raw Talk recently hosted their second annual live event, entitled Medicine Meets Machine: The Emerging Role of Artificial Intelligence (AI) in Healthcare. Today's episode with Grace and Stephania shares the discussion from our first panel of experts focusing on current applications and limitations of AI in medicine. Our speakers share perspectives from healthcare, academia, industry, and policy development. You'll hear from Dr. Oren Kraus, Dr. Jason Lerch,\u202fDr. Marzyeh\u202fGhassemi\u202fand Dr. Joanna Yu, as well as moderator Dr. Shreejoy Tripathy about the realities of AI and the challenges involved, as well as the implications of AI for their own work.",
   "authors": [
    "Grace Jacobs"
