@@ -2,6 +2,14 @@ $(window).on("load",function(){
   // exit the loader
   $(".load-content").removeClass("hidden");
   $(".loader").addClass("hidden");
+  // TEMP: dark mode toggle
+  $("#dark").change(function(){
+    if (this.checked) {
+      $("body").removeClass("light").addClass("dark");
+    } else {
+      $("body").removeClass("dark").addClass("light");
+    };
+  });
 });
 
 // search
