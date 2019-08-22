@@ -24,7 +24,7 @@ def get_content():
   episodes = sort(c['episodes'].values(),reverse=True)
   team     = sort(c['team'].values())
   # collect the navbar before adding episodes to pages
-  navpages = ['HOME','ABOUT','EPISODES','TEAM','CONTACT']
+  navpages = ['HOME','ABOUT','TEAM','EPISODES','CONTACT']
   c['nav-item'] = [page for page in c['page'] if page['title'] in navpages]
   write_index(episodes,'episodes')
   # clean up some fields on the fly
@@ -43,6 +43,7 @@ def get_content():
     header = (episode['no'] == len(episodes)) or (episode['season'] < episodes[i-1]['season'])
     episode['templates'].update({'maybe-season-header':'season-header' if header else 'none'})
     c['page'].append(episode)
+  c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
   c['tile-profile'] = team

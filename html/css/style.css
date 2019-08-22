@@ -21,10 +21,12 @@ body {
   --t-mid:        #999999;
   --t-light:      #cccccc;
   --h-link:       #6186d1;
+  --h-blue:       #6186d133;
   --h-dark:       #33333333;
   --h-light:      #cccccc33;
-  --o-dark:       #00000099;
+  --o-dark:       #16264e99;
   --f-blue-dark:  #16264ebb;
+  --f-trans:      #16264e00;
 }
 body.light {
   --c-background: var(--c-white);
@@ -36,7 +38,7 @@ body.light {
 body.dark {
   --c-background: var(--c-blue-dark);
   --c-text: var(--t-light);
-  --c-hover: var(--h-light);
+  --c-hover: var(--h-blue);
   --c-head-back: var(--c-blue-mid);
   --c-head-text: var(--c-white);
 }
@@ -50,6 +52,7 @@ body {
 }
 p {
   font-family: 'Fakt Pro Light', sans-serif;
+  margin-bottom: 5px;
 }
 a {
   color: var(--c-blue-light);
@@ -74,6 +77,9 @@ h3 {
 h4 {
   font-size: 120%;
 }
+h1,h2,h3,h4 {
+  text-align: center;
+}
 button {
   background: none;
   border: none;
@@ -90,6 +96,9 @@ button {
 }
 .align-right {
   text-align: right;
+}
+.justified {
+  text-align: justify;
 }
 .left {
   float: left;
@@ -352,8 +361,12 @@ img.img-link-hover-content {
 .modal-content {
   border-radius: 0;
 }
+.modal-content h4 {
+  text-align: left;
+}
 .modal-body {
   padding: 15px 0px;
+  color: var(--t-dark)
 }
 .close {
   position: absolute;
@@ -369,12 +382,13 @@ img.img-link-hover-content {
 .episode-col {
   padding: 5px;
 }
-.img-caption {
-  padding: 5px;
-}
 .img-caption p,
 .date {
+  padding: 5px;
   color: var(--t-mid);
+}
+.notes {
+  padding: 5px;
 }
 .episode-img-tile {
   width: 100%;
@@ -399,6 +413,27 @@ img.img-link-hover-content {
   padding: 8px;
   z-index: 1;
   text-align: center;
+}
+.tile-highlight {
+  padding: 5px;
+  margin: 0;
+  height: 180px;
+  overflow: hidden;
+  text-align: left;
+}
+.tile-exerpt {
+  color: var(--c-text);
+  padding: 8px;
+  position: relative;
+}
+.tile-exerpt:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 115px;
+  width: 100%;
+  background: linear-gradient(var(--f-trans),var(--c-blue-dark));
+  content: " ";
 }
 .season-header {
   flex: auto;

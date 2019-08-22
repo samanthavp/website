@@ -26,5 +26,12 @@
     "templates": {
       "body": "episodes"
     }
+  },
+  {
+    "title": "CONTACT",
+    "href": "contact.html",
+    "templates": {
+      "body": "contact"
+    }
   }
 ]
