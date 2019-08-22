@@ -27,6 +27,7 @@ body {
   --o-dark:       #16264e99;
   --f-blue-dark:  #16264ebb;
   --f-trans:      #16264e00;
+  --f-white:      #ffffffbb
 }
 body.light {
   --c-background: var(--c-white);
@@ -269,19 +270,25 @@ img.img-link-hover-content {
 .footer-container {
   padding: 10px;
 }
+.social-container {
+  margin-top: 20px;
+}
 .icon-social {
   padding: 5px;
   width: 40px;
-  opacity: 0.5;
+  opacity: 1;
 }
 .icon-social:hover {
-  opacity: 1;
+  opacity: 0.5;
 }
 .sponsor-img {
   height: auto;
   max-width: 300px;
   max-height: 60px;
   margin: 5px;
+}
+.sponsor-img-large {
+  height: 100px;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* home */
@@ -295,14 +302,26 @@ img.img-link-hover-content {
 #home .footer {
   min-height: 0;
 }
-.logo-mic {
-  width: 100%;
-  margin-right: -30px;
+.logo-banner-container {
+  height: 180px;
+  margin: -15px;
 }
-.logo-main {
-  padding: 50px;
-  width: 100%;
-  max-height: 300px;
+@media (min-width:576px){
+  .logo-banner-container {
+    height: 250px;
+  }
+}
+@media (min-width:768px) {
+  .logo-banner-container {
+    height: 300px;
+  }
+}
+.logo-banner {
+  background-image: url("../img/brand/banner-long-text.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
 }
 .tagline {
   padding: 50px 0;
@@ -326,17 +345,8 @@ img.img-link-hover-content {
 #ABOUT .body {
   margin: 30px auto;
 }
-.btn {
-  background: var(--c-head-back);
-  color: var(--c-head-text);
-  border-radius: 0;
-}
-.btn:hover {
-  background: var(--h-link);
-}
-.btn > * {
-  margin: 0;
-  padding: 5px;
+#ABOUT .amazon {
+  display: none;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
@@ -406,11 +416,11 @@ img.img-link-hover-content {
   position: relative;
   padding: 0;
   margin: 0;
-  height: 65px;
+  min-height: 65px;
   background: var(--c-head-back);
   color: var(--c-head-text);
   font-size: 120%;
-  padding: 8px;
+  padding: 5px;
   z-index: 1;
   text-align: center;
 }
@@ -432,7 +442,7 @@ img.img-link-hover-content {
   left: 0;
   height: 115px;
   width: 100%;
-  background: linear-gradient(var(--f-trans),var(--c-blue-dark));
+  background: linear-gradient(var(--f-trans),var(--c-background));
   content: " ";
 }
 .season-header {
@@ -461,4 +471,21 @@ img.img-link-hover-content {
 }
 .display-None {
   display: none;
+}
+/* ---------------------------------------------------------------------------------------------- */
+/* contact */
+#CONTACT .body {
+  margin-top: 60px;
+}
+.btn {
+  background: var(--c-head-back);
+  color: var(--c-head-text);
+  border-radius: 0;
+}
+.btn:hover {
+  background: var(--h-link);
+}
+.btn > * {
+  margin: 0;
+  padding: 5px;
 }
