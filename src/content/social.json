@@ -5,13 +5,13 @@
     "img": "facebook.svg"
   },
   {
-    "title": "Instagram",
-    "href": "https://www.instagram.com/rawtalkpodcast/",
-    "img": "instagram.svg"
-  },
-  {
     "title": "Twitter",
     "href": "https://twitter.com/rawtalkpodcast",
     "img": "twitter.svg"
+  },
+  {
+    "title": "Instagram",
+    "href": "https://www.instagram.com/rawtalkpodcast/",
+    "img": "instagram.svg"
   }
 ]
