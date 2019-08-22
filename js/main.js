@@ -2,14 +2,6 @@ $(window).on("load",function(){
   // exit the loader
   $(".load-content").removeClass("hidden");
   $(".loader").addClass("hidden");
-  // TEMP: dark mode toggle
-  $("#dark").change(function(){
-    if (this.checked) {
-      $("body").removeClass("light").addClass("dark");
-    } else {
-      $("body").removeClass("dark").addClass("light");
-    };
-  });
 });
 
 // search
@@ -30,16 +22,16 @@ if (matches && matches[1]) {
       distance: 5,
       shouldSort: true,
       threshold: 0.1,
-    }
+    };
     // do the search
-    var fuse = new Fuse(episodes, options)
-    var ids = fuse.search(q)
+    var fuse = new Fuse(episodes, options);
+    var ids = fuse.search(q);
     // hide episodes which don't match
     $(".tile-episode").each(function() {
       if (ids.includes($(this).attr("id")) === false) {
         $(this).hide();
       }
-    })
+    });
     // if no matches: show #no-search-results
     if (ids.length == 0) {
       $("#no-search-results").show();
@@ -48,8 +40,8 @@ if (matches && matches[1]) {
     }
     // add back the searchbar with the query
     $(".season-header").hide();
-    var searchbar = $("#searchbar")
-    searchbar.addClass("show")
-    searchbar.find("input").val(q)
+    var searchbar = $("#searchbar");
+    searchbar.addClass("show");
+    searchbar.find("input").val(q);
   });
 }
