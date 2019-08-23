@@ -1,7 +1,8 @@
 {
-  "name": "CJ Kim",
+  "name": "Changmo Kim",
   "title": "Photographer",
-  "img": "default.svg",
+  "img-tq": "default.svg",
+  "img-rt": "default.svg",
   "bio": "Hey podcasters - I'm CJ, and I'm a photographer for Raw Talk Podcast, working with Nathan and Mehran! As a new member to the RTP team, I look forward to capturing all the essential shots that will assist listeners in visualizing faces to an episode! Currently, I'm entering my second year of my Master's in LMP, studying the effects of small lipid molecules on glaucoma models! In my spare time, you'll catch me rowing near Cherry Beach, volunteering with the Toronto Distress Centre, climbing rocks of various sizes, and taking cooking classes!",
   "no": 6.3
 }
