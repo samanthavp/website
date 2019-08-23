@@ -163,6 +163,9 @@ img.img-link-hover-content {
 .dark img.invertable {
   filter: invert(100%) hue-rotate(180deg);
 }
+.inverted {
+  filter: invert(100%) hue-rotate(180deg);
+}
 .img-link:hover .img-link-hover {
   opacity: 1;
 }
@@ -268,6 +271,7 @@ img.img-link-hover-content {
   bottom: 0;
   width: 100%;
   background: var(--c-blue-dark);
+  color: var(--c-white);
   flex-shrink: 0;
 }
 .footer-container {
