@@ -86,6 +86,9 @@ button {
   border: none;
   padding: 0;
 }
+.date {
+  color: var(--t-mid);
+}
 .hidden {
   display: none;
 }
@@ -292,19 +295,41 @@ img.img-link-hover-content {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* home */
-#HOME {
+#home {
   --c-background: var(--c-blue-dark);
   --c-text:       var(--t-light);
 }
 #home h1 {
   visibility: hidden;
 }
-#home .footer {
-  min-height: 0;
+#home .amazon {
+  display: none;
+}
+.announce-container {
+  margin-bottom: 30px;
+  display: flex;
+  align-content: stretch;
+}
+.tile-announce {
+  padding: 5px;
+  margin: 0;
+  display: flex;
+}
+.announce-inner {
+  border: 2px solid var(--h-light);
+  padding: 10px;
+  width: 100%;
+}
+.announce-title {
+  color: var(--c-white);
+  font-size: 120%;
+}
+.announce-subtitle {
+  color: var(--c-text);
 }
 .logo-banner-container {
   height: 180px;
-  margin: -15px;
+  margin: 0 -15px;
 }
 @media (min-width:576px){
   .logo-banner-container {
@@ -317,7 +342,7 @@ img.img-link-hover-content {
   }
 }
 .logo-banner {
-  background-image: url("../img/brand/banner-long-text.svg");
+  background-image: url("../img/brand/banner-dark-text.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -326,7 +351,7 @@ img.img-link-hover-content {
 .tagline {
   padding: 50px 0;
   text-align: center;
-  font-size: 200%;
+  font-size: 150%;
 }
 .icon-listen {
   width: 50px;
@@ -342,10 +367,10 @@ img.img-link-hover-content {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* about */
-#ABOUT .body {
+#about .body {
   margin: 30px auto;
 }
-#ABOUT .amazon {
+#about .amazon {
   display: none;
 }
 /* ---------------------------------------------------------------------------------------------- */
@@ -392,10 +417,9 @@ img.img-link-hover-content {
 .episode-col {
   padding: 5px;
 }
-.img-caption p,
-.date {
+p.img-caption,
+p.date{
   padding: 5px;
-  color: var(--t-mid);
 }
 .notes {
   padding: 5px;
@@ -427,8 +451,8 @@ img.img-link-hover-content {
 .tile-highlight {
   padding: 5px;
   margin: 0;
-  height: 180px;
-  overflow: hidden;
+  /* height: 180px; */
+  /* overflow: hidden; */
   text-align: left;
 }
 .tile-exerpt {
@@ -474,7 +498,7 @@ img.img-link-hover-content {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* contact */
-#CONTACT .body {
+#contact .body {
   margin-top: 60px;
 }
 .btn {
