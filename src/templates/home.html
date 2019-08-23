@@ -1,6 +1,13 @@
 <div class="container-fluid body blue">
   <div class="row justify-content-center">
     <div class="col-12">
+      <div class="container">
+        <div class="row announce-container">
+          {{tile-announce}}
+        </div>
+      </div>
+    </div>
+    <div class="col-12">
       <div class="logo-banner-container">
         <div class="logo-banner"></div>
       </div>
@@ -13,11 +20,16 @@
       </div>
     </div>
     <div class="col-12 col-md-6">
-      <div class="section">
+      <div class="section center">
         <h3>New episodes every other Wednesday</h3>
-        <div class="row justify-content-center">
-          {{listen-on}}
-        </div>
+        {{listen-on}}
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="section center">
+        <h3>Support the show by shopping on</h3>
+        <img class="sponsor-img invertable" src="{{root}}/img/sponsors/amazon.png"><br>
+        <span class="no-wrap"><a href="{{root}}/about.html#amazon">Learn more</a></span>
       </div>
     </div>
   </div>

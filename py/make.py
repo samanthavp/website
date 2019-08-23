@@ -47,6 +47,7 @@ def get_content():
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
   c['tile-profile'] = team
+  c['tile-announce'] = c['announcements']
   return c
 
 def make_pages():
