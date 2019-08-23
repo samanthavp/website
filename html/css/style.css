@@ -399,13 +399,15 @@ img.img-link-hover-content {
 }
 .modal-content {
   border-radius: 0;
+  background: var(--c-background);
+  color: var(--c-text);
+  border: 2px solid var(--h-light);
 }
 .modal-content h4 {
   text-align: left;
 }
 .modal-body {
   padding: 15px 0px;
-  color: var(--t-dark)
 }
 .close {
   position: absolute;
@@ -413,8 +415,10 @@ img.img-link-hover-content {
   right: 0;
   top: 0;
   z-index: 99;
+  color: var(--t-mid);
   font-size: 200%;
   font-family: Arial, sans-serif;
+  text-shadow: none;
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* episodes */
