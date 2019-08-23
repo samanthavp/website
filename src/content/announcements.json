@@ -1,20 +1,20 @@
 [
   {
-    "title": "Next Episode",
-    "subtitle": "#64 on eating disorders - stay tuned...",
+    "title": "Season 4 is Launching!",
+    "subtitle": "First up: #64 on eating disorders - stay tuned...",
     "date": "September 11, 2019",
-    "href": "{{root}}/episodes.html#64"
+    "href": "{{root}}/episodes.html"
   },
   {
-    "title": "#MedicineMeetsMachine is out!",
-    "subtitle": "From Raw Talk Live 2019: AI in Medicine - #62 Where Are We Now & #63 Ethical Considerations",
+    "title": "New Season, New Look",
+    "subtitle": "We got a new site! Let us know what you think!",
+    "date": "September 1, 2019",
+    "href": "{{root}}/contact.html"
+  },
+  {
+    "title": "Debugging the Digital Doc",
+    "subtitle": "Discussions from Raw Talk Live 2019: Medicine Meets Machine now available",
     "date": "August 14, 2019",
     "href": "{{root}}/episodes.html#62"
-  },
-  {
-    "title": "Let's #VoteScience",
-    "subtitle": "Learn how & why to advocate for science this federal election",
-    "date": "August 27, 2019 | 5:30-7:30 pm",
-    "href": "https://bit.ly/2ZTVo2k\" target=\"_blank\""
   }
 ]
