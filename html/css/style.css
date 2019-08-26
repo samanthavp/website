@@ -310,9 +310,14 @@ img.img-link-hover-content {
   display: none;
 }
 .announce-container {
-  margin-bottom: 30px;
-  display: flex;
+  display: none;
   align-content: stretch;
+  background: var(--c-blue-mid)
+  /* background: var(--c-blue-dark); */
+  /* background: linear-gradient(var(--c-blue-mid),var(--c-blue-dark)); */
+}
+#home .announce-container {
+  display: flex;
 }
 .tile-announce {
   padding: 5px;
@@ -320,16 +325,12 @@ img.img-link-hover-content {
   display: flex;
 }
 .announce-inner {
-  border: 2px solid var(--h-light);
-  padding: 10px;
+  /* background: var(--c-blue-mid); */
+  padding: 5px;
   width: 100%;
 }
 .announce-title {
   color: var(--c-white);
-  font-size: 120%;
-}
-.announce-subtitle {
-  color: var(--c-text);
 }
 .logo-banner-container {
   height: 180px;
