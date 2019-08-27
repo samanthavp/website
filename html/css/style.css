@@ -320,6 +320,7 @@ img.img-link-hover-content {
   display: flex;
 }
 .tile-announce {
+  text-align: center;
   padding: 5px;
   margin: 0;
   display: flex;
@@ -359,7 +360,7 @@ img.img-link-hover-content {
   font-size: 150%;
 }
 .icon-listen {
-  width: 50px;
+  width: 40px;
   margin: 5px;
 }
 @media (min-width:992px) {
