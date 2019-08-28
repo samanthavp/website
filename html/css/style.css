@@ -313,16 +313,14 @@ img.img-link-hover-content {
   background: var(--c-blue-mid)
 }
 #home .announce-container {
-  display: flex;
+  display: block;
 }
 .tile-announce {
   text-align: center;
   padding: 5px;
   margin: 0;
-  display: flex;
 }
 .announce-inner {
-  /* background: var(--c-blue-mid); */
   padding: 5px;
   width: 100%;
 }
