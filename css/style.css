@@ -234,8 +234,6 @@ img.img-link-hover-content {
 /* ---------------------------------------------------------------------------------------------- */
 /* header & footer */
 .header {
-  display: flex;
-  flex-flow: row wrap;
   background: var(--c-blue-dark);
 }
 .header-img-container {
@@ -313,8 +311,6 @@ img.img-link-hover-content {
   display: none;
   align-content: stretch;
   background: var(--c-blue-mid)
-  /* background: var(--c-blue-dark); */
-  /* background: linear-gradient(var(--c-blue-mid),var(--c-blue-dark)); */
 }
 #home .announce-container {
   display: flex;
