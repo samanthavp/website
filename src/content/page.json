@@ -8,28 +8,28 @@
   },
   {
     "title": "ABOUT",
-    "href": "about.html",
+    "href": "about",
     "templates": {
       "body": "about"
     }
   },
   {
     "title": "TEAM",
-    "href": "team.html",
+    "href": "team",
     "templates": {
       "body": "team"
     }
   },
   {
     "title": "EPISODES",
-    "href": "episodes.html",
+    "href": "episodes",
     "templates": {
       "body": "episodes"
     }
   },
   {
     "title": "CONTACT",
-    "href": "contact.html",
+    "href": "contact",
     "templates": {
       "body": "contact"
     }

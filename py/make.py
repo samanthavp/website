@@ -36,7 +36,7 @@ def get_content():
   for i,episode in enumerate(episodes):
     episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
     episode['templates'] = utils.odict([('links','link'),('body','episode')])
-    episode['href']      = os.path.join('episodes',str(episode['no'])+'.html')
+    episode['href']      = os.path.join('episode',str(episode['no']))
     episode['authors']   = ' and '.join(episode['authors'])
     episode['next']      = episode['no']+1 if episode['no'] < len(episodes) else None
     episode['prev']      = episode['no']-1 if episode['no'] > 1 else None
