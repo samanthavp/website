@@ -1,7 +1,7 @@
 [
   {
     "title": "HOME",
-    "href": "index.html",
+    "href": "index",
     "templates": {
       "body": "home"
     }
