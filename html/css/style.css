@@ -299,7 +299,7 @@ img.img-link-hover-content {
 /* home */
 #home {
   --c-background: var(--c-blue-dark);
-  --c-text:       var(--t-light);
+  --c-text:       var(--c-white);
 }
 #home h1 {
   visibility: hidden;
