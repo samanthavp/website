@@ -2,3 +2,5 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 AllowOverride All
+
+Redirect 301 /2019/08/14/63-artificial-intelligence-in-medicine-future-and-ethical-considerations /episode/63
