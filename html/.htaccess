@@ -2,5 +2,3 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 AllowOverride All
-
-Redirect 301 /2016/10/14/episode-3-dr-norm-rosenblum/ https://raw-talk-podcast.github.io/website/episode/63
