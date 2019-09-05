@@ -11,6 +11,9 @@ def save_json(obj,fname,**kwargs):
   with open(fname,'w') as f:
     json.dump(obj,f,**kwargs)
 
+def mkdirs(fname):
+  os.makedirs(os.path.split(fname)[0],exist_ok=True)
+
 def listlen(obj):
   return len(obj) if isinstance(obj,list) else 1 if isinstance(obj,str) else 0
 

@@ -33,6 +33,7 @@ def get_content():
     page['prev'] = None
   for member in team:
     member['id'] = make_slug(member['name'])
+  c['redirect'] = []
   for i,episode in enumerate(episodes):
     episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
     episode['templates'] = utils.odict([('links','link'),('body','episode')])
@@ -43,6 +44,7 @@ def get_content():
     header = (episode['no'] == len(episodes)) or (episode['season'] < episodes[i-1]['season'])
     episode['templates'].update({'maybe-season-header':'season-header' if header else 'none'})
     c['page'].append(episode)
+    c['redirect'].append({'href-old':episode['href-old'],'href-new':'{{root}}/'+episode['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
@@ -63,6 +65,15 @@ def write_pages():
   ct.status('WRITING PAGES',level=0)
   for page,spec in zip(pages,contents['page']):
     ct.Template(page).to_file(make_fname(root,spec['href']),root=root)
+  for redirect in contents['redirect']:
+    if redirect['href-old'] is not None:
+      redirect['href-old'] += '/index.html'
+      page = templates['redirect'].get_sub_content(redirect)
+      ct.Template(page).to_file(make_fname(root,redirect['href-old']),root=root)
+    
+  # for redirect in contents['redirect']:
+  #   page = templates['redirect'].get_sub_content()
+  #   print(ct.Template(page).to_file(make_fname(root,redirect['href-old'])))
 
 def write_index(content,name):
   ct.status('Writing index: {}'.format(name),level=1)
