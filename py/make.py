@@ -67,13 +67,8 @@ def write_pages():
     ct.Template(page).to_file(make_fname(root,spec['href']),root=root)
   for redirect in contents['redirect']:
     if redirect['href-old'] is not None:
-      redirect['href-old'] += '/index.html'
       page = templates['redirect'].get_sub_content(redirect)
       ct.Template(page).to_file(make_fname(root,redirect['href-old']),root=root)
-    
-  # for redirect in contents['redirect']:
-  #   page = templates['redirect'].get_sub_content()
-  #   print(ct.Template(page).to_file(make_fname(root,redirect['href-old'])))
 
 def write_index(content,name):
   ct.status('Writing index: {}'.format(name),level=1)
