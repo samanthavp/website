@@ -150,8 +150,7 @@ button {
   transform: translate(-50%, -50%);
 }
 span.img-link-hover-content {
-  font-size: 200%;
-  font-family: Arial, sans-serif;
+  font-size: 150%;
   color: var(--c-white);
 }
 img.img-link-hover-content {
@@ -372,6 +371,11 @@ img.img-link-hover-content {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
+@media (min-width:768px) {
+  #team .section-header {
+    display: none;
+  }
+}
 .tile-profile {
   padding: 5px;
 }
@@ -455,8 +459,6 @@ p.date{
 .tile-highlight {
   padding: 5px;
   margin: 0;
-  /* height: 180px; */
-  /* overflow: hidden; */
   text-align: left;
 }
 .tile-exerpt {
@@ -473,7 +475,7 @@ p.date{
   background: linear-gradient(var(--f-trans),var(--c-background));
   content: " ";
 }
-.season-header {
+.section-header {
   flex: auto;
   margin: 5px;
   padding: 10px;
