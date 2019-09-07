@@ -1,5 +1,4 @@
 import os
-from copy import copy
 import contempt as ct
 import utils
 
@@ -31,8 +30,10 @@ def get_content():
   for page in c['page']:
     page['next'] = None
     page['prev'] = None
-  for member in team:
+  for i,member in enumerate(team):
     member['id'] = make_slug(member['name'])
+    header = (i == 0) or (member['team-name'] != team[i-1]['team-name'])
+    member.update({'templates':{'maybe-header-team':'header-team' if header else 'none'}})
   c['redirect'] = []
   for i,episode in enumerate(episodes):
     episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
@@ -42,7 +43,7 @@ def get_content():
     episode['next']      = episode['no']+1 if episode['no'] < len(episodes) else None
     episode['prev']      = episode['no']-1 if episode['no'] > 1 else None
     header = (episode['no'] == len(episodes)) or (episode['season'] < episodes[i-1]['season'])
-    episode['templates'].update({'maybe-season-header':'season-header' if header else 'none'})
+    episode['templates'].update({'maybe-header-season':'header-season' if header else 'none'})
     c['page'].append(episode)
     c['redirect'].append({'href-old':episode['href-old'],'href-new':'{{root}}/'+episode['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
@@ -74,7 +75,7 @@ def write_index(content,name):
   ct.status('Writing index: {}'.format(name),level=1)
   utils.save_json(content,make_fname(root,'search',name,ext='.json'),indent=1)
 
-ct.verbose = None
+ct.verbose = 2
 root = 'html'
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
