@@ -1,9 +1,7 @@
-$(document).ready(function(){
-  var tiles = $(".load-content").find(".profile-img-tile,.episode-img-tile")
-  tiles.eq(12).on("load",function(){
-    $(".load-content").removeClass("hidden");
-    $(".loader").addClass("hidden");
-  });
+$(window).on("load",function(){
+  // exit the loader
+  $(".load-content").removeClass("hidden");
+  $(".loader").addClass("hidden");
 });
 
 // search
