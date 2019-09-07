@@ -3,3 +3,4 @@ __pycache__/
 .tags
 .atom-build.yml
 resources/
+html/_site/
