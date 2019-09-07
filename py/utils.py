@@ -40,6 +40,9 @@ def dictmerge(*dicts,ordered=False):
   else:
     return odict([(k,d[k]) for d in dicts for k in d])
 
+def splitfmt(string,delim,fmt):
+  return delim.join([fmt.format(sub) for sub in string.split(delim)])
+
 def iter_files(paths,exts=None):
   def checkext(path):
     return exts is None or os.path.splitext(path)[1] in flatten(exts)

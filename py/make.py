@@ -32,6 +32,7 @@ def get_content():
     page['prev'] = None
   for i,member in enumerate(team):
     member['id'] = make_slug(member['name'])
+    member['title'] = utils.splitfmt(member['title'],' & ','<span class="no-wrap">{}</span>')
     header = (i == 0) or (member['team-name'] != team[i-1]['team-name'])
     member.update({'templates':{'maybe-header-team':'header-team' if header else 'none'}})
   c['redirect'] = []
