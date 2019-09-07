@@ -39,7 +39,7 @@ if (matches && matches[1]) {
       $("#no-search-results").hide();
     }
     // add back the searchbar with the query
-    $(".season-header").hide();
+    $(".section-header").hide();
     var searchbar = $("#searchbar");
     searchbar.addClass("show");
     searchbar.find("input").val(q);
