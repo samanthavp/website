@@ -45,6 +45,7 @@ def get_content():
     episode['prev']      = episode['no']-1 if episode['no'] > 1 else None
     header = (episode['no'] == len(episodes)) or (episode['season'] < episodes[i-1]['season'])
     episode['templates'].update({'maybe-header-season':'header-season' if header else 'none'})
+    episode['description'] = episode['notes'][0:256].replace('\"','\'')
     c['page'].append(episode)
     c['redirect'].append({'href-old':episode['href-old'],'href-new':'{{root}}/'+episode['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
