@@ -3,6 +3,7 @@
     "title": "HOME",
     "href": "index",
     "description": "Behind every discovery, there's a story. New episodes every other Wednesday.",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
       "body": "home"
     }
@@ -11,6 +12,7 @@
     "title": "ABOUT",
     "href": "about",
     "description": "Raw Talk is a graduate student-run podcast about some of the most accomplished medical researchers and professionals at the University of Toronto.",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
       "body": "about"
     }
@@ -19,6 +21,7 @@
     "title": "TEAM",
     "href": "team",
     "description": "Get to know some of the graduate students behind the show.",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
       "body": "team"
     }
@@ -27,6 +30,7 @@
     "title": "EPISODES",
     "href": "episodes",
     "description": "Browse, read the notes, and listen to the podcast right here.",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
       "body": "episodes"
     }
@@ -35,6 +39,7 @@
     "title": "CONTACT",
     "href": "contact",
     "description": "Questions, comments, input, constructive criticism? Tell us about it!",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
       "body": "contact"
     }
