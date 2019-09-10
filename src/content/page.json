@@ -11,7 +11,7 @@
   {
     "title": "ABOUT",
     "href": "about",
-    "description": "Raw Talk is a graduate student-run podcast about some of the most accomplished medical researchers and professionals at the University of Toronto.",
+    "description": "Raw Talk is a graduate student-run podcast about medical researchers and professionals at the University of Toronto.",
     "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
       "body": "about"
