@@ -1,0 +1,39 @@
+{
+  "no": 64,
+  "title": "All Consuming: The Science and Stories behind Eating Disorders",
+  "blubrry": "48784088",
+  "date": "Sept 11, 2019",
+  "season": 4,
+  "img-tile": "candice-and-maharaj-from-nedic.jpg",
+  "img-caption": "Tracie Burke and Holly Dickenson from the Eating Disorders Program at Toronto General Hospital",
+  "img-page": "tracie-burke-and-holly-dickenson.jpg",
+  "notes": "Food is a part of our everyday lives and is essential for us to survive and thrive. For many of us, food is also a source of joy. We share stories, make memories, and plan our lives around meals. Photos and smells of food often bring nostalgic memories to mind and a smile to our faces. But what happens when your relationship with food impacts your life negatively? On this week's episode, we aimed to gain a greater perspective on Eating Disorders with the help of several guests. Tracie Burke and Holly Dickenson are two Registered Dietitians working with the Eating Disorders Program at Toronto General Hospital, who guide us through the steps their patients take in the program. You'll also hear from Candice Richardson who shares her lived experience with eating disorders. Candice and her colleague Ary Maharaj also work with the National Eating Disorder Information Centre (NEDIC), conducting outreach and providing support to and information for patients and their families. Finally, we dive into the latest research on eating disorders with Dr. Allan Kaplan, Senior Scientist and Psychiatrist at the Centre for Addiction and Mental Health who investigates the psychobiological factors of Eating Disorders and Shauna Solomon-Krakus, a PhD Candidate whose thesis focuses on the relationship between personality, emotions, and eating disorders. Tune in to hear our guests debunk myths and common misconceptions surrounding eating disorders and shed light on these poorly studied diseases.",
+  "authors": ["Tsukiko Miyata"],
+  "tags": [],
+  "links": [
+    { "title": "Research at the Centre for Addiction and Mental Health",
+      "href": "https://www.camh.ca/en/science-and-research"
+    },
+    { "title": "The Eating Disorders Program at UHN",
+      "href": "https://www.uhn.ca/MCC/PatientsFamilies/Clinics_Tests/Eating_Disorder/Pages/about_us.aspx"
+    },
+    { "title": "The National Eating Disorder Information Centre",
+      "href": "https://nedic.ca"
+    },
+    { "title": "Dr. Allan Kaplan's Website",
+      "href": "https://www.psychiatry.utoronto.ca/faculty/dr-allan-s-kaplan"
+    },
+    { "title": "Article: Maladaptive perfectionism in eating disorders",
+      "href": "https://dx.doi.org/10.1556%2F2006.5.2016.004"
+    },
+    { "title": "Article: Disordered eating and fitspiration on Instagram",
+      "href": "https://doi.org/10.1002/eat.22559"
+    },
+    { "title": "Article: High vs low calorie foods: food preference in anorexia nervosa",
+      "href": "https://doi.org/10.1016/j.pscychresns.2016.10.004"
+    },
+    { "title": "Article: Genetics suggest metabo-psychiatric origins for anorexia nervosa",
+      "href": "https://doi.org/10.1038/s41588-019-0439-2"
+    }
+  ]
+}
