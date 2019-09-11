@@ -48,7 +48,8 @@ def get_content():
     episode['description'] = episode['notes'][0:256].replace('\"','\'')
     episode['img-meta']    = 'http://www.rawtalkpodcast.com/img/episodes/'+str(episode['no'])+'/'+episode['img-tile']
     c['page'].append(episode)
-    c['redirect'].append({'href-old':episode['href-old'],'href-new':'{{root}}/'+episode['href']})
+    hrefold = episode['href-old'] if 'href-old' in episode else None
+    c['redirect'].append({'href-old':hrefold,'href-new':'{{root}}/'+episode['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
