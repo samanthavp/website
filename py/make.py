@@ -41,6 +41,7 @@ def get_content():
     episode['templates'] = utils.odict([('links','link'),('body','episode')])
     episode['href']      = os.path.join('episode',str(episode['no']))
     episode['authors']   = ' and '.join(episode['authors'])
+    episode['prod-team'] = ', '.join(episode['prod-team'])
     episode['next']      = episode['no']+1 if episode['no'] < len(episodes) else None
     episode['prev']      = episode['no']-1 if episode['no'] > 1 else None
     header = (episode['no'] == len(episodes)) or (episode['season'] < episodes[i-1]['season'])

@@ -484,11 +484,6 @@ p.date{
   text-align: center;
   font-size: 150%;
 }
-.links-container {
-  position: relative;
-  z-index: 9999;
-  margin-top: 15px;
-}
 .link-arrow {
   opacity: 0.5;
 }
