@@ -90,3 +90,5 @@
 ```
 `DNE`: do not edit!
 `AG`: automatically generated
+
+Last updated: 2019-09-25, Jesse Knight
