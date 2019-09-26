@@ -5,7 +5,8 @@
     "description": "Behind every discovery, there's a story. New episodes every other Wednesday.",
     "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
-      "body": "home"
+      "body": "home",
+      "announce": "announcements"
     }
   },
   {

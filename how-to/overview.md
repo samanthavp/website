@@ -64,6 +64,7 @@
     └── templates/                      # html files into which content "data" will be substituted
         ├── about.html                  # main content of the "about" page
         ├── amazon.html                 # content explaining how the amazon program works
+        ├── announcements.html          # wrapper of the announcements tiles
         ├── contact.html                # main content of the "contact" page
         ├── episode.html                # main content of any single "episode" page
         ├── episodes.html               # main content of the "episodes" overview page
