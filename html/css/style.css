@@ -291,6 +291,10 @@ img.img-link-hover-content {
 .sponsor-img-large {
   height: 100px;
 }
+.amazon-link {
+  font-size: 150%;
+  margin: 15px;
+}
 /* ---------------------------------------------------------------------------------------------- */
 /* home */
 #home {
