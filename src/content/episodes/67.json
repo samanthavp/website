@@ -1,0 +1,31 @@
+{
+  "no": 67,
+  "title": "Out of this World - Research and Health in Space",
+  "blubrry": "50933554",
+  "date": "October 23, 2019",
+  "season": 4,
+  "img-tile": "iss-window.jpg",
+  "img-caption": "Dr. Dave Williams, former CSA astronaut, physician specializing in emergency medicine, President and CEO of Southlake Regional Health Centre, aquanaut, pilot, and best-selling author!",
+  "img-page": "dave-williams.jpg",
+  "notes": "Fifty years after humans first set foot on the Moon, we're on the verge of a new era in space exploration. The Canadian Space Agency (CSA) and NASA have upcoming plans to go back to the Moon and even the private sector is in on the action, with SpaceX aspiring to send a crew to Mars by 2024. Space exploration is exciting, but we are far from understanding all the effects of space travel on the human body. In today's episode, we spoke to Dr. Shane Journeay, a physician specializing in physical and rehabilitation medicine. He told us about the requirements for becoming an astronaut, the physical toll of space travel, and the rehabilitation required after returning to Earth. We also spoke to former CSA astronaut and physician Dr. Dave Williams, who told us all about his experience on the International Space Station - from eating and sleeping to running experiments in outer space. Scientists Dr. Laurence Harris and Marieke de Korte told us about the space health research they're involved with, and Pierre-Alexandre Fournier, CEO of Hexoskin, told us about Astroskin, an intelligent textile that continuously monitors the vital signs of astronauts. You don't want to miss out on this stellar episode!",
+  "authors": ["Thamiya Vasanthakumar"],
+  "prod-team": [],
+  "tags": [],
+  "links": [
+    { "title": "Astronaut Dave Williams' book Defying Limits",
+      "href": "https://www.amazon.ca/Defying-Limits-Lessons-Edge-Universe-ebook/dp/B07CLFT1L3"
+    },
+    { "title": "NASA Twin Study",
+      "href": "https://www.nasa.gov/twins-study"
+    },
+    { "title": "Vection Project",
+      "href": "http://www.asc-csa.gc.ca/eng/sciences/vection.asp"
+    },
+    { "title": "Immuno Profile: Staying Healthy in Space",
+      "href": "http://www.asc-csa.gc.ca/eng/sciences/immuno-profile.asp"
+    },
+    { "title": "Canadian Space Agency: Life in Space",
+      "href": "http://www.asc-csa.gc.ca/eng/sciences/life.asp"
+    }
+  ]
+}
