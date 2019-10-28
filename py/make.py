@@ -51,7 +51,7 @@ def get_content():
     c['page'].append(episode)
     hrefold = episode['href-old'] if 'href-old' in episode else None
     c['redirect'].append({'href-old':hrefold,'href-new':'{{root}}/'+episode['href']})
-  c['redirect'].append({'href-old':'latest','href-new':'{{root}}/'+episodes[0]['href']})
+  c['redirect'].append({'href-old':'latest/index.html','href-new':'{{root}}/'+episodes[0]['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
