@@ -26,7 +26,7 @@ def get_content():
   navpages = ['HOME','ABOUT','TEAM','EPISODES','CONTACT']
   c['nav-item'] = [page for page in c['page'] if page['title'] in navpages]
   write_index(episodes,'episodes')
-  # clean up some fields on the fly
+  # clean up / build some fields on the fly
   for page in c['page']:
     page['next'] = None
     page['prev'] = None
@@ -51,6 +51,7 @@ def get_content():
     c['page'].append(episode)
     hrefold = episode['href-old'] if 'href-old' in episode else None
     c['redirect'].append({'href-old':hrefold,'href-new':'{{root}}/'+episode['href']})
+  c['redirect'].append({'href-old':'latest','href-new':'{{root}}/'+episodes[0]['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
   # duplicate some content TODO: is this expensive?
   c['tile-episode'] = episodes
