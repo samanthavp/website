@@ -11,5 +11,27 @@
   "authors": ["Tsukiko Miyata"],
   "prod-team": [],
   "tags": [],
-  "links": []
+  "links": [
+    { "title": "Frederick Barrett Homepage",
+      "href": "https://www.hopkinsmedicine.org/profiles/results/directory/profile/10000707/frederick-barrett"
+    },
+    { "title": "Norman Farb Homepage",
+      "href": "https://www.utm.utoronto.ca/psychology/faculty-staff/farb-norman"
+    },
+    { "title": "Edward Shorter's Website",
+      "href": "https://edwardshorterauthor.com"
+    },
+    { "title": "Soma Elixir: Nectar of the Gods (Article)",
+      "href": "https://www.psychedelicadventure.net/2014/12/soma-elixir-nectar-of-gods.html"
+    },
+    { "title": "Tripping through Time: The Fascinating History of the Magic Mushroom (Article)",
+      "href": "https://www.ancient-origins.net/history-ancient-traditions/tripping-through-time-fascinating-history-magic-mushroom-007474"
+    },
+    { "title": "Ayahuasca: Shamanism Shared Across Cultures (Article)",
+      "href": "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/ayahuasca-shamanism-shared-across-cultures"
+    },
+    { "title": "Peyote Website",
+      "href": "https://www.peyote.org"
+    }
+  ]
 }
