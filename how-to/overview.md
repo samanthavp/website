@@ -1,3 +1,8 @@
+`DNE`: do not edit!
+`AG`: automatically generated - edits will be overwritten
+
+Last updated: 2019-11-08, Jesse Knight
+
 ```
 ├── README.md                           # readme file
 |
@@ -6,6 +11,7 @@
 |   └── how-to.md                       # how-to guide for editing, building, publishing the site
 |
 ├── html/                               # code which renders the live site
+|   ├── test.py                         # python script for local testing of site
 |   ├── CNAME                           # DNE url redirect file
 |   ├── css/                            # css files
 |   |   ├── bootstrap.min.css           # DNE imported css
@@ -21,6 +27,7 @@
 |   ├── contact.html                    # AG "contact" page
 |   ├── episodes.html                   # AG "episode" overview page
 |   ├── team.html                       # AG "team" overview page, contains popups
+|   ├── latest/index.html               # AG redirect page pointing to most recent episode
 |   ├── episode/                        # AG folder containing each pages for each episode
 |   |   ├── 1.html                      # AG "Episode 1" page
 |   |   ...                             # AG ...
@@ -89,7 +96,3 @@
         ├── tile-highlight.html         # snippet for each highlighted episode on "about" page
         └── tile-profile.html           # snippet for each team member preview on "team" page
 ```
-`DNE`: do not edit!
-`AG`: automatically generated
-
-Last updated: 2019-09-25, Jesse Knight
