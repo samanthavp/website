@@ -11,8 +11,7 @@ class Handler(SimpleHTTPRequestHandler):
     else:
       path,qstr = path,None
     # append the default extension: '.html'
-    print(path)
-    if os.path.splitext(path)[1] == '':
+    if os.path.splitext(path)[1] == '' and path != '/':
       path = path+'.html'
     # add back search query if any
     if qstr:
