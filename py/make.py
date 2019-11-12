@@ -49,7 +49,7 @@ def get_content():
     episode['templates'].update({'maybe-header-season':'header-season' if header else 'none'})
     episode['description'] = episode['notes'][0:256].replace('\"','\'')
     episode['img-meta']    = 'http://www.rawtalkpodcast.com/img/episodes/'+str(episode['no'])+'/'+episode['img-tile']
-    episode['transcripts'] = transcripts[str(i+1)]
+    episode['transcripts'] = transcripts[str(len(episodes)-i)]
     c['page'].append(episode)
     hrefold = episode['href-old'] if 'href-old' in episode else None
     c['redirect'].append({'href-old':hrefold,'href-new':'{{root}}/'+episode['href']})
