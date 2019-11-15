@@ -51,6 +51,15 @@ body {
   color: var(--c-text);
   background: var(--c-background);
 }
+::selection {
+  background: var(--c-hover);
+}
+::-webkit-scrollbar {
+  background: var(--c-head-back);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--c-hover);
+}
 p {
   font-family: 'Fakt Pro Light', sans-serif;
   margin-bottom: 5px;
@@ -431,6 +440,21 @@ p.date{
 }
 .notes {
   padding: 5px;
+}
+#transcripts {
+  margin-top: 10px;
+  min-height: 100px;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+.transcript {
+  display: inline;
+}
+.transcript.speaker {
+  font-weight: bold;
+}
+.transcript.timestamp {
+  color: var(--t-mid);
 }
 .episode-img-tile {
   width: 100%;

@@ -20,8 +20,9 @@ def get_content():
   path = os.path.join('src','content')
   c = ct.get_content(path)
   # sort episodes & team
-  episodes = sort(c['episodes'].values(),reverse=True)
-  team     = sort(c['team'].values())
+  episodes    = sort(c['episodes'].values(),reverse=True)
+  transcripts = c['transcripts']
+  team        = sort(c['team'].values())
   # collect the navbar before adding episodes to pages
   navpages = ['HOME','ABOUT','TEAM','EPISODES','CONTACT']
   c['nav-item'] = [page for page in c['page'] if page['title'] in navpages]
@@ -38,7 +39,7 @@ def get_content():
   c['redirect'] = []
   for i,episode in enumerate(episodes):
     episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
-    episode['templates'] = utils.odict([('links','link'),('body','episode')])
+    episode['templates'] = utils.odict([('links','link'),('transcripts','transcript'),('body','episode')])
     episode['href']      = os.path.join('episode',str(episode['no']))
     episode['authors']   = ' and '.join(episode['authors'])
     episode['prod-team'] = ', '.join(episode['prod-team'])
@@ -48,6 +49,7 @@ def get_content():
     episode['templates'].update({'maybe-header-season':'header-season' if header else 'none'})
     episode['description'] = episode['notes'][0:256].replace('\"','\'')
     episode['img-meta']    = 'http://www.rawtalkpodcast.com/img/episodes/'+str(episode['no'])+'/'+episode['img-tile']
+    episode['transcripts'] = transcripts[str(len(episodes)-i)]
     c['page'].append(episode)
     hrefold = episode['href-old'] if 'href-old' in episode else None
     c['redirect'].append({'href-old':hrefold,'href-new':'{{root}}/'+episode['href']})
