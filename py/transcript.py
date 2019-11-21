@@ -3,7 +3,7 @@ import re
 import json
 from collections import OrderedDict as odict
 # file paths
-episode = 68
+episode = 67
 ifile = os.path.join('resources','transcripts','raw',str(episode)+'.txt')
 ofile = os.path.join('src','content','transcripts',str(episode)+'.json')
 # source txt file - from otter.ai
@@ -13,7 +13,7 @@ with open(ifile,'r') as f:
 # parse the file
 print('parsing ...')
 data = []
-for match in re.findall('(.*)  (\d*:\d\d)  \n(.*)',raw):
+for match in re.findall('(.*)  \[(\d*\:*\d*\:\d\d)\]  \n(.*)',raw):
   print(' > [{}] {}'.format(match[1],match[0]))
   data.append(odict([
       ('speaker', match[0].replace('Unknown Speaker','')),
