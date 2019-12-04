@@ -1,5 +1,47 @@
 [
  {
+  "no": 70,
+  "title": "Not Just Tiny Adults",
+  "blubrry": "52705142",
+  "date": "December 4, 2019",
+  "season": 4,
+  "img-tile": "elizabeth-stephenson.jpg",
+  "img-caption": "Dr. Paul Nathan, Staff Pediatric Oncologist, Senior Associate Scientist, and Director of the AfterCare Program at the Hospital for Sick Children",
+  "img-page": "paul-nathan.jpg",
+  "notes": "Children have historically been excluded from medical research studies and clinical trials in order to protect them. While this exclusion is well intentioned, we need pediatric research to answer important clinical questions and improve clinical care for this patient population. On this episode of Raw Talk, we explored the nuances of pediatric health research and clinical practice. Our conversation started with Dr. Elizabeth Stephenson, Staff Cardiologist, researcher, and Chair of the Research Ethics Board at the Hospital for Sick Children (SickKids), who shares why it's so important to include vulnerable populations, like children, in research and the ethical considerations that make this possible. Dr. Stephenson also discussed concepts including capacity, consent vs assent, and risk vs benefit in the pediatric setting. We also spoke with Nurse Practitioner Tara McKeown and Clinical Research Nurse Andrea Cote about their exciting and challenging roles in the New Agent and Innovative Therapy (NAIT) program, conducting early phase clinical trials at SickKids. Finally, Dr. Paul Nathan, Director of the AfterCare childhood cancer survivorship program at SickKids, shares how clinical care differs in childhood vs adult cancer survivors, the concept of \"shared care\" in this field, and both he and Dr. Stephenson discuss the importance of including children and adolescents in conversations about their health.",
+  "authors": [
+   "Melissa Galati"
+  ],
+  "prod-team": [],
+  "tags": [],
+  "links": [
+   {
+    "title": "Pediatric Oncology Group of Ontario",
+    "href": "https://www.pogo.ca/"
+   },
+   {
+    "title": "All Ontario AfterCare Programs - POGO",
+    "href": "https://www.pogo.ca/programs-support/survivor-care/pogo-aftercare-program/"
+   },
+   {
+    "title": "SickKids AfterCare Program",
+    "href": "http://www.sickkids.ca/HaematologyOncology/What-We-Do/Patient-Services/Programs/index.html"
+   },
+   {
+    "title": "New Agent and Innovative Therapy (NAIT) Program",
+    "href": "http://www.sickkids.ca/HaematologyOncology/nait/index.html"
+   },
+   {
+    "title": "Children's Oncology Group (COG)",
+    "href": "https://www.childrensoncologygroup.org/"
+   },
+   {
+    "title": "Ronald McDonald House Toronto",
+    "href": "https://www.rmhctoronto.ca/"
+   }
+  ]
+ },
+ {
   "no": 69,
   "title": "Forgotten Voices: Exploring Homelessness and Health",
   "blubrry": "52171854",
