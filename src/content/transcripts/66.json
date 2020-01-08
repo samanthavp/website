@@ -1,7 +1,522 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Member of the Public 1",
+    "time": "0:00",
+    "text": "I think it's just so fundamental to everything we do and we face so many challenges in Canada."
+  },
+  {
+    "speaker": "Member of the Public 2",
+    "time": "0:05",
+    "text": "Because I have a son who's 16 years old, and I want him to have a good future. "
+  },
+  {
+    "speaker": "Member of the Public 3",
+    "time": "0:11",
+    "text": "It helps drive the way we live and like what we do every day is all affected by science."
+  },
+  {
+    "speaker": "Member of the Public 4",
+    "time": "0:18",
+    "text": "I think our society has so many different components that are based directly on science. "
+  },
+  {
+    "speaker": "Amanda Veri",
+    "time": "0:25",
+    "text": "It's so important to vote science, because I think these things never get talked about very much."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:31",
+    "text": "Hi, I'm Grace. I'm Frank, and welcome to Episode 66 of the Raw Talk Podcast. In a few short weeks, Canadians from coast to coast will be voting in a federal election."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "0:41",
+    "text": "Well, issues such as healthcare, the economy and public safety are often top of mind for both politicians and the public. There's one vital issue which does not often get the spotlight, and that's science. But why is it that science gets neglected? And what can we do to change this starting with our upcoming election? Let's dive in."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:08",
+    "text": "Despite our political differences, all Canadians benefit from our country's continued success in science and other research. In our last episode, number 65, we discussed how government funding of science works and how it has been seriously lacking in recent decades. I spoke with Dr. David Naylor, former President of the University of Toronto and Chair of a recent government panel tasked with reporting on the current state of the science ecosystem in Canada."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:34",
+    "text": "Dr. Naylor emphasized that funding of fundamental, curiosity driven research is the most critical aspect of science policy, and is essential to improving the state of science and scholarship in our country. He also spoke to us about what we must do to focus political attention on this issue during the election and beyond."
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "1:53",
+    "text": "Every bit of technology here is its roots in some form of discovery made anywhere from 250 years ago, when you look at all the digital and wireless technology here, or similar vintage for screens that are LED screens, all that science goes back at least 250 years. And then you move forward and it's just a recognition that everything we have, in so many ways, is a function of research. You think about the rule of law, civil society, our commitment to equity and diversity, all these things are products of social science and the humanities asking difficult questions about a just society. You know, the contribution that research and inquiry has made to the civilization we enjoy, under threat a bit these days with nativism and populism, but the contribution made by scholarship and science is massive and we simply have to get that message out to the Canadian public consistently constructively, and target them as much as we target the politicians. Then I think this constant, you know, jockeying with the federal government will be very different and we will have a lot more decision makers who get it and who believe it and who want to make a difference with us."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "3:00",
+    "text": "The scientific community in Canada has struggled for many years with capturing the attention of politicians. As Dr. Naylor mentioned, we seem to be constantly jockeying with the federal government for money because science isn't seen as an issue that really matters and it often becomes an easy target for politicians looking for something to cut. This is partially because the public isn't as engaged with science as they are with issues that more directly affect their wallets. We hope that this episode will be part of a wider and vital effort in the community to change that. The importance of public engagement was emphasized in a conversation I had with Dr. Molly Shoichet, Professor at the University of Toronto and former Ontario Chief Scientist, a role she was removed from with the recent change in government, and which has remained vacant under the current provincial administration."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "3:48",
+    "text": "And you might say like, why is it important for people to know what science is? And part of that is, first of all, if you don't know it exists, you can't value it. But then why should you value it? I think you should value it because it impacts everything you do in life. You know, if you think about just how you get to work, even if you walk or take a bicycle, you know, you're walking on roads, you know, if it's in the winter, they're clear of ice, so you're not falling. You know, even simple things, even like, if you play soccer, even your soccer balls are much more technologically advanced today than they were before. But then, of course, there's all you know, the more obvious things like the iPhone, and people are living longer. So the importance about science and engineering is just understanding and appreciating how that's influencing our lives. And then understanding the implications of that for our lives tomorrow."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "4:46",
+    "text": "We asked Dr. Shoichet whether she thought science itself was political, or whether something else might be driving the politicization of discussions about science."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "4:55",
+    "text": "So I don't think science itself is political. But I do think people use science to advance their own political agendas. And, unfortunately, there's just a lot of \"stuff\" on the internet. And you know, as soon as it's published people use that as a truth or they use that as a way to represent their gut feelings or what they \"just know\". And so that has led, to and we have also a lot of, what I'll call, celebrity science, where people with large voices and large followings engage or use their voice to advance what they think they know is right. And so that's led to a lot of confusion amongst the public and that's really unfortunate, because, you know, we've gone backwards in so many different areas - the most obvious ones around vaccines or climate change, and that is a misuse of science. So science itself is not political, but I think the the misuse of it can be."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "6:06",
+    "text": "Misuse of science is becoming more and more commonplace. And this misuse has contributed increasingly to public distrust of science and the scientific enterprise. Naz spoke to Farah Qaiser, a University of Toronto Graduate Student and President of the Toronto Science Policy Network, or TSPN for short, a science advocacy organization."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "6:26",
+    "text": "What exactly does science policy consist of? We asked Farah how she would define it."
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "6:33",
+    "text": "So science policy is a fairly broad term, it could be divided into two parts: there's science for policy and there's policy for science. Policy for science is something that most researchers are aware of, for example, how can we best allocate funding to fund research? Or how can we help support trainees in science? So it's basically all the rules and policies that you can take to kind of govern science and research itself. But then science for policy is how you can use science to inform decision-making. Now science is just one of the many inputs in the policy making process. There's also economics, budgetary trade-offs, public opinion, and so on. So it's trying to see how you can use use evidence to inform policy decisions."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "7:18",
+    "text": "Previously, what position have political parties taken when discussing both policy for science and science policy? Four years ago, during our last federal election, the Liberal Party, led by Justin Trudeau, set ambitious goals to increase support for science as well as to integrate science into government decision-making."
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "7:36",
+    "text": "The Liberals ran on a platform that included a commitment to evidence-based decision-making and what they called on unshaclking federal scientists as well as taking a look at science and its place in society and in Canada more generally. And so the science minister was appointed, that was a positive step, a new one. Kirsty Duncan not only became the science minister, but our rarity in public life had a PhD - a challenge we face more generally in this country, not enough public servants and politicians with a research background. And the minister made it pretty clear early on, she was concerned about funding, had picked up the message that the Harper government had focused on applied research, had not provided a lot of funding in general, but particularly earmarked towards applications and innovation. So, from early on in her term, as Minister, Dr. Duncan emphasized the need to think about how to support independent fundamental science. And to give the government credit, right from the outset, they signalled an intent to appoint a Chief Scientist, and they proceeded with that, and I think that was 2017 in the Fall, and they also took steps to restore the right of federal scientists to speak freely with the press and on the record, another step that I think affirmed independence of thought, and a commitment to evidence, whatever it was. So there were things that had taken place right out of the gate that were positive, but the main response was in Budget 2018."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "9:05",
+    "text": "Direct involvement of scientists in the governing process is one obvious way to ensure that science evidence and the scientific method are incorporated into political decision making, as well as to ensure that science remains a priority period. It's also vital to ensuring that we have advocates at the table pushing for considerations such as funding. A Chief Scientist with a strong mandate can make a big difference - something to perhaps ask candidates about when they come knocking on your door."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "9:34",
+    "text": "We asked Dr. Shoichet, for her thoughts on the lack of scientists in government and whether that might be changing."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "9:40",
+    "text": "You know, I would love to see more scientists in government, because then I think the decision makers will be more engaged with understanding science and, and not just science, but that whole methodology, that we all take for granted, but you know, we're very methodical you know, even though we might discover something completely unexpected, we at least start off in a very structured way. So I can tell you that more of my PhD students are going into government positions, not as necessarily running for public office, but going into the public service and that I think, is equally important because those are, you know. The politicians have to get elected and, you know, are obviously integral to the decision-making, but they're influenced a lot by people in the public sector, who can provide that evidence and help guide them in their decision-making. That's actually something I was really excited about when I was Chief Scientist, was a little bit of showing scientists that \"Hey, look! We can have a role in government too!\""
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "10:50",
+    "text": "While getting more scientists involved in government, in an elected capacity or otherwise, is an important long-term goal. What can the scientific community and its allies do in the short-term?"
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "11:01",
+    "text": "We've already touched on a few important points we need to be advocating for with candidates and political parties: 1. Improved funding for science, 2. Incorporation of science and scientists into the decision-making process, more on that later. The question is: how do we get these messages out there in the days leading up to the election and beyond?"
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "11:23",
+    "text": "TSPN, together with many other national science advocacy organizations, such as the nonprofits Evidence4Democracy and the Science-Policy Exchange, have made things quite easy with their Vote Science campaign."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "11:35",
+    "text": "The goal of this campaign is to empower the Canadian science community, and Canadians in general, to engage with their MP candidates on issues relating to science policy -  a goal we strongly support at Raw Talk."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "11:49",
+    "text": "We will hear more about the Vote Science campaign later, but we first wanted to share an inspiring story from Dr. Amanda Veri, a Research Associate at the University of Toronto who spoke at the Vote Science  Toronto launch event."
+  },
+  {
+    "speaker": "Amanda Veri",
+    "time": "12:01",
+    "text": "I just finished my PhD in Molecular Genetics at the University of Toronto and I basically come from no political background whatsoever, I have no experience in this at all. So this is kind of a new area that I tried to explore during my PhD. I also during my PhD felt completely in love with microbes. And so it's kind of been a mission for me to try to use my microbes in fun ways to try and make them beautiful and use them to inspire other people to also fall in love with microbes. So during the course of my PhD, I was just chugging along, and then a couple of days after the PC government was elected, they announced that they were firing the Ontario Chief Scientist, Dr. Molly Shoichet, but said that they would find a suitable and qualified replacement. So at the time a lot of people in our work area and all across the internet were kind of upset by this - it was such a bad sign coming straight out of the election and also because this position is so important. And while they said that they were going to hire a new person to fill this role, it really was important that the person hired into this position had a strong background in science, but also that they would be the voice for scientists and would represent what the Ontario scientists want to be presented to the government. So it was important and it was kind of upsetting that this was happening. So while I was stewing on my feelings about this, obviously, Evidence4Democracy was already doing something. And within a couple of days, they had a campaign started to advocate for the hiring of a new Chief Scientist. Right away, they had a campaign and I went on the website, I just put in my name and my postal code and immediately from there, they sent an email to both Premier Ford, and to my MPP to tell them that I cared about this issue and I wanted a new Ontario Chief Scientist to be hired. And the same would be for the Vote Science campaign, they'll contact your MP right away. So that's really easy, and I did it, but I felt kind of unsatisfied because I was just thinking about how many emails a day you get and how easy it would be for my MPP to just ignore that email all together. So I decided to turn to my friendly pathogenic fungi to see if they would help. So I wanted to grab the attention of my MPP but first I need to learn a little bit more about him. So the MPP for my riding, which is King-Vaughn is Stephen Lecce. And he is part of the Progressive Conservative Party, this was his first time being elected, but also his first time running, but he had experience in policy before, in politics before, working for the Prime Minister's Office under Stephen Harper. And now, since then, he's been sworn in as Ontario's Minister of Education. So from my research, what I found was that he seemed to really care about our riding and cared about the people in his riding, but also the he was young. And so I did the millennial thing and I turned to social media. So I got out my fungal friends and I decided that I would write out his name in fungi on a petri dish and let it grow. And then I did just did this simple thing: I sent a quick tweet to him to invite him to come to my lab to learn about my science, but also to talk about the need for a Chief Scientist. And so I kind of left that out to the universe and kind of walked away, went back to my experiments and didn't really think about anything. But then two, less than two, hours later, I had a response from him right away, saying that he was willing to come and meet with me and talk more. And this was such an exciting thing for me, because it really was very minimal active effort on my part, you know, the fungi did all the work for me and it was so exciting that he had agreed to come and to talk to me. And so I really want to emphasize again that while it may not always work this easily, it doesn't have to be a lot of work to have this come to play. And then I started panicking because then I had understanding what I had actually volunteering to do. And so I needed to, you know, do whatever researcher does and just gather more information and, and ask for help and try and get more resources to feel more comfortable with this. And luckily, at the time, I had help from Kathleen Walsh, who used to work for Evidence4Democracy and she was amazing in coaching me through the experience. I also talked to Dr. Molly Shoichet, and she helped me to learn a little bit more about the role. And I also sent out a quick survey to all of the scientists I knew in my Department, in my university, and on Twitter, just to find out what people cared about and to make sure that everybody wanted this Ontario Chief Scientist and find out other things that they cared about that I could bring up. So that really helped me to feel like I had the information and then I was ready to go. So then, you know, we set up the meeting with Stephen's staff and within a couple weeks, he visited my lab and we had a great meeting. I gave him a tour or lab space and introduced him to some of the cool science that we were doing in my lab as well as some of the research going on around us. I also had a little bit of like fun experiments that he could do where he could observe science himself so that he could really feel more connected and engaged with the science - we looked under a microscope, we had him pick up some plates, and we took some cool pictures. But at the same time, what it really allowed me to do is within that having fun is also have conversations about things that I cared about. So talking about the need for the Ontario Chief Scientist, talking about funding and scholarships. I was lucky to have funding during my graduate degree from both the Ontario government and the Canadian government and those really shaped my graduate career. I also feel strongly about the need for more resources for outreach and knowledge translation so that we can share our discoveries with everyone. And then lastly about the need for diversity and inclusivity in STEM and I shared my story of how coming from an immigrant family and not having anybody to look up to that you went to university. It really meant a lot to me to break the cycle of having women in my family being under-educated and how it meant a lot to be able to share that with my community and with my family. And so overall, the meeting was fun, engaging. It was pretty short, about 30 minutes or so, so it didn't take too much time. And it really felt like I was talking with a friend and I think we both got to learn a lot. Now, whether it was productive or not is debatable, because we still don't have an Ontario Chief Scientist, but overall, overall I will say that it was a great experience, and I would recommend it for everyone."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "18:28",
+    "text": "Let's return to our discussion of the recent history of science policy in Canada. Although progress has been made, there is still a large gap in support for science in Canada compared to peer countries. In an age where knowledge is becoming ever more important to our economic future, we would hope to be leading the world in innovation, discovery, and technology, but we are falling behind. And the work that has been done by government has only made a minor dent. A lot remains to be done."
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "18:57",
+    "text": "Right now, I'm struck that, despite the efforts by this government to create a more science- and evidence-friendly culture, it's not as though you know, science and research is top of mind when you look at the government's agenda. It was, they did it in 2018, good on them. But there's a real sense one has well, that \"we've done been there done that\". So I think we're all going to have to press hard, but also take this as a permanent campaign. I've said that before: we need a permanent campaign for science and for research, generally, inclusive definition of science, as I've said before, and we have to get to the general public and this has to be about what matters to the person there in the street, to every Canadian."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "19:42",
+    "text": "The government, understandably, wants everyone to focus on the things that they have done. However, they go a step too far and falsely paint the science policy project as complete, to the detriment of all Canadians. They downplay the importance of improving support for science and the development of a science culture in Canada and put their focus on other goals in spheres such as healthcare and job creation. This is of course problematic given how important science is in all of these areas and more."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "20:09",
+    "text": "Science touches on all aspects of society. To de-prioritize science is to de-prioritize the health, safety, well-being and future prosperity of Canadians. The government wants Canadians to focus on their progress and purported achievements in science and scholarship, and even misrepresent data to send this message."
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "20:30",
+    "text": "The bottom line is simple. We need to create a sense of the urgency in this country of making Canada smarter. And part of that comes back to the constant misrepresentation of data, I'm sorry to say, by the federal government above all. There's two elements of data that I see misrepresented by politicians, you know, include the provinces and territories here. One is our educational standing. Canada is the \"education nation\". We're second to Korea in the OECD data in terms of higher education attainment at the tertiary level, but that's driven overwhelmingly by college diplomas and college degree holders and our university baccalaureate output is average and our graduate degree holder levels are below-average for peer nations. So, you know, it's a case where you you mix the fruit salad here, there, it looks like there's lots there. By no means am I saying we should should cut back on vocationally-oriented degrees and diplomas, they're valuable and I respect the work that our colleges do there and we're fortunate to have them. The point is to ramp up the rest, and not confuse ourselves with statistics that really are aggregates rather than relevant to the discourse about making sure we have those creative and critically minded people with graduate degrees who will drive the economy of tomorrow and make a better society. The second statistic I've highlighted many times going back, gosh, a dozen years that's the Higher Education R&D statistic. This is spending through the Higher Education sector that is calculated as a percentage of GDP. And for some years, we had Canadian governments boasting that we had the highes, it's called HERD for short, highest HERD ratio in the G7, or G8 as it then was. This even turned up in Budget 2018, despite the fact that over the course of about 300-400 words of analysis and graphics in the FSR report, we showed that it was a totally misleading statistic, which I think tells you it was willful. This was, you know, a third finger salute from the people who wrote the budget to say, \"Hey, we're going to go on using the statistic it's true, even if you can show that it's misleading.\" Very, very bad faith stuff, I forewent comment on it at the time, I continue to regarded as appalling - you'll see the slide on the public deck is a Pinocchio icon in the bottom because I think it borders on an outright lie to use data that way. And so the reality is that universities support the HERD ratio to the tune of about 50% of the number, it's a little lower now because of Budget 2018, It hasn't fallen a lot. Industry is a small player because Canada has some of the lowest R&D spending by industry in the OECD - this is a big concern for us, although, full kudos to our business leaders, our economy still thrives, so we seem to be getting away with that one and whether we will long term is an open question. The provinces provide a small amount. The federal government when we did our report was at 23%. And as I said, publicly, you know, if a student began boasting that they had achieved top marks because of the paper where they plagarized 75% of the data or the text, they would get a zero. And my view is the conduct of the federal government is analogous to that student when they boast about this and they're minority contributors."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "23:57",
+    "text": "Governments are clearly not immune to the Increasing phenomenon of misrepresentation of scientific evidence. Politicians of all stripes will often misstate or misconstrue facts to suit their political purposes."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "24:10",
+    "text": "We've already mentioned one way we can solve this problem, and many others, advocating as a community for the inclusion of evidence in the decision-making process and fact-based policies in general. We asked Dr. Shoichet to expand on what evidence informed decision making looks like in government."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "24:31",
+    "text": "All of us want to be making decisions based on evidence versus emotions - those are two, sometimes contrasting, pulls on our decision-making. But I think evidence is really important so that we're making the best decisions. If we make decisions simply based on emotions, then, first of all, we're not learning from any of the knowledge that we've created. And whether that's learning from science or history, you know, we really have to, as humanity, want to move forward, and if we're always making decisions based on our emotions, then then we'll probably just be stuck in that rut. So I think what evidence does and with the, with additional knowledge that we've gained, that gives us that opportunity to make better decisions, and to, you know, really for humanity and for the world. There's more than just the evidence that goes into making a decision. So decisions are complicated, and there's a lot of different things that one has to think about in making a decision. When I was the Chief Scientist, what I was really focused on is at least having evidence form part of that decision. And so that's this idea, as you've called it evidence-informed decision-making, so that the decisions that you are making at least you know, what the evidence says and where the evidence points that decision. I think another challenge that we face generally in science is that we all recognize as scientists that we can give you the best advice based on what we know today. But as scientists, we also acknowledge that we're going to know more tomorrow, and that our advice tomorrow might be different from our advice today. So this then also makes it very confusing for the public. And I think challenging for us as scientists to give definitive advice. But if our politicians are depending on us for that advice, then we have to give it based on what we know today. But I think it's because there's a myriad factors that go into making a decision that our goal has to be to, at minimum, have the evidence be part of that decision-making. But you know, and, you know, you might say, Well, you know, politicians are there to be re-elected, you know, that is their focus. And so, then they have to think about, well, what do people want and why; what was somebody want in order to elect me again? You know, and so, that can be, maybe that's a limitation of our democracy in that there's always that need to be re-elected and brings a somewhat of a shortsightedness to policies, but but not always. And I think we as the population are asking for more. There's there's so many pulls on making a decision. And maybe if we sort of break down the electoral one, like, why will somebody vote for you? I think, honestly, part of it is emotional; like they like you, they think you're friendly, you think they think they can relate to you. But the other reasons would be, \"Wow, I've got a job now and I didn't have a job before so I can, you know, I can support my family or I can support myself\". Though it's really important for people to have jobs, you know, to have some economic stability. It's really important for people to have a safe place to live. It's really important for people to have you know, clean air and clean water. So all of these things go into, you know, safety, health, education. - these are all the top button issues that we hear about. And, you know, obviously we're in a campaign right now. But those are, I think, what resonate with people and what will get people elected. And so well, you know, we might say, Oh, it's just about politicians just want to be elected, if you break that down, you can see that they're being, not always, but presumably being elected because they think that their life will be better under one politician versus another."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "28:32",
+    "text": "Dr. Shoichet also spoke about her role as Ontario's Chief Scientist."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "28:36",
+    "text": "The Chief Scientist has that opportunity to be the voice of science in government. What was really exciting for me when I was Chief Scientist is that I was really welcomed across all of the different Ministries in the Ontario government. And I didn't know that that would happen, but I was welcomed as much by the Ministries focused on social Issues like housing and poverty, as I was by the Ministries focused on the economy and jobs and research and innovation. So that was really exciting to me. And I think, you know, the Ontario public servants and certainly across Canada as well, the bureaucracy in government are really trying to do the best they can for the people of Ontario and recognize the importance of evidence and want to do a better job of it, but also acknowledge, you know, just even the scientific methodology. So, of course, there's no one person that can represent all of science, but certainly can bring that scientific methodology into decision-making. And so that was something that was actually already happening in government, but then I was able to help champion and so there's that role and then also working with different ministries just to incorporate that into their decision-making, so that we have more of that evidence-informed decision-making in government."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "30:10",
+    "text": "While single voices, especially of highly accomplished scientists, such as Dr. Naylor and Dr. Shoichet, can can have an impact, we can make an even greater difference if we work together. We asked Farah about the importance of speaking with a collective voice on science policy, through participation in organizations such as TSPN, and campaigns, such as Vote Science."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "30:32",
+    "text": "Why do you think TSPN is important especially today, now that we're approaching an election?"
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "30:38",
+    "text": "So TSPN is actually a network, we represent over 200 different members of the research community here locally. So we are aware of researcher needs and in a way, we're representing student voices and researcher voices when it comes to the election, when it comes to elections. It's especially important at a time like this because single individuals advocating for science is good but when we all come together and advocate together, we send a bigger message. For example, in the past, with the Fundamental Science Review, the whole science community came together with calls like #SupportTheReport (implement the Fundamental Science Review recommendations) and that did make a change, we saw an increase in the funding allocated towards science in the 2017 and 2018 federal budgets. So in a moment like this when we're approaching the federal elections, by us coming together with other Canadian science and student groups, we can again amplify the message that Canadians care about science, and help advocate for science in the upcoming elections."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "31:39",
+    "text": "We also asked Farah to summarize the Vote Science campaign."
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "31:43",
+    "text": "So the Vote Science campaign, the idea here is to advocate for science in the upcoming elections. And the way we're doing that is basically providing a one-stop portal for all the actions and resources you will need to reach out to your candidates. So if you go to VoteScience.ca you'll see all the different actions you can take. For example, you can start off simple you can use our email form to, you'll put in your name and your email and your postal address, it will automatically detect which candidates are in your writing and you can email your candidates. You can also take a #VoteScience selfies - there are actually studies that show that selfies humanize scientists, so why don't we use that to our advantage and put a face to all the scientists across the country. You can send a postcard to your candidate, you can engage with your candidates in-person or over calls. We've basically assembled all the actions, resources, and helpful guides you would need to speak to your candidates. We're really hoping that people will take advantage of these tools, reach out to their candidates about science-related issues, and ask them where they stand on evidence-informed decision-making."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "32:47",
+    "text": "Hopefully, it's pretty clear at this point that getting involved in the election campaign is both easy and can have tremendous impact. And we've already touched on a few important things to advocate for with candidates. Let's expand on what's next for science policy."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "33:01",
+    "text": "The Fundamental Science Review is a good place to start, especially given the previous government's middling response to it. This review, led by Dr. Naylor, reported on the state of science funding in Canada, Check out our last episode for an in depth discussion about it."
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "33:16",
+    "text": "Putting it all together, I think it was a blueprint to get us back on the road to being highly competitive. And unfortunately, though, I think tremendous progress has been made. The government really has fallen short in both the speed and the final point of investment. So that we think are recovering, but we still need a serious infusion of resources to get fully competitive in the years ahead."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "33:43",
+    "text": "The competition in science around the world is quite fierce as our peer countries continue to invest heavily."
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "33:50",
+    "text": "Germany in 2006, you know, agreed to a 3% per annum to the whole suite of research entities and agencies, very wide ranging, including applied research where they have a quite strong industry-facing element to their ecosystem. And that was shared between the states and the federal government. And right through the terrible decline of 2008-09, when the world economy crashed, they kept up the increases, whereas here, of course, we had a freeze. On it went and then just, you know, this year was renewed for another decade. So you're talking, you know, 25 years of 3% increases. And meanwhile, we have, you know, a few years of making lower level increases that are not going to close that gap. Especially because we we started from a lower baseline. The US has invested in science and scholarship for a long time, being weak on the humanities, I will say, but they have such a tradition of philanthropy that various foundations and individual benefactors have helped support the humanities to a meaningful extent. President Trump continues to make recommendations to cut the budgets of NSF and the NIH and Congress and the Senate on a bipartisan basis, vote through major increases. The result is that NIH, for example, is funded, you know, over $40 billion. Divide that by 10 and you get 4 billion. And look at CIHR, which even after increases isn't that much north of a billion, we have a massive challenge to be competitive in this country. My concern is not with the government's, you know, credibility in terms of having taken real steps and having made a commitment, but rather with whether there's an understanding in Ottawa, and certainly in the provinces which have done nothing to compare with what the German states do, that we really still aren't fully in play. We have to make more investments, we have to make smart investments, we have to look to the next-generation."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "35:49",
+    "text": "I just wanted to ask a bit a bit more about the provincial funding and how that kind of comes into play."
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "35:55",
+    "text": "Yeah, it's something we addressed in passing in the report. And it's there was a panel session in the Canadian Science Policy Conference about a year ago, where we got at this again. Big worry that we have such variability province-to-province in what is being done to support research. The bottom line is, the provinces are all over the map when it comes to how much they support research, how they support it, and they also vary greatly, and there's there's strategic content as regards to leveraging federal and private money to support research."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "36:34",
+    "text": "We asked Dr. Shoichet to expand on what's happening in Ontario, and whether she thought evidence was still informing policy in our province, especially given that the Chief Scientist position remains vacant, and in light of recent decisions, such as cutting of the environmental watchdog, the revision of the Endangered Species Act and so on."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "36:52",
+    "text": "Unfortunately, there have been a lot of political decisions that are counter to the scientific evidence So I think that's really unfortunate. You know, I think even if there was a Chief Scientist, that would be difficult, that'd be a very difficult position to counter because a lot of these decisions are not based on evidence. So that doesn't mean that all decisions being made are not based on evidence, but certainly the ones that you've highlighted, are not based on evidence and I think that's a real challenge. You know, I think, you know, people become part of a team, and it's that team mentality, and all of a sudden, like, everybody's on one team, and they're against the other team, and all of a sudden, everything the other team did was wrong. You know, like, it happens very quickly. I mean, there's lots of psychology studies to show to show that, but that's the emotions, you know, coming through and those are the emotions that are guiding people's decisions, versus, you know, versus the evidence. So that's a huge challenge. But doesn't mean that all of government isn't using evidence, it's just that we have some stark examples where it's not being used."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "38:10",
+    "text": "As we've mentioned before, science has become something of a point of disagreement between political parties. And this is in part been driven by the increasing polarization and distrust of the, quote, \"other team\" that is occurring in our politics. This should not be the case. Scientific evidence can provide useful solutions to politicians of all stripes. We need to make science a permanent part of the political process. Dr. Shoichet, I get pointed to the example of kickback whose Chief Scientist Remy Quirion actually survived a change in government. She talked about the lessons that we can learn from this example."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "38:44",
+    "text": "Quebec is a really good example. So one of the things that Remy Quirion on was able to do, the Chief Scientist in Quebec, is to have that become part of the law. So whereas in Ontario, it was an appointment and it was appointment  by the Premier. So even though I am not political, and it really wasn't a political appointment in the way we think of political appointments, it wasn't part of the law. So I think that's a great way to go forward. And you know, I think, because right now it's a political appointment, the politicians really have to want to have a Chief Scientist. The last government really wanted a Chief Scientist, and they spent a couple of years figuring that out. So it was really like a long and in-depth endeavor, not just to find one, but to sort of lay the framework for what the Chief Scientist would do. So I think you really need to want to have that, the politicians really need to want to have that. And I don't know how to make science less political, because I'm not really political. And I don't think science is political. So I'm not sure why people think it is political, but I think it's that the misuse, it's not the misuse of science, it's the misuse of what people are calling science that's the problem. "
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "40:09",
+    "text": "Dr. Shoichet also commented more specifically on the cuts to science funding."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "40:14",
+    "text": "We as scientists, hate to see any cuts to science, not because we're scientists, but because we understand the importance of it to our future. And you know, when you think about the innovation economy, like the best jobs, the best paying jobs are all in the tech and biotech sectors. So, you know, to cut off the pipeline of getting those jobs is myopic, right? So how do we encourage that funding of the grassroots so that the grass will grow and trees will grow?"
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "40:47",
+    "text": "But what should the government do to better support the next-generation as they begin their journey in science?"
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "40:53",
+    "text": "Funding, we obviously want more scholarships across the board for both Master's students and PhD students, as well as Postdoctoral Fellows because they're transitioning, and they're in a bit of a tricky spot in their careers. So more funding across the board to help support people as they're in their labs, as well as funding dedicated to attending professional development training, whether that's science, communication, science policy, or simply learning lab skills, having those funds available lets students and trainees grow as a well-rounded lab member, and that helps complement their science. I would also say that something that's important is mental health, having that funding available either to provide more sources for mental health counseling on campus, as well as having the opportunity that if you take a year, a gap year, off, still being supported financially while you take that decision. So funding, more funding is great, there's so many different ways we can apply it. I would, yeah, funding for scholarships and mental health is my number one ask."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "42:02",
+    "text": "We also asked Farah if she thinks the government has a role to play in reshaping graduate education."
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "42:07",
+    "text": "They have a role because they're providing so much of the funding that shapes our scholarships, that funds research across the country. But it isn't just the government. Academic institutions obviously have a role to play; Departments, Department chairs, School of Graduate Studies, they can all take steps towards improving the experience of graduate students. So yes, the government plays a role, but it has to be a collective effort if we're going to make a change."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "42:35",
+    "text": "When it comes to supporting graduate education in Canada, positive changes are being made at the federal level. Some of these changes include the implementation of Tri-Council, Equity, Diversity, and Inclusion programs. Biren sat down with Dr. Imogen Coe, a Professor of biology and chemistry at Ryerson University, and asked why such programs are so important for science in Canada."
+  },
+  {
+    "speaker": "Imogen Coe",
+    "time": "42:57",
+    "text": "So it's really important, particularly in Canada, where we have a small population and we're competing on a global stage, it's really important that we leverage all possible talent that's available to us from amongst our population. And we have a diverse population, so we have a real rich diversity of perspectives, and ideas, and solutions, and capabilities. So any possibility of missing out on talent is something that needs to be considered very seriously. And it's an economic issue as well as an innovation issue, it's a healthcare issue, because there's a lot there's lots of challenges out there. So we really want to be sure that we're creating environments, we're creating workplaces, we're creating career pathways, that allow people with talent, with ability, who wants to make contributions, to have access and to be able to contribute. And so we know that there are barriers that exist; we know they're structural, they're systemic, they're attitudinal. We know that there's racism, and sexism, and homophobia in society and academia is a reflection of that and so we know that those barriers exist, and we need to get those out of the way so people can bring their full selves to work and make their full contributions which benefit all of us. And we have to be really intentional about that. So that's why EDI programming is important."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "44:13",
+    "text": "In Canada, Dr. Coe played an instrumental role in getting the Dimensions EDI program implemented at the federal level in 2018. Although still in its infancy, Dr. Coe believes that Dimensions can become one of the best EDI programs in the world and set an example for other countries to follow."
+  },
+  {
+    "speaker": "Imogen Coe",
+    "time": "44:31",
+    "text": "Dimensions, or Athena-SWAN, or SAGE, or SEA Change, as called in the US, is a program where institutions are required to hold up a mirror to themselves. So they are required to assess themselves and to measure themselves against themselves. So it's a little bit different from what universities maybe are more used to which is competing with each other - they're really competing with with themselves to be better than they used to be. So it's about holding up a mirror to themselves to look to see where are they missing policies, processes, programming around equity, diversity, and inclusion. What do their demographics look like? Do they know themselves - and they have to get to know themselves and do a thorough self assessment, collect data on what the institution looks like - and then identify gaps, or identify barriers, or identify systems that perhaps need to be adjusted or changed or gaps that need to be filled with new programming, to address inequities, to address barriers, to address issues that are preventing full participation. So it's really self assessment. It's raising awareness. It's becoming educated about what the issues are and what works. It's about developing an action plan. So following the self assessment, institutions develop an action plan to address what they've discovered about themselves and then measuring that so two years, three years, whatever the decision is, out from the self assessment and following the implementation of the action plan, they should be able to measure and see whether it's working or not. And if it's not working, then that's information - that's data - and it allows an institution to pivot and change and say, well, that's not going to work, we're going to stop doing it. Because we, particularly around EDI issues in this country, we tend to, we keep doing the same thing over and over again, thinking that we're going to get a different outcome. The same things that we're doing over and over again, are things like it's a pipeline issue. So if we just keep focusing on girls and keep telling girls to #ChooseScience, that somehow that's going to change things without addressing the issues in the climate and culture in the context, which are the things that dissuade girls, or people of color, or people with disabilities from actually participating. So, we've been very good continually, basically telling, you know, one demographic that the problem is yours, you need to fix yourself, you know, without the saying problem is ours, it's our collective responsibility, we need to fix ourselves."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "47:00",
+    "text": "At the Vote Science Toronto launch event, Dr. Coe shared her story of how she was able to connect with our Minister of Science, Kirsty Duncan, and how this connection led to the genesis of the Dimensions program at the federal level."
+  },
+  {
+    "speaker": "Imogen Coe",
+    "time": "47:12",
+    "text": "I happen to meet the Minister of Science by random, I was asked to come to an event very, very late, had nothing to do with anything that I was involved with - it was about clean energ, big annoucement for money at Ryerson - ran in late and was pushed to the front and ended up almost bumping into her. I knew a little bit about her. I knew she was interested in equity issues. And I used that moment to say, \"Oh, really nice to meet you. We need an Athena-SWAN.\""
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "47:44",
+    "text": "Athena-Scientific Women's academic Network, or Athena-SWAN for short, is an award administered by the United Kingdom Equity Challenge Unit that celebrates and is leading the advancement of gender equality and representation in Higher Education."
+  },
+  {
+    "speaker": "Imogen Coe",
+    "time": "47:56",
+    "text": "\"We need a program, we need policy around EDI in this country?\" And she said, \"Oh, that's interesting, yeah, we need to, you know, here's somebody I can sort of talk to and come back to.\" As a consequence of that, then I became involved in a lot of consultations. I contributed, I was one of those people that helped champion some of the agenda items that the federal government was interested in, or her mandate was interested in. So there was an opportunity there to connect and and to provide input into consultations."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "48:33",
+    "text": "Dr. Coe's experience of how she was able to connect with Kirsty Duncan through shared experiences, passions, and storytelling is one that teaches us a valuable lesson: regardless of career stage, we can all connect with our political leaders using whatever resources we have."
+  },
+  {
+    "speaker": "Imogen Coe",
+    "time": "48:48",
+    "text": "Storytelling, passion, connection with your humanizing science, being a human being - all of politicians are human beings, they all have family members who've been sick, or they all worried about, you know, their futures. And then you have to maximize the window of opportunity. But the work then goes on, it doesn't stop. So this is a continual kind of active process. I think all scientists need to be engaged in and involved in at levels that are comfortable to them."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "49:17",
+    "text": "Dr. Coe's story teaches us about the importance of having our own stories, which we can use to highlight the things that we are passionate about. Using our platforms, however small or large, we can make meaningful connections with political leaders and other decision makers to initiate positive change. More scientists engaging with the public about their story and their science is essential to making a change. But what are some of the largest barriers that can prevent this?"
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "49:42",
+    "text": "The tenure processes in universities the focus is really on the educational mission and the research mission. There's a line there in most Canadian universities for creative professional activity. And I'm not sure I've ever seen a tenure file where someone got through on excellence in creative professional activity that involved science outreach and education. But I expect we're going to start seeing that more often and it would be a good thing."
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "50:07",
+    "text": "Well, I mean, I don't know that scientists are so much different from the rest of the population in terms of outreach. Not that many people are willing to stand up in front of a group of people they don't know and talk about what they do and make it engaging and be passionate about it. So that's a real skill. You know, that's why we have professional actors. You know, I mean, maybe they're not talking about what they do every day, but they know how to engage the public or we have professional musicians. These people know how to put on a show, and really to engage the public you're putting on a show. But I think the other challenge is science is complicated, you know, and it's how do you distill what you've spent decades trying to understand or trying to advance, how do you distill that in a way that is engaging - you don't dumb it down, nobody wants to be talked down to - so you still need to be true to what you've done, but you can't use all the jargon that you commonly use? So I think it is a challenge. It is a challenge for anybody, you know how many people in accounting are asked to engage the public in what they do? I mean, I think people kind of just know, I think the challenge for science, it's kind of a mystery to most people, like what we do in labs. And so I think it's an opportunity to bring people into our world and I think that's really exciting, but it is really hard to do it well. Things have changed a lot over the past say 20 years, or maybe even the past 10 years. There's some fields, you know, that are really good at engagement, and it's just part of their training. So I would say astrophysics is one of those or astronomy. Most of those graduate students do a lot of public engagement and so they've become, whether they go into academia or industry, they've honed their skills over time. And there's other examples as well. But most of us don't, as you know. Having said that, I think there are more opportunities for students and even for Professors to get better at that engagement. And there's more programs. "
+  },
+  {
+    "speaker": "Imogen Coe",
+    "time": "52:21",
+    "text": "We need science to be more visible, we need scientists to engage more, we need to train scientists to be more comfortable engaging, we need to give value and credit for those kinds of activities, which we have not traditionally done in this country. So if scientists are engaging with outreach, or with entertainment or with policy or with innovation, then those activities should all have some kind of value and the university system should recognize those contributions in terms of tenure and promotion, or in terms of hiring and funding agencies should recognize those kinds of contributions because they're incredibly important, they could be, they could potentially, and often are, more important than that single one paper that you write that you put in a journal and sits on a shelf."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "53:08",
+    "text": "What about individuals who want to be more engaged, but can't seem to make the leap? How can they start getting behind the cause? "
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "53:15",
+    "text": "We all know individuals, I sure do, where people in the science community brush off the importance of science policy advocacy. They either say, \"Oh, it's not my job, let the politicians figure it out.\" What do you say to those individuals? How do we counter political apathy in the graduate student community? "
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "53:36",
+    "text": "So the funny thing is that when those people do say that they're also the same ones who will complain when the policies or regulations come out, and they don't like how it goes. So this might sound harsh, but don't complain if you're not taking part is kind of my statement here. Obviously, not everyone can get fully engaged in science advocacy and policy and you don't have the time that's fair. But taking part in something as simple as voting in the elections, that's how you can make a change. Yes, sometimes there are going to be unfair policies or regulations that are rolled out. But making an effort to be informed and take part will make a difference. And if you don't try then who's going to speak up for science anyway?"
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "54:19",
+    "text": "Luckily, getting involved has been made easier than ever through the Vote Science campaign we've mentioned a few times on the episode. Check out VoteScience.ca to find ways you can speak up for science and make an important impact and the upcoming election."
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "54:32",
+    "text": "On VoteScience.ca we have a toolkit for how you can engage with your candidates from sending that first email, to preparing for questions, and we even have potential questions. So we really have tried to prepare all the resources people could use for meeting their candidates."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "54:46",
+    "text": "We asked Farah how the Vote Science campaign is tracking its efforts to ensure that future MPs are hearing us and that we are in fact making a difference."
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "54:55",
+    "text": "One part of the Vote Science campaign is that we're actually asking people to kind of record their interactions with candidates, so it's all being stored in the Google Form. So after the elections we're planning to follow-up with those candidates, we can see the impacts coming in real-time. We've seen thousands of people visit the VoteScience.ca website, we've seen over 400 people use the email form to reach out to their candidates. So we have seen people engaging with the campaign, and that's great. We are going to be distributing a science policy questionnaire to the parties. So we'll hear from them directly what they think about science issues in the upcoming election. So I guess impact in terms of government, it's an ongoing relationship. We're seeing it for the first time with the Vote Science campaign and we're looking forward to more ideas in the future on how to better interact with the government."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "55:44",
+    "text": "We asked attendees of the Vote Science Toronto launch event what they took away from the evening?"
+  },
+  {
+    "speaker": "Member of the Public 3",
+    "time": "55:49",
+    "text": "All these small actions they're like super easy to do."
+  },
+  {
+    "speaker": "Member of the Public 2",
+    "time": "55:52",
+    "text": "I think the whole notion of connecting with people is very important it transcends science, it transcends policies."
+  },
+  {
+    "speaker": "Member of the Public 1",
+    "time": "56:01",
+    "text": "Connecting passion with relatable stories that politicians can take to heart."
+  },
+  {
+    "speaker": "Member of the Public 3",
+    "time": "56:07",
+    "text": "Writing a postcard, taking that selfie, you can literally do it in like 15 to 30 minutes. And it's a great way to just engage."
+  },
+  {
+    "speaker": "Member of the Public 4",
+    "time": "56:15",
+    "text": "How easy it can be to engage your politicians and to kind of just discuss scientific concepts with people that you know, with people who will be voting,"
+  },
+  {
+    "speaker": "Amanda Veri",
+    "time": "56:26",
+    "text": "Everybody can have a role and that we just need to keep practicing in telling our story, being better at talking about these things, so we can go out there and have an impact."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "56:37",
+    "text": "It's obviously important for everyone to get involved, but why is it important for graduate students in particular?"
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "56:44",
+    "text": "Science communication is a vital skill for everyone. It's one thing to do your research, but you have to be able to communicate it beyond, whether it's to other researchers to policymakers, the public, your family, and so on. So honing your science communication skills will pay dividends in your regular research life. In terms of science policy, well, all the research that we're doing is publicly funded, so the public deserves to know what's going on in the lab, and they deserve to see your output. And similarly, if your research can help shape policy decisions, or provide an input in decision making, then you should also be able to understand the science policy landscape and provide input. So I would say that graduate students should at least explore science communication and policy, to have an idea of what the fields involve, build those skills and try to implement them where they can. But no one student can do everything, so it's kind of a relationship we have to work out how much science communication, science policy you're okay with."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "57:44",
+    "text": "We asked Dr. Shoichet about her challenges and successes in science communication. "
+  },
+  {
+    "speaker": "Molly Shoichet",
+    "time": "57:49",
+    "text": "It's really hard, actually much harder than I thought. So I can tell us about the approach that we've taken, which is a little bit tangential. So you know, If you say the word \"science\" to somebody, they might think of their grade 8 science class and not have good memories. They might have great memories, but it's still something they stopped when they were in grade 8, you know. And so, I think the challenge we face is, again, those preconceived notions of what science is. What we've done is we've taken a tangential approach to engaging people in science and that is through art. So for example, at Pearson Airport, there's an exhibit on three of the bridges in Terminal 1 where there's just beautiful art on the wall. And if you look at it from far away, you might think \"Wow, those are you know, those are pretty colours, or those are flames or snakeskin or\", but as you approach it, and if you read about it, you'll realize, well, those are actually stem cells or retinal cells, you know, that's actually biology. We've put on events at the University of Toronto. Looking at the intersection of music and science, or sport and science, because everybody loves sports, lots of people, like everybody listens to music, maybe it's different types, you know, so these are ways to bring other people into our world."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "59:15",
+    "text": "We've heard a lot about what needs to be done regarding science policy in Canada, and how we can all make a difference. But what are some important take-home messages for what we want to see from political parties?"
+  },
+  {
+    "speaker": "David Naylor",
+    "time": "59:25",
+    "text": "I would just say, follow through on the funding as recommended. Get on with it. Get on with some of the other actions like the review of the graduate student and postdoc portfolio across the three granting councils. These aren't difficult things to think through, the benchmarking was clear. So just get on with that and do it on the timeline recommended and that would be a massive step forward. This is highly affordable for all parties. It's not particularly challenging from a policy standpoint to execute. And I think if the parties moved in that direction, we'd all sleep a lot better over the next few years. Right now, I have no sense of what any of them are going to do."
+  },
+  {
+    "speaker": "Imogen Coe",
+    "time": "1:00:02",
+    "text": "I would like to see every party explicitly put down on paper a commitment to evidence-informed policy, and the importance and the relevance of science, and data, and evidence, and scientists in that process of developing policy using evidence and a commitment to that and putting it down on paper because then you can hold them accountable. I would like to see an explicit statement around that, an explicit statement around implementation of the recommendations of the Fundamental Science Review, and an explicit statement around the importance, the central importance, of science as a component of civil society, democratic society, and economic development. You know, just a few little things like that."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:00:48",
+    "text": "So there we have it, a list of demands: increased funding for fundamental scientific research, trainees, and equity diversity, and inclusion, policies based on facts, the incorporation and prioritization of evidence and the scientific process in decision making, the inclusion of scientists and government in positions of power, armed with strong mandates. This is not just about science. This is about every single issue that is near and dear to the hearts of Canadians. Science matters because science is everywhere, and science is the answer."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:01:29",
+    "text": "Ultimately, the biggest thing we can do to make our voices heard is also one of the easiest."
+  },
+  {
+    "speaker": "Farah Qaiser",
+    "time": "1:01:34",
+    "text": "You should definitely go out and vote. There are a lot of voter resources guides out there, especially on Elections Canada, Voting is on October 21, so be sure to vote. There's also advanced voting, and if you're a student at the University of Toronto, there will be voting locations right here on campus, so you don't have to go far to vote. And above all, if you can vote, vote, because there are a lot of people who can't and we're kind of counting on you to do your part."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:02:00",
+    "text": "Science permeates every aspect of our lives; the technology we use, our health and well being, solutions for dealing with the major challenges we face such as the climate crisis, and everything in between are grounded in scientific discovery."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:02:13",
+    "text": "From our discussions today, we've learned that we have some work to do when it comes to improving Canada's science policy and science culture. Importantly, though, we've also learned that everyone and anyone can make an impact."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:02:26",
+    "text": "Actions as simple as connecting with your political leaders on social media, and initiating a conversation about the state of science in Canada, can go a long way towards creating a future where evidence-informed policy is the norm and Canada's science ecosystem is well-supported."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:02:41",
+    "text": "A future where Canada can maximize the potential of its budding innovators to the benefit of us all. Make sure to have your voices heard and make sure to #VoteScience in the upcoming election."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:02:53",
+    "text": "This episode was hosted by myself, Frank Telfer and Grace Jacobs. Biren Dave, Nazanin Ijad, and Tsukiko Miyata assisted with content creation. Alex Jacob was our audio engineer."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:03:03",
+    "text": "A very special thank you to our guest, Dr. Emerging co Dr. David Naylor, Dr. Molly Shoichet, and Farah Qaiser, for speaking with us and sharing their insights. We also thank everyone who spoke to us at the Vote Science launch event in Toronto, especially Dr. Amanda Veri. And of course, thank you, for listening and for voting. Until next time, keep it raw. Raw Talk podcast is a student presentation of the Institute of Medical Science, in the Faculty of Medicine, at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the Faculty of Medicine or the University. To learn more about the show, visit our website RawTalkPodcast.com and stay up to date by following us on Twitter, Instagram and Facebook @RawTalkPodcast. Support the show by using the affiliate link on our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify, or wherever else you listen to podcasts and rate us five stars. Until next time, keep it raw."
   }
 ]
