@@ -1,0 +1,40 @@
+{
+  "no": 72,
+  "title": "Burning Up: The Health Impacts of Climate Change",
+  "blubrry": "54312053",
+  "date": "January 15, 2020",
+  "season": 4,
+  "img-tile": "fire-pipeline.jpg",
+  "img-caption": "Dr. Edward Xie is an Emergency Physician and Clinician Investigator at University Health Network, Assistant Professor at the University of Toronto, and Board Member of Canadian Association of Physicians for the Environment (CAPE).",
+  "img-page": "edward-xie.jpg",
+  "notes": "Climate change has been called the defining issue of our time. Its scope, complexity, and impact pose an enormous challenge to humanity. Political, economic, ecological, agricultural, and health systems are already being affected in unprecedented ways. In this episode, we sat down with climate experts and activists to discuss these issues. First, we heard from George Kourounis, renowned global adventurer, storm chaser, and host of Angry Planet, who clarified the difference between climate and weather, and described the impacts of climate change we're already feeling. Next, we listened in on a talk by Gideon Forman, a Policy Analyst at the David Suzuki Foundation and former Executive Director of the Canadian Association of Physicians for the Environment (CAPE). He discussed the magnitude of climate change in the context of health. Dr. Chung-Wai Chow, a lung transplant physician and leading research scientist at the University Health Network, whom we heard from in episode 38, elaborated on the effects of wildfires and pollution on respiratory health, based on her research in Fort McMurray. You'll also hear from Dr. Edward Xie and learn more about how other vulnerable populations are being impacted by climate change, from indigenous communities in Canada to climate refugees across the globe. Dr Xie helped us understand how increased flooding, droughts, and spread of infectious diseases are further stressing fragile health systems based on his work as an emergency and family physician at the University of Toronto and board member of CAPE. While the situation is serious, there's much we can do to help fight climate change, from personal lifestyle changes to community activism to international accountability. Along with our other guests, Carol Devine, Humanitarian Advisor for Doctors Without Borders and Community Scholar in the Dahdaleh Institute for Global Health Research at York University, shared her insights and recommendations on how we can tackle the climate challenge together.",
+  "authors": ["Stephanie Nishi"],
+  "prod-team": [],
+  "tags": [],
+  "links": [
+    { "title": "TEA: Toronto Environmental Alliance",
+      "href": "https://www.torontoenvironment.org/"
+    },
+    { "title": "CAPE: Canadian Association of Physicians for the Environment",
+      "href": "https://cape.ca/"
+    },
+    { "title": "CAPE Toolkit for Health Professionals",
+      "href": "https://cape.ca/campaigns/climate-health-policy/climate-change-toolkit-for-health-professionals/"
+    },
+    { "title": "David Suzuki Foundation",
+      "href": "https://davidsuzuki.org/take-action/"
+    },
+    { "title": "Angry Planet, with George Kourounis",
+      "href": "https://www.knowledge.ca/program/angry-planet"
+    },
+    { "title": "A crisis in the making: MSF and the global health impact of climate change (Article)",
+      "href": "https://www.doctorswithoutborders.ca/article/crisis-making-msf-and-global-health-impact-climate-change"
+    },
+    { "title": "Lancet Climate Change Countdown 2019 Report",
+      "href": "http://www.lancetcountdown.org/2019-report/"
+    },
+    { "title": "Meatless Mondays",
+      "href": "http://meatlessmondays.ca/"
+    }
+  ]
+}
