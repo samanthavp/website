@@ -381,6 +381,10 @@ img.img-link-hover-content {
 #about .amazon-footer {
   display: none;
 }
+.big-photo {
+  padding: 5px;
+  width: 100%;
+}
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
 @media (min-width:768px) {
