@@ -37,6 +37,15 @@
     }
   },
   {
+    "title": "JOIN&nbspUS",
+    "href": "join-us",
+    "description": "Want to join us? We're recruiting for Season 5!",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
+    "templates": {
+      "body": "join-us"
+    }
+  },
+  {
     "title": "CONTACT",
     "href": "contact",
     "description": "Questions, comments, input, constructive criticism? Tell us about it!",
