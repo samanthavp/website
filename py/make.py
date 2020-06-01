@@ -24,7 +24,7 @@ def get_content():
   transcripts = c['transcripts']
   team        = sort(c['team'].values())
   # collect the navbar before adding episodes to pages
-  navpages = ['HOME','ABOUT','TEAM','EPISODES','JOIN&nbspUS','CONTACT']
+  navpages = ['HOME','ABOUT','TEAM','EPISODES','JOIN US','CONTACT']
   c['nav-item'] = [page for page in c['page'] if page['title'] in navpages]
   write_index(episodes,'episodes')
   # clean up / build some fields on the fly
@@ -84,7 +84,7 @@ def write_index(content,name):
   utils.save_json(content,make_fname(root,'search',name,ext='.json'),indent=1)
 
 ct.verbose = 2
-root = 'html'
+root = 'web'
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
 pages     = make_pages()
