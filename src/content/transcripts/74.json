@@ -1,7 +1,427 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "0:00",
+    "text": "What do you think of when you hear the word epidemic or pandemic?"
+  },
+  {
+    "speaker": "Various Speakers",
+    "time": "0:05",
+    "text": "This is an emergency, and the Defence Agency would like to remind evacuees to stay calm and wait patiently for an evacuation order. SARS has already infected around 5000 people worldwide. This is the deadliest outbreak of Ebola on record. ... dengue and yellow fever... 200 people have been infected in ... more than 20 countries have been affected. ... Zika cases shooting up ... epidemic that's brought the world to the edge of panic."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "0:16",
+    "text": "We've heard a lot about epidemics and pandemics in the news, and for good reason. Infectious disease outbreaks are a major global challenge. The outbreak currently making headlines in our country is the 2019 novel coronavirus. However this barely scratches the surface of what's been going on around the world in the last few months alone."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:00",
+    "text": "January 16th, 2020, Democratic Republic of the Congo: three new Ebola cases confirmed as MSF warns ... "
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "1:24",
+    "text": "January 31st, 2020, Brazil: health department confirms 117 dengue cases in Rio Preto ..."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "1:30",
+    "text": "February 1st, 2020, India: 80 year old with swine flu admitted in Gandi Hospital ..."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:34",
+    "text": "January 30th, 2020, Pakistan: another polio case surfaced in ..."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:38",
+    "text": "January 29th, 2020, Nigeria: Nigeria confirms 41 deaths in lassa fever outbreak ..."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "1:44",
+    "text": "February 1st, 2020, China: China reports H5N1 bird flu outbreak in Hunan province ..."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "1:49",
+    "text": "January 31st, 2020, Sweden: the first case of the coronavirus has been confirmed in Sweden"
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:49",
+    "text": "February 1st, 2020, Philippines: 1000 pigs dead in Mindanao's first swine flu ..."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:58",
+    "text": "January 30th, 2020, Bangladesh: nipah virus Bangladesh IEDCR reports six cases, four deaths ..."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "2:06",
+    "text": "Outbreaks of dangerous infectious disease are occurring around the world at an alarming, and increasing rate. Some of these diseases are new, some have been around for years. But one thing is for sure: none of them are going anywhere anytime soon."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "2:19",
+    "text": "Why do we seem to be failing in our fight against infectious disease? How can we better prevent, or at the very least, prepare for and respond to these threats?"
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "2:28",
+    "text": "Believe it or not we at Raw Talk Podcast plan our seasons months in advance, so it's a complete coincidence that we're doing an episode on pandemics and that we've scheduled it for this particular moment in time. Understandably, experts are busy with the 2019 novel coronavirus, but we were lucky to get interviews with two highly esteemed guests. Let's dive in. I'm Zeynep."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "2:49",
+    "text": "I'm Frank."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "2:49",
+    "text": "And I'm Naz."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "2:50",
+    "text": "Welcome to Episode 74 of Raw Talk."
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "2:53",
+    "text": "I came back to Toronto, and shortly after I got here, so did this virus that nobody had seen or heard of before. Now, of course we know it as SARS. And you know, I really watched it cripple our city. We had an outbreak that went on for about four months. Some of my colleagues got infected with SARS. You know, that had a profound psychological effect on the healthcare workforce. And you know, we had billions of dollars evaporate from the local economy as people stopped traveling to the city. And we were just one of many cities around the world that were in the midst of this outbreak. So it was really a revelation that our world is becoming so interconnected, and these types of threats you know, that this was the first kind of outbreak we'd ever seen like this, but that it wouldn't be the last."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "3:57",
+    "text": "You just heard from Dr. Kamran Khan, a physician, an academic, and a scientist at St. Michael's Hospital, and the University of Toronto. He's an associate professor in the Division of Infectious Diseases at the Dalla Lana School of Public Health, and the Institute of Health Policy Management and Evaluation."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "4:13",
+    "text": "In 2013, Dr. Khan founded BlueDot, a startup specializing in the development of machine learning models to help predict the timing and course of infectious disease outbreaks. They provide information to public health agencies, politicians, companies, etc, with an eye to stopping or at the very least stemming the spread of these crises."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "4:32",
+    "text": "You'll hear more about BlueDot later in the episode, but first, we wanted to ask Dr. Kahn about the SARS epidemic. As a physician specializing in infectious disease with extensive training in Public Health Dr. Khan was on the front line of this public health emergency."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "4:46",
+    "text": "Going perhaps back to 2002, and to the SARS outbreak, if you could tell us a little bit more about what happened and what were some of the controversies in terms of you know the response to it, and you know, things that we learned that perhaps might have informed BlueDot and might inform response to pandemics going forward?"
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "5:06",
+    "text": "Well, if we if we just, you know, kind of compare and contrast a little bit of where we are today and what happened with SARS. So SARS started to circulate, it's believed, in Guangdong province sometime in late 2002. I think a key difference from what we're experiencing today is that the world really didn't have a clue as to what was going on in Guangdong Province until that epidemic started to amplify. It ultimately reached Hong Kong, which of course, is one of the largest airports in the world, and then quickly dispersed to these vast, you know, geographic locations around the world, Toronto being one of them. I think, in terms of the things that what I saw, which was pretty profound was that this virus that nobody had ever seen or heard of before, showed up in our hospitals before we even knew it was a thing. And you know, as an infectious disease specialist who's also trained in public health, you know, if I didn't know this was going on, you know, no one really would know this is going on. This was really directly related to my specialty training and so forth. I think one of the things that I learned is when a healthcare worker gets infected, it can have a profound effect on the broader healthcare workforce. You know, people are passionate about what they do, but they want to feel that they can come to work in an environment that is safe, where they're not going to get infected themselves or, you know, take a disease back home to their family. And so I think as we saw some of our peers in healthcare get infected, that was a pretty profound moment. And you can imagine, if things got bad enough, and healthcare workers thought twice about whether they should come to work, you're really in a very difficult situation if you're trying to control an outbreak. So for me, that was kind of the realization that we need better ways to anticipate infectious disease risk. Not to react. You know, we all know how to, you know, call the fire department. But how do we build better smoke detectors? How do we start thinking about ways that we can prevent these types of things from happening in the first place?"
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "7:19",
+    "text": "So have any maybe policy changes or anything in that vein arisen as a result of the things that happened during the SARS outbreak?"
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "7:26",
+    "text": "So at a global level, there's an important treaty. It's called the International Health Regulations that came into effect in 2005 - couple of years after the SARS outbreak ended. And there's a whole bunch of different components in the International Health Regulations, but it's essentially a treaty where I believe it's 196 countries are bound to the treaty. And essentially, one of the key tenants of the International Health Regulations is that countries should be rapidly disclosing information about any unusual types of infectious disease outbreaks or threats that are appearing within their country, such that the international community will get wind of this quickly, and will be able to mobilize a coordinated global response and a timely response. That has been a major change. And, you know, there there are questions currently with the coronavirus outbreak in China, whether or not you know, China has been as forthcoming. What I can say is that in 2002 and 03, we really didn't know what was going on. There was very little information coming out. In this situation, if we look at this, you know, this was first recognized on December 31, and New Year's Eve. And here we are three weeks later, the genome has been sequenced. There's lots of information out there. So certainly there has been more information that's been forthcoming. If we look at it from a Canadian context and ask ourselves like, well, what have we learned and what have we done. You know, the Public Health Agency of Canada exists today; that was formed in part because of some of the events during SARS. But I do think that while there have been advances, I still feel that we are still largely very reactive. We, as I mentioned earlier, will react and respond to an emergency with an enormous amount of energy and enthusiasm. But as soon as the emergency is over, we don't use the time in between outbreaks, I think, the way we need to be doing. So so I think a one of our big challenges is just, you know, our inability to focus on threats that we know are inevitable. I mean, you can ask any expert: will we see another outbreak like SARS or the current one we're seeing? And you only have to look at the last 20 years to see these are now growing in frequency. You know 1999, West Nile virus showed up in North America. In 2003, we had the SARS outbreak. In 2009, we had the H1N1 influenza pandemic. You know, in 2014, we had the Ebola outbreak in West Africa. In 2016, the Zika outbreak, and here we are now with the novel coronavirus. And I've left out several others that are in between. So we know that these threats are inevitable, but we are such reactive creatures and we have such reactive organizations that I think we often are not really investing our time and energy in preparing for the next threat the way that we should be."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "10:42",
+    "text": "We also spoke to Dr. Ross upshur. He's a family physician and professor at the University of Toronto in the Department of Family and Community Medicine. He's also head of the clinical Public Health Division at the Dalla Lana School of Public Health, and Associate Director at the Tanenbaum-Lunenfeld Institute, Adjunct Scientist at the Institute of Clinical Evaluative Sciences. Oh, I'm not done. He's also director of the Bridgepoint Collaboratory for Research and Innovation. Dr. upshur was also at the front lines during SARS. I asked him what happened."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "11:10",
+    "text": "Now in 2020, we should be much better off than we were in 2003. So SARS illustrated all of our vulnerabilities: the fact that relationships between public health agencies and the clinical world had kind of frayed and fallen apart. There was not clarity in terms of leadership. There wasn't clarity in terms of how information was supposed to flow. And as a consequence of the 2003 SARS outbreak, which I was part of, I was actually, I was that that time working as an academic family physician in Sunnybrook, but because I was trained in communicable disease epidemiology and outbreak management as a public health resident and did some work in the first part of my career, I was seconded up to York Region to assist their Department of Public Health with the management of the outbreak. Originally, I was supposed to be getting ahead of the virus, trying to figure out where it was going to show up, you know, do a look because my modeling work was in time series methods, which has a bit of forecasting capacity, right? Now, of course, you just give it to the computer and have run a machine learning on the data, but the data was sparse and we're trying to figure out. But the overwhelming need at the time was to assist in the outbreak management. So I became the quarantine... got deputized as a medical officer and assisted in the management of the 10,000 people who are on quarantine. So it was a mess. You know, we were looking for anybody who could count we were looking for epidemiologists who knew communicable disease because they hadn't invested in anybody to do communicable disease epidemiology for decades. All the epidemiologists were cancer epidemiologists. So as a consequence of the failures within SARS, we had you know, the Naylor Commission, the Walker Commission, the Campbell permission, the number of reports actually exceed the shelf space of the collected works of Proust, so a lot of effort went into figuring out what was wrong with the system. It's a consequence of that we now have the Public Health Agency of Canada, Public Health Ontario, we have the new Dalla Lana School of Public Health, and all of this is as a result of SARS."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "13:17",
+    "text": "Before we go any further, it's time for a quick microbiology review. Infectious diseases can be caused by a variety of pathogens, namely harmful bacteria, viruses, and parasites. It is important to note that these are entirely different types of pathogen, meaning that for example, a viral infection is entirely different to a bacterial infection and thus can't be treated in the same way. While we have a fairly broad array of options to treat bacterial infections, a physician's ability to fight off viral and parasitic threats is more limited."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "13:53",
+    "text": "Viruses are small independent packages of genetic information. Unlike bacteria, which can replicate on their own, viruses require host cells in order to replicate themselves. There are many different types of virus. Some, like the viruses that can cause the common cold are pretty harmless, while others such as the Ebola virus can be deadly."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "14:13",
+    "text": "Different viruses affect different species. The range of hosts can be narrow or broad. Many viruses causing infectious disease in humans originated in wild animals and were carried over to humans through an interaction. This includes the various coronaviruses that have already been mentioned in this episode. Viruses passing from animals to humans are known as zoonotic viruses."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "14:33",
+    "text": "Viruses can spread between hosts - human and otherwise - in a variety of ways. The mode of transmission is important in determining how fast this occurs. Some viruses, such as the 2019 novel coronavirus, as well as the more common influenza virus can spread via respiratory transmission, allowing them to fairly easily affect many people very quickly. Other viruses are transmitted via insects, such as the Zika virus. Others still, such as the Ebola virus require direct contact with bodily fluids, including fecal matter or blood from an infected individual. This is much rarer and it thus limits, or at least slows down, their spread."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "15:18",
+    "text": "We asked Dr. Khan to tell us a bit more about Corona viruses in particular."
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "15:22",
+    "text": "Just taking a step back in terms of what are coronaviruses. You know, these are common viruses that can cause the cold. But there are also certain types of, you know, we sometimes refer to them as novel coronaviruses because they're new in human populations. SARS was one of them, which we believe, you know, made the leap from civet cats over into humans. MERS, the Middle East Respiratory Syndrome, if you've heard of that, another coronavirus, thought to originate from camels, made the leap over into humans. And this one we don't actually know what the animal is, but it's highly suspected that it has an animal origin because of this link to a animal market where wild animals are consumed. I do think one of the important points is that when we think about the lessons that we've learned, if we go back to the SARS outbreak, there's a bit of deja vu here. You know, we had an animal market with an exposure that crossed over into a human and then spread around the world and, you know, was enormously disruptive. And we are now here 17 years later with an animal market and an exposure and a coronavirus, and it is now spreading from person [to person] around the world. We often spend time talking about, you know, should we be doing more at airports or, you know, what should we be doing, you know, in our hospitals. I think we're often looking at the symptom and we're not really addressing the root cause. And I speak to this issue not from a perspective, moral perspective, but I would say that we have to really consider our interactions with animals and other living systems in our world, because ultimately, these types of viruses are entering, you know, the human population, when we either consume wild animals en mass, when we industrialize agriculture and mass produce livestock - you know, we wind up with things like avian influenza and swine flu that could trigger influenza pandemics - or when we have wildlife ecosystems that are grossly disrupted by our footprint, humans start to come in contact with some of these viruses that are in animal populations and the same kind of effect happens. So we have to really be looking upstream and thinking not just about treating the symptom, but ultimately what is the underlying root cause here. These are not simple problems to tackle, but they are essential that we really ask ourselves the difficult questions. If we don't, we may find ourselves every five to 10 years going through something like this again."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "18:16",
+    "text": "So influenza, coronavirus, and ebola are all zoonotic infections. All of them have to do with human interactions with animal species, usually animal species that we want to eat. So bushmeat in ebola, wet markets in coronavirus, poultry in, because influenza viruses love chickens. So my my question is, you know what does KFC and influenza have to do with each other? So if you take a look at a graph, and I invite all your listeners and you, when you go home, to find a graph of the growth of the global chicken population. Because we like to deep fried them and wrap them in, you know, chicken nuggets. How many McNuggets does a planet need? So as the, and of course, it's not that these chickens are living in bucolic happy conditions, they're in these massive farms. And that's just like creating a Club Med for influenza virus, right? Influenza viruses love chickens, they love ducks, they love bird species. And when you congregate a lot of chickens - and it's a very rapidly mutating virus, right, one per thousand replications leads to a mutant form of influenza virus - and they spread and replicate through avian species very rapidly. So we are going to see more and more of zoonotic infections. We need to rethink our relationship with animal species. There's a really interesting movement called One Health which is veterinary, you know, animal ecologists and health professionals trying to think about ways in which we can interact with animal species in a more productive, less lethal way. So, since 2003, we've had five major zoonotic outbreaks. They're going to keep coming. And if we get all head up and bent out of shape every time it happens, then you start to ask, well, maybe we just like being head up and bent out of shape rather than responding in a concerted rational way and taking preventive measures so that we see less of these in the future."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "20:23",
+    "text": "An individual with 2019 novel coronavirus is likely to have symptoms such as a runny nose, headache, cough, sore throat, fever, and a general feeling of being unwell. I know what you're thinking. These symptoms are quite typical of any common cold or flu. So how can we more specifically detect this virus?"
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "20:44",
+    "text": "Lab testing of someone under investigation for the 2019 novel coronavirus is only considered for patients displaying symptoms who were in Wuhan within 14 days prior to getting sick."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "20:56",
+    "text": "Testing for the 2019 novel coronavirus isn't easy. Public Health Ontario or PHO states that a patient under investigation requires prior approval by the PHO lab before they are tested, and ideally after a physician has seen the patient. The turnaround time for viral respiratory testing is up to four days. Until a definitive test is available. The PHO lab is using a number of different lab techniques that can strongly suggest the presence of the virus."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "21:24",
+    "text": "Now, you may also find yourself asking how far the virus might spread or how easily the bug can hop from one host to the next. Spread can be described by something called the basic reproduction rate, known as R0. R0 predicts the number of people who can catch a given bug from a single infected person and it is affected by numerous biological, socio behavioral, and environmental factors that contribute to transmission."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "21:52",
+    "text": "For example, polio and smallpox have R0 values in the five to seven range, meaning that one infected person would be likely to infect 5 to 7 people. According to the World Health Organization, or WHO the R0 value for 2019 novel coronavirus is estimated to be within the 1.4 to 2.5 range, at least at the time of this recording. It's important to note that diseases with are not values that fall below 1 typically disappear from a population before becoming widespread as infected people recover faster than the bug can transmit to new hosts."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "22:26",
+    "text": "R0 estimates vary based on location. The estimate we mentioned earlier was specific to Wuhan, where the outbreak is ongoing. We're certain than in the days and weeks to come, scientists will continue to refine our knowledge about the 2019 novel coronavirus. There are many things to consider such as the different characteristics of this disease, including how long infected people remain contagious, whether asymptomatic people can pass on the virus, and how long the bug can survive outside of the body."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "22:57",
+    "text": "So how do these pathogens spread? In their guide \"Managing Epidemics\", the WHO divided epidemic disease occurrences into four phases:"
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "23:06",
+    "text": "Phase 1 is the introduction or emergence of the disease and a community."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "23:10",
+    "text": "Phase 2 is an outbreak with localized transmission where sporadic infections of the disease occur locally."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "23:17",
+    "text": "Phase 3 is amplification, where the number of people infected amplifies, threatening to spread beyond the area in which the disease first emerged turning into an epidemic or pandemic."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "23:28",
+    "text": "Phase 4 is reduced transmission. In this phase, there's less person to person passing of the disease, as some of the population can actually acquire immunity, or interventions to control the disease from spreading are implemented, effectively reducing its transmission."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "23:43",
+    "text": "These four phases don't necessarily all play out. A disease and our detection of it can skip a step, giving us less opportunities to control it."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "23:51",
+    "text": "So how do we manage the spread of virus. The WHO suggests specific response stages to help handle an outbreak at every phase of its course."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "24:00",
+    "text": "It all starts with anticipation. You can't predict the emergence of a disease, but you can anticipate risks that come along with it."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "24:07",
+    "text": "Once an outbreak is first detected, a One Health approaches used. This means collaboration between veterinarians, conservationists, and wildlife experts. The US Centers for Disease Control and Prevention or the CDC state that 6 out of every 10 infectious diseases and people are spread via animals."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "24:26",
+    "text": "Collaboration and cooperation are major aspects of managing epidemics, with multiple worldwide initiatives in place. One would be the International Health Regulations or IHR. These are an agreement between 196 countries including the member states of the WHO. They're meant to help countries work together for global health and security, and the aim to prevent, protect against, control, and respond to disease threats. Participating countries are responsible for detecting, assessing, and reporting public health events."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "24:59",
+    "text": "Check out our show notes to learn more about WHO response interventions, Canada's preparedness plans, and other initiatives."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "25:08",
+    "text": "One of the measures that help with reducing transmission of disease is quarantine. Dr. Upshur provided us with details on how quarantine works and the ethical considerations behind it."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "25:17",
+    "text": "I'd been interested in sort of the ethics of infectious disease and both clinical and public health responses since my residency, and because I had the fortunate or unfortunate privilege of being the quarantine person, [laughs] it's kind of, you go from being the avuncular trust and family doc, \"so nice to see you\" to the one on the phone saying \"we understand that you're quarantined and you were seen at the mall I'm telling you that if you're caught outside of your quarantine again, I'm going to have you arrested and you will be put under... because public health has that power, right? The medical officers - they're medical officers, because public health officials, particularly have policing powers, because their primary role in an outbreak is protection of the community. Whereas the physician has the obligation to care for the particular patient and the well being of the patient, the patient of the health unit and of public health is the entire community. So health protection is one of the really important roles that public health plays, and because outbreaks of infectious diseases that have you know, significant morbidity and mortality, they have to take all steps possible to prevent unnecessary, needless transmission that puts people at risk. That's why they have in every country of the world, they have these powers to bring threats to the community under control by whatever means necessary. Now, that raises huge ethical issues. So quarantine in and of itself, is a major ethical issue because in a liberal democracy, people are used to their, taken for granted, mobility rights. They're enshrined in Canada in the Charter of Rights and Freedoms. But all freedoms can be overridden by, you know, weighty considerations."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "27:05",
+    "text": "You've probably heard about the quarantines being imposed on millions of people in China. Cities are being shut down in an effort to stop the spread of the 2019 novel coronavirus. The National Post recently published an article which said that enforcing quarantine Canada would be quote, inconceivable. But is that really true?"
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "27:24",
+    "text": "Well, we had, the people are forgetting that in 2003, we had I can't remember off top my head, over 10,000 people in quarantine. But the difference was, we didn't just wake up one morning and say, you know, everybody's in quarantine, there was a certain amount of public engagement, a certain amount of communication. We were very fortunate in the SARS outbreak to have Sheela Basrur -- who the Basrur Center is named after; I actually worked her when I was a resident -- who was probably the most preternaturally gifted risk communicator I've ever known she could just stand up and front of a camera in front of the public and communicate honestly. And she was very well trusted. So that trusting relationship when we we actually did a study on Canadian attitudes and published towards quarantine why Canadians were more when I presented likely to adhere to it. I think there was only 20 or 30 cases of people actually violating their quarantine. And when I presented the data in the United States, they said that'd never happened here, good luck with that! But you know, the certain public spiritedness. Mass quarantine is a blunt instrument. I think it's being used more for its symbolic effect in this context then for its actual effectiveness, because once there are cases outside of the area that's quarantined, cats out of the bag. And so I think there was a report today that there is a case in Chicago so unless you can stop the transmission chains immediately. You're soon get into secondary, tertiary quaternary levels of transmission, and then you lose, so the worst case scenario is you lose that link through contact tracing. And then you've got, you know, uncontained spread in communities. So, but that's hard to do anyway. So quarantine is not necessarily going to achieve it's end. I'm not sure what they were thinking and how they were going to evaluate the impact of this, or whether they were even concerned about that. It backfires sometimes. So for example, in the Ebola outbreak in Liberia, president of Liberia [Ellen Johnson Sirleaf]. There's a little neighborhood in Monrovia that's on a peninsula and there was quite a lot of Ebola transmission there because it's a peninsula. They ran razor wire across the entrance to it. And of course, the population took issue with that and started to resist and unfortunately, somebody was shot and killed. So humans will resist to their mobility being restricted without there being a clear communication on its necessity, without a clear communication on how long they're supposed to do that, and as our research on the ethics of quarantine says, without some reciprocity, right? And that is, there is an obligation on those proposing the quarantine to make it easy for those being quarantined to discharge their obligations. And we learned a lot about that in SARS. So you tell somebody, they can't go out for 10 days, well, they can't lose their job because of that, right? So the workplaces need to know that. What if they need, how are they going to get food? How are they going to get medication, if they need to take medication? What if they have medical needs that they have to... so all those things need to be taken carefully through. So if you can meet that reciprocity condition, and that transparency of communication condition, then it might be justified. And so we published an article, and this goes back to evidence. You know, some people will say, what's the evidence of effectiveness of quarantine? Well, there's not a lot of evidence. In fact, my colleague down the hall here Sue Bondy published I think the only study that shows any benefit from quarantine. What quarantine -- so remember to separate out quarantine from isolation -- you isolate people who are symptomatic, you quarantine people who have been exposed but are not yet symptomatic. The theory being that if their quarantined and they developed symptoms, you can get them into care sooner. And that's what the SARS data showed that people who were in quarantine who became cases got care sooner. Right? So that's the that shows that it works, and it should, because, you know, we don't believe in miasma theory, it should stop chains of transmission, right? Because if it's a person to person or droplet, unless it's some weird, airborne, measles on steroids, it's not likely to be something that transmits further on so that so there's the two roles. One is to get people into care sooner if they become symptomatic, and to break transmission chains. So but you know, putting 30 million people under quarantine, I'm not sure how that's actually going to be well might be enforceable in China, because they have a lot less concern for civil liberties and we have here. But that kind of mass quarantine should only be used as a last resort. It's only justified in highly, highly say uncertain risk, but that the the mortality risk might be higher than people think it is. And by, you know, I don't think we would quarantine a city in Canada. So one of the big issues about restriction of mobility is this whole issue of what are the appropriate limits of state power for the control of disease in a liberal democracy?"
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "32:38",
+    "text": "How would we respond to an outbreak here in Ontario? What kind of systematic responses would be put in place?"
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "32:43",
+    "text": "Health is a provincial responsibility. So the way, it's a bit complex because in Ontario, for example, public health is a municipal responsibility. There is a provincial Chief Medical Officer of Health but there are 34 Our health units with Medical Officers that are responsible for communicable disease surveillance, reportable diseases go to the that, and they do the contact tracing and follow up. So what is really important and particularly in light of this new coronavirus is how municipal public health, provincial public health, federal public health and global public health authorities communicate and share information, and then how all of those messages are then connected to the clinical sector. So you start you make a line list of the cases, you make a line list of the contacts. All the contacts need to be contacted, they need to be informed, they need to be told if that if they become symptomatic that they're to report to a hospital or to a health clinic and to make sure that people know that thy're a contact of somebody that was exposed. So there's a lot of work that needs to be coordinated. All the work isn't just within the walls of a hospital. It's an entire system response. So, hopefully -- he says crossing both fingers and knocking on any wooden surfaces nearby -- we are much better prepared now in 2020 for this new coronavirus than we were in 2003. We got caught out in 2003. And it was with huge consequence, the entire outbreak cost somewhere between 30 and 100 billion. A travel advisory was issued against Toronto. So the other thing that's been an investment and the division I lead is called clinical public health precisely because for things like infectious disease response and management, you can't have the clinical world isolated from the world of public health. Public health is responsible for the investigation and management of outbreaks. And that becomes a very complex undertaking. So somebody might show up in an emergency room sick. It's the job of the clinicians to take care of that patient. But now, the new coronavirus is a reportable disease: mandatory reporting, which means that if there's a suspicion that it's a case this new coronavirus, that clinician needs to report it to the local public health authorities. They then will deploy their epidemiology stuff because one case it's kind of like the old nostrum about Lay's potato chips, you can never eat just one. Viruses never come as one case alone, particularly respiratory viruses, they tend to have onward chains of transmission. And that's the real, the real shoe leather part of putting out an outbreak is following up on contacts. So you need to get people who have been exposed to an index case, you need to find each and every one of them. And if you've been following the outbreak of Ebola in the Democratic Republic of Congo, you know how difficult that is, because think if somebody asked you, who have you talked to in the last, or have been in a shared airspace within the last 48 hours."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "35:52",
+    "text": "Dr. upshur also spoke about the role of the who during an outbreak."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "35:57",
+    "text": "So the World Health Organization is the the global public health organization. I have a lot of sympathy for the WHO I mean, I was for several years the Director of the WHO Collaborating Center in Bioethics, upstairs in the Joint Center for Bioethics, and I still have a role. Jennifer Gibson's, the director but we have a work plan with the WHO, and and I'm kind of the lead for epidemics and ethics. So the World Health Organization, many people think it has more power and resource than it actually has. And its budget has gone down and its revenue sources are largely tied to programs. And that's unfortunate. And, you know, just to contextualize a little bit Ontario spends $65 billion a year on health and healthcare. The budget of the World Health Organization is about $5 billion dollars a year and they're meant to set standards for every kind of disease globally. So it runs on fumes. And it has a lot of responsibility. It has a lot of symbolic authority. But the thing to remember is that the WHO is an organization within the United Nations. So when people talk about global health, they get, you know, I've done a lot of work with Medicine Sans Frontiers, and you know, no borders, you know, Doctors Without Borders, we're not going to admit national borders, WHO can't do that. It's, it relates to its member states. So the idea of a nation state and the sovereignty of the nation state and the capacity of the nation state to decide for itself are the rules within which the World Health Organization has to act. The thing that was a little bit different about the International Health Regulations is that it actually gave a tiny little bit of leverage for the WHO to apply to nation states, particularly if they were not being transparent, about disclosing the extent of an outbreak, but they don't have any sanctioning ability, right? They can only use moral suasion. So a lot of people sort of rolled their eyes for example, in the 2014 when the Ebola outbreak started to ramp up about the WHO not doing enough, and there was pressure to have public health emergency of international concern, which they declared finally in August of 2014. But Margaret Chan said -- and she was the director general at the time -- and said the WHO is a technical organization, we provide advice to member states."
+  },
+  {
+    "speaker": "Dr. Margaret Chan",
+    "time": "38:41",
+    "text": "Ultimately, health systems with International Health Regulation core capacities must be strengthened in your countries to protect unexplained deaths much earlier. This is critical for improving global health security, to protect our common vulnerability."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "39:04",
+    "text": "As Dr. Upshur mentioned, the WHO only provides advice to the member states and relies on them to take action. In an interview with Stat, a news website reporting on health and medicine, former Director General of the WHO Margaret Chan, whom we just heard addressing the World Health Assembly said that, and I quote, \"this is a test of the political will of my member states. If they don't come up with funding support, I think we're going back to square one. You want a strong who? Invest in WHO."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "39:32",
+    "text": "So the member states, the Gates Foundation, provides a lot of money [for] World Health Organization, but sometimes their aid is tied to programs and a lot of the thinking is very vertical, like we'll give WHO you know x hundred million dollars for HIV AIDS, but it can only go to HIV AIDS, and many of the global health ills that plague vast number of people on the planet living with very few means relate to no access to health care at all, and no coverage. Right? So that's why the big campaign is for universal access and universal coverage. So a basic health package for every instantiated human on Earth. And that's what they're trying to push forward. As there's large parts of the world where millions of people have no access to any form of healthcare."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "40:22",
+    "text": "Infectious disease continues to be a major global problem. The frequency and spread of outbreaks will only increase as a result of the changing climate, as both our guests have alluded to. This is an established fact amongst experts. Yet, on a global scale, we seem to continue to grapple with exactly the same issues with each new outbreak and seem rather unprepared for what's to come. We need novel and better approaches, including better warning systems to slow or even stop infectious disease outbreaks in their tracks. I asked Dr. Khan about the work his company BlueDot is doing to create such a system."
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "40:58",
+    "text": "So BlueDot, we are digital health company. We're just over 40 people. We are an eclectic mix of physicians and veterinarians and ecologists and data scientists and software developers, designers. We're a pretty diverse group. And our, you know, main goal is to build early warning systems for emerging infectious disease threats like the pandemic threat that we are seeing. BlueDot was founded in 2013. I spent the next 10 years or so in my role as an academic and a scientist at St. Michael's Hospital and at the University of Toronto, studying global outbreaks. Eventually, I reached a point where I realized that we had to be able to generate and move knowledge faster than the disease's move themselves. And while the academic arena was really an is a great space for discovery, it is not necessarily the most agile in terms of communication of that discovery. If you've ever submitted publication for a peer review, you know that that could take you months to years, whereas with an outbreak, you have to be operating in hours to days. And so it's just the wrong vehicle. So I took a bit of a leap of faith, I am not an entrepreneur or a person with a background in business. Took a bit of a leap of faith, MaRS innovation and the MaRS Discovery District kind of helped me get started to think about this. Founded BlueDot in 2013, it was just me at the time. And here we are six years later with, you know, over 40 of us and building some really kind of cutting edge tools that we are excited about because they are ultimately about ways that we can make the world a safer and more secure and a better place."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "42:46",
+    "text": "Sort of expanding on that -- on the idea of doing better. How can you know experts better track and predict disease outbreaks and epidemics, you know, what kind of work that's being done a BlueDot that kind of thing. How can we better address this issue?"
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "42:58",
+    "text": "You know, going back again to the outbreak in 2003. It was clear to me that there were a number of things we needed to do. One was to be able to recognize that there were outbreaks earlier. The second was we needed to be able to anticipate how they spread. And I think the final one was, we'd have to be able to generate and disseminate knowledge faster than the diseases can move themselves. So let me start with the first you know, on one hand, we're in an interesting period in human history where we have this confluence of different global forces that are driving the emergence and spread of infectious diseases. So population growth, you know, seven and a half billion people in the planet, urbanization, more than 50% of the world's population living in cities, climate change, commercial air travel. So these are all key drivers of emergence and spread. But we're also in this interesting period where there are novel data streams that we can make use of the where there are advanced analytical techniques like machine learning and other forms of artificial intelligence to be able to make sense of vast amounts of data. And then we have digital technologies like smartphones and other kind of supercomputers that we carry around with us, where we can literally send knowledge around the world instantaneously. I know just for context, I think I had my first blackberry or so back in 2002. So you can kind of get a sense, a lot has changed. So I think the question and really the challenge for us at BlueDot has been, can we generate and spread knowledge faster than the diseases spread themselves? So I'm going to talk a little bit about sort of three pillars to what we are calling a global early warning system for infectious diseases that we've been building. Now I recognize that's a pretty bold statement, but we also sort of feel that we need to be taking some pretty bold steps in order to utilize the data and analytical and technological tools that we have available to us, they're being utilized in other areas in marketing and communication and advertising. You know, why aren't we using the same kinds of tools to be doing something that can have a much broader social impact around the world. And so in many ways, that's kind of the inspiration for all of us at BlueDot. Kind of what gets us out of bed in the morning and into work is the feeling that we can be doing something that's much bigger than ourselves. So I'll tell you a little bit about the three pillars of this early warning system. One of the first is to be able to detect threats more rapidly. So as you can imagine, after SARS, there was a recognition that if we wait for governments to officially report information, we may not always get it in a timely manner. Having said that, the International Health Regulations has come in still and then since so, you know, there a mechanism and an incentive for countries to disclose. But still, that information may not be timely. Well, increasingly, the internet has become a medium for surveillance for being able to detect or become aware of infectious disease threats around the world. But of course, the internet is this incredibly vast medium, with information in so many different languages, and so forth. So, our team of engineers and data scientists and clinicians have built a engine that uses natural language processing and machine learning to read through over 100,000 articles every single day in 65 languages currently looking for over 100 different infectious diseases. And it does this every 15 minutes, 24 hours a day. So the natural language processing engine can distinguish how if the article is really about an infectious disease threat, or you know, maybe the word plague, for example, is used in some other contexts, it doesn't have anything to do with an outbreak. But by training this engine, it's actually been able to classify this information and say, okay, that's something you need to pay attention to. This is actually irrelevant, don't worry about it. So in a sense, it's kind of finding the metaphorical kind of needles in the haystack for us. Because as you could, as you can imagine, if you had to manually do that, and read in 65 languages, you'd need a team of a few hundred people working around the clock. So we have four clinicians who can supervise this entire system and all of a sudden now we have the ability to scan events and threats that are appearing around the world incredibly quickly. To put that in context with this novel, coronavirus outbreak, we actually picked this up through our system on December 31 on New Year's Eve, and had already reported on it to all of our clients before 10am on December 31. That was roughly a week before other national and international organizations had really spoken to this event. So that's a little bit about how we are collecting information from official sources, but also using these other information sources to gather epidemic intelligence quickly, to be able to geo-locate and timestamp and contextualize all of this information, organize it and structure it. The second part is to assess what the risks are. So if something is appearing, and Wuhan and I'm sitting here in Toronto, do I need to be worried if there are 11 cases there? Is that something that I should think about? Or what if it was 111? And how does this disease move? So we often say that people should think global and act local, but this is one of those situations that's really difficult. We know that for certain diseases for many diseases, humans ultimately become the vectors that spread the disease from one geographic area to the next. So in order to understand how a disease might spread. We have to understand how people move. So as an academic going back, you know, more than a decade, I've been studying the global airline transportation network, using data on ticket sales, billions of pieces of data on ticket sales, to understand how, again in an anonymized fashion, how billions of people are moving through this global network. And ultimately, that is the same mechanism through which infectious diseases can move. There's been about a decade of research into testing and validating the mathematical and epidemiological methods to determine if this works. And it turns out that perhaps not surprisingly, where people go, infectious diseases affecting people will also follow. If we actually look at the current outbreak. I believe of the leading six international destinations out of Wuhan, five of the top six now have confirmed cases of this coronavirus and below that, you know, the vast majority of them do not. So, so this is the second kind of pillar is incorporating information on how humans move around the world. And then there's lots of other contextual data that we've been incorporating. Even things like real time satellite data, that would allow us to understand things like temperature, precipitation, humidity. For many diseases, if a disease is introduced into a geographic area, it may not have the right environmental conditions to actually trigger another outbreak. You know, you wouldn't expect to have a mosquito borne disease spread at this time of year in January in Toronto. And the same can be true for many other diseases around the world. So that's kind of the second pillar, and the last pillar really is just building the technological tools to be able to disseminate this knowledge to audiences around the world and largely today at BlueDot, we are supporting government agencies in Asia and North America and in other parts of the world. We are also building systems to generate intelligence to support hospitals and frontline healthcare workers, because patients who are sick are going to wind up in the emergency department. And we need and we rely on our frontline health care workers to be able to recognize the disease they may have never seen before. And we also support certain types of businesses like airlines that are traveling around the world and need to be aware of what types of threats may be appearing."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "51:37",
+    "text": "The information being generated by groups such as BlueDot is vital to facing up to the challenge of infectious disease, the policy changes need to be made in order to implement this information."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "51:45",
+    "text": "So in terms of policy changes, probably the most important and significant, but even now it's starting to show its limitations... So SARS was under the old quarantine regulations and in 2005, the World Health Organization passed what are called the International Health Regulations. So anybody who's interested in global health needs to understand what the World Health Organization is, what its powers and the limitations are, and what the International Health Regulations are. And they're binding on all of the member states. And they're the ones that, so they talk about the obligation to share information, the obligation to bring things to the attention of Geneva. And it's within the International Health Regulations that this thing called a \"public health emergency of international concern\" is defined. And it's like the world believes that once you declare something a public health emergency of international concern, all of a sudden the you know, the WHO is on steroids, and it's got this muscle that it can do all this stuff. It has no such thing. And it's a binary decision. And that's the unfortunate thing. So a good example was the H1N1 pandemic. So there was a lot of concern that we needed some sort of mechanism that was more graded. So that you would like tie severity into it rather than just yes or no. And I noticed that in the report that came out of the World Health Organization, there is some discussion about changing the policy to sort of have it more of a spectrum, rather than either or. So the International Health Regulations are the big policy change in global health. Nationally, as I mentioned, we have the Public Health Agency of Canada, which we have a very good public health lab based in Winnipeg, that's where our level 4 and we sort of got level 4 containment facilities. Actually a lot of the research that led to the now drugs and vaccines that have been evaluated and found to be useful in the DRC [ebola] outbreak came out of that lab. There's an interesting history to that, but how Canada got involved in Ebola research when it's not really a place where you're ever going to run into Ebola presumably. So there's been so those would be the major policy changes the global policy on the public health: International Health Regulations and in Canada having a independent Public Health Agency of Canada with Chief Public Health Officer, the investment in public health training. And we still you know, that being said, I think there's a lot more work that can be done to bring about closer integration and better public understanding."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "54:18",
+    "text": "Dr. Khan elaborated on different aspects of mitigating outbreak risk and what steps can be taken."
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "54:23",
+    "text": "I think ultimately, when we talk about prevention or mitigation of risk, there's really three frontiers where you can do things one is at the source itself. So for instance, in this outbreak, you know, Canada is working on the international scene through the World Health Organization to help contribute to ways to manage the outbreak in China itself. The second frontier is how people move from one geographic location to the next. So you often hear about well, you know, should we be putting up thermal scanners or doing things in our airports. So when we There is what's called exit screening, which is, travelers as they're leaving, they have to make what's called the travelers health declaration about, you know, have they been to the market? are they feeling sick, and so on and so forth. I believe they're also doing some kind of the infrared thermography and temperature testing. And, you know, that intervention, I think it makes sense to not have someone who's sick board a plane and then you know, go somewhere else in the world. The more controversial area is, whether or not you should be doing entry screening when people arrive into your country. And it's controversial for a couple of reasons. One is we had experience doing this during SARS, where we screen millions of travelers and we actually did not find any cases of SARS. Now, why is that? And I want to explain this in the context of the current outbreak in Wuhan. The first thing is in Canada, there are no direct flights coming from Wuhan. So as you can imagine, you can't go to one part of the airport and say okay, like we're gonna just make sure as everyone gets off the plane, we're going to assess them, because they're coming from everywhere, from Frankfurt and Singapore and Tokyo and London and every place you can imagine they're making these connections before their last leg into Canada. So logistically, it's very challenging to think about, well, how would you do this? The second key piece relates to something called the incubation period, which is the time between a person getting exposed to a particular disease and a time that they actually develop symptoms. Now for coronaviruses, and we don't know the incubation period for sure for this particular coronavirus, but generally, for things like SARS and MERS, they've been in the order of five or six days on average, but can be as long as two weeks. So you can imagine that a person who's been exposed can get on a plane, you might have to wait 14 days before they get sick. So you can just think of how many times you could go around the Earth in 14 days. It'd be probably close to 14. And the more likely scenario is that if a person has been screened before they get on the plane, and they don't seem to have a fever or are sick at that time, is the far more likely scenario is that if they do get sick and they are infected, they will get sick well, after they've left the airport, if you use an infrared scanner, and and try and assess their temperature, they won't have a fever. If you ask them about symptoms, they'll feel fine, even if they're carrying the virus has not reached a point where they actually have any symptoms. So this is where you know the discussions around we need to be educating travelers when they arrive, about what this disease is, what are the manifestations, if they develop an illness, what should they do, so that we can quickly identify cases and make sure the appropriate management is is taking place. So that's kind of the second frontier beyond the origin as people are traveling. And then the third is really what are we doing in our local communities to be anticipating and preparing for this because one case could remain one case if we detect it quickly, we isolate the patient, and so on. Or one case could become 10 cases or 100 cases or thousand cases, maybe if we don't. So, this is where we need to be really engaging, and our frontline health care workers become so important. But it's a really difficult task for them, as you can imagine. Healthcare workers, you know, if you've gone into a hospital, emergency department, or maybe even your primary care provider, you know, just how busy these places are. And as a frontline healthcare worker, I can say myself, it is very easy to get overwhelmed by the volumes that you are having to manage. So we are so distracted, we don't really have time to be thinking about some disease or some outbreak appearing halfway around the world. That's the last thing on our mind. But in today's world, that disease might find its way into our emergency room in a matter of hours. So how do we not overwhelm the healthcare workers, but deliver insights that are meaningful to them just when they need them? And this is a lot of the work that we've been doing at BlueDot, is surveilling infectious disease threats around the world, connecting it to the entire world's air travel data. So that if I'm in here in Toronto, and there's an outbreak 10,000 kilometers away from me, this system will know how many cases there are, it will understand what's the population at risk, it will understand how many people are moving to the city that I'm in, and it will send me a very short 60 second blurb on: What is this? How would I recognize it? What's the personal protective equipment I need? Do I need to put the person in isolation? So now, it's front of mind. But we don't want you to know about every single threat in the world. Because if we do that, you quickly are just going to tune out. This is kind of the cry wolf scenario, which is just like I've heard too many alerts, I'm not going to pay attention to any of them. And so this is, I think, where we have a real opportunity with data and analytics and technology to do things that are really, really precise, and just in time, so we can give that individual a global panoramic view, while they're just standing where they are, and they're distracted and have very limited time. And so this is one of the real challenges of what we're doing at BlueDot but I think one of the really exciting opportunities about how we will deliver health care in a world where we can no longer just think about what's in our backyard, the whole world is now our backyard."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "1:00:55",
+    "text": "There are obviously many limitations and trying to control the spread of a disease. Dr. Upshur mentioned one that is often overlooked."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "1:01:02",
+    "text": "Political will. Right? So people, you know, we would like to think that governments care about their people, but there are many governments that really don't care about their citizens and their population. We're very fortunate in Canada, where we're democratically enabled and we have resources to actually provide people with basic health care, and that's publicly funded, you know. Everybody has access to insured medical care. That's the exception, not the rule, even south of the border, 40 million people, no coverage, right? And so what happens then is that people face economic ruin, to manage treatable health conditions. And that was the decision you know that Tommy Douglas would often argue when he was arguing for a publicly funded health care system that in a you I think, paraphrasing in a civilized society, no one should go bankrupt for a treatable disease. And so that's something we should work and aspire to. And the WHO is, you know, that's what they would like to do. But you need the public, you need the political will, If we diverted just a small percentage of the money that we spent spent on arms, we could afford health care around the world. It's doable. It's just you've got to, you know, you've got to want to have healthy people as much as you want surface to air missiles. So some people would say, you know, you're spending all this money, yes, you know, yeah, people die viruses all the time. What about the opioids? What about this? What about that? How do you think about fair allocation of resources? Certain very severe outbreaks can cause some very difficult resource allocation decisions. For example, we did a lot of work around intensive care beds and ventilated beds, particularly when you're thinking about pandemic influenza where there's a high rate of pneumonia and respiratory disease, and there's only so many ventilated beds. How do you go about deciding who gets access to a ventilated bed? So we did a lot of work on that. Then there's all of these issues around global governance and global coordination. And these come up, you know, you look at Ebola. Duty to care? Check. Isolation, quarantine? Check. Resource allocation? A lot of complaints, like you know, Ebola like yeah, Ebola is not the only disease. More people are dying of malaria. And by the way, in West Africa and the Democratic Republic of Congo, if all the work is going into and all the resources are going into Ebola, and they're not going into supporting maternal child programs, or you know, accompanied births, and so you have little spikes of mortality from other diseases, because all the resources are going here. And these happen time and time and time again in virtually every outbreak."
+  },
+  {
+    "speaker": "Dr. Margaret Chan",
+    "time": "1:03:36",
+    "text": "We are also seeing how a world full of threats can toss out deadly combinations, like the dual threats from drought and armed conflict that have brought famin to parts of Africa and the Middle East on a scale never experience since The United Nations was founded in 1945."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "1:04:04",
+    "text": "Climate change, conflict, resource allocation. Dr. upshur, Dr. Chan, and Dr. Khan touched on many challenges to consider during outbreaks that can make things more difficult for our health systems. But another factor we face today: the media."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:04:18",
+    "text": "Incorrect information can incite panic and fear which during a disease outbreak, epidemic, or pandemic can be fatal. Public perception that a disease is highly dangerous or deadly, can create danger during an outbreak that would otherwise be low risk. We asked Dr. Upshur about how public perception can shift and change during a public health challenge and what the role of the media might be in shaping panic, or preventing it."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "1:04:44",
+    "text": "And the thing about outbreaks that get this kind of media attention is people start, weird things start to happen, right? People start to behave in very strange ways. Rumors are circulated. The one thing I'm keeping a very close eye on with this particular outbreak is it's the first one that's come with fully enabled social media capacity. That's going to be something to watch. And unfortunately, misinformation travels very quickly. And it's hard enough to put out and to stop and control an outbreak with the finite resources that we have. And these are dedicated professionals who know what they're doing. But if you're starting to spend a lot of time tracking down rumors or people who are offering fake cures and things like that, it just makes the job that much more difficult. So what I'm hoping and it's merely that: a hope, is that we will see responsible media reporting because everybody's all over this story."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "1:05:39",
+    "text": "It is vital that we, as the public try to ignore the rumors about infectious disease outbreaks and seek out reliable resources to keep ourselves up to date. Furthermore, we must call out the media if and when they might be contributing to the infodemic."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:05:54",
+    "text": "Keeping ourselves informed is especially important as the rate of infectious disease outbreaks continues to increase in the coming years and decades. We must change the way we think about and deal with this global challenge."
+  },
+  {
+    "speaker": "Dr. Ross Upshur",
+    "time": "1:06:07",
+    "text": "Be prepared. There's going to be more. So come on humans, get a grip. You know, wash your hands, if you're gonna panic, panic with soap and water, right? You know, the things that you need to do to protect yourself from most of these viruses, most, you know, basic hand hygiene and basic health advice, right? Just don't freak out."
+  },
+  {
+    "speaker": "Dr. Kamran Khan",
+    "time": "1:06:26",
+    "text": "I think really, if there's one key message, you know, when we actually talk about what are the lessons that we've learned? I think there are two really, really important lessons. And one of them is: we really have to give more thought and attention and action toward how we are interacting with other living systems on our planet. The rules of nature apply to us. Nature is trying to tell us something. This is the second time now we're hearing the same story. We need to pay attention and not just thinking of whether we can put better scanners in airports. But we need to really confront the root cause of this issue. I think the second thing is: we are in an incredible era with data and analytics and technology and our ability to generate insights is, you know, really unprecedented and I think it will only become even more powerful with time. We have to be able to move information more quickly. That is going to be our competitive advantage because these diseases move incredibly quickly and fast. We are just going to have to move faster. And lastly, I guess I would just say that we are by nature, very reactive creatures and beings. What's going to be essential is for us to stay focused on what is needed even when the emergency is not in front of us. We're going to need to maintain the same level of rigor and while we are in between outbreaks as we are when the emergency actually happens. I know that's a very tall order. It requires, you know, a tremendous amount of leadership to say, we should be focusing on a threat when we've got other things, you know, right in front of us that we need to deal with. And this is not happening right now. But these threats are inevitable. And we are seeing them now every few years. So this should be an indication to us that we cannot sit and wait for the next one."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "1:08:28",
+    "text": "Infectious disease outbreaks will not go away anytime soon. Their frequency will only increase in the coming decades. As both Dr. Upshur and Dr. Khan made clear, our governments and other institutions need to invest in strategies to prevent and mitigate exposure to pathogens, predict where outbreaks might occur, disseminate knowledge effectively, and in general, build healthcare capacity in regions where infectious disease is most endemic. We can't afford to sit and wait for the next emergency and let each outbreak be a wake up call that we do not learn from."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:09:04",
+    "text": "An important consideration is the impact disease outbreaks have on people in less resourced and privileged nations that our own. Many people around the world die as a result of preventable illnesses every day. This is unacceptable. Please check out the resources that we've shared in the show notes to learn more about infectious diseases around the world, as well as a few selected charities that are seeking to help solve this global crisis. We have the power to end numerous infectious diseases within the coming decades. We simply have to take action."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "1:09:39",
+    "text": "This episode of Raw Talk was hosted by myself, Zeynep Kahramanoglu, Frank Telfer and Nazanin Ijad. Amber Mullin, Jesse Knight, and Nathan Chan assisted with content development. Esther Silk was our audio engineer, Grace Jacobs was our executive producer. Thank you for listening, and until next time, #keepitraw."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:09:57",
+    "text": "Raw Talk Podcast as a student presentation of the Institute of Medical Science in the Faculty of Medicine at the University of Toronto. The opinions expressed on the show are not necessarily those at the IMS, the Faculty of Medicine, or the University. Learn more about the show, visit our website rawtalkpodcast.com, and stay up to date by following us on Twitter, Instagram and Facebook @rawtalkpodcast. Support the show by using the affiliate link on our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify, or wherever else you listen to podcast, and rate us five stars. Until next time, #keepitraw."
   }
 ]
