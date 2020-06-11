@@ -15,13 +15,13 @@ Last updated: 2019-11-08, Jesse Knight
 |   ├── CNAME                           # DNE url redirect file
 |   ├── css/                            # css files
 |   |   ├── bootstrap.min.css           # DNE imported css
-|   |   └── style.css                   # custom css
+|   |   └── rawtalkpodcast.css          # custom css
 |   ├── fonts/                          # DNE fonts
 |   ├── js/                             # javascript files
 |   |   ├── bootstrap-4.3.1.min.js      # DNE imported js
 |   |   ├── fuse-3.4.5.min.js           # DNE imported js
 |   |   ├── jquery-3.4.1.min.js         # DNE imported js
-|   |   └── main.js                     # custom js
+|   |   └── rawtalkpodcast.js           # custom js
 |   ├── index.html                      # AG "home page"
 |   ├── about.html                      # AG "about" page
 |   ├── contact.html                    # AG "contact" page
