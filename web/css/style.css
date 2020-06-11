@@ -13,20 +13,20 @@
   src: url('../fonts/FaktPro-Regular.woff');
 }
 body {
-  --c-blue-dark:  #000000;
-  --c-blue-mid:   #070D18;
+  --c-blue-dark:  #16264e;
+  --c-blue-mid:   #233f77;
   --c-blue-light: #6186d1;
   --c-white:      #ffffff;
   --t-dark:       #333333;
   --t-mid:        #999999;
   --t-light:      #cccccc;
-  --h-link:       #233f77;
+  --h-link:       #6186d1;
   --h-blue:       #6186d133;
   --h-dark:       #33333333;
   --h-light:      #cccccc33;
   --o-dark:       #16264e99;
-  --f-blue-dark:  #000000bb;
-  --f-trans:      #00000000;
+  --f-blue-dark:  #16264ebb;
+  --f-trans:      #16264e00;
   --f-white:      #ffffffbb
 }
 body.light {
@@ -350,7 +350,7 @@ img.img-link-hover-content {
   }
 }
 .logo-banner {
-  background-image: url("../img/brand/banner-dark-text-black.svg");
+  background-image: url("../img/brand/banner-dark-text.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
