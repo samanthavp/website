@@ -104,6 +104,10 @@ button {
 .center {
   text-align: center;
 }
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
 .align-left {
   text-align: left;
 }
@@ -183,6 +187,20 @@ img.img-link-hover-content {
 .player-container {
   padding-bottom: 10px;
 }
+table {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+table td {
+  padding: 5px;
+}
+table tr:nth-child(2n+1) {
+  background: var(--c-hover);
+}
+table tr:nth-child(1) {
+  font-weight: bold;
+  background: var(--c-head-back);
+}
 /* ---------------------------------------------------------------------------------------------- */
 /* navbar */
 .navbar {
@@ -207,6 +225,7 @@ img.img-link-hover-content {
 }
 .nav-link > h3 {
   margin: 0;
+  white-space: nowrap;
 }
 .nav-link:hover,
 .nav-link:hover i {
@@ -545,4 +564,22 @@ p.date{
 .btn > * {
   margin: 0;
   padding: 5px;
+}
+/* ---------------------------------------------------------------------------------------------- */
+/* live */
+#live-schedule {
+  width: 100%;
+}
+#live-schedule td {
+  text-align: left;
+}
+#live-schedule td:nth-child(1) {
+  text-align: right;
+}
+.live-sponsors-container {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.live-sponsor-img {
+  height: 80px;
 }

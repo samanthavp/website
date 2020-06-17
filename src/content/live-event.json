@@ -1,0 +1,38 @@
+[
+  {
+    "date": "Date",
+    "time": "Time",
+    "topic": "Topic",
+    "guests": "Guests"
+  },{
+    "date": "Thu June 25",
+    "time": "3 pm",
+    "topic": "Coronaviruses 101",
+    "guests": "Dr Karen Mossman"
+  },{
+    "date": "Thu July 2",
+    "time": "3 pm",
+    "topic": "Epidemic Modelling",
+    "guests": "Dr Sharmistha Mishra & Linwei Wang"
+  },{
+    "date": "Wed July 8",
+    "time": "3 pm",
+    "topic": "Mental Health",
+    "guests": "Dr Rima Styra"
+  },{
+    "date": "Tue July 14",
+    "time": "3 pm",
+    "topic": "Public Health & Policy",
+    "guests": "Dr Jeff Kwong & Dr Vivek Goel"
+  },{
+    "date": "Thu July 23",
+    "time": "3 pm",
+    "topic": "Climate Change Implications",
+    "guests": "Gideon Forman"
+  },{
+    "date": "Thu July 30",
+    "time": "3 pm",
+    "topic": "Socioeconomic Implications",
+    "guests": "Dr Kate Mulligan"
+  }
+]
