@@ -38,11 +38,11 @@
   },
   {
     "title": "COVID-19",
-    "href": "live",
+    "href": "covid-19",
     "description": "COVID-19 Decoded: Raw Talk Live Streams",
     "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
     "templates": {
-      "body": "live"
+      "body": "covid-19"
     }
   },
   {
