@@ -32,7 +32,12 @@
   },{
     "date": "Thu July 30",
     "time": "3 pm",
+    "topic": "SARS-CoV-2 Testing",
+    "guests": "Dr Khosrow Adeli & Mary Kathryn Bohn"
+  },{
+    "date": "Thu Aug 6",
+    "time": "3 pm",
     "topic": "Socioeconomic Implications",
-    "guests": "Dr Kate Mulligan"
+    "guests": "TBD"
   }
 ]
