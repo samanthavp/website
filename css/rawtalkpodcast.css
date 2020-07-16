@@ -550,7 +550,8 @@ p.date{
 /* ---------------------------------------------------------------------------------------------- */
 /* contact */
 #contact .body {
-  margin-top: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .btn {
   background: var(--c-head-back);
