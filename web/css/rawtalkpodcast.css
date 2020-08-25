@@ -406,7 +406,7 @@ table tr:nth-child(1) {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
-@media (min-width:768px) {
+@media (min-width:992px) {
   #team .section-header {
     display: none;
   }

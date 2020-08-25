@@ -1,9 +1,10 @@
 {
   "name": "Jesse Knight",
-  "title": "Website",
-  "team-name": "Website",
+  "title": "Executive Producer & Website",
+  "team-name": "Executive Producers",
   "img-tq": "jesse-knight-tq.jpg",
   "img-rt": "jesse-knight-rt.jpg",
-  "bio": "Hello! First year Raw Talker and IMS PhD student here, working out of St Michael's Hospital. In my research, I simulate HIV epidemics using math and code, with the aim of predicting efficient intervention strategies. This season I'm looking forward to giving the website a reboot, and getting my hands dirty with my first couple of episodes. Outside the lab, I like to: contribute to open source code projects, go backcountry camping, convince you to try LaTeX, and worry about the climate crisis.",
-  "no": 5.4
+  "bio": "Hello! Second year IMS PhD student here, working with Dr Sharmistha Mishra at St Michael's Hospital. In my research, I simulate HIV epidemics using math and code, with the aim of helping to inform intervention priorities. Specifically, I'm interested in the influence of modelling assumptions on epidemic simulations. I'm super excited to be working with the amazing Raw Talk Team to explore cutting edge biomedical science research and tackle important ethical issues in health. Outside the lab, I like to go backcountry camping, convince you to try LaTeX, and tweet at politicians about the climate crisis.",
+  "url": "https://github.com/jessexknight",
+  "no": 0.2
 }
