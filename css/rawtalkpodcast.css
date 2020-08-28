@@ -557,6 +557,7 @@ p.date{
   background: var(--c-head-back);
   color: var(--c-head-text);
   border-radius: 0;
+  margin: 20px;
 }
 .btn:hover {
   color: var(--c-head-text);
