@@ -1,5 +1,55 @@
 [
  {
+  "no": 79,
+  "title": "Maternal Health Part 2: Pregnancy & Post-Partum",
+  "blubrry": "66599263",
+  "date": "August 27, 2020",
+  "season": 4,
+  "img-tile": "lauren-wattam.jpg",
+  "img-caption": "Jane Francis, registered dietician and PhD candidate in the Department of Nutritional Sciences at the University of Toronto",
+  "img-page": "jane-francis.jpg",
+  "notes": "In part two of our maternal health series, we explore the journey through pregnancy, birth, and the post-natal period \u2013 including the planning involved, the decisions made, and any healthcare a person may receive along the way. We started out our conversation with Madeleine Springate-Combs, a midwife in Ontario, who told us about why someone may choose to receive care from a midwife and the philosophy of midwifery. We also spoke to midwife Lauren Wattam, who has worked with M\u00e9decins Sans Fronti\u00e8res (Doctors Without Borders) and practiced midwifery in missions to Ethiopia, Kenya, Sierra Leone, and Yemen. She told us about the important roles that midwives can play throughout pregnancy and childbirth around the world and the impacts of global health outreach. We also spoke to Dr. John Kingdom, the chair of the Department of Obstetrics & Gynaecology and professor of maternal-fetal medicine at the University of Toronto, and a clinician-scientist at Mount Sinai Hospital. He told us about some of the complications that can arise in pregnancy and the work he does to deal with them. Finally, we spoke to Jane Francis, a registered dietician and PhD candidate in the Department of Nutritional Sciences at the University of Toronto. Her work focuses on providing accessible breastfeeding support to mothers from marginalized populations.",
+  "authors": [
+   "Thamiya Vasanthakumar"
+  ],
+  "prod-team": [],
+  "tags": [],
+  "links": [
+   {
+    "title": "Canadian Association of Midwives",
+    "href": "https://canadianmidwives.org/"
+   },
+   {
+    "title": "Mount Sinai Ontario Fetal Centre",
+    "href": "https://www.ontariofetalcentre.ca/"
+   },
+   {
+    "title": "Medecins Sans Frontieres",
+    "href": "https://www.msf.org/"
+   },
+   {
+    "title": "Vulnerable mothers' experiences breastfeeding with an enhanced community lactation support program",
+    "href": "https://onlinelibrary.wiley.com/doi/full/10.1111/mcn.12957"
+   },
+   {
+    "title": "Canada Prenatal Nutrition Program",
+    "href": "https://www.canada.ca/en/public-health/services/health-promotion/childhood-adolescence/programs-initiatives/canada-prenatal-nutrition-program-cpnp.html"
+   },
+   {
+    "title": "Parkdale Queen West Community Health Center \u2013 Pregnancy and Parenting Programs",
+    "href": "https://pqwchc.org/programs-services/community-services-and-programs/"
+   },
+   {
+    "title": "The danger of a single story by Chimamanda Ngozi Adichie ",
+    "href": "https://www.youtube.com/watch?v=D9Ihs241zeg"
+   },
+   {
+    "title": "When Women Were Birds: Fifty-four Variations on Voice by Terry Tempest Williams",
+    "href": "https://www.amazon.ca/When-Women-Were-Birds-Fifty-four/dp/1250024110"
+   }
+  ]
+ },
+ {
   "no": 78,
   "title": "Maternal Health Part 1: Exploring Fertility",
   "blubrry": "65802889",
