@@ -20,6 +20,7 @@ def get_content():
   path = os.path.join('src','content')
   c = ct.get_content(path)
   # sort episodes & team
+  events      = c['events']
   episodes    = sort(c['episodes'].values(),reverse=True)
   transcripts = c['transcripts']
   team        = sort(c['team'].values())
@@ -36,6 +37,10 @@ def get_content():
     header = (i == 0) or (member['team-name'] != team[i-1]['team-name'])
     member.update({'templates':{'maybe-header-team':'header-team' if header else 'none'}})
   c['redirect'] = []
+  for event in events:
+    event['href'] = os.path.join('event',str(event['href']))
+    c['page'].append(event)
+    c['redirect'].append({'href-old':event.get('href-old',None),'href-new':'{{root}}/'+event['href']})
   for i,episode in enumerate(episodes):
     episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
     episode['templates'] = utils.odict([('links','link'),('transcripts','transcript'),('body','episode')])
@@ -50,8 +55,7 @@ def get_content():
     episode['img-meta']    = 'http://www.rawtalkpodcast.com/img/episodes/'+str(episode['no'])+'/'+episode['img-tile']
     episode['transcripts'] = transcripts[str(len(episodes)-i)]
     c['page'].append(episode)
-    hrefold = episode['href-old'] if 'href-old' in episode else None
-    c['redirect'].append({'href-old':hrefold,'href-new':'{{root}}/'+episode['href']})
+    c['redirect'].append({'href-old':episode.get('href-old',None),'href-new':'{{root}}/'+episode['href']})
   c['redirect'].append({'href-old':'latest/index.html','href-new':'{{root}}/'+episodes[0]['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
   # duplicate some content TODO: is this expensive?
