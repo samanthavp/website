@@ -6,7 +6,7 @@
     "href-old": "covid-19",
     "description": "Raw Talk Live 2020: Weekly discussions on the impacts of COVID-19 on science and society",
     "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
-    "img-tile": "banner-blue.png",
+    "img-tile": "banner-white.png",
     "streams": [
       {
         "no": 1,
@@ -68,7 +68,27 @@
     ],
     "templates": {
       "streams": "tile-covid",
-      "body": "covid-19"
+      "body": "event-covid-19"
+    }
+  },{
+    "title": "Medicine Meets Machine",
+    "href": "ai",
+    "slug": "ai",
+    "description": "Raw Talk Live 2019: The emerging role of artificial intelligence in healthcare",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
+    "img-tile": "banner-white.png",
+    "templates": {
+      "body": "event-ai"
+    }
+  },{
+    "title": "It's not You, It's the SCItuation",
+    "href": "scituation",
+    "slug": "scituation",
+    "description": "Raw Talk Live 2018: It's not you, it's the SCItuation - Better engagement, better science",
+    "img-meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
+    "img-tile": "banner.jpg",
+    "templates": {
+      "body": "event-scituation"
     }
   }
 ]

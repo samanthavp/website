@@ -20,7 +20,7 @@ def get_content():
   path = os.path.join('src','content')
   c = ct.get_content(path)
   # sort episodes & team
-  events      = c['events']
+  events      = c.pop('events')
   episodes    = sort(c['episodes'].values(),reverse=True)
   transcripts = c['transcripts']
   team        = sort(c['team'].values())
@@ -28,9 +28,6 @@ def get_content():
   c['nav-item'] = c['page'].copy()
   write_index(episodes,'episodes')
   # clean up / build some fields on the fly
-  for page in c['page']:
-    page['next'] = None
-    page['prev'] = None
   for i,member in enumerate(team):
     member['id'] = make_slug(member['name'])
     member['title'] = utils.splitfmt(member['title'],' & ','<span class="no-wrap">{}</span>')
@@ -41,6 +38,9 @@ def get_content():
     event['href'] = os.path.join('event',str(event['href']))
     c['page'].append(event)
     c['redirect'].append({'href-old':event.get('href-old',None),'href-new':'{{root}}/'+event['href']})
+  for page in c['page']:
+    page['next'] = None
+    page['prev'] = None
   for i,episode in enumerate(episodes):
     episode['title']     = '#{} {}'.format(episode['no'],episode['title'])
     episode['templates'] = utils.odict([('links','link'),('transcripts','transcript'),('body','episode')])
@@ -54,11 +54,12 @@ def get_content():
     episode['description'] = episode['notes'][0:256].replace('\"','\'')
     episode['img-meta']    = 'http://www.rawtalkpodcast.com/img/episodes/'+str(episode['no'])+'/'+episode['img-tile']
     episode['transcripts'] = transcripts[str(len(episodes)-i)]
-    c['page'].append(episode)
+    # c['page'].append(episode)
     c['redirect'].append({'href-old':episode.get('href-old',None),'href-new':'{{root}}/'+episode['href']})
   c['redirect'].append({'href-old':'latest/index.html','href-new':'{{root}}/'+episodes[0]['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
   # duplicate some content TODO: is this expensive?
+  c['tile-event'] = events
   c['tile-episode'] = episodes
   c['tile-profile'] = team
   c['tile-announce'] = c['announcements']
@@ -86,7 +87,7 @@ def write_index(content,name):
   ct.status('Writing index: {}'.format(name),level=1)
   utils.save_json(content,make_fname(root,'search',name,ext='.json'),indent=1)
 
-ct.verbose = 1
+ct.verbose = 2
 root = 'web'
 templates = ct.get_templates(os.path.join('src','templates'))
 contents  = get_content()
