@@ -1,0 +1,55 @@
+{
+  "no": 80,
+  "title": "COVID Decoded: Science and Society in the New Normal",
+  "blubrry": "67131303",
+  "date": "September 9, 2020",
+  "season": 5,
+  "img-tile": "lens-crop.jpg",
+  "img-caption": "",
+  "img-page": "",
+  "notes": "",
+  "authors": ["Claire Mazzia"],
+  "prod-team": {
+    "cc": ["Claire Mazzia"],
+    "sh": ["Ekaterina An","Yagnesh Ladumor","Jesse Knight","Eryn Tong","Nathan Chan","Thamiya Vasanthakumar","Grace Jacobs"],
+    "ep": ["Jesse Knight","Yagnesh Ladumor","Ekaterina An"],
+    "ae": ["Alex Jacob"],
+    "sm": ["Alison Wong"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "U of T Alumni Offers from our sponsors TD Insurance & MBNA",
+      "href": "https://uoft.me/rawtalkoffers"
+    },
+    { "title": "Raw Talk Friendraiser",
+      "href": "https://form.jotform.com/rawtalkpodcast/friendraiser"
+    },
+    { "title": "COVIDecoded Series:",
+      "href": "https://www.youtube.com/watch?v=e0DyMwvZjBQ&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 1 - Coronaviruses 101",
+      "href": "https://www.youtube.com/watch?v=e0DyMwvZjBQ&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 2 - Epidemiology and Modeling",
+      "href": "https://www.youtube.com/watch?v=lL_wImW77Ys&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 3 - Psychological Impact",
+      "href": "https://www.youtube.com/watch?v=Q9Uf8_rkHJI&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 4 - Public Health and Policy",
+      "href": "https://www.youtube.com/watch?v=-UxpeY0F9xM&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 5 - Intersections with Climate Change",
+      "href": "https://www.youtube.com/watch?v=1P6l89hTkGg&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 6 - Putting It to the test",
+      "href": "https://www.youtube.com/watch?v=7JbnW6x3P9A&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 7 - Health Equity",
+      "href": "https://www.youtube.com/watch?v=xK5OnSlQJlo&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    },
+    { "title": "Episode 8 - Immunity in Canada",
+      "href": "https://www.youtube.com/watch?v=6ITX8urq5Tg&list=PLOJqyJjA0zH2FSpjffmmZVuJIfqPNoquS"
+    }
+  ]
+}

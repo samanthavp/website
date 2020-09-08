@@ -553,6 +553,10 @@ p.date{
   padding: 5px;
   margin: 0;
 }
+img.img-panelist {
+  padding: 15px 0px;
+  width: 100%;
+}
 /* ---------------------------------------------------------------------------------------------- */
 /* contact */
 #contact .body {
@@ -589,5 +593,7 @@ p.date{
   margin-bottom: 15px;
 }
 .live-sponsor-img {
-  height: 80px;
+  padding: 10px;
+  /* max-height: 80px; */
+  /* max-width: 320px; */
 }

@@ -36,6 +36,12 @@ def get_content():
   c['redirect'] = []
   for event in events:
     event['href'] = os.path.join('event',str(event['href']))
+    event['event-team-list'] = ', '.join(event['event-team'])
+    for panel in event.get('panels',[]):
+      for panelist in panel['panelists']:
+        panelist['img'] = panelist['name'].lower().replace(' ','-')+'.png'
+    event['templates'].update({'sponsors':'sponsor'})
+    event['templates'].update(body=event['templates'].pop('body'))
     c['page'].append(event)
     c['redirect'].append({'href-old':event.get('href-old',None),'href-new':'{{root}}/'+event['href']})
   for page in c['page']:
@@ -54,7 +60,7 @@ def get_content():
     episode['description'] = episode['notes'][0:256].replace('\"','\'')
     episode['img-meta']    = 'http://www.rawtalkpodcast.com/img/episodes/'+str(episode['no'])+'/'+episode['img-tile']
     episode['transcripts'] = transcripts[str(len(episodes)-i)]
-    # c['page'].append(episode)
+    c['page'].append(episode)
     c['redirect'].append({'href-old':episode.get('href-old',None),'href-new':'{{root}}/'+episode['href']})
   c['redirect'].append({'href-old':'latest/index.html','href-new':'{{root}}/'+episodes[0]['href']})
   c['tile-highlight'] = [episode for episode in episodes if episode['no'] in c['highlights']]
