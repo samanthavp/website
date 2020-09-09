@@ -1,8 +1,8 @@
 [
   {
     "title": "COVIDecoded",
-    "href": "covid-19",
-    "slug": "covid-19",
+    "href": "covid",
+    "slug": "covid",
     "href-old": "covid-19",
     "description": "Raw Talk Live 2020: Weekly discussions on the impacts of COVID-19 on science and society",
     "event-info": "<p>We were in the middle of planning our 2020 Live Event on Climate Change when the COVID-19 pandemic hit. We realized our planned panel for a live audience of 200 people wasn't going to happen any time soon. But as we struggled to keep up with the onslaught of COVID-19 information, we also talked about how we could help make sense of the pandemic. We settled on COVIDecoded: a live-streamed series of discussions with experts on virology, immunology, public health, and mental health, to help understand the impacts of COVID-19 on science and society.</p><p>COVIDecoded streamed live on YouTube for 8 weeks this summer.To be honest, live streaming was a lot more challenging than we expected, but we are incredibly proud of the result, and we hope it can help you navigate these difficult times. We are also immensely grateful to all of our busy guests for taking the time to speak with us, and to the amazing team that helped make the series happen: Kat An, Alex Jacob, Nathan Chan, Yagnesh Ladumor, Thamiya Vasanthakumar, Eryn Tong, Jesse Knight, Grace Jacobs, Richie Jeremian, Atefeh Mohammadi, Alison Wong, Melissa Galati, Frank Telfer, Zeynep Kahramanoglu, and Stephania Assimopoulos. </p><p> You can check out the video series on YouTube using the links below, listen to just the audio on your favourite podcasting platorm, or listen to our wrap-up discussion about the series in <a href='{{root}}/episode/80'>episode 80</a></p>.",
@@ -80,7 +80,7 @@
     ],
     "templates": {
       "streams": "tile-covid",
-      "body": "event-covid-19"
+      "body": "event-covid"
     }
   },{
     "title": "Medicine Meets Machine",
