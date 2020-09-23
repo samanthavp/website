@@ -1,0 +1,47 @@
+{
+  "no": 81,
+  "title": "A Fault in Our Memory",
+  "blubrry": "67866524",
+  "date": "September 23, 2020",
+  "season": 5,
+  "img-tile": "81-graphic.png",
+  "img-caption": "Dr. Elizabeth Loftus, a Distinguished Professor at the University of California, Irvine (UCI) and a pioneer in the field of false memory research and its implications on the legal and justice system.",
+  "img-page": "elizabeth-loftus.jpg",
+  "notes": "Memory is essential for forming individual identity, as well as the process of learning. Yet, memory is not without its faults. In this episode of Raw Talk Podcast, we try to understand what memory is, the processes that affect the quality of our memories and the implications of faulty memory on the validity of eyewitness testimonies in the legal system. First we hear from Joey DeGrandis who shares his unique ability to recall specific details of autobiographical events. This rare memory phenomenon, known as Highly Superior Autobiographical Memory (HSAM), provides an opportunity to investigate the brain systems underlying enhanced memory and conversely memory loss.  We then hear from Dr. Amy Finn, an assistant professor at the Department of  Psychology at the University of Toronto, and the principal investigator of the Learning and Neural Development Lab. Dr. Finn discusses memory formation and how the brain and cognitive development constrains and enables learning, using examples, such as the famous case of patient H.M. To better understand the 'faults in our memory', Dr. Daniel Schacter, a Harvard University Professor, discusses his work on how memory's malfunctions may be classified into seven fundamental transgressions or \"sins\" and describes the seven sins of memory errors. Finally, we hear from Dr. Elizabeth Loftus, who shares her experience on how memory may be manipulated and modified by messages, ideas, suggestions and other post-event information.  Dr. Loftus' memory research has had significant applications to the legal field, given its reliance on memory.  Join us as we put our own memories to the test and learn more about how we remember….and forget, on this week's episode of Raw Talk.",
+  "authors": ["Stephanie Nishi"],
+  "prod-team": {
+    "cc": ["Stephanie Nishi"],
+    "sh": ["Noor Al Kaabi","Zeynep Kahramanoglu","Swapna Mylabathula"],
+    "ep": ["Yagnesh Ladumor"],
+    "ae": ["Alex Jacob"],
+    "pv": ["Janine Truong"],
+    "sm": ["Atefeh Mohammadi"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Raw Talk Podcast Friendraiser",
+      "href": "https://form.jotform.com/rawtalkpodcast/friendraiser"
+    },
+    { "title" :"Joey DeGrandis, Time Magazine Article, 2017",
+      "href": "https://time.com/5045521/highly-superior-autobiographical-memory-hsam/"
+    },
+    { "title" :"Finn LAND Lab",
+      "href": "https://finnlandlab.org/"
+    },
+    { "title" :"Dr. Daniel Schacter",
+      "href": "https://psychology.fas.harvard.edu/people/daniel-l-schacter"
+    },
+    { "title" :"Dr. Elizabeth Loftus",
+      "href": "https://faculty.sites.uci.edu/eloftus/"
+    },
+    { "title" :"UCI Center for the Neurobiology of Learning and Memory, Highly Superior Autobiographical Memory",
+      "href": "https://cnlm.uci.edu/hsam/#:~:text=Individuals%20with%20HSAM%20have%20a,the%20calend"
+    },
+    { "title" :"Book \"The Seven Sins of Memory: How the Mind Forgets and Remembers\" by Dr. Daniel Schacter",
+      "href": "https://www.amazon.ca/Seven-Sins-Memory-Forgets-Remembers/dp/0618219196"
+    },
+    { "title" :"Book \"Patient H.M.: A Story of Memory, Madness, and Family Secrets\" by Luke Dittrich",
+      "href": "https://www.amazon.ca/Patient-H-M-Memory-Madness-Secrets/dp/0812982525"
+    }
+  ]
+}
