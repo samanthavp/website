@@ -1,5 +1,72 @@
 [
  {
+  "no": 82,
+  "title": "Making Strides: Amputation and Prosthetics",
+  "blubrry": "68569723",
+  "date": "October 7, 2020",
+  "season": 5,
+  "img-tile": "jan-andrysek.jpg",
+  "img-caption": "Aristotle Domingo, an adaptive athlete, bilateral amputee, actor, motivational speaker, and founder of the Amputee Coalition of Toronto",
+  "img-page": "aristotle-domingo.jpg",
+  "notes": "On April 12, 1980, 22-year old Terry Fox dipped his toe into the icy Atlantic Ocean outside St John's, Newfoundland before setting out on one of the most inspiring athletic feats the world has ever seen. 40 years later, adaptive athletes continue to inspire movement and movements across the world. In this episode of Raw Talk Podcast, we explore lower-limb amputation, the phenomenon of phantom limb, and modern prosthetics. First, we sat down with Aristotle Domingo, an adaptive athlete, bilateral amputee, actor, motivational speaker, and founder of the Amputee Coalition of Toronto. Aristotle shared with us his amputation journey, from the difficult decision to have the surgery, to his ongoing work building and supporting the amputee community here in the GTA. Next, Dr. Amanda Mayo, a physiatrist with St. John's Rehab at Sunnybrook Health Sciences Centre, explained the common reasons for amputation and considerations for surgical planning. Dr. Mayo also described the funding challenges experienced by amputees in Canada seeking to make the most of modern prosthetic technologies. Finally, Dr. Jan Andrysek, Associate Professor of Biomedical Engineering at U of T and developer of the All-Terrain Knee, described the technical challenges in lower-limb prosthesis design, particularly to meet the rough-and-tumble needs of children. Dr. Andrysek also outlined his vision for the the future of prosthetics - it might not be what you'd think. Until next time, #keepitraw!",
+  "authors": [
+   "Jesse Knight"
+  ],
+  "prod-team": {
+   "cc": [
+    "Stephanie Nishi"
+   ],
+   "sh": [
+    "Jason Lo Hog Tian",
+    "Jenna Park",
+    "Stephania Assimopoulos"
+   ],
+   "ep": [
+    "Jesse Knight"
+   ],
+   "ae": [
+    "Alex Jacob"
+   ],
+   "pv": [
+    "Janine Truong"
+   ],
+   "sm": [
+    "Eman Nishat"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "Raw Talk Podcast Friendraiser",
+    "href": "https://form.jotform.com/rawtalkpodcast/friendraiser"
+   },
+   {
+    "title": "Aristotle Domingo",
+    "href": "https://aristotledomingo.com/"
+   },
+   {
+    "title": "Amputee Coalition of Toronto",
+    "href": "http://amputeecoalitiontoronto.ca/"
+   },
+   {
+    "title": "The AmpuTO Show Podcast",
+    "href": "https://aristotledomingo.com/the-amputo-show/"
+   },
+   {
+    "title": "Dr. Amanda Mao",
+    "href": "https://sunnybrook.ca/team/member.asp?m=724"
+   },
+   {
+    "title": "Legworks and the All Terrain Knee",
+    "href": "https://legworks.com/"
+   },
+   {
+    "title": "Dr. Jan Andrysek\u2019s PROPEL Lab",
+    "href": "https://hollandbloorview.ca/research-education/bloorview-research-institute/research-centres-labs/propel-lab"
+   }
+  ]
+ },
+ {
   "no": 81,
   "title": "A Fault in Our Memory",
   "blubrry": "67866524",
