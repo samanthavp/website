@@ -1,11 +1,12 @@
+import sys
 import os
 import re
 import json
 from collections import OrderedDict as odict
 # file paths
-episode = 72
-ifile = os.path.join('resources','transcripts','raw',str(episode)+'.txt')
-ofile = os.path.join('src','content','transcripts',str(episode)+'.json')
+episode = sys.argv[1]
+ifile = os.path.join('resources','transcripts','raw',episode+'.txt')
+ofile = os.path.join('src','content','transcripts',episode+'.json')
 # source txt file - from otter.ai
 print('reading: {}'.format(ifile))
 with open(ifile,'r') as f:
