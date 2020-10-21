@@ -1,5 +1,60 @@
 [
  {
+  "no": 83,
+  "title": "The Stories, Science & Ethics of Organ Donation",
+  "blubrry": "69219236",
+  "date": "October 21, 2020",
+  "season": 5,
+  "img-tile": "maariyah-rahman.jpg",
+  "img-caption": "Myles Lynch, the first Canadian to receive 3 double lung transplants with Jillian Lynch, his sister, caregiver and organ donation advocate.",
+  "img-page": "mylesl-ynch.jpg",
+  "notes": "About 90% of Canadians say they support organ and tissue donation but less than 20% have made plans to donate. To tackle this discrepancy, Nova Scotia is set to become the first province in the country to have presumed consent for organ and tissue donation beginning in 2021. In this episode of Raw Talk, we speak to Jed Gross about the opt-in/opt-out systems, the ethical dilemmas of organ allocation and more. Next, we hear from Myles Lynch and Maariyah Rahman, who are alive today because of the organ donations they have received. We also had the opportunity to speak with Jillian Lynch, Myles' sister, who has been a huge advocate for organ donation, and a caregiver to her brother. Dr. Shafique Keshavjee, the Surgeon-in-Chief at University Health Network, discusses the science of organ transplant and cutting edge research that is causing the field to evolve very quickly, improving the life expectancy for many people like Myles who needed new lungs, and Maariyah who found out her heart suddenly began to fail when she was only 20 years old. Finally Dr. Istvan Mucsi, speaks to us about the important role of ethnicity, culture and religion in organ donation. We hope this episode exposes the remarkable feats and challenging realities of organ donation and transplantation today.",
+  "authors": [
+   "Claire Mazzia"
+  ],
+  "prod-team": {
+   "cc": [
+    "Claire Mazzia"
+   ],
+   "sh": [
+    "Noor Al Kaabi",
+    "Frank Telfer",
+    "Atefeh Mohammadi"
+   ],
+   "ep": [
+    "Yagnesh Ladumor"
+   ],
+   "ae": [
+    "Esther Silk"
+   ],
+   "pv": [
+    "Janine Truong"
+   ],
+   "sm": [
+    "Atefeh Mohammadi"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "The Organ Project",
+    "href": "http://www.theorganproject.net/transplantation-statistics/"
+   },
+   {
+    "title": "Organ and Tissue Donation Canada",
+    "href": "https://www.blood.ca/en/organs-tissues"
+   },
+   {
+    "title": "Organ and Tissue Donation Ontario - Register to be a donor",
+    "href": "https://www.ontario.ca/page/organ-and-tissue-donor-registration"
+   },
+   {
+    "title": "Trillium Gift of Life",
+    "href": "https://www.giftoflife.on.ca/en"
+   }
+  ]
+ },
+ {
   "no": 82,
   "title": "Making Strides: Amputation & Prosthetics",
   "blubrry": "68569723",
