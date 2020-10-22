@@ -1,7 +1,412 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Nazanin Ijad",
+    "time": "0:08",
+    "text": "Welcome to Episode 63 of Raw Talk. This is Naz, "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "0:12",
+    "text": "and I'm Melissa. "
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "0:13",
+    "text": "This is the second episode of a two part series summarizing our second annual Raw Talk Live \"Medicine meets Machine, the Emerging Role of Artificial Intelligence in Medicine\" that took place at JLabs Toronto. AI is becoming hugely prevalent in our everyday lives, and there's a lot of hype surrounding AI, particularly in medicine."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "0:33",
+    "text": "Raw talk live featured seven expert panelists and two expert moderators who navigated discussions on AI to gain a better understanding of what AI is, while clarifying some common myths. If you haven't already, definitely go back and check out Episode 62 where Grace and Stephania shared our panelists' thoughts on current applications and limitations of AI. On this episode, we're summarizing the discussion from panel 2, \"Future and Ethical Considerations of AI in Medicine\"."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "1:01",
+    "text": "You'll hear about the future of AI in medical practice and population health research, as well as the discussion on privacy policies and data de-identification. Finally, we'll share what our panelists envision for the future of AI and what needs to be done to optimize benefits gleaned from AI in medicine. We want to take a moment to thank our wonderful sponsors, JLabs for the use of their beautiful space, the student initiative fund, U of T School of Graduate Studies, Muse, and of course, the Institute of Medical Science, without whom none of this would be possible."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "1:31",
+    "text": "Finally, thank you to our panelists, moderators and everyone who attended for making the event a huge success. Okay, time to meet our panelists for panel two: Allan Miranda, Sunit Das, Allison Paprica and Christopher Hammill."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "1:46",
+    "text": "Thanks very much, everybody, and welcome to the second panel. We're gonna introduce ourselves and I'm going to kick it off. So I'll ask each one of the panelists to introduce themselves, two minutes, as to who you are, how you got here, and how you use AI in your research or in your your everyday life if you're not doing research. So I'll start off with myself. I'm Allan Miranda, I'm head of JLabs Canada as was mentioned. JLabs is the incubator facility forJ&J in the Mars complex. We as J&J are in medical devices, consumer products and pharmaceuticals. How do we use AI as J&J, we're using AI largely as an enabler of our business. In the pharmaceutical side of the business, we're using it to help discover targets, identify patient populations, in the medical devices part of our business, we're using it in visualization, again, to purify patient populations to give us a better understanding of the individual patient. And in our consumer products business, we're using AI as a digital tool to help us in retail to understand patient behavior, to give us insights into how patients interact in the store, and to give retailers insight how they can better use our products, help us on the supply chain. So myself here running the incubator, I will admit, though, I have a science background, in vivo pharmacologist, I see AI being applied largely in the drug discovery space. And so we have a hub of technologies or companies here within JLabs that are using AI as a drug discovery tool. So I think what I spend most of my time internally is trying to convince my research and development colleagues of the value of the companies that are here in Toronto and helping them understand what's unique about the AI companies here, so over the last, I'd say 15 months, I wouldn't say I'm an expert, but I've become pretty knowledgeable of what the practical application is of AI, and how that can help certainly a pharmaceutical company be successful or be more successful. So that's me and I'll turn it over to Dr. Das."
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "3:36",
+    "text": "I'm Sunit Das, I'm a neurosurgeon at St. Michael's Hospital just down the street, and a scientist at the Hospital for Sick Kids. Both my clinical practice and my research work focus on brain tumors and caring for patients who have primary brain tumors. My own work in AI is relatively limited on the practical side. I am a collaborator in a large group project, using machine learning to try to identify different radiographic biomarkers of response and early failure for patients with brain tumors. More fundamentally, my interest in artificial intelligence has come in the field of ethics. I have worked with the assumption that medicine is going to be moved by AI and that AI is going to be part of medical practice. And that being the case, as a physician, I felt it critical to think, what does it mean for our field for AI to be a part of it? And how does that affect the way that we think of ourselves as physicians? "
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "4:35",
+    "text": "Awesome."
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "4:36",
+    "text": "Good evening, everyone. I'm Allison Paprica, I'm the Vice President Health Strategy and Partnerships at the Vector Institute for Artificial Intelligence. So you've just heard from Marzyeh, one of our core faculty who focuses on health at Vector; Vector is not exclusively about health, but about a quarter of our scientists do health all the time and then other scientists have interest in health as well. Collectively we've grown to become a community of over 300 people, including students, post grad affiliates, affiliate faculty, all focused on artificial intelligence, machine learning and deep learning in particular. Interesting that you say ethics, and of course we got ethics up there, I am not a computer scientist, I'm a chemist by training, I began my career in the pharmaceutical sector, then I worked for the provincial government for 13 years. My last position there was as the director of the Planning, Research and Analysis branch at the Ministry of Health and long term care. And for the last five years, I've had deep involvement in our national strategy for patient oriented research. So one of the things I'm personally interested in is public involvement, social licence, and how we make sure that the AI we apply is consistent with the values of the public we serve. "
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "5:46",
+    "text": "Chris."
+  },
+  {
+    "speaker": "Chris Hammill",
+    "time": "5:47",
+    "text": "Hello, everybody. My name is Chris Hammill, I'm a programmer analyst at the Hospital for Sick Children. I work on studying neurodevelopmental disorders in children using Magnetic Resonance Imaging. My training was in statistical ecology where I used what is now machine learning and AI based tools for looking at ecological problems. I got more interested in uncertainty quantification, and kind of more traditional Bayesian statistics. And I moved to Toronto to work on neuro imaging, and I'm actually working under Jason Lerch, who was on the previous panel. So I'll be a semi technical anchor."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "6:22",
+    "text": "We'll need it. So you know, in the last panel, we talked a lot about how clinicians would use AI and probably conveniently we didn't have any clinicians on the panel. So I think, Dr. Das, it's going to fall to you to sort of give that clinicians perspective. But when you think about AI, you said you're using it now, not so much in your basic research, but more in your clinical practice. What excites you about it? And then from an ethical perspective, where do you have concerns?"
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "6:49",
+    "text": "Well, I'll say I think we had a very nuanced discussion with the first panel, and I'm going to steal from Miriam that I am fundamentally a professional advice giver. I've educated myself and been educated in given tools that allow me to assist my patients to make good decisions. And I see artificial intelligence as simply a tool that might refine that ability. The nuance was also made on the previous panel, that the weight of that decision still lies in a communication between myself and my patient. And that may be nuanced by what I'm able to offer as a consideration based on what an algorithm might tell me. But it's still a human decision between two people."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "7:34",
+    "text": "AI does promise democratization of data and decision making. So I would ask you as a clinician, how do you now if, you have there's always been decisions for tools in medicine. And AI we could look at as decisions for tools on steroids. How do you reconcile those decisions for tools, with a patient who's also coming now with a certain level of awareness and understanding of what a diagnosis should or could look like? "
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "7:57",
+    "text": "Well, certainly, I mean, I'll say as a physician, and I think this is pretty well known, everyone consults Dr. Google before coming to see the doctor. So there's already some element of that just intrinsic to practice now. One of the interesting things I'll say about AI, and perhaps one of the ways that physicians have miscomprehensions of what AI will bring, I think many of us feel that AI is going to give us certainty, that we're going to be able to say to our patients, here's a binary. And I know which of these binary decisions is right and which is wrong because of what an algorithm tells me. And I think it speaks a bit to the fact that many of us as physicians really don't have other than an intuitive grasp, a really practical idea of what statistics are. And if you think of AI as being kind of a very organized and very mature statistical modeling approach, I think it's going to give us an opportunity to learn more about how we make decisions, how we help patients make decisions. But I think we may as a field be disappointed to learn that we're not going to be given approximations of 100% and zero."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "9:05",
+    "text": "Okay, Allison, you've looked at, in your ministry of health role, you looked at health from a population basis. And now you're working at the Vectror Institute where you're dealing with companies in the health space; you've also got a focus on health. So what do you see as the promise for the individual patient? What's the benefit for the population? And what are some of the - you raise the ethical concerns - what are some of the ethical concerns you wrestle with at the Vectror Institute or want to apply research methods to to understand?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "9:31",
+    "text": "So I'll answer the question just with a few examples that I think get at the points you're raising, because, you know, as has been said many times, AI is a tool and there can be many different applications. But you know, when I think as myself or someone close to me who's in hospital, I think one of the things AI can do in the short term, is do a much better job of managing the data that are all around us right now. So we don't have all this data in healthcare because we wanted data we have it because we didn't want paper processes anymore and the data is kind of like a byproduct that is mostly just going into the ether. And with AI, we have the potential to bring together data, data of different modalities and turn it into signals that are actionable that I think can provide benefits, you know, even in the short term. At the population level, since we're talking about the future, I'll go all the way to my dream of a better understanding of multimorbidity. You know, we still divide diseases into you know, here's your heart disease, here's your depression, here's your hypertension. And we know that's not how people experience them. And I think we can start to imagine a world where, especially if we use population wide data sets, like we have here, as unbiased as they can be, we can get insights that lift us all up, redefine disease and have benefits, yes, at the personal and at the population level. You'd asked about the ethics."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "10:47",
+    "text": "The ethical issue, so you said that you wrestle with that at the Vectror Institute and that's our focus. So what's the focus? And where is that research going?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "10:53",
+    "text": "So I have a long standing interest in what I call ethics and values. And you know, I defer to people like Jennifer Gibson and Gillian Hadfield to speak with precision about the ethics. But my general view is that for the kind of change that we have the potential to have, it's really important that we work with the public. There are things that we can do, but what should we do? That becomes the question. And for me, the heart of this is we have to start communicating with them in non fantastical ways, right? It can't be, you know, the Terminator, and data from Star Trek The Next Generation. We need to be getting more and more examples of real applications out there, and engaging with the public in genuine ways about the ways in which we can turn their data into knowledge, what they value what they agree with."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "11:40",
+    "text": "Is there a gap in health literacy with patients to help them have that conversation? Or will that be part of the process?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "11:46",
+    "text": "I think that's part of the process. I personally believe it begins with plain language. So you can have genuine engagement at a large scale. And I think it's challenging. I mean, not only is AI complicated to explain, but even what happens to your health data, when you go to the hospital or go to see a doctor. We have this joke in the health data community that it's about 15 hours before people really understand what you're talking about. And frankly, what they want to talk about is their own health record. When you say bringing data together, they're thinking about their own care. So we got a long way to go. But I actually think it's essential that we go there with the public with clinicians with traditional health researchers, you know, it's gonna be as good and strong as it can be if we go there together."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "12:27",
+    "text": "So Chris, Allison raised the question of, there's an opportunity with the existing data sets. Let me ask you a question, as somebody who's in the healthcare system, looking at those datasets, what's the quality of the data presently? And can we make good predictions on the data that we have, and what's the opportunity to improve?"
+  },
+  {
+    "speaker": "Chris Hammill",
+    "time": "12:42",
+    "text": "There's really a big spectrum of data quality when you work in the healthcare system. Some of it is incredibly well organized and you can really make inference quite quickly on those datasets. But some are quite disorganized. So it's very difficult to harmonize across different research institutions, particularly on what they're acquiring, what their key dimensional variables are. These are hard problems that I think are working on being solved."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "13:07",
+    "text": "The panelists will come back to this idea of data set variability a little bit later, when they discuss consented versus unconsented data. "
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "13:15",
+    "text": "We have a company in our space Pentavere, which looks at data sets and tries to put them into rows and columns, which sounds really boring. But as they say, to me that that's the fundamental work in actually making prediction. From the hospital systems perspective, we talked a little bit about ethical considerations or risk. When you look to the future, so say we get our datasets to a point where they're of high quality, what are some of your concerns, from an ethical perspective? What are some of the opportunities, and what are some of your concerns, probably more appropriately?"
+  },
+  {
+    "speaker": "Chris Hammill",
+    "time": "13:42",
+    "text": "So I think the first panel spoke very well about what many of the key opportunities are ahead of us. As Marzyeh said, there really is a huge capacity in models now that we really didn't have before. So we're able to distill information in a way that historically we haven't been able to, but it comes with many risks. So Marzyeh said that these new AI tools shouldn't be held to a higher standard than our old tools. But I would argue that they should, because they're so much faster and the potential risks are so much higher, because they can apply to more people. "
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "14:14",
+    "text": "Allison."
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "14:15",
+    "text": "I just want to weigh in, because sometimes I get concerned when we talk about the risk of AI, we always talk about the negative risks. And and the truth is, it's like the ship that never leaves Harbor, right? The data are an asset that can be used. And if we only focus on negative, negative, negative literally we'll miss the benefits. And so as I'm talking about risk based frameworks with a number of people, I like to bring forward these examples like Anna Goldenberg, our associate Research Director, health senior scientist at Sickkids. She's got a model, it's still in research setting but with Dr. Lawson at Sickkids, you know, they're taking data from the pediatric ICU, and most of the time, they can predict five minutes sooner when a pediatric patient is going to go into cardiac arrest. There's not really a downside, right, we've got another fellow, an affiliate who's working on detecting when someone comes out of a coma, there's no downside, the person will still come out of a coma if the model is wrong, right. So we don't want to be so risk averse, that we're not making progress in these areas, that, if we can put it this way, are really low risk of harm to the people. Because I think those are the spaces where we're going to have a lot of learning that we can then extend into areas where there might actually be more risk to the individual."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "15:28",
+    "text": "Allison cautioned that we may be overestimating the risks of artificial intelligence, particularly in cases such as the ones that she described. We can use what we learn from implementing AI and low risk settings to inform future implementation of AI, that might might merit more ethical consideration."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "15:45",
+    "text": "So I work on the business side. So we, in business, we say there's a cost benefit. So how much cost am I gonna expend and what's the benefit? So from a clinicians perspective, working in the hospital, where should we be expending the cost or our efforts? And where will we see maximal benefit from your perspectives? "
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "16:02",
+    "text": "So, you know, I think it's worth reiterating what the first panel said that there are multiple types of AI's, and it is a bit difficult to talk about AI as a unified entity. We've talked so far about AI as a data processing system, basically a way of finding patterns in large data sets. But you think about something as simple as what your company is using, an algorithm that can just parse from neutral data, and create categories in something as simple as having a device that could be scribe for you, so that as a physician, you're looking at your patient during your time with them, rather than sitting on a computer writing into your EMR, could have remarkably transformative effects on the way that we function as doctors and the way that we interact with our patients. It seems like a simple thing, it's not as sexy as I think what we usually think of with AI, but it's a place where something perhaps relatively simple could actually have a big effect."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "16:59",
+    "text": "So that gets to a question of, in the practical world, or in the wild, as they say, the artificial intelligence wild, what are some of the things that need to happen to make this real for you as a clinician and for patients? So in the hospital setting you see today, what needs to happen from an infrastructure perspective, what needs to happen from a training perspective, or an education perspective to make these things come, even the simple things you talked about simple, relatively simple, come real?"
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "17:23",
+    "text": "I remember being at a graduate seminar, I want to speak to Chris here, I remember being at a graduate seminar about 10 years ago, that the Dean of Engineering from my University came to, and a bunch of us in the equivalent of IMS at my old University, and he came to us and he said: \"I'm from engineering. I have answers, I need questions.\"."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "17:45",
+    "text": "Sounds like an engineer."
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "17:49",
+    "text": "My suspicion is that if we were to canvass physicians, we could find multiple pain points, as simple as this one of having a scribe, that could be places for intervention. I think, again, the analogy that was used in the first panel, that AI is going to be something that makes what we don't want to do easier. I think that's probably a good approach to think about how we could interface meaningfully in medicine."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "18:16",
+    "text": "What Dr. Das is trying to say is that AI can sometimes be mistaken for something expansive, and revolutionary. But it doesn't always have to be that way. It can be as simple as having a system in place prescribing patient interactions, something very simple yet transformative for the way that physicians interact with their patients. But how do we go from idea to execution?"
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "18:36",
+    "text": "So Alison, I work with a number of companies who have solutions for the healthcare system, many using AI, but they don't have the relevant experience to understand whether their tool is actually valuable in a clinical setting. And then we have a lot of hospital AI tools that are being implemented, but they're being done in a pilot way. So what you have is industry, which really knows how to scale but doesn't know what they have is valuable. And you've got academics who are developing things that are incredibly valuable, but don't know how to scale. So in a hospital setting, how do you bridge the divide from a systems perspective to make it work?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "19:06",
+    "text": "Well, it's a complex problem that doesn't have a simple answer, but the simplest thing I would say is health AI is team science, right? done right? No single group is trying to do this on their own, the company has something to contribute, the clinicians have something to contribute, the patients have something to contribute. And it's worth putting the effort in upfront before you jump into implementing any solution. I did want to mention actually, yesterday, we announced publicly on our Vector website, the first in a series of Pathfinder projects that very much take this approach. So the very first one is with St. Mike's hospital and Vector is contributing machine learning expertise. But the whole thing is clinician led with sort of data science and AI in support of the clinicians. And that's the general model we're going to see and to the point of, you know, where do you go, you start with things like that, that are very practical, that have low risk of doing harm that are done in a really rigorous way. The other thing that you might start with is technologies that are mature in other sectors but might need to be adopted to work in the health sector, like a chatbot, that might be actually more helpful for patients than trying to sort through information in a PDF and figure out what's relevant for them. So we shouldn't go, we go to kind of the equivalent of the trolley issue, right? And we shouldn't, because no one actually wants to drive the trolley into a pedestrian. There are things that we can do right now that are helpful, and we should be working on them as teams."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "20:26",
+    "text": "So if we make these investments correctly, where do you see the future going? And what types of infrastructure needs to be there to support it or education?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "20:33",
+    "text": "Well, I'll just say briefly, I mean, people often think of data, rightfully, they think of data, right? And that's fine. And we should all plan on making investments in data, we have to decide as a team, what's going to have the right combination of ease of implementation and impact. And people shouldn't underestimate the need for high performance computing, too. Because a lot of times, we'll have people from hospitals coming to us saying we've got this great data, it's not cleaned, and then there's no access to high performance computing resources. So it's not really a starter. Those are the first things our faculty asked about. And then the trick is doing it at scale, and not just provincially. But doing it across the country, internationally."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "21:10",
+    "text": "And of course, none of this is possible without the input and participation of patients. Getting approval to work with patient data isn't easy and requires research ethics board, or REB, approval and patient consent. How do we ensure the confidentiality of these datasets?"
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "21:27",
+    "text": "There's some questions on the panel before about hovering on the edge of patient ownership, patient confidentiality, where does Vector, what are some of the things that you're wrestling with - and Dr. Das you can jump in on this as well - what are some of the clinical things that concern you with respect to patient confidentiality or patient data?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "21:45",
+    "text": "Do you want to go first?"
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "21:46",
+    "text": "So I do think that de-identification takes care of many of those concerns. I'd actually stepped back a bit and say, it's worthwhile for medicine to realize the value of these data sets. And it's interesting, I think, in medicine, we often think, what can AI bring to us? And I do think it's going to require partnerships and true teams. And it's critical for us to think what can we bring to development. And part of that is data that we've accumulated, part of it is expertise and ability to understand what sort of questions need to be answered."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "22:23",
+    "text": "So do we need to collect more data, or do we need to do more with the data we have?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "22:26",
+    "text": "We probably have enough data that we could be generating some really high impact insightful knowledge, if it were cleaned and prepared and, you know, harmonized. And so that's where the question comes about, you know, where to put the work. Just in terms of consent, I did want to mention, you know, a major challenge is that we know, and generally the way the world is going is, we're going to have some really rich consented datasets. In some cases, people may not 100% realize what they've consented to with the device, but they will have consented. The real issue when it comes to population health is that the people that are not represented in consented datasets, these tend to be some of the most vulnerable people in our society. They're the ones that are already affected by the social determinants of health. And if we blindly follow the knowledge we gain from consented data sets, we'll be actually doing a disservice and likely growing inequities in society. So consented data sets, yes, 100%. But to always know, they don't paint the full picture."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "23:28",
+    "text": "The nuances of patient privacy was something our audience also had questions about."
+  },
+  {
+    "speaker": "Audience Member 1",
+    "time": "23:32",
+    "text": "A question I have is about de-identification of data. You know, there's some debate about, I think we agree, that anonymization is not necessarily privacy, and even cross referencing data sets. So I just wondered about whether you'd comment about the issue of partial privacy? Michael Kearns at Penn, if I'm right, so he's coming out with a book on the ethical algorithm and talks about adding noise into the sample, and then if you have a large sample, you don't have as much noise needed, less noise. And then the second question realtes to, do you feel that people have a right to own their data and get permission to use it? Like, I think the GDPR, which was referenced earlier, I think is ahead of where we are in North America. And I think it's just the beginning. I listened to a person from Google DeepMind say that, \"listen, give us regulation, because then if you have a car that is very fast, you can at least know how to innovate within the speed limit. But if you don't have speed limits, you go very slowly, because you don't know where the cliff is.\" "
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "24:32",
+    "text": "So who has who feels comfortable to answer that question?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "24:36",
+    "text": "I'd like yeah, on GDPR, I'd like to make the point that we're actually, we've just submitted a manuscript on this point. I mean, the focus is on individual control and consent, but it still allows some non consented uses. And the reason I want to use this of nonconsenting data, I want to emphasize that because I think if we mislead the public and we think that it's all within their control, and then we do things for example, epidemic monitoring, you know, we risk losing trust at exactly the time we're trying to build trust. In terms of de-identification, we're actively working on it. You know, Marzyeh has been a big driver for what we're trying to do in this field. And the general stance we're taking is, where the standard approach to de-identification would be small cell suppression, that doesn't work for machine learning, you need record level data. But we have enough data, you know, maybe we can take a very small sample, and still get to that very low re-identification risk threshold on maybe tens of thousands of individuals, and have a data set that we really could get out there to students, to many people."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "25:41",
+    "text": "But she said, we're behind the US. So where specifically are we behind? And where could we stand to catch up?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "25:46",
+    "text": "She's referring to, you know, the mimic database in particular, which is, you know, she'll joke, it's the most over studied population in the world, it's tens of thousands of people from ICU primarily in one hospital, though, it's expanded to include other sites. So we do not have any facility to do that in Canada right now. And it would be against our privacy legislation, and possibly against social licence, we don't know. We do, on the other hand, have the advantage of having a relatively small number of really sophisticated players when it comes to data management. Ministry of Health is a very sophisticated player, ICES, the Institute for Clinical Evaluative Sciences, has existed for more than 25 years, holds data for the whole population. Vector is partnering with them. So it's kind of working through the nuts and bolts, but the general approach would be, you've got consented data, let's make sure it's really consented, right, and then you've got - with much tighter controls and real care taken to ensure that we have social licence and build and maintain trust - things that you do with data on the whole population, because the consensus will always be a subset of the whole population. I hope that answered the question."
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "26:54",
+    "text": "You know, there is an element where ethics depends upon right action, and a expectation of right action. CRISPR holds within it the risk of morally corrupt behavior, whole genome sequencing, by its nature, there's the risk of identification of individual subject, these things are intrinsically coded. And we depend on behavior among each other that respects some domains. I don't know that that changes with AI."
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "27:26",
+    "text": "Nope. I think maybe one of the things that's new with AI is, it's been said by others, you're not just giving a data set to anybody, you're giving a data set to people who are extremely skilled at finding relationships and patterns and maybe piecing together information in ways that most people couldn't. So I think there's going to be heightened sensitivity around re-identification risk with appropriate control, but at the same time, lives can be improved with the knowledge that we can generate from that data. So how do we balance that with all the stakeholders involved?"
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "27:58",
+    "text": "To quote Spiderman's uncle with great power comes great responsibility. Like with anything, we need public policies that maximize the benefits of AI, while minimizing its potential costs and risks, rules and regulations are the foundation of a healthy market? Where do we start? "
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "28:14",
+    "text": "From a regulatory perspective or principles of AI, I'll say, an organization like Google has actually published their AI principles, which are kind of an update of principles they've had in the past. Chris, maybe I'll ask you the question. Do many organizations have those same principles or adhere to those principles? Will we see some sort of regulatory framework where companies will need to have those principles or adhere to some sort of universal standard?"
+  },
+  {
+    "speaker": "Chris Hammill",
+    "time": "28:36",
+    "text": "So I think that this is actually increasingly becoming the case. For example, the American Computing Association recently published algorithmic guidelines. In Europe, there was GDPR, which was all about data fairness across the board, not just medicine. HIPAA came up in the discussion in the previous panel, and we have pHIPAA. So I think more and more people are starting to take these questions seriously, which I think is very important."
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "29:01",
+    "text": "There's an editorial in the New York Times today on legislation that's being introduced into the US Senate, basically to mandate companies that use artificial intelligence driven algorithms to incorporate concerns of privacy, morality, ethics into their development."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "29:20",
+    "text": "In an effort to maintain transparency with the public companies are increasingly publishing their policies with respect to AI. Both academia and industry require trust from the public to do the work that they do. This begs the question, since companies make a profit from human or patient data, should those who have given their information share in the profits as well. One of our audience members asked this exact question."
+  },
+  {
+    "speaker": "Audience Member 2",
+    "time": "29:44",
+    "text": "Hi, there. Thank you for the session. My question is more about the ethics behind, a lot of the companies that are being developed right now through AI are based on patient data and can become quite profitable from that data. Do you think this is an ethical dilemma behind patients not having access to any of the profitability that amounts from their data that led to the algorithms or companies that are now existing?"
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "30:05",
+    "text": "Should patients be remunerated? Should they participate in the wealth that's being generated from AI today? I think that's the question."
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "30:15",
+    "text": "I was on a panel at the Wellesley Institute with a woman from an organization who's focused on exactly that giving the people that contribute their data a share in the benefits that come back from it. That may be the way they go. There's, there's some literature about benefit sharing when it comes to data use generally. And it doesn't necessarily have to be that explicit. It could be an organization that builds a recreational facility or something. I think what we really need clarity around and they may be well intentioned, but these long privacy policies and Terms of Use, they're really not doing anything, you could read it and you wouldn't know, you know, does this company sell my data? Do I have the opportunity to opt out of them using my data? Really basic questions"
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "30:54",
+    "text": "So let me ask you a more pointed question. Then if I'm a company that's developing a platform that allows patients to control their and own their data, does that make it easier or difficult for innovation from a public health perspective or for AI research to be conducted?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "31:09",
+    "text": "I think at the end of the day, it will make it easier, but we'll have to acknowledge that you're not going to reach the whole population. I think we need transparency. It's just about how we get there."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "31:19",
+    "text": "The panel wrapped up with audience Q & A. Here's some more of our favorite questions and discussions that resulted from them."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "31:26",
+    "text": "Are there certain jobs that are likely to be made obsolete or certain jobs in medicine, that are likely to be made obsolete by AI? And are there certain jobs that we can expect to exist that don't exist today, specifically in medicine?"
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "31:37",
+    "text": "Don't go into radiology. There are certainly there are fields in medicine that are dependent upon clinical activities that seem to appropriate themselves to AI, dermatology, radiology, where there's elements of pattern recognition, there are already inroads being made of machine learning into pathology and pathologic diagnostics. So those areas of medicine that really are pure pattern recognition, are probably if you think of kind of low lying fruit for AI to have a role, those are places. Does that negate the need for radiologists, dermatologists, pathologists? I'm not sure."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "32:18",
+    "text": "So what's the new frontier that's opened up because we're seeing incredible advances in robotic surgery? So obviously, different skill sets. Are there areas that are opened up by AI, or robotic surgery, AI assisted robotic surgery?"
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "32:29",
+    "text": "So, you know, we talked about I think this gets back to the question of, do we lose jobs because of AI. And you think about how much society has evolved in North America in the last 50 years because of changes in the need for industrialization. And those jobs haven't gone away, but they've evolved tremendously. And and I suspect we'd see the same."
+  },
+  {
+    "speaker": "Audience Member 4",
+    "time": "32:51",
+    "text": "So ethics has a lot to do with intention, and even counterfactuals. Why? And if I did do this, even though I won't, what would happen? So what ways are you aware that people are addressing these things in, in medicine? What ways can we encode these in a model so AI that can answer why questions and can answer counterfactual questions? Thank you."
+  },
+  {
+    "speaker": "Chris Hammill",
+    "time": "33:22",
+    "text": "I'm happy to take this one. So lots of people are using causal inference these days, it's becoming very popular. Judea Pearl's \"Book of Why\" has become very popular recently. So as AI and machine learning get more and more popular, I think we're going to see more expert knowledge in the form of graph based models being used for decision making in medicine. And of course, we always need to be integrating over uncertainty when making counterfactual predictions, or even any type of estimation problem you'd be interested in."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "33:51",
+    "text": "Okay, we got time for one last question and I'm going to I'm going to use up that time and ask you guys if you're to look forward 10 years, from an artificial intelligence perspective, what will be different in your universe? What's the one thing that you think will be different?"
+  },
+  {
+    "speaker": "Dr. Sunit Das",
+    "time": "34:05",
+    "text": "Much of what I do in neurosurgery actually doesn't involve neurosurgery per se. It's using tools like radiology to be able to make predictions of whether or not patients have good response to antepan therapies. My hope is that we will have the ability to use radiographic biomarkers to guide patient care. I mean, at some point, I might become redundant. That's my goal."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "34:32",
+    "text": "So Sunit is going to get rid of his own job. Allison, what..?"
+  },
+  {
+    "speaker": "Dr. Alison Paprica",
+    "time": "34:35",
+    "text": "I'm going to go out on a limb and I'm going to say we're using 20% of the data that's available in an integrated way. Which is not to say this monitor says this and this \"print it\" says that but really, if we could bring 20% of it together, that'd be amazing. And also we will actually really understand multimorbidity. "
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "34:54",
+    "text": "Thank you. I need to use you when I put together my goals document for the year. Chris to over to you. "
+  },
+  {
+    "speaker": "Chris Hammill",
+    "time": "35:00",
+    "text": "So I think over the next 10 years, we'll probably see a big rise in instrumentation. I think we're going to have channels that are going to be bringing us more data more quickly. And of course, the algorithmic research is progressing so quickly, things are changing every day. So it's hard to imagine how things are going to look in the in even 10 years time. I think things are moving at that kind of rate now. But I can see, using AI systems for doing counterfactual and causal inference is going to be really big and in 5-10 years, I think."
+  },
+  {
+    "speaker": "Dr. Allan Miranda",
+    "time": "35:31",
+    "text": "Thank you. So that is the end of our panel remains for me to thank our panelists. So Chris, Allison, Sunit, thank you for your contributions. You will be around for half an hour or so after to answer questions or talk with the group. But thank you for your participation today."
+  },
+  {
+    "speaker": "Nazanin Ijad",
+    "time": "35:51",
+    "text": "Artificial Intelligence will no doubt propel medicine into new heights and help many in their quest to advance beyond the status quo. But we can't ignore the realities that are staring us blank in the face. Measures need to be taken to not only ensure that we're reaping the benefits of AI as a tool of medicine, but also to protect the interests of individuals who may be more vulnerable to the consequences that arise with this technology. Whether you attended Raw Talk Live 2019 or listened to this podcast, we hope you both enjoyed and learned something new about AI in medicine."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "36:23",
+    "text": "We'd like to extend a huge thank you to our fantastic panelists, moderators, everyone on the Raw Talk team who made this year's live event possible, and our sponsors for their support. Season Four of raw talk is launching soon with exciting topics including space health, psychedelic drugs, positive psychology and health effects of climate change. We can't wait! Until next time keep it Raw!"
+  },
+  {
+    "speaker": "Amber Mullin",
+    "time": "36:51",
+    "text": "Raw Talk podcast is a student presentation of the Institute of Medical Science and the Faculty of Medicine at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the Faculty of Medicine or the University. To learn more about the show, visit our website rawtalkpodcast.com and stay up to date by following us on Twitter, Instagram and Facebook @rawtalkpodcast. Support the show by using the affiliate link on our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify, or wherever else you listen to podcasts and rate us five stars. Until next time, keep it raw!"
   }
 ]
