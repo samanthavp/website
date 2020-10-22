@@ -1,7 +1,382 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Atefeh Mohammadi",
+    "time": "0:00",
+    "text": "Before we begin, we wish to acknowledge the land on which the University of Toronto and our podcast operates. For thousands of years, it has been the traditional territory of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island, and we are grateful to have the opportunity to work on this land."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "0:23",
+    "text": "Canada is home to many different Indigenous peoples, we ask listeners to visit indigenouspeoplesatlasofcanada.ca and native-land.ca to learn more about and reflect upon the Indigenous peoples whose traditional territory they currently occupy, and their own role in Reconciliation."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "0:41",
+    "text": "We're a podcast that focuses on the stories and science of medicine. We recognize that there is a long history of medicine in particular being used as a tool of violence and oppression against Indigenous peoples. As our small contribution to the ongoing project of Reconciliation, we hope to make space through our podcast for conversations about how different Indigenous peoples may view healthcare and the barriers they may experience in accessing it to this day."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "1:10",
+    "text": "In Ontario alone, over 1600 people are added to organ transplant waiting lists every year. Organ donation is very impactful, one organ donor can benefit up to 75 people and save up to eight lives. Indeed 19,518 Ontarians have received a life saving organ transplant since 2003. Unfortunately, while in many surveys people expressed their support for organ donation, only 35% of Ontarians are registered donors."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "1:41",
+    "text": "Many agencies and organizations across the country including Trillium Gift of Life here in Ontario, are working diligently to implement new policies and programs to increase participation in this life saving practice. Organ donation and transplantation has been an important policy concern both on the federal and provincial levels for many years. One Canadian province Nova Scotia has decided to take a bold new approach."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "2:06",
+    "text": "Starting in 2021, it is set to become the first jurisdiction in North America to implement an opt-out system where all adults will be presumed owners unless they previously registered their refusal. While this is new to North America, some European countries including Spain and Belgium are already practicing presumed consent. In this episode, we'll be discussing the personal stories, unique ethical considerations and complex biomedical science of organ donation and transplantation. I'm Noor."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "2:37",
+    "text": "I'm Frank."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "2:38",
+    "text": "And I'm Atefeh. Welcome to Episode 83 of Raw Talk."
+  },
+  {
+    "speaker": "Myles Lynch",
+    "time": "2:55",
+    "text": "I'm Myles Lynch, I was born with Cystic Fibrosis and I had three double lung transplants. One in 2014, one in 2017, and one in 2019."
+  },
+  {
+    "speaker": "Maariyah Rahman",
+    "time": "3:06",
+    "text": "So for me, it was really random actually, I had no pre-existing condition. I was always healthy, I was always an active person, and then I just randomly late November, I got a cough. And I didn't think anything of it because it was flu season and everyone was getting sick. And then a few days later, I developed some chest pain. I went to the hospital, and they said that it was probably pneumonia, and that I was probably fine. So they gave me some medication. After that I just got worse, like maybe within 24 hours, I was back at the hospital. I couldn't eat anything, I couldn't drink anything, I was throwing up all day, I couldn't even lie flat because my chest was hurting so much. So I went to Toronto General Hospital downtown. I was diagnosed with heart failure right then and there and they said it was caused by a virus."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "3:56",
+    "text": "You just heard from Myles Lynch and Maariyah Rahman who are alive today because of the organ donations they've received. We were incredibly fortunate to be able to speak with them and hear about their unique transplant stories. We'll hear more about them later on in the episode. But first, Dr. Istvan Mucsi explains the difference between deceased and living donor transplants. Dr. Mucsi is a transplant nephrologist and clinical researcher in the Multi-Organ Transplant Program at the Toronto General Hospital."
+  },
+  {
+    "speaker": "Dr. Istvan Mucsi",
+    "time": "4:26",
+    "text": "Kidney failure is somewhat different from the other organ failures in that there is dialysis. So if you don't receive an organ transplant, a life saving organ transplant, you can still maintain life and maintain an active life actually while doing dialysis. But one needs to understand that dialysis treatment only offers about 10% or so of kidney function. So obviously it is not a perfect treatment and this compares to anywhere between 35-40 to 100% of normal kidney function that is being provided by a successful kidney transplant. The different types of kidney transplant or transplant can be broadly categorized as the deceased donor and living donor transplants. And there are additional categories within the deceased donor transplant as well. If we talk about the deceased donor transplant first, in Ontario, this is organized provincially, the Trillium Gift of Life Network coordinates deceased donor transplantation. So if you have end stage kidney failure, and you need a transplant, eventually you need to get on a waiting list for a deceased donor transplant because there is not enough donors to provide a kidney transplant immediately for people who require the transplant at any time, so you will have to go on a waiting list and this waiting list and the whole transplant and donation process is coordinated by Trillium Gift of Life network."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "5:59",
+    "text": "To get further insight about the process of gaining access to a transplant in Canada, as well as the complex bioethical and policy dimensions of organ donation, we spoke to Jed Gross, Bioethicist with the University Health Network, and a member of the Joint Centre for Bioethics at the University of Toronto."
+  },
+  {
+    "speaker": "Jed Gross",
+    "time": "6:16",
+    "text": "I'm most familiar with the process in Ontario, so I'll use that as an illustration. In general, patients who are experiencing organ failure will be referred by a physician in the community to a transplant center for assessment. If the patient is potentially someone who will benefit from a transplant, a multidisciplinary team will do a thorough medical workup through a series of appointments and then come together to make a listing decision based on whether the transplant candidate meets provincial criteria. To the extent that we're able to work with the patient to line up pieces that seem iffy like if the patient would benefit from better access to mental health resources. It's important that we consider the individual's likelihood of benefiting from transplan=t with these supports in place. If a patient is found ineligible for listing, they can go to another Transplant Center for a second opinion. As long as the transplant candidate remains on the list, deceased donor organs are allocated as they become available according to algorithms that are established by government oversight organizations like Trillium Gift of Life Network in Ontario."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "7:27",
+    "text": "A major factor in organ allocation is finding donor organs that are compatible with the patient. Dr. Mucsi discusses the immunological factors that determine how someone is matched with another person for an organ donation."
+  },
+  {
+    "speaker": "Dr. Istvan Mucsi",
+    "time": "7:41",
+    "text": "I guess in Ontario at this point, there are two main factors, there are a number of others potential factors, the two main factors that count in matching, one is blood type, and you have to be blood group compatible, it doesn't mean that you have to be the same blood group, you have to be blood group compatible and other level of matching is on the level of so called antibodies or HLA, human leukocyte antigen antibody level. Practically speaking that during our life for various reasons, we might our immune system might build some antibodies that may respond or may attack the antigens of another person if we encounter their antigens. And of course, with a transplant when you're receiving an organ from someone else, you're getting proteins and antigens from that other person. If you have preformed antibodies in your blood, your immune system will attack that organ immediately, and will lead to rejection and that's the other level of matching."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "8:36",
+    "text": "We also asked Dr. Mucsi about how long patients wait to receive a transplant."
+  },
+  {
+    "speaker": "Dr. Istvan Mucsi",
+    "time": "8:41",
+    "text": "On average, waiting time can vary between a few months to six to eight to ten years after starting dialysis. Ideally, when you are developing chronic kidney disease and kidney failure, you should start thinking about the different renal replacement therapies whether you want to explore transplant or whether you want to just stick to dialysis, weigh the pros and cons for those. For many patients, the best way to get a transplant is before they start dialysis actually. It's called pre-emptive transplant, and this is when you get the kidney transplant even before your kidney function is below the level that necessitates a renal replacement therapy. In general, we measure kidney function from blood work associated number or prioritize the kidney function with a number it's called glomerular filtration rate or GFR. For kind of sake of ease, we talk about percentages. You may not feel any symptoms until your kidney function is as low as 30% or so. But if you have chronic kidney disease from various reasons, it may take you 5, 10, 20 years to get down to this range of 30 to 40%, when you start feeling symptoms of the medicines, you will need renal replacement therapy because of the symptoms and because of the severity of the condition once your kidney function is below about 10% or so, and you can go on the waiting list, once your kidney function is about 15% of normal. The clock doesn't start ticking for you until you start dialysis. The only way to get this pre-emptive transplant is to get a living donor transplant. If you want the living donor transplant, unfortunately, the onus is on you to find a donor or your family or friends. And that's another kind of for the action of discussion what is needed and who can help you to find a donor."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "10:37",
+    "text": "We heard a little from Maariyah at the start of the episode, and she told us about her heart transplant. Let's dive a little deeper into her story."
+  },
+  {
+    "speaker": "Maariyah Rahman",
+    "time": "10:46",
+    "text": "I had my heart transplant two years ago almost, on December 24, 2018. At that point in time, it wasn't that big of a surprise. When I was first admitted into the hospital with heart failure, it was a huge surprise to me because I thought it was probably just the flu, or as the other hospital said pneumonia. Five days after that a heart became available for me. And then it took two extra days to get to me. And a week later I had my transplant."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "11:13",
+    "text": "Next, Maariyah told us about her heart transplant surgery and journey to recovery."
+  },
+  {
+    "speaker": "Maariyah Rahman",
+    "time": "11:18",
+    "text": "Surgery was fairly quick, I think it was six hours and it was on Christmas Eve. I have a really big family. I have three brothers and I have a lot of my cousins and aunts and uncles. So everyone, it was like a party in the waiting room. So on December 24, on Christmas Eve, everyone was waiting in the waiting room waiting to hear good news. And I actually slept through all of Christmas and I woke up on December 26 and I was like \"is it Christmas yet?\". And my brothers come in the waiting room with all these bags because they were boxing day shopping. So that experience it was stressful, but it brought everyone closer together. I was in the hospital for a week after. And then I think recovery was probably the hardest part for me. So actually going through surgery and being in the hospital, I don't think that was as hard as everything I came after. I've always been someone who's always busy and for me to just take a step back and not do anything that really got to me because I had never done that before. I've always taken a semester throughout the summer or I was working or I was doing something, not being able to do anything was really hard for me. But then also because everything happened so fast. Once you actually think about what you went through, and how it affected not only your life, but so many other people's lives, loved one. That's when you realize wow, I really went through that."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "12:43",
+    "text": "Myles has Cystic Fibrosis or CF. CF is a genetic condition affecting the cells which produce mucus and sweat, and can cause damage to many different organ systems in the body, including the respiratory system. Symptoms can include severe shortness of breath, persistent coughing, and chronic lung infections. As the disease progresses and the lungs become more damaged, patients with CF often require a lung transplant. Many patients with CF may in fact require a double lung transplant. We asked Myles about his experiences with this procedure."
+  },
+  {
+    "speaker": "Myles Lynch",
+    "time": "13:19",
+    "text": "The goal is to get the most amount of life you can out of lungs and then hope that you are eligible for transplant. So yeah, luckily enough, I was and I had a few transplant assessments over my lifetime. First when I was 12. Again, when I was 15, again, when I was 16 and the one when I was assessed at 16 years old, I later got listed and then received the call when I was 17. And then as for the other two, I guess you hope not run into transplant rejection but it is something that does occur among different patients. I ended up with chronic rejection of the lungs, and then once more after that transplant. Lungs are a little harder to come by and the waitlist, say in 2014 was six months to a year. But you know, we've had cases that are two years plus - long story short, it was four months waiting on the list, which is less than the initial six months to a year expectation. That was nice and getting the call is truly like there's no feeling like it. Like \"Wow, I'm gonna get a lung transplant, I'm gonna know what it's like to be like a normal person\". That's the good stuff, getting the call."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "14:45",
+    "text": "The ethics of deciding who gets a new organ can be challenging. We asked Jed Gross about the ethics of orgon allocation with an emphasis on how risk versus benefit is assessed in this context."
+  },
+  {
+    "speaker": "Jed Gross",
+    "time": "14:58",
+    "text": "Unfortunately, given the scarcity of organs and the variety of patients' disease courses no system is going to be perfect. Transplant emphasis often frameless as a balance between equality of access and utility. There's a threshold for listing patients of about a 50% anticipated five year survival post-transplant in Ontario. Among that population, the available organs are allocated algorithmically. So at this point, it shifts from a committee making a listing determination to something that is more like numbers being called in a lottery in some sense although those numbers reflect biomedical criteria. Patients who have the most dire need while falling within the group that are likely to benefit tend to be prioritized, but a lot of the contours are diagnosis specific or differences, like how important immunological matching is to avoid rejection of the transplanted organ. With kidneys, Canadian Blood Services has a national program for getting organs to patients who are especially hard to match. In addition to these accommodations of relevant differences, if we shift focus and look at living donation, we accept that many individuals are donating to help a specific loved one. And we accept that as a kind of appropriate partiality. To the extent that we deviate from utilitarian norms like trying to approximately equalize wait times for kidneys or the risk of death on the waitlist for vital organs. It's really a matching exercise occurring at a policy level. Certainly the size of the benefit relative to the alternative of not getting a transplant factors very warmly in this."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "16:45",
+    "text": "Many papers have appeared in recent years maintaining that women, the elderly, people with disabilities, racialized people, and other marginalized groups do not receive transplants to the extent that they could and should be. We asked Jed Gross about how existing organ donation policies contribute to inequities in the delivery of medical care in Canada."
+  },
+  {
+    "speaker": "Jed Gross",
+    "time": "17:06",
+    "text": "In a diverse and economically unequal society, almost any policy utilizing medical indicators of need or likelihood to benefit is likely to affect different populations differently . For example, when the United States retooled its liver allocation system to emphasize disease acuity, as measured by something called meld score, research showed that significant racial disparities adversely impacting Black Americans were largely alleviated, but gender disparities adversely affecting women actually became worse. This is probably related to differences in muscle mass and serum creatinine levels, there's generally no requirement that we use this specific criterion like that, and if it significantly disadvantages that particular group of patients, that may be a reason to revise or abandon the criteria. Importantly, a difference in access that correlates with a highly studied social category may actually draw attention to a problem that causally maps on to something else. For example, if higher waitlist mortality among women is a result of unnecessary size matching. That disadvantages physically smaller candidates, the gender lens is an illuminating starting point, but addressing the problem in an appropriately targeted way, may entail revisiting the size criteria regardless of a patient's gender, or ethnicity or diagnosis or other considerations. I think the key is to look at each stage in the process carefully to identify patterns of inequality that may be inconsistent with the values underpinning allocation from referral to listing criteria, to transplant and mortality data. If there's a disparity, is there an addressable cause? It could be that one population is unfairly disadvantaged at the referral stage, but among this population, those who are listed are getting a priority that then seems unwarranted based on waitlist mortality data. I actually recently joined a group of researchers based in Toronto led by Hollom Awadhi, that proposes to do this kind of staged breakout of data using available data from the Institute for clinical and evaluative sciences or ICES. Finally, I should note that like the COVID-19 epidemic, transplant medicine provides a kind of window on societal inequities. If we start peeling back the layers of the onion and find that some patients have poorer access to living donation, because their friends and family are economically marginalized or in precarious health themselves, this may be a social justice concern that impacts transplant outcomes. But why is it a realm of policy making other than transplant policy and ethics?"
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "19:56",
+    "text": "Earlier you heard about the differences between deceased and living donation. Given the differences, we asked Dr. Mucsi about the unique challenges people might face when seeking a living donation."
+  },
+  {
+    "speaker": "Dr. Istvan Mucsi",
+    "time": "20:06",
+    "text": "The biggest barrier is this ask, that I have to go out and ask someone to do something for me. And I think this may be easier for some people than for others. And it varies on multiple levels, both on individual and on group level and other kind of cultural barriers may may play into this. So while in many of the efforts that are focusing on improving access for living donor transplant, we try to focus on helping patients who have kidney failure to communicate with others to help them. I think it is very important that we also need to talk to the general community, because it makes things tremendously easier for everybody. If potential donors will come forward on their own accord as opposed to being asked, and, and it is possible and then there are ways to facilitate that, but some involvement on the side of the patient actually is still needed."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "21:14",
+    "text": "Personal identity and history including religion, culture, and immigration status, influence how people experience and understand their health, and this is especially relevant in the search for a living donor. People prefer and are often more likely to receive living donations from those within their own communities. For this reason, amongst others, it is imperative that we prioritize the collection of data on a myriad of groups, as well as develop culturally informed outreach. Recent studies have reported that Indigenous people as well as African, Caribbean and Black people in Canada are 50 to 70% less likely to receive a transplant"
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "21:50",
+    "text": "To contribute to addressing the systemic barriers to organ transplantation faced by these groups and other marginalized communities. Dr. Mucsi's research group is working with community partners to conduct focus groups with patients and their families. Eventually, Dr. Mucsi hopes to implement the lessons from this work and pilot interventions to reduce the inequities in access to living donations, you can check out nefros.net to learn more about this project."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "22:15",
+    "text": "Organ donation is a deeply personal choice. We've already spoken about how different racialized communities may have different perspectives on organ donation, as well as different barriers in accessing transplants. An additional relevant consideration is religious belief. Dr. Mucsi gave us a few examples."
+  },
+  {
+    "speaker": "Dr. Istvan Mucsi",
+    "time": "22:33",
+    "text": "Religious concerns or concerns about the burial procedures, which is a more important consideration in terms of timing for some who are Muslim and therefore the Jewish community as well, that the short time is preferred after death for the burial. And people think that donation will unnecessarily delay the burial, which is not quite the case. Sometimes it's just not knowing what your religion will say about organ donation and what's the position and so it's important to know that most of the major religious groups and any of the faith support organ donation in one form or the other. There are multiple approaches, though, so you may want to talk to your own community and or own religious leader."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "23:20",
+    "text": "Next, we spoke with Dr. Shaf Keshavjee, Surgeon-in-Chief of the University Health Network, and a leading researcher in the field of lung transplantation. We wanted to get his insights to better understand how the science of organ transplantation has evolved over the last few decades."
+  },
+  {
+    "speaker": "Dr. Shafique Keshavjee",
+    "time": "23:36",
+    "text": "No, I mean, it's a great Toronto story, University of Toronto and Toronto General. You know, I was a third year medical student when I heard on the radio that surgeons at Toronto General had done the first successful lung transplant in the world. And you know, I mean, it had been tried 43 times before and failed. So, you know, when they took that patient into the operating room, in 1983, no one had ever survived that operation. So, it was remarkable as an achievement. And you know, as a medical student, it was sort of noteworthy for me because I never heard of a lung transplant I'd heard of kidney and liver, right and heart. So it was kind of, you know I thought, \"Oh, that's pretty cool that they can transplant lungs\". And that kind of that was it. And then, you know, I finished medical school and then I started my surgical residency and I was assigned to the thoracic surgery service. And lo and behold, they were doing the first double lung transplant in the world when I was on call that night. So I got to scrub in and assist and witness that happening. And it was just an amazing miracle but also quite an impression on me and in how risky it was, how unpredictable preservation was at the time, and what an incredible feat it was to even pull it off one at a time. And at that time, we quoted a 50 percent mortality of the operation to the patients, which was just amazing. And today, a patient going into our operating room tonight, basis a 1.5%, mortality, you know, like a 98.5% chance of surviving the operation that was 50/50 when I was a medical student, or less. So, you know, we've come a long way. The first was in developing stable preservation techniques. The low potassium dextran solution that was my master's thesis work has really become the standard of lung preservation worldwide now. It's marketed and available for all programs around the world. And then we took the next step and say, okay, we don't just want to preserve the lung the way we found it, but can we make it better than we found it? Can we make the lung that's ready for that transplant challenge."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "25:56",
+    "text": "We also asked Dr. Keshavjee, about what makes some organs more challenging to transplant versus others."
+  },
+  {
+    "speaker": "Dr. Shafique Keshavjee",
+    "time": "26:02",
+    "text": "Some of it is the vulnerability of the organ and the way they're built, you know, a kidney is relatively robust, as is a liver. The heart is a little more finicky, and limited in how long it'll go without blood flow. And the lung is is interesting, because lung tissue starts to die in about 20 seconds. But one of the things we realized which was key to our preservation technique, and the technological advance, is that you can fill the lung with oxygen. And even though it doesn't have blood flow, it can get oxygen to all its cells by diffusion, direct diffusion. So even though it's ischemic, meaning no blood flow, it's not anoxic. And we took advantage of that. So we fill the lungs with oxygen when we store them. So they have a supply and use it that way. But these are the kinds of things that you have to figure out, like what is specific for each organ? How can you help that organ in that stressed state. You know, the easiest transplant really is a kidney transplant, right? Because also, if the kidney doesn't work, you got dialysis as a backup. A heart transplant actually is very simple to do. It's very straightforward, right, switching out a pump. A kidney and heart were the first two transplants to be achieved. And then liver, you know, came afterwards. And lung transplant, like the first kidney transplant was done in the 50s and the first successful lung transplant didn't happen until 1983. Not for lack of trying, it is actually the hardest of the transplants to do, because of that issue of the blood supply. The lung is a very, very fragile organ, I mean, feels like a very soft sponge. And and you know, the lung, if you look at it microscopically, the walls are just two cells thick, okay with the blood vessel and their lung cell on each side. And so you know, that that is very fragile, and vulnerable to damage and requires preservation. Now, the trick we did of saying, well, let's just keep the oxygen in it so that the cells don't get starved of oxygen was really a homerun that, that allowed us to leapfrog the other organs that were 25 years ahead of us. And now lung, in terms of the unique advanced things that you can do with an organ, we've been able to do more of that. And now you know, the liver and the heart and the kidney people are, you know, sort of understanding that you can really, you know, change this and modify organs and improve them with some of these techniques. So, ex vivo liver is certainly, you know, was the next one to be developed in England, and then people heart now is coming along. And"
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "28:49",
+    "text": "A lot of Dr. Keshavjee's work has focused on ways to alter donor lungs to improve lung function and prevent organ rejection, effectively increasing the viable organ supply. His lab is currently exploring the use of gene therapy to alter donor lungs and make them better suited for transplant."
+  },
+  {
+    "speaker": "Dr. Shafique Keshavjee",
+    "time": "29:06",
+    "text": "When you die, you're not going to use those organs. But you could save eight, nine lives by, you know, agreeing to be an organ donor. But when you take it one step further, those organs have a history and some damage to them. They may not be perfect. And then the recipient spends the rest of their lives trying to reject that organ and destroy it because it's not self. So once we got going with organ transplantation, I realized that if you could use the opportunity to say well, can you modify the organ so it looks more like self before self gets to see it? then maybe you give that organ a better chance and and have better outcomes in transplant. So, very early on, we moved the research from preservation, to actually modification of organs or improving organs to have a better chance for transplant. So, ultimately our goal is can you make an organ that will outlive or outlast the recipient? So initially, we have started with really proving the concept that you can do it, right. So we initially started working in the donor, and we did animal studies and so on, showing that you could transduce the lung in the donor, and then have the gene expressed after transplant, and then have the gene actually improve the outcome after transplant. And what we did is we took the common cold virus adenovirus took out the viral genes and put in interleukin 10 gene. And interleukin 10 is a cytokine that downregulates inflammation in the innate immune response of reperfusion injury related to the transplant, and also downregulates the acquired immune response or the rejection response. So it's kind of a very good place to start, you need a huge burst of IL-10, at the beginning to downregulate all that acute injury, and then a low level of IL-10 forever in the organ to prevent rejection. So when the T cells come down through the organ, and they would be turned off, if you will, or turn down. The really important concept of that, too, is right now the way we immunosuppress transplant recipients is we give them drugs that suppress the whole immune system. Right. And so they're more vulnerable to infections, they're more vulnerable to developing cancer. So if we could just, even at the simplest concept, create local immunosuppression with gene therapy, then you would spare systemic immunosuppression, and all the complications of that. So that would be the moderate g oal, and that the sort of home run goal is not eating any immunosuppression."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "31:57",
+    "text": "We asked Dr. Keshavjee about the bigger picture. How does his research change the reality of patients waiting for a lung?"
+  },
+  {
+    "speaker": "Dr. Shafique Keshavjee",
+    "time": "32:03",
+    "text": "We find, you know, lungs with big blood clots and pulmonary emboli. Sometimes even the patient died of a pulmonary embolus. And you say, how could you use a lung like that? Well, we wouldn't. But when we put it on the ex-vivo, we would put it on the system, we would treat it with drugs to break down clots like we treat humans, patients that that have a big blood clot to their lung, dissolve the clot and assess the lung function and show that the lung is still good. If it didn't get better, don't use it, if it's better use it. So that's a simple one. Another one is a lot of lungs have a lot of fluid in them. With severe brain injury, you get what's called neurogenic, pulmonary edema, related to the brain dysfunction, fluid leaks into the lungs, and so the oxygen goes down, and the lungs aren't working well, that actually is a reversible injury, If only you knew that, that's all that was going on. So when you take the lungs out of the donor, put them on the ex vivo system perfused them with a fluid to suck out the fluid out of the lung, and the lung keeps getting better and better, you're confident to use it. Many donor lungs are also infected with hepatitis C. These are young donors with good lungs, except they're infected with hepatitis C. And now there are drugs to treat hepatitis C. We're developing a system to sterilize the lungs with UVC light, so that you can actually kill the viral particles and not have the hepatitis C transplanted into the recipient. So these are the kinds of things that you can take lungs that we never would use and make them usable. It has had a tremendous effect in the sense that worldwide of all the multi organ donors that are available, only one in five lungs are used, four out of five are not used. And that's North American numbers. It's even smaller and some continents. So can we improve that number. And in our institution, we fully doubled the number of transplants we perform per year. We're, you know, the largest lung transplant program in the world, by virtue of being able to use more lungs."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "34:18",
+    "text": "Dr. Keshavjee shared the highlights of his very challenging job that makes the tough and sometimes very long days worth it."
+  },
+  {
+    "speaker": "Dr. Shafique Keshavjee",
+    "time": "34:25",
+    "text": "Oh, it's a fantastic thing, that your job really helps people and you save lives. It's tough, you don't always win. So you have to sort of be able to take that part of it. But also to see that you know, what you do can impact not only your patient, but patients around the world by what you show people what you're doing. But the really exciting part about that is, you know, when you find a problem that seems insurmountable, you go to the lab and study it and figure out a new way to do things and bring that clinically and make a difference again, like we did with the low potassium dextrans solution, like we did with ex vivo lung perfusion, like we did with the Nova lung and artificial lung techniques. Now, the ex vivo lung work, we've adopted that to do in vivo lung perfusion, to treat cancer in the lung without sending the chemotherapy around the body. So in other words, treat just the lung with the high dose chemotherapy. So you don't cause toxicity to the kidney, or liver, or the eyes. So I mean, that's really exciting to continue to be able to innovate, and bring, bring these things that change, medicine and change the chance that people will live. I mean, I met a lady the other day who had a lung transplant 29 years ago, like she should have been dead in six months, 29 years ago. Lived her whole life worked, had children, grandchildren, people being married everything when she would not have been there at all, right. And even today, we have patients like that that are in danger of dying any day now. And we can snatch him off the edge and help them and get them to a meaningful and productive life. So that's a pretty exciting part."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "36:23",
+    "text": "It's clear that organ transplant surgery is incredibly serious and a support system is crucial. We had the chance to speak with Jillian Lynch, Myles' sister. She has been a caregiver for her brother through all these years and a passionate advocate for organ donation. "
+  },
+  {
+    "speaker": "Jillian Lynch",
+    "time": "36:39",
+    "text": "So the way that Myles told me about his first double lung transplant, that he'd gotten the call. He called me and he said, like, \"hey, do you want to see me one last time before I get new lungs?\" and I literally start shaking, I like burst into tears. And I'm, I'm, you know, really dramatically like, yelling out, \"My brother is gonna get a double lung transplant! He's gonna live!\" And everyone in that space ran up and gave me this huge hug. And people are just throwing snacks into my hands to like, take with me and I, I was so new to Toronto, so new to York University, so new to everything. So I still hadn't figured out how to use the bus. So I'm like yelling at people and all night Myles and I like told her favorite stories, from the memories that we've made together and then waited for him to roll into transplant. You know, in some ways, for Myles, it was a really precious moment. But I was also scared because there's a chance that this could be the last moment I have with Myles because at SickKids, that's something that they prepared the family members for - was that, you know, you have to realize that transplants amazing, but it can also be your last moment with them. It's like the moments right before they roll into surgery because there's not that 100% guarantee. So I think that that moment, just really triggering a few moments that we had for certain before Myles rolled into surgery was really special for me as a sister. And before each transplant Myles was rolled into I think you're really just appreciating who they are as a person. And I know from Myles' third transplant, I thought for sure that he wasn't going to come out of that one at all, I didn't know that he was gonna come out. And we were really, I think saying goodbye to each other in those few hours that we knew that we had before he was rolled into surgery. So I think transplant is such an emotional experience because it can really be life saving and life changing and like give you an opportunity to live a totally different life if your recovery goes well, but there is also the reality that it could be the last moment with your loved one."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "38:48",
+    "text": "An organ transplant can be a lifeline. But as we've already emphasized, it can be incredibly challenging to obtain one. And even when you do survival is never assured. Additionally, there can be numerous side effects associated with this procedure. A transplant is but the beginning of a long journey. Maariyah underlined this point."
+  },
+  {
+    "speaker": "Maariyah Rahman",
+    "time": "39:08",
+    "text": "A lot of people only know about your journey while you're in the hospital and while you're getting your transplant. I feel like a lot of people don't know what happens after like daily medications you have to take for life, all the appointments, you have to take the biopsies, all the follow up. It's not as easy as some people think after transplant. A lot of people think transplant is a cure but just a method of treatment. That's one thing that I've really noticed that your journey doesn't stop when you leave the hospital. It's ongoing and it's forever. You're always going to be a transplant patient."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "39:42",
+    "text": "We asked Myles and Maariyah about how their transplant surgery affected their quality of life."
+  },
+  {
+    "speaker": "Maariyah Rahman",
+    "time": "39:47",
+    "text": "Before my transplant before I knew I was sick, I was always catching my breath and I was always I always knew something was wrong. I always felt something was wrong. But I didn't know to what extent. And then it got really bad right before I was in the hospital. And then after, I just felt so much healthier, I started going to the gym regularly I started doing, being more active and living a healthier lifestyle. Because like I said, before I was working a lot, I was just burning out. And going through everything gave me a new perspective on how I really need to take care of myself and my body."
+  },
+  {
+    "speaker": "Myles Lynch",
+    "time": "40:26",
+    "text": "The CF lungs, they're so congested, with mucus at all times. That's, that's a crummy part. If you're in chronic rejection, at like the end of the first set of lungs or the end of the second, you still experience breathlessness and loss of energy, things like that. But at least it's still a clear set of lungs that have good air exchange, it's just that they're they're functioning at a less quality, I guess you could say, but with CF lungs, it's tremendously congested with the phlegm and mucus. See, you always kind of sounded sick, I still yeah, I live it up pretty good. I lived a good life and the quality of life I've had after transplant, regardless of immediately after recovery stage or, or in the nice honeymoon stage, or even in chronic rejection, I still had a good time."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "41:27",
+    "text": "All transplant surgeries come with the risk of organ rejection. This can be acute or chronic. While acute rejection occurs within days or weeks, chronic rejection can take place over months or years after transplantation. Myles experienced chronic rejection after his first and second double lung transplants. So we asked him to tell us a bit more about this experience."
+  },
+  {
+    "speaker": "Myles Lynch",
+    "time": "41:50",
+    "text": "Jeez, you kind of get maybe a little upset the first time because you're thinking not enough is being done on a hospital care side, you know, my lung function dropped, we gotta we got to stop this. What can we do? And like there's really nothing you can really, really do. So you're on anti-rejection medication and maybe I'll just say for it works out very well for for most transplant patients I'm just kind of the anomaly. Although, you know, some do get transplant rejection, I seem to reject the organs quite quickly. So in a in that sense, the first time you go through transplant rejection it's like confusing, upsetting, it's happening so quickly, how come we can't treat this? So at times, you're frustrated, and then you decide to let it go."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "42:55",
+    "text": "We asked Myles about how his experience changed with each transplant surgery,"
+  },
+  {
+    "speaker": "Myles Lynch",
+    "time": "43:00",
+    "text": "Every transplant is a little more difficult in the sense. The second one was five hours long surgery. And then as far as personally recovering from the second one, that one was the toughest of the three. That one was a lot . It was kind of like every hurdle I ran into. CMV, cytomegalovirus I needed plasmapheresis because the antibodies are reacting to the lungs too much. Yeah, they had to remove the antigens or something like that. A lot of costochondritis episodes, just in general, more pain. Yeah. And the second one was really quite a struggle. As far as the recovery standpoint, went it was a lot more than I was prepared for since I kind of figured, \"Oh I went through this before. It'll be a lot to go through, but I'm kind of ready for it,\" but it was a lot more than it's prepared for. So when it came to the third one was probably that much more nervous. But actually, as far as the surgery went, the I guess there was a lot of difficulty for the doctors. So it was 21 hours in surgery till they had to stop the operation. So I needed a few days simply rest, which I believe was because of my hemoglobin was too low, then back into surgery for another few hours, removed some clots, some other stuff I can't quite remember and then finally stapled closed. So it kind of sounded like it would be much more difficult recovery. But I'd say the third one was actually the easiest to recover from, which is kind of interesting."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "44:51",
+    "text": "Myles is the first Canadian to have received three double lung transplants. Jillian spoke to us about how this has impacted her family."
+  },
+  {
+    "speaker": "Jillian Lynch",
+    "time": "45:00",
+    "text": "I try to look at things from a very positive perspective. Remember as kids? Myles was obsessed with reading the Book of World Records. So many summers were spent trying to break a world record. So I think like, whenever the news came that Myles is potentially going to be listed for a third transplant, you know, I tried to like maybe guide Myles towards seeing it as being the first Canadian to have had three double lung transplants and how that would be like us breaking a world record. It fills you with so many different emotions. I think Myles and I have both met so many people who've had transplants also people who've, you know, been denied the opportunity to have a transplant. So you're like, \"holy smokes, we get we get three chances. And there's some people that don't get a chance.\""
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "45:50",
+    "text": "There is a shortage of organs in Canada. And as we alluded to, in the introduction, many are working to try to improve efficiency in the system. One potential shift, which we often hear discussed is the move away from an opt in, or encouraged volunteerism system towards an opt out, or default donation system."
+  },
+  {
+    "speaker": "Jed Gross",
+    "time": "46:09",
+    "text": "In North America generally has an opt in approach where in order to be an organ donor in the event that an individual dies in a way that their organs are usable, they have to authorize it either by registering, for example online or when they're renewing their driver's license or through proxy communication by the next of kin, stating that this is what that individual would have wanted. Up down kind of shifts the default rule so that those individuals who have an objection to donation, they're the responsibility for registering that objection in some way. It can be implemented in a variety of ways. So hard opt out policies might require that individuals register in a database to opt out other societies may have introduced opt out and continue to in practice defer to the wishes of the family at the bedside. Although the term consent is commonly used for both living and deceased donation, I prefer to distinguish between permission for deceased donation and the kind of robust informed consent that's needed before we would subject a living donor to the risks associated with surgery. Anyone who's considering a major elective procedure must be informed of the nature of the surgery, potential benefits and complications. An important safeguard here, whether two potential patients, the donor and recipient is having separate clinical teams focused on each of those individuals to ensure that each patient is getting the clinicians undivided loyalty. On the deceased donation side, some scholars have advocated shifting from an opt in approach to registration to an opt out approach. Advocates of opt out cite different rationales one is that this approach better reflects what people would want to do anyway, while other arguments highlight reflect a heightened commitment to saving lives on a societal level."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "48:15",
+    "text": "It does seem that there's a lot of a lot of just deferring to the wishes of the family at the bedside over over everything. Would that be accurate? "
+  },
+  {
+    "speaker": "Jed Gross",
+    "time": "48:24",
+    "text": "I think that's what happens in practice and it's hard to justify philosophically. If you believe that we have a fairly broad right to make decisions about the disposition of our own bodies after death, for example, I might prefer to be cremated rather than burried, which may be the tradition in my family, it seems that this would include the decision to donate organs and tissue for therapy research. The problem is actually enforcing that in a way that is seen as respectful by the living relatives who are mourning a loss. I think that one way of addressing this would be to promote better communication between individuals who are interested in organ donation and friends and family who may actually be there in the event that something tragic happens. Another option would be to actually try to in some way, enforce this through legal means more rigorously, which then does risk potentially touching on sensitive issues of public trust. I think that some of the instances where opt out has been introduced successfully, it fit well with the political culture. It may have been a country where there was a long history of performing autopsies on all patients who died in hospital for example. The circumstances in which patients are actually passing away may be very different from one society to another, whether we're talking about a place that has a high rate of vehicular accidents or somewhere where we're primarily looking at patients who are dying in hospital. All of these considerations would seem to affect how this will actually play out. I think that in the type of complex, diverse society that we have in Ontario, this is something where we would want to proceed very slowly if we were to go ahead with really extensive public consultation and then a campaign to ensure that the public is informed before the switch would actually occur."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "50:34",
+    "text": "So if not a shift to an opt out system, what other policies could be or have been implemented to incentivize organ donation."
+  },
+  {
+    "speaker": "Jed Gross",
+    "time": "50:44",
+    "text": "Well on the living donation side rather than incentives most of us who support living donation prefer to talk about removing disincentives. If a patient is a friend or family member, or a more distant  in social relation who is interested in donation, but needs to take time off work and travel to a major city for appointments, can we make sure that donating will leave them no worse off economically? Right now, the approach to this kind of problem seems a little piecemeal in Canada based on economic need and where a person lives. The Netherlands has been held out as a model of a more comprehensive approach. I'm not the most familiar person, but there is a an ethicist named as Segreed Fry Revure in the states who has done a lot of work trying to figure out ways of supporting living donors. And when she looked at the Dutch model, she looked at issues like prohibitions on insurance discrimination subsequent to donating systems that were in place to essentially guarantee that people would receive compensation for lost wages from work."
+  },
+  {
+    "speaker": "Myles Lynch",
+    "time": "51:53",
+    "text": "I do try and advocate as much as possible for organ donation in general, and then even further for an opt out system. So that it's more generally accepted to donate your organs after you pass away. And then giving those those people who need life saving transplant for reasons that are out of their control, it gives them that chance of life. So whatever someone takes away from this, think about how, what you can do to help the general acceptance of organ donation,"
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "52:24",
+    "text": "A comprehensive health care team is always important. We asked Maariyah about the support that was available for her during and after her hospital stay."
+  },
+  {
+    "speaker": "Maariyah Rahman",
+    "time": "52:34",
+    "text": "I found that in the hospital, it wasn't as present. But I also felt like I didn't need it while I was in the hospital because I was dealing with the pain management and actually going through everything. From time to time I social worker would come in while I was in the hospital, just to let me know that she's there for me if I needed anything. And at that point, I just, I wasn't taking it in. So at that point, I didn't really feel like I needed her. But once I got out, and once I was in recovery, they were really great. And they set me up with a social worker, and a psychiatrist so I was able to talk to them and sort of explain my experience and they have specific psychiatrists and social workers for transplant, which I really liked because not everyone's gonna understand what you went through, but at least with transplant patients, we have stuff in common and some of our stories are similar. So they've sort of dealt with similar stories so they know how to deal with my story. So I was it was really helpful for me. Myles also told us about his various healthcare teams, he underwent his first transplant surgery as a pediatric patient after which he transitioned to the adult system. And"
+  },
+  {
+    "speaker": "Jillian Lynch",
+    "time": "53:43",
+    "text": "I think because we had such an incredible, really comprehensive and really inclusive family and really supportive experience, at SickKids. We immediately noticed that there's a huge difference between, you know, being perceived as a kid going through transplant and being perceived as an adult going through transplant. We had so many amazing nurses, there's a nurse named Dogue that would do the duggie before doing treatments of Myles. There's another nurse who takes syringes, use them as little water squirters. And we had all kinds of nurses that would come in with special jokes, kind of sneaky smoothies or something or like good snacks. So going from that to the adult system where it's just so different. And I think it's a hard transition. And I know that I'm echoing the thoughts of so many people I've talked to that have made the same transition either as as a patient or as a caregiver or as a family member. There is a support group at Toronto, on their transplant ward. That was one of the best I would say experiences that we got in terms of feeling supported. So my whole family, Myles myself, my mom and dad we all went and met with other transplant families."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "54:57",
+    "text": "Before we conclude we asked our guests if they had any final messages for our listeners"
+  },
+  {
+    "speaker": "Maariyah Rahman",
+    "time": "55:01",
+    "text": "In terms of messages, like a message to leave with the audience, I think just living your life as if it were your last, appreciating everything that you have and everything that you do, all the opportunity that comes along, because you really never know like, when it'll be your last."
+  },
+  {
+    "speaker": "Myles Lynch",
+    "time": "55:19",
+    "text": "Live it up! And maybe don't confine yourself too much."
+  },
+  {
+    "speaker": "Jillian Lynch",
+    "time": "55:25",
+    "text": "My parting message maybe is to really treasure and love the people that you have in your life, and really approach people with care and love. I just was thinking whenever Myles was talking about advice that I'd give to other caregivers, and people will come up to me and tell me stories about their new struggles as caregivers is you know, adding as much variety of experiences as you can to your life. Because I think you can really easily get caught up in making your life all about you know, the person that you love who's going through a transplant. What's been really helpful for myself and for other people in this role is is to also focus on yourself and your interests."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "56:09",
+    "text": "For organ donation to continue to provide a lifeline for patients across the country and indeed around the world it takes all of us to join in on the conversation and sign up to be a donor."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "56:21",
+    "text": "If you live in Canada, as we've mentioned, organ donation policies differ by province. Please visit your provincial governments website to learn more about the ways you can make a difference, including signing up as a donor or volunteering to raise awareness. If you live in Ontario, please visit beadonor.ca."
+  },
+  {
+    "speaker": "Atefeh Mohammadi",
+    "time": "56:39",
+    "text": "As our guests also emphasized, it's important to not only sign up to be a donor, but to talk to close friends and family about your decision in order to ensure that your wishes are respected in the future. Additional resources on organ donation are available in the show notes and on our website rawtalkpodcast.com."
+  },
+  {
+    "speaker": "Frank Telfer",
+    "time": "56:57",
+    "text": "This episode was hosted by myself, Frank Telfer, Atefeh Mohammadi and Noor Al Kaabi. Claire Mazzia was our Content Developer, Yagnesh Ladumor was our executive producer and Esther Silk was our audio engineer. A very special thanks to our guests Myles and Jillian Lynch, Maariyah Rahman, Jed Gross, Dr. Istvan Mucsi and Dr. Shaf Keshavjee, for speaking with us and for sharing their insights. And of course, thank you for listening. Be sure to check out our next episode in two weeks, where we'll be discussing medical tourism. Until then, keep it raw!"
+  },
+  {
+    "speaker": "Jesse Knight",
+    "time": "57:29",
+    "text": "Raw Talk podcast is a student presentation of the Institute of Medical Sciences in the Faculty of Medicine at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the Faculty of Medicine or the university. Learn more about the show, visit our website rawtalkpodcast.com. And stay up to date following us on Twitter, Instagram, YouTube and Facebook at Raw Talk Podcast. Support the show by using our affiliate link on our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify or wherever else you listen to podcasts and rate us five stars. Until next time, keep it raw."
   }
 ]
