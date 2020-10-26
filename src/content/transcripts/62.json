@@ -1,7 +1,652 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Grace Jacobs",
+    "time": "0:11",
+    "text": "Hi listeners! This is Grace."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "0:13",
+    "text": "And I'm Stephania."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:14",
+    "text": "Welcome to Episode 63 of the Raw Talk Podcast. We hope you're having a lovely summer. Over the next two episodes, we will be sharing the intriguing and inspiring panel discussions from our second annual raw talk live event, Medicine Meets Machine: the Emerging Role of Artificial Intelligence (or AI) and Healthcare, that took place in May at J Labs in the MaRS building."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "0:32",
+    "text": "AI is a very current topic rapidly gaining popularity in what seems like almost every scientific field, and not without a good reason. AI has led to various advancements on many fronts. In medicine, for example, it has led to the development of cutting edge treatments and diagnostic tools. "
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:48",
+    "text": "However, besides all the hype surrounding it, is also burdened by many misconceptions and even suspicion. So on this year's live event, we decided to keep it raw when it comes to AI to gain a better understanding of what AI is, while clarifying some common myths."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "1:01",
+    "text": "At our event, we unpacked this topic with two distinct panels of experts so that we could talk about AI in two different perspectives. Number one, the current applications and limitations and number two, the ethical and future considerations of AI in medicine. Our panelists share diverse perspectives from healthcare, academia, industry and policy development."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:21",
+    "text": "In today's episode, we will share with you the discussion from the first panel on current applications and limitations."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "1:27",
+    "text": "We also want to take a moment to thank our sponsors J Labs who let us use their fantastic venue, the Syrian initiative fund SGS, EMSA, UTGSU, News, and of course, IMS."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:38",
+    "text": "A big shout out to Dr. Lu, the director of IMS for introducing our second panel. Let's begin by hearing a bit more about our moderator, Dr. Shreejoy Tripathy and panelists doctors Oren Kraus, Jason Lerch, Marzyeh Ghassemi and Joanna Yu."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "1:38",
+    "text": "So I'm Dr.  Shreejoy Tripathy. I'm a new independent scientist at CAMH and Assistant Professor of Psychiatry at U of T as of January 2019. I'm part of the new Krembil Center for Neuroinformatics at CAMH. And our Center's goal is to use the power of big data, artificial intelligence and brain modeling to treat mental illness. The focus of my lab specifically is how to understand how an individual's genetics affects the functioning of the cells in their brain. And we use AI specifically to help draw associations between different scales of brain organization, like between human genotypes and neuronal physiology. "
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "2:26",
+    "text": "So I'm Oren Kraus, I'm one of the cofounders of Phenomic AI. And I started the company based on some of the techniques I developed as a PhD student here at the University of Toronto, those working in the machine learning group with Professor Brendan Frey and some other collaborators in the Donnelly center. And we were really the first to apply AI to image based microscopy screens. So on the academic side, we're using those for functional genomics to figure out where genes localize to in cells and really understanding more in genome wide screens. But in industry, these types of technologies are used a lot for drug screening. So there's really a huge opportunity to apply AI to these types of screens, as a company. So that's kind of where we started off two years ago. And since then, yeah, we've grown to a team of over 10 people, and we're using AI on these kind of screens every single day."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "3:13",
+    "text": "That's really exciting."
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "3:15",
+    "text": "I'm Marzyeh Ghassemi. I am a professor at the University of Toronto and computer science and medicine and a faculty member at the Vector Institute, I do research in machine learning for health. So my primary appointment is in computer science, which means a lot of what I do focuses on developing models and methods that I think are going to work really well with health data. So we already know how to process image data efficiently with convolutional neural networks, we already know how to process graphs efficiently with graph convolutional neural networks, we know how to work with text using recurrent neural networks, a lot of data that comes out of a healthcare setting doesn't follow a lot of the same ground rules when you're trying to learn things efficiently. And a lot of the speed up that we get and learning now is because we know how to model data efficiently. And so you can learn really well, even if you have very little examples of a specific minority class. And so the research that I would like to do moving forward is focusing on learning what kind of models work well in healthcare, and correspondingly, what kind of healthcare actually works well for people."
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "4:18",
+    "text": "So I'm Jason Lerch. I'm at the Wellcome Trust Center for Integrative Neuroimaging at the University of Oxford, and I still have an adjunct appointment at the University of Toronto and SickKids, which is where I was at until recently, I'm going to again make the curmudgeonly argument that we're using AI as an extension of statistics and that it's part of a long continuum that has a very proud tradition in medicine, and that it's part of the toolkit that will help to try to understand both how to more optimally solve detailed problems, as well as to make better predictions about what our data is telling us about subjects, patients, participants, molecular and biological systems."
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "4:53",
+    "text": "Yeah. Hi, everybody. Um, so I'm Joanna. Yu, I'm a colleague of Shreejoy at CAMH and the Clinical Center for Neuroinformatics I'm working on the BrainHealth DataBank as a Senior Project Manager. So unlike the rest of my fellow panelists, I don't actually conduct AI analysis myself. But I'm really interested in ensuring that there's high quality data sets available for people to conduct AI, for the purposes of both transforming care and informing research."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "5:18",
+    "text": "We were really excited when putting together this panel because, as you'll find out soon, our panelists although all AI users have quite different perspectives, which made for a lively and engaging discussion, suffice to say that an agreement was not always reached."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "5:33",
+    "text": "Before we dive in, what is the technical definition of artificial intelligence or AI? It's often a broad term used to encompass many methods and ideas. I definitely personally get lost trying to narrow it down. So how do our experts describe AI? Doctors Marzyeh Ghassemi and Jason Lerch gave a great definition to help clarify,"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "5:51",
+    "text": "Artificial intelligence is the colloquial term that's used to describe many methods that are used by statisticians, people who do optimization, people who do computer science. And we use these methods often to either do unsupervised learning; clustering, supervised learning; prediction, or causal/reinforcement learning, trying to understand cause and effect in data. So it's a large class of models, and it's a general term."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "6:25",
+    "text": "Jason"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "6:27",
+    "text": "It's hard to top that. It is statistics where you don't have to predefine your model exactly,"
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "6:32",
+    "text": "Or equivalently, AI is a tool to find patterns in data with the help of machine learning, as Dr.s Kraus and Yu pointed out. Okay, now, let's dive in."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "6:41",
+    "text": "AI is often thought to be the holy grail of modern innovation, revolutionising technology, and leading to drastic progress. But that isn't necessarily the case, or is it just not the case yet? To understand the importance of AI, we wanted to know from our panelists how their respective fields work, prior to using AI, and how they are now starting off with Dr. Oren Kraus."
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "7:03",
+    "text": "So yeah, the field of generating lots of microscopy data, it's called high content screening. And there's still a lot of data science that went into it just using the traditional computer vision techniques. So things like segmentation and feature extraction."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "7:17",
+    "text": "What was it like before that?"
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "7:19",
+    "text": "It's really like..."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "7:20",
+    "text": "dudes looking at photos?"
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "7:22",
+    "text": "Yeah, the scale came. And then, you know, once you had like, all these images, it was really like an afterthought of like, Okay, how do we analyze them. So in the big, the bigger companies were more focused on just kind of narrowing that down to a specific measurement. So something simple would be like cell viability, like are the cells alive or dead under this condition versus not. But the trend in the last 5 to 10 years has been thoroughly try to extract more and more information. And that's really where the content part of high content comes in. So measuring lots of parameters at once from every single cell and these large scale experiments. But what AI lets us do that really only took off in the last two to three years is really take a lot of the engineering that goes into that, because it would take weeks, months, or even years sometimes to analyze all these images. But now you can really apply the exact same techniques over and over again, and get results almost as fast as you can generate the experiment in the first place. So it really makes that whole tool set a lot more productive and a lot more useful."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "8:15",
+    "text": "Can you give us a sense for just the amount of data you're talking? Are you talking like two slides or like 2 million?"
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "8:20",
+    "text": "Yeah, so the idea with these automated screens is you can image a whole like 384 or 1536-well plate within a matter of hours. And then the pharma companies will screen like, you know, 10s to hundreds of plates. So the data sets can be 300 gigabytes, to terabytes. And then, you know, you've generated that within a few days and want to analyze that almost as fast as you can generate it."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "8:41",
+    "text": "Marzyeh if you wanna go next."
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "8:42",
+    "text": "It's a hard question for me, because, you know, I was a computer scientist first. And so I think that the the big shift in medicine is that if you watch a doctor, at least in the ICU, and I spent a lot of time and ICUs during my PhD at MIT, so I rounded up at Israel with some of the attendings. Patient would come in, and I swear, they would look to me exactly the same as prior patients, and the doctors would, the senior doctors would call it. They would say, this one's not going to make it there, they're going to die. And I would say, okay, you know, I have my like, notepad Why? And they said, I'm not sure I have a sense I have these different words give shoulde sense, like, but they all essentially said the same thing. I just, I have a sense. And when you probe them on it, as annoying future academics do, right, they would finally come down to you know, I saw a patient once who had something like this, it was a while ago, but you know, it sort of looked this way. And so this makes sense to me in my in my head. And that makes a ton of sense. So you know, if you talk to the doctors, they'll tell you that they operate in a shocking lack of evidence right. You know, there is no compendium of every patient that's ever been seen and all the treatments that have been given to them. Nobody writes a textbook about that, if you're lucky, you'll get a case report about a bizarre patient, right. And people are trained reasonably consistently at very high profile academic hospitals. But you know, these teaching hospitals, they train you, and then you go off wherever you're going. And maybe you don't retrain, and maybe practice changes. Maybe you haven't seen a patient who looks like this very recently. And so I think that the the difference that machine learning can offer that AI and other tools can offer are, we can look at all the patients who have ever been seen in an institution, not just your institution, but everybody's institution. And we can see what kind of treatments actually work well for patients like the one you're seeing. And I think that that's amazing, because even the best doctors have to really think when they look at a patient, and then they can make that prediction. I think that we can make doctor's jobs more about providing care and less about guessing. And I think that that will improve care for everybody."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "11:07",
+    "text": "Jason, Joanna, do you want to add to that?"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "11:09",
+    "text": "I think the main thing I would add is that in my part of neuroscience and brain imaging, and the more clinical side that I'm involved in, I don't think AI is had that big of an impact yet. So it's more coming. And I think the biggest association and where it's coming now is in ... AI is starting to replace what we can do with more classic image processing, and sometimes classic statistics. But it can yet or has not yet helped in improving understanding. And I think that's one of the big things that probably have more of a discussion of today, in terms of to what extent can you have a large data set and learn what we already know, and apply it much more efficiently and potentially more robustly? And to what extent are you trying to get something new out of it?"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "11:53",
+    "text": "Can you ... I'm just gonna push back on that. So can you give, quickly give an example of what you would mean by understanding?"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "11:59",
+    "text": "So what I mean is, what very often happens with AI algorithms is that you can provide a large training data set. And you can say, can you discriminate, and to use the example we just heard cases that will make it in cases that will not? And then it'll tell you, I can do this with 88% accuracy or whatever the numbers might be. And then starts, what's almost a process of archaeology of figuring out well, what is it about these patients? Which can often be very difficult to learn from especially more complicated, deeper neural net, or whatever it is that you've used to apply this tool, compared to the more classic way of analyzing the data where if you use multivariate statistics for massive univariate statistics, where the accuracy wouldn't be anywhere close to that high, but our ability to interpret what the models are telling us is still higher."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "12:43",
+    "text": "Right. So there's the ... Challenge is, you know, these tools seem to work, but no one really, maybe you don't know why or how they work."
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "12:51",
+    "text": "Right. And there's a lot of really interesting work happening in that field of trying to understand and interpret the output of what did the learning algorithm learn? But it isn't always immediately clear. Why is this actually working?"
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "13:02",
+    "text": "Yeah. Joanna, can you speak a bit to so the brain health data bank account is still being built? But can you speak a bit to maybe some of the promise of or maybe what, what is going to go in it? And then how we're hoping that? Oh, yeah,"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "13:14",
+    "text": "Definitely. So I think, I think the further to Marzyeh's points about, you know, being able to compare to similar population, then predicting whether or not the patient will will receive a positive or negative outcome, in order to be able to do that, we really need to be able to have this data centralized, standardized of high quality, and I think that some of the largest amount of challenges going across, she's nodding, she moves across hospital, even within a hospital. And so part of what the brain health database is doing is really looking to ... that are integrate clinical and research data and also improve the quality of it, you know, can we have standardized assessments being used across clinics as appropriate, can we then layer on additional research measures, including blood  samples, or even wearables, so that we don't just have data from when the patients come into the clinic, but in their, in the real world, in their in their lives? And just to add to that, you know, I think where we're going is like, not only when they come in when there's something wrong with them, but even after the discharge can we continue to follow them to, to be able to really apply all these AI and machine learning algorithms to the full capacity except that they're able to, to hold promise for improving our future."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "14:19",
+    "text": "So from what we just heard, AI has made an impact in some fields and contexts more than others, but also in different ways. AI is leading towards more personalized medical decisions based on evidence from big data sets. However, we need to rethink how to most effectively collect such big data sets, both in the short and long term for each patient. It's also important to look past the hype and think of what we have actually gained in terms of understanding while keeping in mind the challenges related to AI."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "14:44",
+    "text": "So the question is like, what are some challenges that you face using AI in your work? Joanna, what... maybe we can start with you and I want to know, is there pushback from like the clinicians that CAMH in these you know, old school, old school doctors who are like, why do I need to like you know, use this measure? Or some other measure? And does this data really need to go into a database? And can we can we just do things the old way?"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "15:05",
+    "text": "Yeah, so that's a great question. I mean, we're fortunate at CAMH to have worked with a lot of, we're working with a lot of programs that have already developed standardized care pathways. So in that sense, there's buy in from the clinicians and the clinic and integrated care teams to be at nurses and therapists as well to be following some sort of standard data collection process. But I think they're, you know, what's really neat about this process, that we're building it together, so a lot of it, it's co design, imagine, you know, we someone discovered this fancy AI algorithm, 90% prediction rate, we can tell who's gonna respond to drug A, positively, and we just sort of walked into the clinic told the psychiatrist, listen, we've got this. I mean, they've also had a ton of training a ton of background, they also understand that there's different circumstances for each patient that makes each case unique. And there's a need for personalized medicine as well. But I think we're not in an era where AI is to replace the doctor, the physicians, but at the same time, can we co design to expedite how we develop these algorithms, because there's certain expertise that is not captured by just the data themselves are certain inherent knowledge that is within the experts, psychiatrists, therapists, everyone that can also contribute and expedite how we how we move forward."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "16:14",
+    "text": "That's cool. Oren, can you speak a bit to some of the challenges and implementing AI in your work? And maybe you speak a bit to, you know, using AI in a company?"
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "16:23",
+    "text": "Sure. Yeah, there's definite challenges on the infrastructure side. So you know, it's okay if you're a data scientist working on a specific data set, and you can get results relatively quickly. But once you want to build something that works reproducibly across like lots of different experiments, or whatever the data sources, you really need to put a lot of effort into the engineering and, you know, getting different types of skills together, in order to get that whole thing working. In terms of the AI component, you know, the idea of training supervised models where you know, conditions ahead of time that you care to classify, that tends to work relatively straightforwardly for what the field is interested in. And like, I think, in general, across all of drug discovery, or life sciences, actually discovering new biology or just new relations in general and the data sets that we're generating. And in that setting, it's a bit harder to apply AI. Because, you know, if you use some of these unsupervised clustering techniques, it's really hard to know whether you're finding something of interest or just experimental noise. So that's something we're actively exploring at Phenomic AI, and other researchers too, is how to design algorithms that really kind of let the biologists or their scientists interact with the with the results and also give feedback and kind of close that loop between the data science and the experiment."
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "17:34",
+    "text": "I guess the two ... and one have spoken to already a little bit, which is the separation between performance and understanding of gaining understanding from the algorithms. And the other big one. So far, still, the simply numbers ... is to train an algorithm, you very often need large number of samples being put in or large data sets."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "17:54",
+    "text": "Yeah, and you get a sense for, you know, for your field, what numbers we're talking about here."
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "18:00",
+    "text": "It really depends on the application. So I've seen two types of applications. One of them is where AI replaces image processing. And they're very often you can bootstrap your way to the right number of samples. So you might take a data set of 10,000 brains, you segmented using classic tools, you use that to train an AI algorithm that then does a better, more robust or much quicker job of segmenting the same brain. So I think they're less worried about it. But he's starting to talk about predicting patient response trying to find who is going to provide respond to what drug, and we tend to work in the world of rare disorders. There are seven patients in the world of that particular disorder, that's a very hard algorithm to train. Or I mean, seven is the except... is the extreme, but very often, it gets into the 10s, 20s, few hundreds with all sorts of heterogeneity and diversity in there. So if it's on the patient prediction type outcome, that's much more of a challenge when you're in the rare disorders world than it is in some of the more common fields and trying to understand how do you begin to generalize from one set of patient groups to another? And how do you begin to not... to train these algorithms when you don't have the classic training data set available? "
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "19:04",
+    "text": "Right, yeah. Marzyeh, do you have more comments about challenges?"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "19:07",
+    "text": "No, I think it's ..., I don't think it's that challenging to use. So maybe, no, not particularly, no."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "19:13",
+    "text": "No? So. So AI will solve everything?"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "19:16",
+    "text": "I mean, people use calculators. There are already risk scores in the ICU, you come in, they like add up seven numbers. And they're like, Yeah, that one has this score, right? Like, it's a fancier calculator, if you want to use it that way, right? Like there's a convolutional neural network is just not requiring you to specify the features that you want. Like in the pre conv-net days, you had to say, I think something is happening at frequency 75 hertz. And no, seriously, you would talk to a cardiologist and they would say, like, look at this component of the QRS. And, you know, if you can just learn that from a convolutional neural network and get an equivalent categorization. I think it's fantastic. I think if we're talking about exploring new science, right? All techniques should be, you know, put under extreme scrutiny, right? If we're trying to predict new drug responses or something completely novel where we are doing completely new science, then it doesn't matter that that technique is AI, you should be terrified if your logistic regression model is super confident to., right? like, and I also had... this is this is a recent burn I had on a paper review, Somebody said, Well, you know, you should use a logistic regression model, because it's interpretable. And I want to know who thinks in log odds in this room? Who thinks in like e to the beta knot plus beta one x one plus ... nobody, nobody. I agree that low capacity models are often easier to look at, because we have ways that we have trained ourselves to look at them. But there are ways to look at high capacity models. So I don't think it'll solve everything. But I also think it's a tool just like all other methods we use. "
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "20:58",
+    "text": "It was interesting to hear Dr. Ghassemi's comment about AI just being another tool if a more complex one. This helped put AI in context with other multivariate approaches that currently exist and present their own challenges."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "21:09",
+    "text": "This was supplemented by Dr Lerch's compelling comments on the generalizability of these tools based on the task at hand. Unlike a calculator, it is variable. It's a more complicated tool than others we have used so far. And there are some key requirements to make it work for us like having good data. Although often presented as such, it's not a magical black box that would always do what we wanted to reliably. There are standards and difficulties associated with each case, and caution is required."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "21:36",
+    "text": "However, all panelists converged on the complex challenges related to assessing if models are generalizable. And the importance of closing the feedback loop to integrate clinicians and biologists into model development and validation. "
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "21:49",
+    "text": "We've spoken to this point a little bit, but can we hear a bit more about what's the role of human experts, or like, basically doctors as ... so these algorithms are coming online as they're improving? Like, do they still have a role? And if so, what is the role like ... Marzyeh, if you want to start? "
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "22:03",
+    "text": "Yeah, I think the machine learning for health community, at least the the people, you know, I know who worked primarily in EHR, in hospitals on longitudinal health records, nobody would ever claim that we're trying to replace the doctor, because that's not anybody's goal. A lot of what we're trying to do is provide better recommendations or better evidence or better options. But just like in most fields that automation has touched in some way, you always need a pilot, right? You always want somebody at the end of the line, who makes a decision about something. And I think the the sort of wrinkle for healthcare is think about other fields like like flying, right? You know, altitude is an absolute value, like, I know what altitude I'm at, right? You know, the plane, it crashes, or it does not crash, right? You can measure how much bouncing it does. So you can say how good a job your model did at landing the plane. So medicine, healthcare in general, is a setting where experts make decisions about what is the diagnosis, they can decide something is a syndrome one day they can combine it with something else another day. Decisions about diagnosis and phenotype are made by doctors, right? There are many conditions that used to be considered one thing, but now are multiple things, right? Because we've learned over time that they should be separated, science has made an adjustment. And so I think that while you know, experts get to decide what a what a condition is, experts are allowed to disagree. Which is ... which is very unique, honestly, in many of the fields that automation has, has transformed. Usually, if we say that's a chair, it's a chair, and every expert in this room will say it's a chair, right? But that's not true in medicine, if you ask if somebody is diabetic, and when they were diabetic people disagree about the onset time. And then even if you could have a complete compendium of these are all the reasons I might have an onset time. Do you have the data to establish that?"
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "24:10",
+    "text": "Yeah, that's really interesting. Maybe real quick, can someone sort of answer the question? Like, do we think we hold AI to a higher bar in medicine than we would for other ... Like in other fields?"
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "24:21",
+    "text": "Yeah, I'm not from the medicine space. But I think so. Yeah, you can also compare it to, like autonomous driving ... "
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "24:26",
+    "text": "Yeah, right. Uber is, you know, killing people."
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "24:28",
+    "text": "Yeah. So that's right. You know, like, even though, overall, even today, we probably be safer with ... if everyone had an autonomous vehicle, you know, we're still terrified of, you know, at least like one of them making a mistake, like, you know, once a year or something. And medicine, I think, like, yeah, like Marzyeh said, there's, it's not like we're gonna be replacing doctors, and they're still gonna have the final decision. So I think it's a matter of more of like educating doctors about how to use new tools. So that could be more of a generational thing. It might take, like the next generation of doctors to really adopt some of these newer technologies."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "24:58",
+    "text": "And pause! Before we move on to our next question, we want to line things up by asking our panelists to address some common misconceptions about AI in the Lightning Round."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "25:06",
+    "text": "Okay, so I have five questions that I've asked you guys, and you're gonna get a placard that says, agree or disagree. So I'm gonna say, I'm gonna say a statement, and then you're going to agree and disagree. I'm going to quickly tally up the things and maybe ask one of you to say a quick comment about it before we move on to the next question. Okay, so the first question, AI can be more accurate than the decisions of human experts. For a freeze! We don't have our doctor on the panel drop out. I wonder what she would say. Okay, question number two, AI works in the same way that a human brain does. Oh, Oren why do you say agree?"
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "25:46",
+    "text": "Yeah, I think we learned from experience, we just experienced things a lot slower than that a computer would, right. So like, part of the reason that, for example, algorithms that are trained on a lot of data to make diagnosis are better just because they see tons of examples from tons of different doctors, whereas in your own life, you see, you know, however many patients you can see a day and you make those decisions, or in med school, you learn from, you know, case studies or textbooks. So, the amount of experience you have is very, very limited compared to what you can feed on algorithm."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "26:13",
+    "text": "Right. So, in the sense they both learned, but Jason really quick, why do you think they do this? Why do you say disagree for AI does not work how the human brain works?"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "26:19",
+    "text": "Doesn't AI algorithm have to sleep to consolidate memories?"
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "26:25",
+    "text": "Marzyeh, I don't think so. Right? Well, the thing with like, those cool algorithms, like what would that fit the algorithms that like sort of destroy chess is like, they can just run all day and all night, and then they destroy our best chess players. Question number three, AI is free of bias. Four solid disagrees. Cool. Moving on. AI that is good as one thing ... good at one thing will be good at other things. Four disagrees. Okay. And then one sort of controversial question. The use of AI in medicine has already led to the incorrect ... incorrect treatment of someone and their ... and their death. Okay, three agrees. And one disagree. We have a couple of maybes. But does someone want to speak more? Marzyeh do you want to speak to agree?"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "27:12",
+    "text": "It depends on what you call AI. But if we're saying that, you know, risk calculators, right, our AI, right that like simple logistic regression models or random forests, the issue is, you know, humans deploy these things, right. And so I know, they ... a hospital where they made a risk score that did not include race. And the hospital administrator said that they noticed that they were actually having more ... more deaths in black patients who came in with pneumonia than white patients, because the the risk score was miscalibrated. And not because of any physiological thing. But because in this particular urban setting, I'm trying really hard not to disclose anything, there was a substantial low income black population. And so the assumption by some of the attendings who I knew personally was, if they came in and they had a fever, and they were shaking, they were withdrawing, they were on something and so they didn't do the prophylactic administrative ... administration of the antibiotic, because the risk score, you know, didn't take into account that there there are social determinants of health, right, that often overpower your age, your height, your glucose level, your heart rate,"
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "28:37",
+    "text": "That's a great example of bias and how you say, Well, yeah, that's something to keep in mind, you know, as, as AI proselytizers, in a sense, you know,"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "28:47",
+    "text": "And I think it's important when a local hospital approaches me, I want to be really sure about how rigorously we can check our results in many ways."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "28:57",
+    "text": "Okay, so let's we're done with the lightning round, you can put your placards down. So the next question is, do you think there's a gap in the perception of AI in the public as compared to the realities of AI? Jason, do you want to start?"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "29:09",
+    "text": "Probably, but mostly because it's been overhyped at some points in the past as"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "29:13",
+    "text": "who's doing the overhyping?"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "29:15",
+    "text": "I think a lot of it is in the misinterpretation from the more popular news of the academic world."
+  },
+  {
+    "speaker": "Audience",
+    "time": "29:20",
+    "text": "*laughs*"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "29:22",
+    "text": "Right. So press officers, maybe some of them are ..."
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "29:27",
+    "text": "It wasn't really in the context of AI, but there was a wonderful article that I read, trying to say that there's a lot of overhyping of scientific results more generally. And they then traced it back and realized that most of that actually came from the quotes of the scientists given to the local press office, which then was being picked up by the journalist. So we might have to look in the mirror to see whose fault this is as well. "
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "29:46",
+    "text": "Right? Yeah. How can we better inform the public at some about some of the realities of AI especially given that like, you know, it's still you know, this it's still nascent, right. Marzyeh's work is a great example but it definitely not perfect, right. And like self driving cars, you know, like they're driving on the road, and they're driving for hours, but they're still killing people. So what do we do in this like transition time to help manage the help manage the hype in the public."
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "30:10",
+    "text": "I'm not sure if it's different for AI than it's for anything and out of medicine or engineering that's coming out, there's often something comes out, everybody's very excited. And then over the years, it begins to settle more into here's what it can, here's what it can't do. And AI comes down to especially this idea that no matter how perfect the algorithm, if you feed in garbage to train it, you're going to get garbage out. And that's a lot where the solutions and as well as the realism is going to come in, it's hard to generate perfect data to train anything."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "30:36",
+    "text": "Oren do you want to speak to that,"
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "30:37",
+    "text": "I think you can also turn on the news media by like, highlighting someone who's got some examples where AI can't do something really, really simple. Like, if you go to some conferences, like NeurIPS, you'll see a poster where they're still training things on like, handwritten digits, just to prove that some algorithm works with like, for example, with like, low data only having like, you know, two or three examples per class. So that's something we can't really do yet with, with a lot of the machine learning techniques. So kind of communicating, like those limitations. And also, those are newer ideas, which aren't really fully scaled yet to the real world problems. But just showing where there's still a lot of room for improvement would really help people kind of put everything in context."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "31:12",
+    "text": "Yeah, Joanna do you want to speak a bit to ... about the hype?"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "31:15",
+    "text": "I think some more like Knowledge Translation around, you know, what it means when someone says 80% prediction rate 100% prediction rate, sort of the expectation"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "31:22",
+    "text": "Can you just say that again"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "31:24",
+    "text": "Like when they say like, 80% positive predict, like, what are, you know, what are the caveats? You know, when does that hold true? What are the limitations, just in sort of plain language like I get, yes, that's, you know, describing publication, what does that mean to the the end user in terms of impact?"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "31:40",
+    "text": "Marzyeh do you have comments about ..."
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "31:42",
+    "text": " I had one thing that I that I think was it was said by a speaker at the Vector AI rounds yesterday that I really liked. And she ... the example she gave was not healthcare, she said, there was an intervention done in Tennessee where they reduce classroom sizes. And low and behold, all of those students did really well, right. And so they ... paper was published and some calls were made. And so the state of California decided to do this, right, reduce classroom sizes, and it failed miserably. The students didn't do better. And it's because they have a larger number of students that they have to educate. And so smaller classroom sizes meant teachers were going room to room there weren't ... they had to cover multiple locations, you were splitting up groups of kids who maybe ... were in teams together previously. And so one of the things that Dr. Kleinberg said yesterday in her talk is knowing the causal effect is not good enough, knowing the 80% positive or predictive value isn't. Knowing the necessary and sufficient conditions to reproduce that causal effect are. And I think that's what our limitations sections usually say. They'll say this only works in this case, under these conditions, we have this kind of algorithm with this kind of training. But that's often not what's spoken about."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "33:01",
+    "text": "Just in general, do you think there could be more effort to see whether algorithms generalize across different data sets? You know, populations like, is there ... Yeah. So do you guys, do you think there should be more?"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "33:13",
+    "text": "Yes. So I have a student who's currently working on whether algorithms generalize over time and policy changes, right? So the Affordable Care Act happened, doctors started behaving differently because they were reimbursed differently by the American government"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "33:26",
+    "text": "AKA Obamacare. And, yes, health care. Most of America, unlike Canada,"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "33:33",
+    "text": "Yeah, right. Yeah. Sorry, guys. Sorry. So when this policy change happened, our models did really poorly, right. And you can imagine that that would be true, right? AUC is a point nine or suddenly point six. So from an 90% accurate, right to 60% accurate, it's because something changed, and the model was not aware of it, and you didn't tell it anything, right? It's assuming that it can go the same way."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "33:57",
+    "text": "So all of our panelists agree the communication between the scientific community regarding advancements such as an AI is currently lacking and needs to improve."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "34:06",
+    "text": "There are a number of reasons why there's often a divide between science and public perspective that our experts touched upon. Scientists usually spend a lot more time speaking to other scientists about their work. And it can be difficult to take off that hat when addressing a broader community. We need to keep in mind to the end user when we talk about how an algorithm performs and what that really means. "
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "34:26",
+    "text": "This is an issue we really care about here raw talk, where our mission is to communicate scientific discoveries and the stories behind them in an effective and accessible way within and outside of the scientific community. This discussion was also reminiscent of last year's lab event, focusing on science communication and public engagement. Be sure to check that out on episodes 44 and 45."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "34:46",
+    "text": "So we have probably have a lot of AI ... people who are super interested in AI and they want to start using it in medicine in their own work. Can you provide Can you guys just provide a couple of words about you know, what should they consider before they started incorporating this to their work ... if you sort of give them like one or two pieces of advice, maybe imagine like yourself, like, you know, 10, 20, 30 years younger, what would you tell yourself? You know, if you were starting out today? Oren do you want to start? "
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "35:13",
+    "text": "Sure, yeah, I'd get to know the basics. So you know, there's good resources online, like Coursera, for learning the ins and outs of machine learning, and then deep learning. But also, there's an explosion of papers of pretty much AI applications in almost every single subfield. So whatever data you're interested in applying to, or whatever your field is, you can also see what's been done more recently, and that'll give you a lot of tips on how to get started applying AI to your own problems."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "35:36",
+    "text": "Marzyeh?"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "35:38",
+    "text": "I mean, my recommendation to you 10 years ago is buy real estate. But I would say for you guys, if you want to focus on models, invest really heavily in understanding what you're doing. So I started ... I was I was just discussing that this. this past semester, I taught this machine learning for health graduate course in the computer science department. And it's supposed to be ... they gave it to me because it's like a light load, right? You expect, you know, 10 to 20 students in a graduate seminar course and 100 students showed up the first day. And so I had a quiz, pop quiz, about probability, statistics, inference, things that should have been covered in a ... an introduction machine learning course. And half of the students dropped. Which I think which tells you that, you know, there ... there are a lot of automatic things right now, right, you can download TensorFlow or PyTorch or Keras or whatever you want. There are pre trained ResNet models, it's easy to do. But if you're not aware of how these things are trained, it's really easy to misuse them, like shockingly easy to misuse them. And I don't want somebody to download code that, you know, I've written our student of mine has written and use it to discriminate against women and application essays, blackson probation hearings, or Southeast Asians in medical care. So take a lot of courses."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "37:12",
+    "text": "Learn the basics. Jason?"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "37:15",
+    "text": "After that, think about your measurements, the learning algorithm can't overcome bad data that goes in or can't completely overcome it. And the better the data is, the better the outcome will be no matter what the algorithm is at the end of the day. "
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "37:29",
+    "text": "Joanna?"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "37:29",
+    "text": "Yeah, I would just add to that, I mean, really understand the provenance around your data, how it was like,"
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "37:33",
+    "text": "Can you can you explain what provenance is?"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "37:35",
+    "text": "So the context around your data, how it was collected, if possible, who collected it when it was collected? Just basically everything that you ... all the details that you would want to know about the time point, and anything surrounding that ... the process that was used, you know, all of that just help paint a better picture, so you can understand the quality of the data that you're working with."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "37:57",
+    "text": "Right? So just to quickly summarize, like, understand your data,"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "38:01",
+    "text": "Yeah. And don't be afraid to ask questions from the people who collected the data if it wasn't yourself"
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "38:05",
+    "text": "And understand your algorithms. And we didn't really say much about the specific algorithms, but maybe those two sort of ideas or kind of take homes, right, like, algorithms will improve data will improve, but there'll always be bad data in there always be bad algorithms."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "38:19",
+    "text": "When we opened up the floor to the audience, we got some great questions about interpretation of AI models, when we should and shouldn't use them, where responsibility lies. when things go wrong, and patient confidentiality,"
+  },
+  {
+    "speaker": "Audience Member 1",
+    "time": "38:31",
+    "text": "When you're applying AI or deep learning and machine learning techniques or models. On top of the clinical data, one of the problems that we have with the clinicians is that they are complaining always that the data is not interpretable. And the problem is just getting more complicated when we are going to use"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "38:53",
+    "text": "Do you mean given the data? Or do you mean the the results of the model?"
+  },
+  {
+    "speaker": "Audience Member 1",
+    "time": "38:57",
+    "text": "The results of the model. Yeah, and they are not interpretable? And the problem is ... goes to be worst when you're using such a deep learning model."
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "39:07",
+    "text": "Yeah So can you speak to the interpretability of machine learning? But Joanna, you want to start?"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "39:11",
+    "text": "Yeah, I mean, first and foremost, I think when you're working with clinicians, I mean, a lot of times there's data overload, even just in terms of technology, and what they have to enter in, in terms of paperwork or electronic medical records, or just medical records themselves. So first and foremost is sort of ... and this is the approach that we're taking is working with them to co-design tools that allow them to use the data that's being collected in a easy, accessible, meaningful way for them, before we even get to the stage of returning these advanced algorithms, but really making it in a way that is interpretable."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "39:46",
+    "text": "Jason, you spoke a bit to interpretability is ... are there like recent efforts to make the outputs of machine learning elements more ... more interpretable and more interpretable to end users like clinicians"
+  },
+  {
+    "speaker": "Dr. Jason Lerch",
+    "time": "39:55",
+    "text": "I think there are quite a few especially in terms of visualization of ... trying to understand what's happening with what are the patients that are being classified one way or another? What are the features that seem to have the most weight, most importance and all that. So I think there's quite a bit of effort. But I do think it is ... it can be a problem, because there's cases where you simply want the algorithm to be as accurate as you can. And then there's cases where accuracy matters less than understanding that comes from the physical output. And it's in that where there's still a challenge. I think there's work and it's fascinating work on it. But I think it'll remain a challenge for a while. But it's not that different from the more classic statistics as you move away from one or two variable linear model into, you know, a multivariate canonical correlation analysis, really understanding what that's doing isn't particularly easy, either. Yeah, sure."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "40:41",
+    "text": "Yeah for sure."
+  },
+  {
+    "speaker": "Audience Member 1",
+    "time": "40:44",
+    "text": "Hi, just a quick question, what should we not use AI on?"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "40:49",
+    "text": "I like that."
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "40:51",
+    "text": "Yeah, data sets where there's like, very limited data. So if there's only like a few samples, you can't really apply aI reasonably,"
+  },
+  {
+    "speaker": "Dr. Shreejoy Tripathy",
+    "time": "40:58",
+    "text": "What's a few samples? "
+  },
+  {
+    "speaker": "Dr. Oren Kraus",
+    "time": "40:59",
+    "text": "Um, yeah, depends on the problem. But for images, you know, if it's, I think less than, you know, like 10s to hundreds of images per ... per category. But it's hard. Also, for cases where there's not clear classes, it's really hard to figure out how to use AI for that. You could use like some of the machine learning techniques, but not not necessarily deep learning. Also, yeah, just like understanding what your problem is first, before, like jumping to use AI is important. Because ... Yeah, sometimes like something really simple will work or just looking at the data will be a lot faster than then trying to use AI."
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "41:29",
+    "text": "You should not use AI to communicate end of life decisions to families, you should not use AI to have doctors, you know, interface with certain patients, right? I think in any field, you can probably segment out the things where, where you think I could probably just make that easier if I had somebody else do it. Right. I don't really care about how it gets done. I just want it to get done. Those things are things that AI probably can and should do. Right? If it's something where you think I really want to make sure that I communicate that correctly that I do that right, That's probably something that you should be doing right. So it's fine to me if for example, in my course, if I have an algorithm that goes through and grades all the code that the students wrote, but when it comes to deciding who plagiarized I make that call."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "42:30",
+    "text": "So I'm interested in when things go wrong. So you mentioned in the hospital, the United States where the issues around because of not calculating in various variables, people died. So I'm interested in who's responsible?"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "42:49",
+    "text": "I think, and I didn't say very much on this previous to the previous question, I think that people hold AI because of the hype cycle to a higher standard than they do to other tools, the AI. So in that particular story, they were using an atom up model, right, it wasn't a deep learning model random forest ... it was just check this on the patient, give them a score from zero to five, check that give them a score from zero to five, they added that all up and they had a total score, and then they had ranges for decisions. That's very normal in most medical care, right. A lot of medical practice has these checklists, or these risk scores, that doctors are hand adding on sheets of paper. And so I don't think that AI should be held to a different standard than another tool, just because it has higher capacity. I think it should be held to the same standards, right? We have doctors are ... professional advice givers, just like lawyers and accountants and everybody else. we regulate professional advice givers, giving a professional advice giver a tool, I don't think makes them a worst advice giver. "
+  },
+  {
+    "speaker": "Audience Member 4",
+    "time": "43:57",
+    "text": "Hi, I'm wondering, is patient confidentiality a barrier to the true power of AI? And if yes, what could be a potential solution?"
+  },
+  {
+    "speaker": "Dr. Marzyeh Ghassemi",
+    "time": "44:10",
+    "text": "This is possibly the worst, you know, burning question to ask me because I feel very strongly about this. So, in the United States, we have HIPAA, right. And HIPAA regulates the use of clinical data. And so if you d identify HIPAA, there's under HIPAA standards, there's 23 fields that are PHI, you get certified that you de-identified them to this standard. You were then allowed to release that data to researchers like me, so that I can run whatever model I want on my own GPUs, and is HIPAA compliant, because I have done the appropriate training in the United States, there's CITI training. Here it is CPTP training that has it's very similar. This is the equivalent you should have in your head to map to and I signed an End User License Agreement saying I would never try to re identify this and I would never try to redistribute this. And then me and my whole lab are able to use this data and this is fantastic. The US is definitely moving in this direction, right where they say, well de-identify things, and then we'll say that researchers should be able to use this in their work. I don't think that Canada is quite there in terms of social acceptance. And I'm a newcomer here. And so I don't know how quickly that's going to change. I'm hoping it's going to change really quickly. And I'm hoping that because at this point, I can easily work with many American datasets and British datasets. Right? But it's been very challenging to work with Canadian datasets."
+  },
+  {
+    "speaker": "Audience Member 3",
+    "time": "45:34",
+    "text": "Joanna, do you want to add to that?"
+  },
+  {
+    "speaker": "Dr. Joanna Yu",
+    "time": "45:36",
+    "text": "Yeah. So that's ... I mean, that that certainly is a challenge. And certainly on the clinical side, if you're looking to do initiatives that are striving for quality improvement, then you are able to access that ... that data for that purpose. And on the research side is, I think she covered all the points really there. We also have key HIPAA as well, you ... you are required to de identify it. And different models are used in different places. So for example, when you're in a research study, if you additionally want to gain access to data that was collected for clinical purposes, the research ethics board would have to give their approval and you would also have to obtain consent from the patient. So going forward, the question becomes, in our ... in our healthcare system in hospitals, do we want to empower patients inform patients that we are using their data for additional research questions beyond just providing them clinical care. And so that's a model that we're currently exploring is to .. to make patients aware as well and ask for their consent to be able to do these things."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "46:32",
+    "text": "There's no doubt that AI is making an impact in medicine. Although we're still discovering its potential limitations and how we can use it in an optimal way. It's definitely important to keep in mind as Dr. Lerch shared, if we put garbage into AI models, we're going to get garbage out."
+  },
+  {
+    "speaker": "Stephania Assimopoulos",
+    "time": "46:47",
+    "text": "As AI continues to be applied and implemented in medicine, it is essential that we improve knowledge translation to scientists interested in working with AI to healthcare providers integrating AI and to the public trying to navigate and understand the implications of AI. We hope this event and the episodes we're sharing are a positive step towards this goal."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "47:06",
+    "text": "A special thank you to our fantastic panelists and moderators, everyone on the raw talk team who made this year's live event possible, and our sponsors for their support. Be sure to check out our next episode discussing the second panel of the event on the future and ethical considerations of artificial intelligence. And until next time, keep it raw! Raw talk podcast is a student presentation of the Institute of Medical Science in the Faculty of Medicine at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the faculty of medicine or the university. To learn more about the show, visit our website rawtalkpodcast.com and stay up to date by following us on Twitter, Instagram and Facebook at Raw Talk Podcast. Support the show by using the affiliate link on our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify, or wherever else you listen to podcasts and rate us five stars. Until next time, keep it raw!"
   }
 ]
