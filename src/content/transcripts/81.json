@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "0:00",
+    "text": "To celebrate almost half a decade of Raw Talk, we're hosting a \u201cfriendraiser\u201d and need your help to spread the word. If you like what you hear, share the show with a friend and you'll receive your very own Raw Talk Podcast sticker in the mail, check out the link in our show notes to participate."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "0:13",
+    "text": "Before we begin, we wish to acknowledge this land on which the University of Toronto and our podcast operates. For thousands of years it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land."
+  },
+  {
+    "speaker": "Mash-Up",
+    "time": "0:35",
+    "text": "I guess I've already told you about my condition. Funny, every time I see you, you don't remember where you've been, or what you've just done. I can't make new memories, everything just fades....What's the last thing you do remember? Something buried deep. Get out! What? Get out, I need to go to my mind palace. He's not going to be doing much talking for a while we may as well go. His what? Oh, his mind palace. It\u00b4s a memory technique, a sort of mental map, you plot a map with a location...it doesn't have to be a real place and then you deposit memories there that theoretically you can never forget anything, all you have to do is find your way back to it."
+  },
+  {
+    "speaker": "News Anchor",
+    "time": "1:18",
+    "text": "Imagine being able to remember every minute detail of your life. You can recall what the weather was like what you were reading, or what you wore to the shops at any minute, any hour, or any day stretching back decades. It sounds like some kind of parlor trick, but it's actually a real and very rare medical phenomenon. So far, scientists have identified 10 cases worldwide. And believe me, what these people can do will quite simply make your head spin."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "1:53",
+    "text": "Memory is something that is crucial for our identities as individuals and as a species. The ability to remember allows us to learn from experience and store knowledge. It is also crucial for species defining traits such as language and intelligence, and many even argue its importance for consciousness but the faults in our memory get clearer the more we learn about it. In this episode of Raw Talk Podcast, we try to understand what memory is, the processes that affect the quality of the memories, and the implications of faulty memories on the validity of eyewitness testimonies in the legal system. I'm Noor..."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "2:27",
+    "text": "...and I'm Zeynep. Welcome to Episode 81 of Raw Talk Podcast."
+  },
+  {
+    "speaker": "Yagnash Ladumor",
+    "time": "2:39",
+    "text": "So team since this episode is all about memory, I'm curious to hear about your earliest one. What age were you and maybe describe it a little. Do you want to start us off Swapna? "
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "2:49",
+    "text": "Okay, I think this is my earliest memory. But it is like a memory of me playing a really modified game of hockey or soccer as a really small child and there's like photo evidence of this so I think that helps reinforce this memory with my twin sister. And it's me always being goalie, which turned out to be prophetic because I am now a goalie in hockey. So, I kind of like that memory. You know, I don't know if I will ever know if it's just suggested or if it's actually a memory that I had before I saw the photo."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "3:30",
+    "text": "One of my first memories is when I'm about four and it was in Turkey. It was at my uncle's summer house. And he has this really cool old school white Jeep. And I remember sitting on his lap and driving it. The part that's weird is do I actually remember or, is it all the stories that I've been told that I remember about such an event happening? It's just so clear in my mind, I can see myself sitting, I was in charge of the wheel and my uncle was doing the gas pedal and the brake pedal and the clutch because I mean I'm four, even standard is very difficult at that age. So yeah, I'm not sure that\u2019s how... now I'm kind of questioning it. Did I actually remember it that way or is it my parents telling me that, oh yeah, the first time you drove a car was slightly illegally on the in the outskirts of Turkey. "
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "4:24",
+    "text": "Also, you remember so many details to that. So, it'd be really interesting if all of that was suggested."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "4:30",
+    "text": "Yeah, it was like a few seconds where I was on his lap and just got to like, play with the wheel. Really, I'm sure there wasn't like actual driving somewhere but because I remember it being, see I remember I was in the parking space of like the near the summer house. So definitely we weren\u00b4t  going anywhere. Or else I'd remember the bumpiness of it, or maybe not because I can see the beach. I\u00b4m unsure."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "5:02",
+    "text": "I'm unsure whether or not our earliest memories are suggested or slightly suggested, this is a good foreshadowing of something that we're going to hear a little later from one of our guests talking about how our memories are not always super reliable or 100%. accurate. And that's okay. It's still a good memory."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "5:23",
+    "text": "Exactly. Yeah. I'll take it. I'll keep this."
+  },
+  {
+    "speaker": "Yagnash Ladumor",
+    "time": "5:26",
+    "text": "Would you guys say that your memory is good? "
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "5:30",
+    "text": "Nervous laughter. No. [More laughter]"
+  },
+  {
+    "speaker": "Yagnash Ladumor",
+    "time": "5:33",
+    "text": "We're all in grad school somewhat. I don't think it's that bad."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "5:37",
+    "text": "I mean, in general, I feel like I have good memory. I don't forget the everyday things, and I feel that I remember the significant events in my life."
+  },
+  {
+    "speaker": "Yagnash Ladumor",
+    "time": "5:47",
+    "text": "Noor, that sounds like you're volunteering for the next test there. What were you doing on October 12th, 2011?"
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "5:55",
+    "text": "I was 11 years old. That's what I know for sure. It's towards the end of the first semester of grade I want to say six or grade seven. I have no memory, what I was doing at that time, I can kind of make sense of it."
+  },
+  {
+    "speaker": "Yagnash Ladumor",
+    "time": "6:09",
+    "text": "Do you remember what day it was?"
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "6:12",
+    "text": "Absolutely not. I couldn't remember if I try."
+  },
+  {
+    "speaker": "Yagnash Ladumor",
+    "time": "6:15",
+    "text": "Do you want to take a stab at it Steph? "
+  },
+  {
+    "speaker": "Stephanie Nishi",
+    "time": "6:17",
+    "text": "Sure. So, I'm a little bit older. So, it may be a little bit easier for me to remember this day. I believe I had just started an internship at that time. So, I was in my first rotation, I was partnered up with my friend Shirley. I can't remember if it was a weekday or weekend day, though. Yeah. And I just remember that that was a big transition time but that's about it."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "6:43",
+    "text": "That's more than most people remember. I feel like sometimes I can barely remember what I had for breakfast a couple of weeks ago. Why don't we put our own memories to the test? Here is our modified version of a question that is part of the MOntreal Cognitive Assessment or the MOCA test. It consists of five words that will ask you to recall at the end of the episode, ready. Here they are: Wednesday, Toronto, pumpkin, equity, hippocampus."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "7:13",
+    "text": "We also put Joey DeGrandis to the test. He has a pretty unique memory ability. We'll go into his special ability a little later on in the episode but here's a quick demo of it. I was going test you a bit."
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "7:24",
+    "text": "Oh, you can go ahead. "
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "7:25",
+    "text": "Yeah, I was going to use my birthday. But I mean, which is April 16. I thought maybe, you know, I can ask you how you felt in 2002 of April 16. "
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "7:36",
+    "text": "April 16 2002. Well, that was a Tuesday. "
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "7:40",
+    "text": "It was, but I had to look that up."
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "7:47",
+    "text": "This is good. So, I may not always remember what I was doing exactly on that day, but I will, you know, 95% of the time, if not 100% of the time, remember, I'll be able to say oh, well, I remember Monday, April 15 of 2002. Randomly I was driving to school. Somebody rear ended me. This woman Natalie, who, it was not a big accident at all it was just a teeny little fender bender. But the woman I just remember was over the top. Oh my god. So that was Monday, April 15, 2002. But for some reason, the 16th I'm not really coming up with anything."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "8:24",
+    "text": "Not as important as the day before, which was chaotic. Interesting. So can you tell us a little bit more about yourself, Joey?"
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "8:32",
+    "text": "I am Joey DeGrandis, 35 years old. I am from the American Midwest. So, I grew up in Ohio and came to New York for college. And I've been living in New York ever since. I would say I'm like a pretty average person, like externally, but I've got this cool ability inside."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "8:51",
+    "text": "So what is HSAM?"
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "8:54",
+    "text": "I do like talking about it. But I also sometimes get oddly self conscious. It manifests differently in everybody but I think sort of the general baseline I would say is that we just have above average memory. I think most of us can remember if we're given a date, like what is today, September 2, 2020. You just asked me September 2 1997, I would say that's a Tuesday. We are able to link the day of the week up to the date, as well as being able to sort of match a memory to a specific date and vice versa memory to date or if we're given a date. We're able to say like this thing happened on that day. And that is basically HSAM."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "9:29",
+    "text": "As described by the Center for the Neurobiology of Learning and Memory as a memory phenomenon where the individual has the ability to recall specific details of autobiographical events. They tend to spend much of their time thinking about their past and have a detailed understanding of the calendar and its patterns. It was initially discovered by Professor James McGaugh in 2006. The first known case of HSAM was Jill Price, and since then, many have come forward. So how do you find out if you have HSAM?"
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "9:58",
+    "text": "It was a party trick for many years. And then I saw the 60 Minutes episode that was done in 2010 with Marilu Henner. And that's when I got in touch with McGaugh because they said, reach out to us if you know anybody or if you yourself think you have this so I that's how I got in contact with the lab. They call it like a 30-question test to sort of vet you to see if you have HSAM and it's just stuff like, you know what day of the week was Thanksgiving on in 1963. And they asked me like memory questions, and I passed the test. And I was diagnosed in August of 2011 when I went out there to visit Oregon, and his team. And so yeah, the research on it is fairly new. And I would sort of describe myself as, a not a lab rat, but you know, like the ongoing test."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "10:40",
+    "text": "Not everyone with HSM is the same. Joey described others who had an affinity for remembering certain things like sports scores or fashion trends for himself. He favors history, pop culture, and music."
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "10:52",
+    "text": "The ability is really varied, I guess, subjectively, you know, to the people who have it. And I think the global stat is like there's only like a couple hundred people in the world that have been identified. There probably more that have the ability."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "11:05",
+    "text": "So, music and things like smells or tastes can trigger a particular memory with me. But it's only one. So, do you get ever overwhelmed with many memories coming at you at once?"
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "11:17",
+    "text": "That's a really good question. I, you know, I guess it kind of is varied. I feel like it isn't always one after another after another. But there's a potential cascade of emotion and memory with certain things. And music is certainly one of those things. Actually you guys, I was just listening to an episode you guys did about new music therapy. Yeah. And that's, I was loving that because I was relating to it, agreeing with it a lot. And I think music is so powerful in that way. But for me when I hear certain songs, and I guess this is also true with certain memories, you know, sometimes it'll move me to tears. And not always sad tears, but just you know, I'm kind of overwhelmed by we're sort of describing the sort of cascade of memories coming in, you know, and for me, it's they're not all bad."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "12:01",
+    "text": "So how does it work?"
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "12:02",
+    "text": "It's funny, I don't really know quite how it happens, I almost want to say that it's just there. But again, that might be the retrieval mechanisms at work moving faster and quicker than I can comprehend. I've sort of described it in the past, an example that's a bit obsolete, the DVD, I remember when we used to have to go to select the chapter of the DVD. You know, in a way, I think that's what my mind does, it sort of just sifts through the file like, oh, okay, August 2005, access. But it happens quicker and faster than I know. There are times, however, when I might have to think a little harder about a certain timeframe or a certain event, if maybe if I if it isn't as fresh in my mind. But again, I'm not exactly sure why I absorb it in such and such a way. All I know is that if I do remember it again, it happens pretty quickly."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "12:53",
+    "text": "Next, we spoke to Dr. Amy Finn, an assistant professor at the Department of Psychology at the University of Toronto, and the principal investigator of the Learning and Neural Development Lab.  What would you say is a good definition of memory?"
+  },
+  {
+    "speaker": "Dr. Amy Finn",
+    "time": "13:07",
+    "text": "The ability to maintain some aspect of your previous experience. In the short term, we would talk about sort of actively holding that and something like working memory. But there's also long-term memory, the ability to maintain something that you've previously experienced more than just on the order of seconds."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "13:28",
+    "text": "What's the definition of learning then? And, how does it differ from memory?"
+  },
+  {
+    "speaker": "Dr. Amy Finn",
+    "time": "13:33",
+    "text": "Yeah, so a lot of times when we talk about memory, we are careful to disentangle different processes in memory.  A lot of times people use a really \u201cjargony\u201d term called encoding to refer to the experience that you have when you're experiencing the information that is to be later remembered. And we're really interested in lots of aspects of the encoding process. And then there's separately laying the memories down, if you will. There are a lot of questions about why do we lay down something that we experienced and not others. And that's like one part of memory that we talked about. And then there's also the memory retrieval aspect of memory when something happens, and you're storing it somewhere, your ability to actually go in and retrieve that and pull that out of your memory stores. And so, memory is useful for sort of characterizing both of those processes and trying to understand, okay, if you don't remember something, or even if you do remember something, what's the encoding process like that got you to sort of lay down the memory originally and then another reason why you might not remember something could have to do with difficulty in actually retrieving it. So, it could theoretically be there, but isn't necessarily retrieved. I use the term learning and memory interchangeably very often. Generally speaking, learning is more concerned with the encoding process. It usually conflates both encoding and retrieval. I also think when people use the term learning, there's more focus on trying to understand how behavior changes, at least from a psychological perspective. In real time, as you're being exposed incrementally to information, oftentimes, we use the term learning when we're talking about a behavioral change that happens, after you're sort of responding to the same stimulus over and over and over and over.  You can look at things like learning curves. Basically, if you see the same thing, or let's say you're learning something like categories, and you don't know you're actually watching behavior that's reflecting the learning process. It\u00b4s working overtime, so, you're like faster to respond to things that are similar because you've learned something about them."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "15:47",
+    "text": "How did we learn about what parts of the brain are important from memory?"
+  },
+  {
+    "speaker": "Dr. Amy Finn",
+    "time": "15:50",
+    "text": "In the 50s, or 60s, a rather famous patient H.M. underwent a surgery to cure his epilepsy. And that surgery involves bilaterally resecting his hippocampus and some surrounding tissue. Before they perform that operation on him it wasn't known what the consequences would be. Otherwise they would not have done this. The consequence was that he lost all abilities to lay down new memories. Well, he recently passed, but he was very studied at the MNI Institute in Montreal which is where a lot of this work took place. And Brenda Milner was the main scientist behind all of it. But it's how we learned the hippocampus is really crucial for laying down memory. H.M. couldn't lay down any new or what I want to call it long-term declarative memory, he retained all of the memories that he had prior to the surgery, he basically was off all memory development after that point. So, part of memory that's important. When we're remembering things that happened to us, our hippocampus becomes engaged again, various forms of memory distortion can happen again, we miss remember something you can actually fundamentally change the nature of the memory, the trace of the thing that actually originally happened to you. And I think those processes were different in H.M. because he didn't have a hippocampus. Initial theories about the neurobiology of memory has been very much influenced by him. I talked about the hippocampus, which I think is the brain part that people would be most excited about but there's others. The basal ganglia can be really important for this procedural form of memory. The cerebellum can also be really important for this form of procedural memory. Memories actually migrate to the parts of the brain that are important for that domain of expertise, the sensory cortices that are important for it. And so, cortex itself all across cortex is important for memory."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "17:46",
+    "text": "Your research focuses heavily on brain development. Can you walk us through how memory is developed in children?"
+  },
+  {
+    "speaker": "Dr. Amy Finn",
+    "time": "17:52",
+    "text": "Kids are uniquely good at being able to learn language, and they're uniquely good at learning various nonverbal,  synchronization activities that occur sometimes, or sometimes in music. And they have various other learning advantages. They often notice things that are task irrelevant, can reflect having been exposed to something when their attention is focused on something else in a way that adults don't. I guess, one way of calling that is that they're more distractible, and they have under-developed attention systems. But there's various benefits to that for memory. And so, I'm really interested in those things. And I've put forth a theoretical framework where I've suggested that having this more implicit procedural system in place earlier, with an associated longer development in the declarative systems all of the hippocampally mediated forms of learning produces qualitatively different learning outcomes and different learning strengths during childhood that allow us to do things like learn language, which some would argue one of our most uniquely human ability."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "19:04",
+    "text": "Shifting focus from kids to the other end of the spectrum. Dr. Daniel Schacter, a professor of psychology at Harvard University, where he leads the memory lab told us about how memory is affected in older adults and an age-related disease. "
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "19:16",
+    "text": "One of the most interesting things about memory is that it's not perfect. It's not like a computer, if it was, it might not be that interesting. Not only are memory lapses, important in everyday life, because they can frustrate us and cause problems. But they also provide insights into the way in which memory is built."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "19:40",
+    "text": "Memories can fade in a healthy brain. But this also happens in disease as a key symptom, for example, in Alzheimer's. What is the difference in transience in health and in disease?"
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "19:54",
+    "text": "Probably just that, you know, it's quicker and it's caused by pathology to the brain. So normal trends transience is not necessarily a pathological feature, we shouldn't think of them as flaws or defects in memory, but rather features of the system that have some benefits as well as cost. So, in the case of transients, we wouldn't want to hold on forever to every bit of information that we encounter, because a lot of it is useless. We don't want to have it cluttering up our minds and remaining very active and remaining very accessible. But that's a sharp contrast to let's say, an Alzheimer patient, where there's neuropathology, that creates a kind of devastating transience that prevents the person from functioning normally in everyday life. So, I think, at that level, you can make the case that some measure of forgetting of transience, has adaptive features and various researchers have argued for that. It is much harder to argue in the case of Alzheimer's, and in amnesic patient where the transience is so severe that the person cannot independently function and are not going to think of that as an adaptive feature of memory."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "21:15",
+    "text": "And how does aging functionally affect memories is that similar to diseases that we were just mentioning?"
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "21:21",
+    "text": "And some respects, but not nearly as severe. And there have been some studies that suggest that there is an acceleration of transients in some paradigms, some tasks with aging, but it's not to the point where it's going to impair a healthy older adult\u00b4s ability to function in the real world. It tends to be more of a loss of access to specific information over time, a lot of details. Older adults are pretty good at retaining the gist of information, the general features over time. That's true of everybody, we tend to lose more and more specific detail more quickly than just information. But I think it's particularly true of older adults that they're good at retaining the general idea over time and what gets hit there is more specific details that are harder to hold on to over time."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "22:16",
+    "text": "Memory is inherently faulty. And we've all experienced it, whether it's blanking on a test, or forgetting the name of someone you just met. To better understand the faults in our memory. Dr. Schacter describes what he calls the \u201cseven sins of memory\u201d, a topic he's written extensively on. He begins with three sins related to omission errors."
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "22:37",
+    "text": "So, there were three that I called sins of omission, there are three different kinds of forgetting. The first I called transience, and this is something we're all familiar with it to some extent in everyday life that all other things being equal, memories tend to become harder to retrieve as time goes by. And there are various reasons for that. And that's probably the most common of the sins of omission. This was something that goes back all the way to the really the very beginnings of experimental psychology, when a German psychologist by the name of Hermann Ebbinghaus, published the first experimental study of memory. And he was the first to, to show a forgetting curve in memory. Using himself as his only subject, he was able to show something that's been replicated thousands of times since that there's a very particular shape of the forgetting curve. So that's what I would think of as the curve of transience. And so when we're trying to think about how memory develops over time, then we want to understand why is it that memories become more difficult to retrieve as time goes by. Is it just time, is it that there's more time for interfering information to get in the way, and that's probably the more likely explanation than just the passing of time. And, for example, in cases of amnesic patients, what you're seeing is almost like a hyper transience where they can take it, they can encode new information, but they just can't hold on to it for very long, it just fades away very quickly. So that would be like an exaggeration of transience in my terminology. Then this second of the of the forgetting related sins I call absent mindedness. This has the same result as transience, you forget something, but I think it has a very different underlying basis. So, this refers to kind of a breakdown at the interface of attention and memory, where we may be behaving on automatic, we put our teaser glasses down and we don't really encode that as an event in memory. It doesn't really ever get into memory in a way that we could retrieve it later. And because we're operating on automatic thinking about other things, we lose that information immediately or we don't really encode it. That's one way that absent mindedness can occur. Another way that absent mindedness can occur is on the retrieval side, where we may have fully encoded an event. And we want to carry out an action in the future related to that event. But one of the important things about memory, particularly when we're thinking about carrying out intended actions, is that we need to have a cue or a reminder present at the moment the action needs to be carried out. Lest we can forget almost anything. So when I wrote the original book on the seven sins of memory back in 2001, I gave the example of, of Yo Yo Ma, the famous cellist to get into a taxi cab one day, put his multimillion dollar cello in the trunk of the cab, took a cab ride downtown, thinking of other things, got out of the cab, paid the cab driver and walked away. And then suddenly, he remembered, hey, I'm here to play my cello, I don't have my cello. Eventually, they recovered it. So that's an example of where he perfectly in some sense perfectly well knew that the cello is in the trunk but at the moment, he needed to be reminded that it was there, he was thinking of other things and with absent mindedness this happened. Third one I call blocking. So that's where information has gotten into memory. It hasn't faded away over time, and you have a queue. At the moment, you're trying to pull out that information, but you just can't get to it. Information is inhibited in some way or inaccessible. Probably the most familiar example of this to most people would be the tip of the tongue phenomenon. You know, you know, something, you're given strong retrieval cues for it, you're trying your best, you're focusing, you're attending, you're doing all those things, but you just can't pull it up. But then at some later time, the information becomes available, showing that it was in my, you know, parlance, blocked. It didn't disappear, you just couldn't get at it at the time. And that's something that again, can affect people in everyday life. And it tends to be information that we haven't used recently or is less familiar to us that's prone to blocking. It's there, but the connections aren't so strong that we can retrieve everything we want at the moment. So, there are things you can do about blocking, even though once you've gotten into like a tip of the tongue state or a block state, for example, you show up at a party and there's someone whose face is familiar and you can't remember their name, by that time, it's going to be hard to overcome the retrieval blocking. But there are things you can do proactively. For example, if you know you're going to be in a situation where you're going to encounter some people who you know, you'd like to be able to remember their name, but you don't see them very often, it might be worth trying to, you know, review who's going to be there. And you can proactively prevent that kind of blocking. "
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "28:11",
+    "text": "The first three sins of memory are about omission: transience, absent mindedness and blocking. The others are about comission. And Dr. Schacter describes those."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "28:20",
+    "text": "The following guests talk about sexual assault, this content may be triggering for some individuals."
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "28:27",
+    "text": "The three sins of comission that relate to memory distortion, first one I call misattribution. So, this is one you recall some aspect of an event, but you confuse the source of that memory. Maybe you know, you think that a friend told you this interesting bit of information when you actually saw it on TV or vice versa. And we know that source of misattributions from lots of experiments are very common in many people. They're very important because once you forget the source of information but remember some aspect of an event that really occurred, you can become very convinced that this event actually occurred because you are remembering some aspect of it correctly. Probably one of the most dramatic cases of this has to do with a memory researcher by the name of Donald Thompson.  Actually, just a few years before he got his PhD with Endel Tulving at the University of Toronto, and went back to his native Australia, where he worked as a memory researcher and expert on memory and court cases. And you can imagine how shocked he was when he was accused of rape on the basis of the memory of a woman who had in fact been brutally raped, and had a detailed enough recollection of the rapist or what she thought was the rapist to actually result in Thompson being questioned by the police. But he couldn't have committed this rape because at the moment that it occurred, he was on live television giving an interview about, of all things, memory and memory distortion. And that proved to be the reason that he got involved, that this woman was watching the television, watching this very television show seeing Thompson at the moment an intruder broke in and in the stress of this event, confused the face of Thompson with the rapist. So fortunately, he had an airtight alibi. But that's an extreme case and unusual case. But there are lots of other things similar to that in legal settings where someone is absolutely convinced that they're remembering an event correctly. And they are remembering some aspect of it that really happened. But they're wrong. So, and one of the things we've been very interested in my lab is the question of with these kind of misattributed memories, if you look at what's going on in the brain, can you tell the difference between an accurate memory that you're making the correct attribution about and a false memory, where you remember something incorrectly and engage in this kind of misattribution process? And we and others have found that although there's a lot of overlap in brain activity for these kinds of true and false memories, there are some differences. And that's important, because, you know, really interesting question about misattribution, because it turns up a lot in court cases is, you know, can you use functional MRI, brain scanning evidence in the courtroom? We don't think that the field is quite gotten to the point where you can do that, because the question you're trying to answer there is for one person, and one event, can you say whether this event came from an actual experience, or is some kind of misattribution along the lines, we've talked about occurring. Most of the laboratory research that's been done over the past 2025 years using neuro imaging that shown for example, sensory reactivation effects, typically uses averages across lots of subjects, averages across a lot of items presented in a list and you get an average for true and false memories, that's different. But that's not the same thing as one person, one event. There have been a few attempts along those lines, but I don't think we have anything convincing enough yet that would, you know, allow us to, to use that technology with confidence in a courtroom. We've also got suggestibility, which is closely related to misattribution. Except that now we're talking about situations where some kind of misinformation is actively presented to people. Usually it's misleading information presented either after an event has occurred, that retroactively finds its way into the original event. So, this is some of the classic work from the 1970s from Elizabeth Loftus, on what's known as post event misinformation. And other more recent developments also dating initially to some of Loftus\u00b4 work and then many other researchers have shown that it's possible to implant memories of entire events that have never occurred through suggestion."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "33:29",
+    "text": "We'll actually be speaking with Dr. Elizabeth Loftus about her work a little later on in the episode. For now, Dr. Schacter continues with the seven sins of memory."
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "33:39",
+    "text": "The third one I call bias, retrospective bias, which can take various forms. And this is when our current knowledge, beliefs and feelings can skew our memories of the past and in a variety of ways. Probably the most common is what people call consistency bias, where you kind of revise your past beliefs and knowledge to bring them into line with your current knowledge and beliefs, and there's a lot of evidence on this point that people do this quite a bit. There's also something that I've called change bias, where there are certain circumstances where you can rewrite memory to exaggerate how much you've changed as a function of an experience. So, it's been shown that, you know, certain people when they get into self help programs will exaggerate the amount of change some of their initial ratings have experienced by, you know, retro actively changing them to make it seem like they've really changed or benefited more - kind of a motivational thing. There are stereotypical biases, which are biases that there's been a lot of focus on recently with work on implicit bias, how we can be biased by our past experience with stereotypes to have certain expectations of how people will behave. So, bias takes various forms and I think it's pretty subtle, but we don't really have a good understanding of the brain basis of a lot of these biases. And, you know, there's been a lot of discussion and work on implicit bias training where you're trying to train away some of the biases, the destructive biases, potentially destructive biases that people carry with them. Are there ways of eradicating those biases? The evidence there is pretty mixed. There was this vast study published a few years back, where a bunch of psychologists tried out a whole variety of different implicit bias training procedures, and only a very small percentage of them worked. And then the ones that worked, a follow-up study showed only work for a short period of time, and they kind of dissipated over time. So, they're well intentioned. They're important, but it's unclear yet based on very strict research evidence how effective, particularly over the long term, implicit bias training is, but it's a very important area."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "36:07",
+    "text": "Absolutely. And that brings us to the last sin of memory, which is..."
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "36:13",
+    "text": "...persistence, I call it persistence. And this refers to when memory is present, but unwanted. So, we've all had the experience of like an unpleasant experience that keeps us up at night. And, in extreme forms may take the form of post traumatic stress disorder. And this can be a very disabling kind of memory sin, when it gets to the point, for example of being linked up with PTSD can definitely have a very impairing effect on psychological function. And there, we have learned a lot about the underlying brain basis of persistence effects in memory. Not surprisingly, because persistence happens for emotionally arousing and unpleasant experiences. It tends to be associated with brain regions linked with emotion. The one that psychologists and neuroscientists have studied the most is the amygdala, an almond shaped structure in the brain that is very much involved in our emotional memories. And it's been shown over and over again, that amygdala activation is associated with emotional memory, and sometimes with these persisting memories that can be disabling. And one of the things that neuroscientists have studied a lot over the past two decades, that's a really interesting feature of memory in general, is known as reconsolidation. And this refers to the idea that it's been long been accepted that it takes some time initially, some neural chemical processes, for us to consolidate a memory. But what's been shown initially in animal studies back in the 1970s, that were sort of forgotten about and then revived in an important paper from Karim Nader and Joe Le Doux in 2000 is that when you retrieve a memory, that puts it back into kind of a, what is referred to as an unstable or label state, where it has to be consolidated all over again. And if you interfere with that reconsolidation, you can knock out that memory. It's kind of counterintuitive that when you retrieve a memory, it has to be consolidated over again. And so, this is something now that has been looked at in studies of persistence; can you use reconsolidation? So, you can get people to bring up a troublesome experience inject someone with a protein synthesis inhibitor, a drug known as propranolol, a beta blocker that also interferes with protein synthesis. If you do those things together, reactivate a memory and give them a propranolol can that result in sort of taking some of the sting out of the memory so it's not so emotionally troublesome and persistence is reduced, and again, there's mixed evidence on this point, but there's at least some evidence suggesting that this may be a promising approach. But it's not really settled yet. In the literature, more extensive double-blind studies need to be done. "
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "39:24",
+    "text": "To learn more about memory distortion and its practical effects. We spoke to Dr. Elizabeth Loftus, who is a distinguished professor at the University of California Irvine, a cognitive psychologist and an expert on human memory. Her work has been crucial in shifting paradigms in the memory field. Her research investigates how memory may be manipulated and modified by messages, ideas and suggestions. Dr. Loftus\u00b4 research has significant applications to the legal field and eyewitness testimonies and courtrooms. We started out by asking Dr. Loftus to define false memories."
+  },
+  {
+    "speaker": "Dr. Elizabeth Loftus",
+    "time": "39:58",
+    "text": "Yes, false memories, that's kind of an umbrella term, it can refer to remembering an actual event differently from the way it really happened. Or it can involve remembering an entire event that never happened to you but might have happened to somebody else. This is what I study, the malleability of memory. And so, in my experiments, we will expose people to some event. And then, after the event is completely over, we'll let them be exposed to some new details, maybe misinformation or disinformation about the event. And we look and see the extent to which they will adopt this misinformation included in their own memory, and it causes some kind of a change in memory. And this is something that I think goes on out there in the world, when people talk to other people about their experiences or when they are exposed to misleading information of some sort. All of these can provide this kind of opportunity for a distortion or contamination of memory. "
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "41:11",
+    "text": "False memories have implications in the courtrooms where people are being convicted for crimes. Eyewitness testimonies are often written from people's memories, but how reliable are they? "
+  },
+  {
+    "speaker": "Dr. Elizabeth Loftus",
+    "time": "41:22",
+    "text": "People have errors in their memory, probably all the time. But most of the time, it doesn't. It doesn't matter very much. I mean, so it doesn't matter if, if I tell you that last night, you know, I had a hamburger instead of chicken. You don't know there's something wrong with that story. I don't get caught in my mistake. But when it comes to legal cases where somebody liberty is at stake, and it really matters, who is the person? What did the person look like who committed the crime? And where you are potentially identifying an innocent person and implicating someone who's innocent and punishing that person and taking away their liberty. Then false memories, memory distortion matters very, very much, because we know that faulty memory is one of the major causes of innocent people being convicted of things they didn't do. So, one example might be, let's say, the victim and the perpetrator spent a fair amount of time together, maybe like they were together for a half hour. And then the perpetrator decides to rob the victim. And the perpetrator rubs the victim. And the very next day, the victim goes into a pizza parlor, and there's the perpetrator sitting there eating pizza, and the victim then calls up the police and says the person who robbed me yesterday is here. If it's a long exposure, not a lot of stress during most of the exposure. A fairly short retention interval, it's only a day later. There is no questionable police procedure and the identification because it was the pizza parlor identification. Maybe it's a same race identification, not across race problem. And so there may just not be very much problematic with that situation. It doesn't mean it's 100% accurate. But usually, it's more helpful. If a lawyer is going to ask a memory expert to come in and talk that there'll be a number of problematic factors that that expert can point to. In a typical eyewitness case, the expert might review all the police reports and preliminary hearing testimony statements a witness made and might be looking to see are there factors that are known from the psychological literature to produce difficulties for memory that the expert sees are present in this case. So, is it a cross racial identification, where as a member of one race is trying to identify a stranger of a different race, people make more mistakes. Is it a situation where there's a long passage of time and a lot of exposure, say to media or other suggestive insinuations that this particular person committed the crime? What kind of police procedure was used to elicit the identification? Was it fair? Was it a double-blind procedure where the person conducting the test did not know who the suspect was? That's the better procedure. So, these are just examples of things that an expert can look for. Do they, you know, favor a reliable situation or do they favor is situation that is questionable?"
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "45:03",
+    "text": "Earlier this episode we spoke with Joey who has HSAM. Dr. Loftus has also published a study about false memories in these HSAM individuals. Because if anyone was immune to these false memories, you would think it would be them."
+  },
+  {
+    "speaker": "Dr. Elizabeth Loftus",
+    "time": "45:17",
+    "text": "Well, they're incredibly interesting people. And, you know, they can remember just about everything they did every day of their adult life. It's extraordinary. And they've been featured on a lot of television programs and articles have been written about them and my lab was able to join with the lab that studies these HSAMs. And we expose them to a number of false memory procedures, and they were just as susceptible to contamination as controls like age, gender matched controls that didn't have HSAM. These HSAMs were similarly susceptible to having their memories be deliberately contaminated. Now they weren't their personal memories, but they were their eyewitness memories. They were put through some of these standard false memory procedures. And they show just as much distortion. The misinformation procedure, for example, where you show them an event and expose them to misinformation and then see what they remember about the event, to see are they contaminated by the misinformation. There's a famous procedure called the DRM procedure were named after the initials of the investigators who invented and use this procedure but where people will remember that they heard words on a word list that they did not hear. And these HSAMs are just as susceptible to being contaminated by that type of procedure as well."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "46:58",
+    "text": "Not every memory is a good one. Some of us remember and dwell on bad memories. Now imagine having to re-live these bad memories as someone who has HSAM. Joey describes the upside and downside of his memory."
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "47:11",
+    "text": "I'm not even sure how to describe it, I almost feel like it's a bit more of a sensory nostalgic experience. In my mind's eye, I am observing it from a distance. But I am also sort of, if I'm not careful, I can easily kind of slip back into that, again, that nostalgia, that feeling of how I felt. And I think for, this is another way I've sort of described it, which might sort of make sense, especially, you know, to listeners, if anybody's a visual person like me, I sort of feel as if I am like almost a puppet to the timeline, like I can pull on a little string and I\u00b4ve pulled on a string and I've accessed a date or a memory, right, I'm anchored in that sense to my story to my timeline. And that is a wonderful thing that I love. And I cherish and I wouldn't trade, but that also sort of makes it so that I'm thinking about this time, or this place or this memory in the context of where I was at that time in my life, right? So for a 13 year old, let's say right, there's a lot of funny, awkward memories I have, but it's like 13 sucked, you know, 13 sucks. I don't care if you're popular, that's a fun spoiler I learned later in life, right, even for the popular people it sucked, right. And I was not popular. So it's like, I don't know if other people, because I certainly know that as a human being right, I feel like as a baseline, we all have memories that are tough for us or that are happy, right? We tend to remember emotionally charged things. But maybe for me, the only difference is that I remember it a little more readily a little more in a more accessible way. And it's just the fact that I can, when I'm thinking of it, it's like, if I'm not careful, I go into like a rabbit hole of like, this is the context of my time. And I was an awkward teen and it was so uncomfortable, then, you know, and certainly just perhaps maturing. I don't know growing up for me, you know, like maybe over time, I feel like that has lessened the emotional sort of impact has kind of lessened just because, you know. Not only do I have more things to worry about in the present and I\u00b4m so grateful that, knock on wood, that I had a pretty happy life, all things considered.You know, I don't tend to like let myself get lost too much. So, it's right to go back. I've heard it also described as in science, it's, I think the recovery window of time when something happens whether it's traumatic or you know, just something that's emotional to you that's you know, perhaps bad, right and there's a recovery window of time when you find the process and sort of move on from. That I think people with HSAM perhaps have a slightly longer recovery window or wider just because again, it's the memory is a little more active and palpable if that makes sense. I should you know, thank my lucky stars if you will, that I've had a generally happy life. I mean, I've suffered and had sad stories just like anybody, but you know, for me what I, a lot of times those memories come back and it's almost just like the loss of innocence or youth or childhood right. So, it is not even a sad thing. It's just like, oh, what this music reminds me of. And yeah, certain memories, I guess will trigger certain things I don't really seem to have control over it, other than to sort of just breathe and you know, do the things that anybody would do when they are reflecting right, like, okay, I'm here right now, in this moment, you know. I've actually been meditating lately, which has been nice. Actually, I never thought I could, because I'm a bit of an anxious person. And my mind moves quickly. So, it nice to just sit in silence for 20 minutes. I feel like that's actually helping me sort of be in the now and appreciate, you know, the now."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "50:37",
+    "text": "Can you recall the words from the modified MOCA test that we played at the start of the episode? See how many words you can still recite. The words were Wednesday, Toronto, pumpkin, equity, and hippocampus."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "50:51",
+    "text": "It's okay to forget it's part of life. It's important. It's efficient to forget, as someone who has HSAM even Joey isn't immune."
+  },
+  {
+    "speaker": "Joey DeGrandis",
+    "time": "51:00",
+    "text": "So I certainly just like anybody forget things. Ironically, I'm horrible with names. Like, the worst, and I can never get away with it. Because everybody always says, well, you have perfect memory. How did you forget my name? Sorry, you just weren't important enough? No, that's horrible to say. A more emotionally intense event I'm going to probably absorb is going to be imprinted in my mind, you know, in a way that I'm more likely to remember it. But there are definitely also memories I have from years ago, that are just really mundane, you know, like me eating a bowl of cereal. It's just, you know, stuff that's like so forgettable. And again, it's nice that I have those memories. And I can think oh, that's what I was doing on you know, such and such a day, 20 years ago, but I also kind of scratch my head and say, \u201cwhy do I remember those mundane things\u201d? You know, would my mind have more space to you know, I don't know, learn symphonies or something or, you know, well, you know, absorb other information if I wasn't, if I didn't remember that I was eating cereal, you know, 20 years ago on this morning or something? You know, what I mean? Dr. McGaugh has also said that he believes everybody has all of their memories in their head, every single thing they experienced, it's just that, you know, from an evolutionary perspective, we have to forget things right? If we remembered every single thing, it would be sort of not efficient for us."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "52:21",
+    "text": "So how do we choose what memory is important? What memories do we keep and learn from to help us shape our future? Dr. Schacter explains the constructive nature of memory."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "52:31",
+    "text": "A lot of the time we view memory as kind of an archive of the things that have happened in the past kind of like a video recording of our experiences. But your work emphasizes that memories are not just recorded, but they're constructed. And I'm wondering if you can tell us a little bit more about the constructive nature of memory? And is it accurate to say that we are in a way building memories, every time that we recall them?"
+  },
+  {
+    "speaker": "Dr. Daniel Schacter",
+    "time": "52:58",
+    "text": "Yeah, I think that is accurate that to some extent, depending on exactly how we retrieve, where we retrieve, circumstances in which retrieve. That retrieving memories, and my lab has been very active in showing this in behavioral studies in fMRI, retrieving memories can change that it can strengthen them, but it can also distort them under certain circumstances. And yes, and that all fits with the view that memory is a strongly construct of phenomenon. It's not simply an archive or reproduction of the past. And really, the origins of that view go back a long way. In psychology, most people would attribute at the initial articulation of that idea to the Great British psychologist Sir Frederick Bartlett. And I think what we've been able to do over the last 20 or 30 years is really link some of those constructive processes that Bartlett initially talked about, more closely to the brain, and to see, you know, in action, how we construct memories. And I think, you know, the whole seven sins framework is really an articulation of a constructive memory point of view, particularly the three distortion related sins are what really bring out I think, the constructive nature of memory. But again, going back to our earlier discussion, this is not the reflection of a sub optimal or flawed or a pathological system. There are benefits to a constructed memory system. So for example, what Bartlett initially talked about and what others a lot of others have talked about, is that because we're pretty good about retaining the gist of information, we sometimes lose the particulars that is a recipe for misattribution and memory distortion, but that's a good thing in other ways because we want to hold on to the important things, as I talked a little bit earlier. And if when we hold on to the gist, but we don't retain the specifics, then we're set up for certain kinds of memory distortion. Now, another perspective that is something that's come out of the work of my lab, and others, again during the past really 1520 years, that fits with this constructed view is the idea that the main function of memory may not be, as we've always thought to allow us just to reminisce about the past, and go back and travel in time into the past, but also to use our past experiences to project into the future, to think about the future to imagine what's going to happen. And so, we've been working with an idea that we have called the constructive, episodic simulation hypothesis for a little over a decade now. And this is the idea that memory, particularly our episodic memory, or memory for everyday personal experiences, is important not only for remembering the past, but also for using that information in a way that's useful to us to imagine into the future. And some of the origins of this work, go back to actually an observation that Endel Tulving made regarding an amnesic patient that her and I were testing one day in Toronto in the early 1980s. Very severely amnesic patient, known it the literature as patient KC, who was a result of a head injury that damaged his hippocampus, medial temporal lobe, parts of his frontal lobe parts of his parietal lobe, had no capacity to remember any specific past episode. And Tulving asked them a simple question, \u201cwhat do you think you're going to do tomorrow?\u201d And you might think that he would have no problem with that. Although we know he had a terrible problem answering, \u201cWhat did you do yesterday?\u201d Well, what was really striking at the time, is that the patient really couldn't conjure up any particular image or scene or event that might happen to him tomorrow. He drew the same kind of blank that he did, when you ask him what happened to you yesterday, eventually, he would say something like I, you know, maybe I'd have breakfast, and I would have lunch. And that was a very striking, singular early observation. And then we followed up many years later, in my lab in 2007, and some others at the same time, by doing functional neuroimaging studies showing that many of the same brain regions come online when you remember the past and you imagine the future. Our episodic memories are built to be very flexible, and to allow us to recombine bits and pieces of our past experience, so that we can run simulations of novel upcoming events, things that haven't happened before. Because after all, the future is rarely an identical replay of the past. So, we want to be able to prepare for novel situations, we think we can do that, with a flexible memory system that allows us to recombine bits and pieces of past experience but that can also result in memory errors, and really speaks to the heart of constructive memory. And indeed, in some recent work from my lab, we've been able to show that these flexible recombination processes that we think are so important for imagining the future and engaging in a variety of other cognitive functions can indeed sometimes lead us to memory misattributions of the kind that we were talking about earlier. So, when I think of constructive memory, I think of it as something that has cost, but also has potential benefits in supporting our ability to imagine the future and various other kinds of important cognitive functions."
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "58:41",
+    "text": "As you go on with your day, think about how you may be using your memory to construct your future, and perhaps think about what your imagined future would look like. On a previous episode of Raw Talk, Episode 71, What does it all mean? We discussed positive psychology, well-being and the meaning of life, so maybe we can use our memory to imagine the future we want."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "59:00",
+    "text": "Whether you remember or forget, memory is an important part of our everyday experience and learning.\u00a0 The ability to encode, store and recall can vary from person to person, even among those with increased memory ability such as HSAM. This dynamic process is influenced by the seven sins of memory error, which may affect us daily. Today we discussed how memories are made...and forgotten, but there is much more learning and many more memories the scientific world is creating as the research in this field continues to expand.\u00a0"
+  },
+  {
+    "speaker": "Zeynep Kahramanoglu",
+    "time": "59:31",
+    "text": "This episode was hosted by myself, Zeynep and Noor. Yagnesh and Swapna helped conduct the interviews and Steph Nishi helped develop content. Yagnesh was our executive editor, Nathan was our photographer and Anukrati was the audio engineer.\u00a0"
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "59:45",
+    "text": "A very special thanks to our guests, Joey DeGrandis, Dr. Amy Finn, Dr. Daniel Schacter and Dr. Elizabeth Loftus for speaking with us and sharing their insights. And of course, thank you for listening. Be sure to check out our next episode in two weeks where we explore amputations and prosthetics. Until next time, keep it raw."
+  },
+  {
+    "speaker": "Noor Al Kaabi",
+    "time": "1:00:13",
+    "text": "Raw Talk Podcast is a student presentation of the Institute of Medical Science in the Faculty of Medicine at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the Faculty of Medicine, or the university. To learn more about the show, visit our website rawtalkpodcast.com and stay up to date by following us on Twitter, Instagram, Youtube, and Facebook @rawtalkpodcast. Support the show by using the affiliate link on our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify, or wherever else you listen to podcasts and rate us five stars. Until next time, keep it raw."
+  }
+]
