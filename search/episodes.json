@@ -1,5 +1,65 @@
 [
  {
+  "no": 86,
+  "title": "Global Health",
+  "blubrry": "71016155",
+  "date": "December 2, 2020",
+  "season": 5,
+  "img-tile": "erica-di-ruggiero.jpg",
+  "img-caption": "Dr. Ngozi Erondu, Senior Research Fellow at the Chatham House Centre for Global Health Security, and Senior Public Health Advisor at Public Health England",
+  "img-page": "ngozi-erondu.jpg",
+  "notes": "As we have learned through the COVID-19 pandemic, the health of communities around the world is connected through shared technologies, institutions, and values. In this episode, we explore these connections outside the context of a pandemic. We learn how issues in global health are prioritized, funded, and measured; about the roots of global health in imperialism, and what it means to decolonize global health; and about the importance of highlighting local expertise and youth perspectives to strive for equity and improve health outcomes. We spoke with several leaders in global health, including: Dr. Erica Di Ruggerio, Director of the Centre for Global Health and the Collaborative Specialization in Global Health at the Dalla Lana School of Public Health; Dr. Ngozi Erondu a Senior Research Fellow at the Chatham House Centre for Global Health Security and a Senior Public Health Advisor at Public Health England; Jason Nickerson, Humanitarian Affairs Advisor with Medecins Sans Frontieres (MSF), and Colleen Dockerty, Registered Nurse and gender-based violence consultant, also with MSF; and Habon Ali, a Somali-Canadian community builder, who leads initiatives to improve health equity and remove systemic barriers to engaging youth in global health.",
+  "authors": [
+   "Stephanie Nishi"
+  ],
+  "prod-team": {
+   "cc": [
+    "Stephanie Nishi"
+   ],
+   "sh": [
+    "Noor Al Kaabi",
+    "Frank Telfer",
+    "Nathan Chan"
+   ],
+   "ep": [
+    "Jesse Knight"
+   ],
+   "ae": [
+    "Richie Jermaine",
+    "Alex Jacob"
+   ],
+   "pv": [
+    "Janine Truong"
+   ],
+   "sm": [
+    "Alison Wong"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "Dr. Erica Di Ruggiero - website",
+    "href": "https://www.dlsph.utoronto.ca/institutes/centre-for-global-health/faculty-2/global-health-faculty/"
+   },
+   {
+    "title": "Dr. Ngozi Erondu - website",
+    "href": "https://www.ngozierondu.com/about"
+   },
+   {
+    "title": "Dr. Jason Nickerson - website",
+    "href": "www.jasonnickerson.ca"
+   },
+   {
+    "title": "Apathy is Boring (Habon Ali) - website",
+    "href": "www.apathyisboring.com"
+   },
+   {
+    "title": "Doctors Without Borders/Medecins Sans Frontieres (MSF) - website",
+    "href": "https://www.msf.org/"
+   }
+  ]
+ },
+ {
   "no": 85,
   "title": "The Disability Discourse",
   "blubrry": "70445616",
