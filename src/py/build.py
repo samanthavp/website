@@ -27,6 +27,7 @@ X = dict(
 
 utils.log('saving',1)
 
+utils.search_save('episodes',X['episodes'])
 for episode in X['episodes']:
   episode.update(
     template    = 'episode',
@@ -53,5 +54,3 @@ latest = dict(
   to       = '/episode/'+str(X['episodes'][0]['no']),
 )
 utils.page_save(E,T,latest)
-
-utils.search_save('episodes',X['episodes'])
