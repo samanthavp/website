@@ -37,15 +37,21 @@ for episode in X['episodes']:
   utils.page_save(E,T,episode,**X)
 for event in X['events']:
   event.update(
-    template    = 'event-'+event['template'],
-    href        = 'event/'+event['slug'],
+    template = 'event-'+event['template'],
+    href     = 'event/'+event['slug'],
   )
   utils.page_save(E,T,event,**X)
 for page in C['pages']:
   page.update(
-    template    = page['slug'],
-    href        = page['slug'],
+    template = page['slug'],
+    href     = page['slug'],
   )
   utils.page_save(E,T,page,**X)
+latest = dict(
+  template = 'redirect',
+  href     = 'latest/index',
+  to       = '/episode/'+str(X['episodes'][0]['no']),
+)
+utils.page_save(E,T,latest)
 
 utils.search_save('episodes',X['episodes'])
