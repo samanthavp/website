@@ -328,7 +328,6 @@ table tr:nth-child(1) {
   visibility: hidden;
 }
 .announce-container {
-  display: none;
   align-content: stretch;
   background: var(--c-blue-mid);
   padding: 10px;

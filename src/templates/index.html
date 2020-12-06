@@ -1,4 +1,17 @@
 {% extends "page.html" %}
+{% block announcement %}
+<div class="announce-container">
+  <div class="img-link">
+    <a href="{{announce.href}}">
+      <div class="announce-title">
+        {{announce.title}}
+      </div>
+      <div class="date">{{announce.date}}</div>
+      <div class="img-link-hover"></div>
+    </a>
+  </div>
+</div>
+{% endblock %}
 {% block body %}
 <div class="container-fluid">
   <div class="row justify-content-center">
