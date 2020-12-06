@@ -343,9 +343,6 @@ table tr:nth-child(1) {
   height: 180px;
   margin: 0 -15px;
 }
-.amazon-container {
-  margin: 15px;
-}
 @media (min-width:576px){
   .logo-banner-container {
     height: 250px;
@@ -382,9 +379,6 @@ table tr:nth-child(1) {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* about */
-#about .amazon-footer {
-  display: none;
-}
 .big-photo {
   padding: 5px;
   width: 100%;
