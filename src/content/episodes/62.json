@@ -4,13 +4,13 @@
   "blubrry": "47378035",
   "date": "July 31, 2019",
   "season": 3,
-  "img-tile": "med-ai-chairs.jpg",
-  "img-caption": "Panel 1: (left to right) Dr. Joanna Yu, Dr. Jason Lerch, Dr. Marzyeh Ghassemi, Dr. Oren Kraus, and Dr. Shreejoy Tripathy",
-  "img-page": "med-ai-panel-1.jpg",
-  "href-old": "2019/07/31/62-artificial-intelligence-in-medicine-where-are-we-now/index.html",
+  "img_tile": "med-ai-chairs.jpg",
+  "img_caption": "Panel 1: (left to right) Dr. Joanna Yu, Dr. Jason Lerch, Dr. Marzyeh Ghassemi, Dr. Oren Kraus, and Dr. Shreejoy Tripathy",
+  "img_page": "med-ai-panel-1.jpg",
+  "href_old": "2019/07/31/62-artificial-intelligence-in-medicine-where-are-we-now/index.html",
   "notes": "Raw Talk recently hosted their second annual live event, entitled Medicine Meets Machine: The Emerging Role of Artificial Intelligence (AI) in Healthcare. Today's episode with Grace and Stephania shares the discussion from our first panel of experts focusing on current applications and limitations of AI in medicine. Our speakers share perspectives from healthcare, academia, industry, and policy development. You'll hear from Dr. Oren Kraus, Dr. Jason Lerch, Dr. Marzyeh Ghassemi and Dr. Joanna Yu, as well as moderator Dr. Shreejoy Tripathy about the realities of AI and the challenges involved, as well as the implications of AI for their own work.",
   "authors": ["Grace Jacobs"],
-  "prod-team": [],
+  "prod_team": [],
   "tags": [],
   "links": []
 }

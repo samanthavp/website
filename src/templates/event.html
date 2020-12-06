@@ -1,0 +1,39 @@
+{% extends "page.html" %}
+{% block body %}
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 center">
+      <img src="/img/events/{{this.slug}}/{{this.img}}" width=100%/>
+    </div>
+    <div class="section col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 center">
+      <p>
+        {{this.descr}}
+      </p>
+      <p>
+        Check out highlights from this event in Episodes:
+        {% for episode in this.episodes %}
+        <a href="/episode/{{episode}}">{{episode}}</a>
+        {% endfor %}
+      </p>
+    </div>
+    {% block content %}
+    {% endblock %}
+    <div class="section col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 center">
+      <h4>Event Team</h4>
+      <p>{{listfun(this.team)}}</p>
+    </div>
+    <div class="section col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 center">
+      <h4>Proudly supported by</h4>
+      <div class="row no-gutters justify-content-center live-sponsors-container">
+        {% for sponsor in this.sponsors %}
+        <div class="col-auto align-self-center">
+          <a href="{{sponsor.href}}" target="_blank">
+            <img class="live-sponsor-img" src="/img/sponsors/{{sponsor.img}}" width="{{sponsor.width}}" height="{{sponsor.height}}"/>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,10 +1,10 @@
 {
   "name": "Esther Silk",
   "title": "Audio Engineer & Show Host",
-  "team-name": "Audio Engineering",
-  "img-tq": "esther-silk-tq.jpg",
-  "img-rt": "esther-silk-rt.jpg",
+  "team_name": "Audio Engineering",
+  "img_tq": "esther-silk-tq.jpg",
+  "img_rt": "esther-silk-rt.jpg",
   "bio": "Hey Raw Talk listeners, I'm Esther, one of the audio engineer team members! This is my second season with Raw Talk and I'm so excited to continue to make the magic behind this podcast happen! At U of T, I'm a master's student at the Institute of Medical Science where I'm studying deep brain stimulation as a novel therapy for treatment resistant depression. When I'm not at my lab or mixing sounds for the podcast I love to travel, cook and watch movies. Happy listening!",
-  "bio-link": null,
+  "link": null,
   "no": 6.3
 }

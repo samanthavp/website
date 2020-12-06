@@ -127,8 +127,8 @@ table.center {
   border: 5px solid var(--c-hover);
   border-top: 5px solid var(--c-blue-light);
   border-radius: 50%;
-  min-width: 50px;
-  min-height: 50px;
+  width: 50px;
+  height: 50px;
   animation: spin 1s linear infinite;
   margin: 50px auto;
 }
@@ -285,8 +285,8 @@ table tr:nth-child(1) {
 }
 .body {
   flex: 1 0 auto;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 .footer {
   position: relative;
@@ -321,32 +321,20 @@ table tr:nth-child(1) {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* home */
-#home {
-  --c-background: var(--c-blue-dark);
-  --c-text:       var(--c-white);
+#index {
+  --c-text: var(--c-white);
 }
-#home h1 {
+#index h1 {
   visibility: hidden;
-}
-#home .amazon-footer {
-  display: none;
 }
 .announce-container {
   display: none;
   align-content: stretch;
-  background: var(--c-blue-mid)
-}
-#home .announce-container {
-  display: block;
-}
-.tile-announce {
-  text-align: center;
-  padding: 5px;
-  margin: 0;
-}
-.announce-inner {
-  padding: 5px;
+  background: var(--c-blue-mid);
+  padding: 10px;
   width: 100%;
+  text-align: center;
+  position: relative;
 }
 .announce-title {
   color: var(--c-white);
@@ -394,9 +382,6 @@ table tr:nth-child(1) {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* about */
-#about .body {
-  margin: 30px auto;
-}
 #about .amazon-footer {
   display: none;
 }
@@ -439,11 +424,11 @@ table tr:nth-child(1) {
   text-align: left;
 }
 .modal-body {
-  padding: 15px 0px;
+  padding: 15px 0;
 }
-.close {
+.modal-body .close {
   position: absolute;
-  margin: 10px;
+  margin-right: 15px;
   right: 0;
   top: 0;
   z-index: 99;
@@ -544,9 +529,6 @@ p.date{
   width: 40px;
   margin: 5px;
 }
-.display-None {
-  display: none;
-}
 /* ---------------------------------------------------------------------------------------------- */
 /* events */
 .tile-event {
@@ -559,7 +541,7 @@ img.img-panelist {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* contact */
-#contact .body {
+.contact-body {
   padding-top: 50px;
   padding-bottom: 50px;
 }

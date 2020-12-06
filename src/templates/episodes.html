@@ -1,9 +1,29 @@
-<div class="container body load-content hidden">
+{% extends "page.html" %}
+{% block body %}
+<div class="container load-content hidden">
   <div class="row">
-    {{tile-episode}}
+    {% for episode in episodes %}
+    {% if loop.changed(episode.season) %}
+    <div class="col-12 section-header">
+      Season {{episode.season}}
+    </div>
+    {% endif %}
+    <div id="{{episode.no}}" class="tile-episode img-link col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+      <a href="episode/{{episode.no}}">
+        <div class="tile-episode-header">
+          <div>{{episode.title}}</div>
+        </div>
+        <img class="episode-img-tile" src="/img/episodes/{{episode.no}}/{{episode.img_tile}}"/>
+        <div class="img-link-hover">
+          <img class="img-link-hover-content" src="/img/icons/play.svg"/>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
     <div id="no-search-results" class="col-12 hidden">
       Sorry, no search results.
     </div>
   </div>
 </div>
 <div class="loader"></div>
+{% endblock %}

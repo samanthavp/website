@@ -1,10 +1,10 @@
 {
   "name": "Anukrati Nigam",
   "title": "Audio Engineer",
-  "team-name": "Audio Engineering",
-  "img-tq": "anukrati-nigam-tq.jpg",
-  "img-rt": "anukrati-nigam-rt.jpg",
+  "team_name": "Audio Engineering",
+  "img_tq": "anukrati-nigam-tq.jpg",
+  "img_rt": "anukrati-nigam-rt.jpg",
   "bio": "Hello, everyone! I'm Anukrati, a Ph.D. student and my research project involves the integration of multi-modal data in neurological diseases. As an engineer by heart and a scientist by profession, I joined the Raw Talk Podcast team as an Audio Engineer for Season 5. Outside academia, I love going to music concerts, doing art and yarn-based crafts, playing musical instruments, going on walks, and travelling. I hope you enjoy listening to the Raw Talk Podcast as much as we love putting it together for you!",
-  "bio-link": "Coming soon!",
+  "link": "Coming soon!",
   "no": 6.4
 }

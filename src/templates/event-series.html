@@ -1,0 +1,21 @@
+{% extends "event.html" %}
+{% block content %}
+<div class="section col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 center">
+  <h3>Series Links</h3>
+  <div class="row">
+    {% for episode in this.series %}
+    <div class="tile-episode img-link col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+      <a href="{{episode.href}}" target="_blank">
+        <div class="tile-episode-header">
+          <div>#{{episode.no}} {{episode.title}}</div>
+        </div>
+        <img class="episode-img-tile" src="/img/events/{{this.slug}}/episode-{{episode.no}}.png"/>
+        <div class="img-link-hover">
+          <img class="img-link-hover-content" src="/img/icons/play.svg"/>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

@@ -4,13 +4,13 @@
   "blubrry": "25034779",
   "date": "July 14, 2017",
   "season": 1,
-  "img-tile": "elizabeth-pang-headshot.jpg",
-  "img-caption": "Dr. Elizabeth Pang, Neurophysiologist and Senior Associate Scientist at SickKids",
-  "img-page": "elizabeth-pang-with-alex.jpg",
-  "href-old": "2017/07/14/episode-19-dr-elizabeth-pang/index.html",
+  "img_tile": "elizabeth-pang-headshot.jpg",
+  "img_caption": "Dr. Elizabeth Pang, Neurophysiologist and Senior Associate Scientist at SickKids",
+  "img_page": "elizabeth-pang-with-alex.jpg",
+  "href_old": "2017/07/14/episode-19-dr-elizabeth-pang/index.html",
   "notes": "With July finally here, we embrace the warm weather and our new theme for the month, \"Our PIs\", featuring some of our own supervisors on the podcast. For this episode, we sit down with Dr. Elizabeth Pang, a Neurophysiologist and Senior Associate Scientist at SickKids. Dr. Pang is a specialist in MEG, a relatively new functional neuroimaging technique, which can record brain activity in real-time. Dr. Pang muses on her research in various developmental populations, and the unique abilities of MEG in enlightening our understanding of brain function. Peppered into the conversation, we have our exhilarating new segment \"Meet the Inventor\", where we have the honour of talking to Dr. David Cohen, the inventor of MEG. Dr. Cohen takes us back to the late 1960's and early 70's where he stood at the forefront of the field of biomagnetism, bridging the gap between physics and human biological research. Don't miss out on this stellar episode; until next time, keep it raw!",
   "authors": ["Alexandra Mogadam"],
-  "prod-team": [],
+  "prod_team": [],
   "tags": [],
   "links": []
 }

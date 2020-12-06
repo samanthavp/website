@@ -1,7 +1,21 @@
+{% extends "event.html" %}
+{% block content %}
+{% for panel in this.panels %}
 <div class="section col-12 col-sm-12 col-md-12 col-lg-10 col-xl-8 center">
-  <h3>{{panel-title}}</h3>
+  <h3>{{panel.title}}</h3>
   <div class="row">
-    {{panelists}}
+    {% for panelist in panel.panelists %}
+    <div class="tile-panelist col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+      <img class="img-panelist" src="/img/events/{{this.slug}}/{{slugfun(panelist.name)}}.png"/>
+      <h4>{{panelist.name}}</h4>
+      <p>{{panelist.title}}</p>
+    </div>
+    {% endfor %}
   </div>
-  <p>{{panel-descr}}</p>
+  <p></p>
+  <p>
+    {{panel.descr}}
+  </p>
 </div>
+{% endfor %}
+{% endblock %}

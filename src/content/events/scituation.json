@@ -1,0 +1,83 @@
+{
+  "title": "It's not You, It's the SCItuation",
+  "slug": "scituation",
+  "no": 2018,
+  "description": "Raw Talk Live 2018: It's not you, it's the SCItuation - Better engagement, better science",
+  "img_meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
+  "img": "banner.jpg",
+  "episodes": [44,45],
+  "team": [
+    "Alexandra Mogadam (Co-Chair)",
+    "Jabir Mohamed (Co-Chair)",
+    "Ekaterina An",
+    "Melissa Galati",
+    "Eryn Tong",
+    "Anton Rogachov"
+  ],
+  "descr": "There exists a divide between the world of science and the public sphere. An abundance of research is conducted within our niche scientific communities, and oftentimes, this is where the generated knowledge remains; the trickling down of new insights is, at best, stunted. At It’s Not You It’s the Scituation, we discussed key ways in which this gap can be bridged. We explored how public science engagement and new methods of science communication can foster empowerment of citizens, multidisciplinary collaborations, and generally draw more awareness to the important role of science and scientists in our society.",
+  "panels": [
+    {
+      "title": "Panel 1: Public Engagement in Science",
+      "descr": "Public engagement in the scientific process is becoming increasingly popular, and in some instances a requirement in the discovery process. This panel explored the role of science and scientists in our society. Specifically, we discussed the state of public science literacy in Canada, and why scientists should be invested in the public's appreciation of scientific discovery.",
+      "panelists": [
+        { "name": "Dan Weaver",
+          "title": "PhD Candidate, University of Toronto"
+        },
+        { "name": "Connie Putterman",
+          "title": "Advocate & MSc Candidate, University of Toronto"
+        },
+        { "name": "Doina Oncel",
+          "title": "Founder & CEO, hEr VOLUTION"
+        },
+        { "name": "Mehrdad Hariri",
+          "title": "Founder & CEO, Canadian Science Policy Centre"
+        }
+      ]
+    },
+    {
+      "title": "Panel 2: New Methods of Science Communication",
+      "descr": "The use of new media in communicating and conveying scientific innovation and discovery to the (lay) public and within the scientific community has gained prominence. With a particular focus on social media, podcasts, graphic design, and innovative technologies, the goal of this panel was to provide attendees with insights into why these forms of science communication are important, but also practical examples of what has worked, what has not, and importantly, what the future will look like.",
+      "panelists": [
+        { "name": "Vicky Forster",
+          "title": "Postdoc & Science Communicator, SickKids Hospital"
+        },
+        { "name": "Kevin Millar",
+          "title": "Senior VP, Creative & Medical Science, INVIVO Communications"
+        },
+        { "name": "Elah Feder",
+          "title": "Co-Host & Producer, Undiscovered Podcast"
+        },
+        { "name": "Helen Kontozopoulos",
+          "title": "Co-Founder & Co-Director, Department of Computer Science Innovation Lab"
+        }
+      ]
+    }
+  ],
+  "sponsors": [
+    { "title": "School of Graduate Studies",
+      "href": "https://www.sgs.utoronto.ca/",
+      "img": "ut-sgs.png", "width": "300px"
+    },
+    { "title": "Institute of Medical Science",
+      "href": "https://ims.utoronto.ca/",
+      "img": "ut-ims.png", "width": "300px"
+    },
+    { "title": "Graduate Student's Union",
+      "href": "https://utgsu.ca/",
+      "img": "ut-gsu.png", "width": "200px"
+    },
+    { "title": "Gairdner Foundation",
+      "href": "https://gairdner.org/",
+      "img": "gairdner.png", "width": "160px"
+    },
+    { "title": "INVIVO Communications",
+      "href": "https://invivo.com/",
+      "img": "invivo.png", "width": "200px"
+    },
+    { "title": "JLABS @ Toronto",
+      "href": "https://jlabs.jnjinnovation.com/",
+      "img": "jlabs.png", "width": "250px"
+    }
+  ],
+  "template": "panel"
+}

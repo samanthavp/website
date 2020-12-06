@@ -1,10 +1,10 @@
 {
   "name": "Janine Truong",
   "title": "Graphic Designer",
-  "team-name": "Promotions & Social Media",
-  "img-tq": "janine-truong-tq.jpg",
-  "img-rt": "janine-truong-rt.jpg",
+  "team_name": "Promotions & Social Media",
+  "img_tq": "janine-truong-tq.jpg",
+  "img_rt": "janine-truong-rt.jpg",
   "bio": "Hey listeners! I'm Janine, a MSc student in the Department of Molecular Genetics, and Raw Talk's graphic designer! I'm super excited to be part of the Raw Talk team and to support our upcoming episodes with fun illustrations! My research is interested in understanding how mRNA is regulated during early embryogenesis. When I'm not at the lab, you can catch me cycling, playing the piano, and, of course, drawing!",
-  "bio-link": "https://www.instagram.com/j9truong",
+  "link": "https://www.instagram.com/j9truong",
   "no": 4.4
 }

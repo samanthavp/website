@@ -1,31 +1,57 @@
-<!-- TODO: replace this with JS -->
-<div class="container body">
+{% extends "page.html" %}
+{% block pagetitle %}
+<div class="container-fluid">
+  <div class="row justify-content-between no-gutters">
+    <div class="link-arrow align-left col-2 col-md-1 order-md-1">
+      {% if this.no < episodes|length %}
+      <a href=/episode/{{this.no+1}}>
+        <img class="icon-arrow" src="/img/icons/arrow-left.svg"/>
+      </a>
+      {% endif %}
+    </div>
+    <div class="link-arrow align-right col-2 col-md-1 order-md-3">
+      {% if this.no > 1 %}
+      <a href=/episode/{{this.no-1}}>
+        <img class="icon-arrow" src="/img/icons/arrow-right.svg"/>
+      </a>
+      {% endif %}
+    </div>
+    <div class="center col-12 col-md-10 order-md-2">
+      <h1>{{this.title}}</h1>
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block body %}
+<div class="container">
   <div class="row justify-content-end">
     <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-      <img class="episode-img-page" src="{{root}}/img/episodes/{{no}}/{{img-page}}"></img> 
-      <p class="img-caption">{{img-caption}}</p>
+      <img class="episode-img-page" src="/img/episodes/{{this.no}}/{{this.img_page}}"></img> 
+      <p class="img-caption">{{this.img_caption}}</p>
     </div>
     <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-8 col-xl-8">
       <div class="player-container">
         <iframe id="player"
-        src="https://player.blubrry.com/id/{{blubrry}}/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
+        src="https://player.blubrry.com/id/{{this.blubrry}}/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
         scrolling="no" width="100%" frameborder="0"></iframe>
         <div class="player-fix"></div>
       </div>
       <p class="date">
-        {{date}}
+        {{this.date}}
       </p>
       <p class="notes">
-        {{notes}}
+        {{this.notes}}
       </p>
       <p class="notes">
-        <i>Written by: {{authors}}</i>
+        <i>Written by: {{' and '.join(this.authors)}}</i>
       </p>
       <!--<p class="notes">
-        <i>Production Team: {{prod-team}}</i>
+        <i>Production Team: {{this.prod_team}}</i>
       </p>-->
       <p class="notes">
-        {{links}}
+        {% for link in this.links %}
+        <a href={{link.href}}>{{link.title}}</a><br>
+        {% endfor %}
       </p>
     </div>
     <div class="episode-col col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
@@ -33,8 +59,15 @@
         Transcripts
       </button>
       <div id="transcripts" class="collapse transcripts-container">
-        {{transcripts}}
+        {% for clip in this.transcripts %}
+        <p class="notes">
+          <span class="transcript speaker">{{clip.speaker}}</span>
+          <span class="transcript timestamp">[{{clip.time}}]</span>
+          <span class="transcript text">{{clip.text}}</span>
+        </p>
+        {% endfor %}
       </div>
     </div>
   </div>
 </div>
+{% endblock %}

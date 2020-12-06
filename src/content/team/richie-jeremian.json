@@ -1,10 +1,10 @@
 {
   "name": "Richie Jeremian",
   "title": "Advisor & Co-Founder",
-  "team-name": "Advisors",
-  "img-tq": "richie-jermain-tq.jpg",
-  "img-rt": "richie-jermain-rt.jpg",
+  "team_name": "Advisors",
+  "img_tq": "richie-jermain-tq.jpg",
+  "img_rt": "richie-jermain-rt.jpg",
   "bio": "Hello listeners! I'm Richie - a U of T lifer and IMS PhD and Postdoctoral alumnus. I spent much of the past decade investigating the role of epigenomics in complex disorders and aging, and have had the immense privilege of being with Raw Talk since the very beginning. I'm incredibly excited to see the show come into its own with the debut of the 5th season (from our very humble beginnings of recording interviews using microphones that we clipped onto our pens), and look forward to working alongside our wonderful teammates to bring you a fantastic show! When in doubt, #KIR!",
-  "bio-link": null,
+  "link": null,
   "no": 9.1
 }

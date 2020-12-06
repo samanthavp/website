@@ -1,6 +1,54 @@
-<div class="container body load-content hidden">
+{% extends "page.html" %}
+{% block body %}
+<div class="container load-content hidden">
   <div class="row">
-    {{tile-profile}}
+    {% for profile in team %}
+    {% if loop.changed(profile.team_name) %}
+    <div class="col-12 section-header">
+      {{profile.team_name}}
+    </div>
+    {% endif %}
+    <div class="tile-profile img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+      <button data-toggle="modal" data-target="#{{slugfun(profile.name)}}">
+        <img class="profile-img-tile" src="/img/team/{{profile.img_tq}}"/>
+        <div class="tile-profile-header">
+          {{profile.name}}<br>
+        </div>
+        <div class="img-link-hover">
+          <span class="img-link-hover-content">{{profile.title}}</span>
+        </div>
+      </button>
+    </div>
+    <div class="modal" id="{{slugfun(profile.name)}}" role="dialog">
+      <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+                  <img class="profile-img-main" src="/img/team/{{profile.img_rt}}"/>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                  <h4>{{profile.name}}</h4>
+                  <h4><i>{{profile.title}}</i></h4>
+                  <div class="profile-bio">
+                    <p>{{profile.bio}}</p>
+                    {% if profile.link %}
+                    <p><a href="{{profile.link}}">[link]</a></p>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
   </div>
 </div>
 <div class="loader"></div>
+{% endblock %}

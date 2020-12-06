@@ -1,10 +1,90 @@
-<html lang="en">
+<html>
 <head>
-  {{head}}
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16264e">
+  <meta property="og:url" content="http://www.rawtalkpodcast.com/{{this.href}}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{this.title}}">
+  <meta property="og:description" content="{{this.description}}">
+  <meta property="og:image" content="{{this.img}}">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="342">
+  <link rel="stylesheet" href="/css/bootstrap.min.css"/>
+  <script src="/js/jquery-3.4.1.min.js"></script>
+  <script src="/js/bootstrap-4.3.1.min.js"></script>
+  <script src="/js/fuse-3.4.5.min.js"></script>
+  <script src="/js/rawtalkpodcast.js"></script>
+  <script src="https://www.googletagmanager.com/gtag/js?id=UA-148969430-1" async></script>
+  <script src="/js/google-analytics.js"></script>
+  <link type="text/css" rel="stylesheet" href="/css/rawtalkpodcast.css"/>
+  <link rel="icon" href="/img/icons/favicon.ico">
+  <title>{{this.title}} | Raw Talk Podcast</title>
 </head>
-<body id={{title}} class="dark">
-  {{header}}
-  {{body}}
-  {{footer}}
+<body id="{{this.slug}}" class="dark">
+  {% block announcement %}
+  {% endblock %}
+  <div class="header">
+    <div class="header-img-container">
+      <div class="header-img"></div>
+    </div>
+    <div class="container">
+      <nav id="nav" class="navbar navbar-expand-lg">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+          <div class="navbar-toggler-bar"></div>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbar">
+          <ul id="nav-list" class="navbar-nav">
+            {% for navitem in navitems %}
+            <li class="nav-item">
+              <a class="nav-link" href="/{{navitem.slug}}"><h3>{{navitem.title}}</h3></a>
+            </li>
+            {% endfor %}
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+                <h3><img class="search-icon" src="/img/icons/search.svg"/></h3>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <form class="collapse searchbar" id="searchbar" method="GET" action="/episodes">
+        <input class="search" type="text" name="q" placeholder="Search">
+      </form>
+    </div>
+    {% block pagetitle %}
+    <div class="container-fluid">
+      <div class="row justify-content-between no-gutters">
+        <div class="center col-12 col-md-12">
+          <h1>{{this.title}}</h1>
+        </div>
+      </div>
+    </div>
+    {% endblock %}
+  </div>
+  <div class="body">
+    {% block body %}
+    {% endblock %}
+  </div>
+  <div class="footer center container-fluid">
+    <div class="row justify-content-center align-items-end">
+      <div class="footer-container amazon-footer col-12 col-lg-4 order-lg-2 col-xl-6">
+        {{amazon_iframe}}
+      </div>
+      <div class="footer-container col-12 col-md-auto mr-md-auto col-lg-4 order-lg-1 col-xl-3">
+        <a href="https://ims.utoronto.ca" target="_blank">
+          <img class="sponsor-img lg-left" src="/img/sponsors/ut-ims.png"><br>
+        </a>
+      </div>
+      <div class="footer-container col-12 col-md-auto ml-md-auto col-lg-4 order-lg-3 col-xl-3">
+        <a href="https://www.ciut.fm" target="_blank">
+          <img class="sponsor-img lg-right" src="/img/sponsors/cuit-fm.png">
+        </a>
+      </div>
+    </div>
+  </div>
 </body>
 </html>

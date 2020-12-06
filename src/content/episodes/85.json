@@ -4,12 +4,12 @@
   "blubrry": "70445616",
   "date": "November 18, 2020",
   "season": 5,
-  "img-tile": "jeff-preston.jpg",
-  "img-caption": "Alex Haagaard, an artist, designer, activist and the Director of Research & Development at the Disabled List",
-  "img-page": "alex-haagaard.jpg",
+  "img_tile": "jeff-preston.jpg",
+  "img_caption": "Alex Haagaard, an artist, designer, activist and the Director of Research & Development at the Disabled List",
+  "img_page": "alex-haagaard.jpg",
   "notes": "There are things in life that people take for granted every day. For many of us, that is the privilege of moving about in a world that was designed for our bodies and our physical abilities. Imagine not being able to get to a meeting on time because the nearest subway isn’t accessible. Imagine not getting any matches on a dating profile because 2 years ago you got into a car accident and now you get from place to place in a wheelchair. Imagine what it feels like to have your body be looked at as a problem to be solved. In this episode, we are trying to address ableism by talking to people with lived experience about what having a disability means to them while living in our society and culture today. We talk to disability advocates about the important work they are doing to help challenge how we define disability. Is disability a design problem that we can solve? We also touch on topics that many of us think about on a daily basis: sex, dating. We hope that this episode will help you reflect on some biases you have about living with a disability and think about what you can do to make your world more accessible, because we all deserve the same opportunities in life regardless of our physical ability.",
   "authors": ["Claire Mazzia"],
-  "prod-team": {
+  "prod_team": {
     "cc": ["Claire Mazzia"],
     "sh": ["Seth Kibel","James Saravanamuttu", "Aditi Desai"],
     "ep": ["Yagnesh Ladumor"],

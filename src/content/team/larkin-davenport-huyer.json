@@ -1,10 +1,10 @@
 {
   "name": "Larkin Davenport Huyer",
   "title": "Content Creator",
-  "team-name": "Content Creators & Show Hosts",
-  "img-tq": "larkin-davenport-huyer-tq.jpg",
-  "img-rt": "larkin-davenport-huyer-rt.jpg",
+  "team_name": "Content Creators & Show Hosts",
+  "img_tq": "larkin-davenport-huyer-tq.jpg",
+  "img_rt": "larkin-davenport-huyer-rt.jpg",
   "bio": "Hi there, I'm Larkin! I completed a Masters of Public Health at Queen's in 2019 and am starting the accelerated Nursing Program at U of T this fall. I am really interested in the health system and how we can make it more efficient, ultimately, to make sure every patient and person accessing our health system gets the best care they can get! Aside from school, I love to be outside, eat delicious food, and run. This is my first year with the podcast and I am looking forward to taking a deep dive into new topics and sharing our work with you!",
-  "bio-link": null,
+  "link": null,
   "no": 2.04
 }

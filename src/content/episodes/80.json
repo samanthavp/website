@@ -4,12 +4,12 @@
   "blubrry": "67131303",
   "date": "September 9, 2020",
   "season": 5,
-  "img-tile": "covidecoded-lens.jpg",
-  "img-caption": "Alex Jacobs, our quadruple screen-weilding, double headphoned, one-man audio-visual department, hard at work streaming COVIDecoded #4, hosted by Nathan Chan.",
-  "img-page": "covidecoded-tech.jpg",
+  "img_tile": "covidecoded-lens.jpg",
+  "img_caption": "Alex Jacobs, our quadruple screen-weilding, double headphoned, one-man audio-visual department, hard at work streaming COVIDecoded #4, hosted by Nathan Chan.",
+  "img_page": "covidecoded-tech.jpg",
   "notes": "2020 has been a strange, unpredictable and challenging year, as the coronavirus has impacted our lives in countless ways. Here at Raw Talk, we found ourselves struggling to keep up with COVID-19 research and understand the impacts of the pandemic on our society. So, instead of our usual live event this year, we created COVIDecoded: a weekly YouTube live stream of discussions with experts on all things COVID, to help understand the emerging science and social shifts. In this episode, the hosts from the series came together (distanced and wearing masks, of course) to discuss what we learned from the series, key themes that emerged, and our personal reflections on living through the pandemic. We review the current state of testing in Canada, discuss the social determinants of COVID-19 risk and the importance of gathering race-based data, and reflect on the lessons we can learn going forward. We hope the episode, and the full discussions below, can help you make sense of the diverse and complex interactions between our world and the virus, or in other words, the \"New Normal\".",
   "authors": ["Claire Mazzia"],
-  "prod-team": {
+  "prod_team": {
     "cc": ["Claire Mazzia"],
     "sh": ["Ekaterina An","Yagnesh Ladumor","Jesse Knight","Eryn Tong","Nathan Chan","Thamiya Vasanthakumar","Grace Jacobs"],
     "ep": ["Jesse Knight","Yagnesh Ladumor","Ekaterina An"],

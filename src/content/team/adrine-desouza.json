@@ -1,10 +1,10 @@
 {
   "name": "Adrine de Souza",
   "title": "Content Creator",
-  "team-name": "Content Creators & Show Hosts",
-  "img-tq": "adrine-de-souza-tq.jpg",
-  "img-rt": "adrine-de-souza-rt.jpg",
+  "team_name": "Content Creators & Show Hosts",
+  "img_tq": "adrine-de-souza-tq.jpg",
+  "img_rt": "adrine-de-souza-rt.jpg",
   "bio": "Hey! I am Adrine, I am now a third-year Ph.D. in the Department of Molecular Genetics. I study the genetic variations of the VHL gene and its effect on cancers. I am also An international student from Brazil. As a scientist and technology enthusiast, I am alarmed that as a society we still fail to communicate and integrate research findings to our everyday lives. It was by consuming a lot of science outreach content, that I not only decided to pursue a career in research but also understood my values as a global citizen. Therefore I engaged in scientific communication. I created the podcast @42semanas that shared evidence-based obstetrics and medicine through real birth stories.You can also follow me for some PhD life adventures on my Instagram @lasciencewitch",
-  "bio-link": "https://www.linkedin.com/in/adrinesouza",
+  "link": "https://www.linkedin.com/in/adrinesouza",
   "no": 2.03
 }

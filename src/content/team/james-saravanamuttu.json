@@ -1,10 +1,10 @@
 {
   "name": "James Saravanamuttu",
   "title": "Show Host",
-  "team-name": "Content Creators & Show Hosts",
-  "img-tq": "james-saravanamuttu-tq.jpg",
-  "img-rt": "james-saravanamuttu-rt.jpg",
+  "team_name": "Content Creators & Show Hosts",
+  "img_tq": "james-saravanamuttu-tq.jpg",
+  "img_rt": "james-saravanamuttu-rt.jpg",
   "bio": "Hey listeners! Season 5 marks my fourth year with Raw Talk. In Dr. Robert Chen's Lab, I used a variety of tools to stimulate people's brains in order to study how the healthy human brain works, as well as to see what goes on in Parkinson's disease. Currently, I'm studying medicine at U of T. Outside of research and school, I love playing basketball!",
-  "bio-link": null,
+  "link": null,
   "no": 1.05
 }

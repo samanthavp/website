@@ -4,13 +4,13 @@
   "blubrry": "26963792",
   "date": "September 15, 2017",
   "season": 2,
-  "img-tile": "team-lounging.jpg",
-  "img-caption": "Raw Talk Season 2 Team",
-  "img-page": "team-standing.jpg",
-  "href-old": "2017/09/15/ep-22-season-2-premiere/index.html",
+  "img_tile": "team-lounging.jpg",
+  "img_caption": "Raw Talk Season 2 Team",
+  "img_page": "team-standing.jpg",
+  "href_old": "2017/09/15/ep-22-season-2-premiere/index.html",
   "notes": "Your favourite grad student science podcast is back for a second season! The crew welcomes its newest members, reflects on their journey in bringing the show to existence and the role social media has played in connecting with listeners. We also look ahead to what's in store for the upcoming season, including new topics, new segments and more stories from the biomedical research community at the University of Toronto. The episode concludes with previous guests sharing their feedback and words of wisdom. Until next time, keep it raw!",
   "authors": ["Richie Jeremian"],
-  "prod-team": [],
+  "prod_team": [],
   "tags": [],
   "links": []
 }

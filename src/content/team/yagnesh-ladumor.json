@@ -1,10 +1,10 @@
 {
   "name": "Yagnesh Ladumor",
   "title": "Executive Producer & Show Host",
-  "team-name": "Executive Producers",
-  "img-tq": "yagnesh-ladumor-tq.jpg",
-  "img-rt": "yagnesh-ladumor-rt.jpg",
+  "team_name": "Executive Producers",
+  "img_tq": "yagnesh-ladumor-tq.jpg",
+  "img_rt": "yagnesh-ladumor-rt.jpg",
   "bio": "Hi listeners! I'm a 5th year PhD student in the Department of Medical Biophysics and my research is focused on understanding the genetics of metastasis in Neuroblastoma and whether they can be targeted to make new drugs. I am incredibly excited to continue with Raw Talk as the new co-Executive Producer for Season 5 and I'm looking forward to sharing all the exciting episodes we have coming up! Outside of the lab, I enjoy biking around the city, cooking, keeping my plants alive, and playing video games. I'm also a huge soccer and Man Utd fan so you can always catch me playing pickup somewhere downtown on the weekends.",
-  "bio-link": null,
+  "link": null,
   "no": 0.1
 }

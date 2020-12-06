@@ -4,13 +4,13 @@
   "blubrry": "20802975",
   "date": "February 10, 2017",
   "season": 1,
-  "img-tile": "logo-right-shadow.jpg",
-  "img-caption": "",
-  "img-page": "grad-life.jpg",
-  "href-old": "2017/02/10/episode-9-grad-students-answer/index.html",
+  "img_tile": "logo-right-shadow.jpg",
+  "img_caption": "",
+  "img_page": "grad-life.jpg",
+  "href_old": "2017/02/10/episode-9-grad-students-answer/index.html",
   "notes": "February is the month to highlight Student Voices. To kick off our theme, we take a break from talking to established researchers and scientists to sit down with some current graduate students at the University of Toronto. Tune in to hear from PhD students, Kasey, Marmendia, Katie, and Beatrice; MD/PhD candidates Swapna and Robert; and MSc candidate Fadl, on perseverance, battling self-doubt, the importance of a strong community, and asking the right questions in graduate school.",
   "authors": ["Ekaterina An"],
-  "prod-team": [],
+  "prod_team": [],
   "tags": [],
   "links": []
 }

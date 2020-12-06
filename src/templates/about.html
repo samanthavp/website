@@ -1,4 +1,6 @@
-<div class="container body">
+{% extends "page.html" %}
+{% block body %}
+<div class="container">
   <div class="row justify-content-center">
     <div class="section col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 center">
       <p>
@@ -14,7 +16,12 @@
       and to engage the public in medical science innovations and translational research.
       </p>
     </div>
-    {{team-photo}}
+    <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
+      <div class="row">
+        <img class="big-photo" src="/img/team/team-5.jpg">
+        </img>
+      </div>
+    </div>
     <div class="section col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 center">
       <h3>Code of Conduct</h3>
       <p>
@@ -39,7 +46,19 @@
       <h3>New Listener?</h3>
       <p>Check out some of our favourite episodes</p>
       <div class="row">
-        {{tile-highlight}}
+        {% for episode in episodes if episode.no in [77,73,69] %}
+        <div id="{{episode.no}}" class="tile-highlight img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+          <a href="episode/{{episode.no}}">
+            <div class="tile-episode-header">
+              {{episode.title}}
+            </div>
+            <img class="episode-img-tile" src="/img/episodes/{{episode.no}}/{{episode.img_tile}}"/>
+            <div class="img-link-hover">
+              <img class="img-link-hover-content" src="/img/icons/play.svg"/>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
       </div>
     </div>
     <div id="amazon" class="section col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 center">
@@ -50,7 +69,7 @@
         </a>
       </p>
       <div class="amazon-container">
-        {{amazon-iframe}}
+        {{ amazon_iframe }}
       </div>
       <p>
         <span class="no-wrap">Raw Talk Podcast</span>
@@ -65,3 +84,4 @@
     </div>
   </div>
 </div>
+{% endblock %}

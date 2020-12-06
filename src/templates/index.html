@@ -1,0 +1,68 @@
+{% extends "page.html" %}
+{% block body %}
+<div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <div class="logo-banner-container">
+        <div class="logo-banner"></div>
+      </div>
+      <div class="tagline">
+        <span class="no-wrap">Behind every discovery,</span>
+        <span class="no-wrap">there's a story.</span>
+        <div class="social-container center">
+          {% for social in socials %}
+          <div class="icon-container">
+            <a href="{{social.href}}" target="_blank">
+              <img class="icon-social" src="/img/icons/{{social.img}}"/><br>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class="col-12">
+      <div class="section center">
+        <h3>
+          <span class="no-wrap">New episodes</span>
+          <span class="no-wrap">every other Wednesday</span>
+        </h3>
+        {% for player in players %}
+        <div class="icon-container">
+          <a href="{{player.href}}" target="_blank">
+            <img class="icon-listen" src="/img/icons/{{player.img}}"/><br>
+            {{player.title}}
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="section center">
+        <h3>
+          Want to keep in touch?
+        </h3>
+        <a class="btn" style="margin-top: 5px;" target="_blank"
+          href="https://gmail.us20.list-manage.com/subscribe?u=6dee909742a5b1b71d78e6f6d&id=218f145f54">
+          <h4>Join our mailing list!</h4>
+        </a>
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="section center">
+        <h3>
+          <span class="no-wrap">Shop on Amazon</span>
+          <span class="no-wrap">
+            with our <a href="https://www.amazon.ca/?tag=rawtalpod-20&camp=1&creative=319833">
+              Affiliate link
+            </a>!
+          </span>
+        </h3>
+        <div class="amazon-container">
+          {{amazon_iframe}}
+        </div>
+        <span class="no-wrap"><a href="/about#amazon">Learn more</a></span>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

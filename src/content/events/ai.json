@@ -1,0 +1,92 @@
+{
+  "title": "Medicine Meets Machine",
+  "slug": "ai",
+  "no": 2019,
+  "description": "Raw Talk Live 2019: The emerging role of artificial intelligence in healthcare",
+  "img_meta": "http://www.rawtalkpodcast.com/img/brand/logo.png",
+  "img": "banner.png",
+  "episodes": [62,63],
+  "team": [
+    "Grace Jacobs (Co-Chair)",
+    "Melissa Galati (Co-Chair)",
+    "Thamiya Vasanthakumar",
+    "Robel Alemu",
+    "Nazanin Ijad",
+    "Stephania Assimopoulos",
+    "Marija Zivcevska",
+    "Swapna Mylabathula"
+  ],
+  "descr": " Artificial intelligence (AI) is increasingly being used in medicine. This has led to the development of cutting-edge treatments and diagnostic tools. However, a lack of understanding of AI often results in either misplaced distrust in its use, or disregard for potential limitations and ethical consequences. At Medicine Meets Machine, we unpacked this topic with two distinct panels on: 1) Current Applications & Limitations of AI in Medicine and 2) Ethical & Future Considerations of AI in Medicine. Our panelists shared diverse perspectives from healthcare, academia, industry, and policy development.",
+  "panels": [
+    {
+      "title": "Panel 1: Current Applications & Limitations of AI in Medicine",
+      "descr": "There is a lot of information out there about what Artificial Intelligence is and how it's being used in medicine. The focus of this panel was on current applications & limitations of AI in medicine, with the goal of clarifying the realities of where we are with AI development for attendees. Panelists were asked about how their field has changed with the introduction of AI, challenges they face related to using AI, how the role of doctors is affected, why there might be gaps in public knowledge about the realities of AI, and what the most important considerations should be when beginning to work in AI.",
+      "panelists": [
+        { "name": "Shreejoy Tripathy",
+          "title": "Independent Scientist, CAMH & Assistant Professor, Department of Psychiatry"
+        },
+        { "name": "Joanna Yu",
+          "title": "Senior Project Manager, BrainHealth Data Bank, CAMH"
+        },
+        { "name": "Jason Lerch",
+          "title": "Director of Preclinical Imaging, University of Oxford & Associate Professor, Medical Biophysics, University of Toronto"
+        },
+        { "name": "Marzyeh Ghassemi",
+          "title": "Assistant Professor, Department of Computer Science & Vector Institute Faculty Member"
+        },
+        { "name": "Oren Kraus",
+          "title": "Co-founder of Phenomic AI, JLABS & University of Toronto Alumni"
+        }
+      ]
+    },
+    {
+      "title": "Panel 2: The Future & Ethics of AI in Medicine",
+      "descr": "The use of Artificial Intelligence has expanded rapidly in medical research and clinical settings. With a focus on ethical considerations and data optimization, the goal of this panel was to provide attendees with a glimpse of the future of AI in medicine. Panelists were asked about how they expected AI to improve healthcare, address concerns regarding privacy, deidentification, job loss, and harm to patients resulting from AI, as well as speak about strategies needed to increase the benefits derived from AI.",
+      "panelists": [
+        { "name": "Allan Miranda",
+          "title": "Head of JLABS"
+        },
+        { "name": "Chris Hammill",
+          "title": "Analyst and statistical tool developer at Sickkids"
+        },
+        { "name": "Allison Paprica",
+          "title": "Vice-president of Health Strategy & Partnerships, Vector Institute"
+        },
+        { "name": "Sunit Das",
+          "title": "Neurosurgeon & Scientist, St. Michael's Hospital & Associate Professor, Department of Surgery"
+        }
+      ]
+    }
+  ],
+  "sponsors": [
+    { "title": "School of Graduate Studies",
+      "href": "https://www.sgs.utoronto.ca/",
+      "img": "ut-sgs.png", "width": "300px"
+    },
+    { "title": "Institute of Medical Science",
+      "href": "https://ims.utoronto.ca/",
+      "img": "ut-ims.png", "width": "300px"
+    },
+    { "title": "Graduate Student's Union",
+      "href": "https://utgsu.ca/",
+      "img": "ut-gsu.png", "width": "200px"
+    },
+    { "title": "Healh Innovation Hub",
+      "href": "https://h2i.utoronto.ca/",
+      "img": "hih.png", "width": "200px"
+    },
+    { "title": "Student initiative Fund",
+      "href": "https://studentlife.utoronto.ca/program/student-initiative-fund",
+      "img": "ut-sif.png", "width": "160px"
+    },
+    { "title": "Muse",
+      "href": "https://choosemuse.com/",
+      "img": "muse.png", "width": "200px"
+    },
+    { "title": "JLABS @ Toronto",
+      "href": "https://jlabs.jnjinnovation.com/",
+      "img": "jlabs.png", "width": "250px"
+    }
+  ],
+  "template": "panel"
+}

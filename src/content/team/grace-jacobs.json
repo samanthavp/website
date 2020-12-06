@@ -1,10 +1,10 @@
 {
   "name": "Grace Jacobs",
-  "title": "Advisor, Event Organizer, & Show Host",
-  "team-name": "Advisors",
-  "img-tq": "grace-jacobs-tq.jpg",
-  "img-rt": "grace-jacobs-rt.jpg",
+  "title": "Advisor",
+  "team_name": "Advisors",
+  "img_tq": "grace-jacobs-tq.jpg",
+  "img_rt": "grace-jacobs-rt.jpg",
   "bio": "Hi Listeners! I'm a 5th year PhD student in the Institute of Medical Science. I use structural and functional magnetic resonance imaging (MRI) to study brain circuitry and heterogeneity across children and adolescents experiencing mental illnesses. I've been a part of Raw Talk since season one, and enjoyed tremendously being an Executive Producer for the past two seasons. I can't wait for all the great stories and science we're going to share with you this year, and to work with such a fantastic team again!",
-  "bio-link": null,
+  "link": null,
   "no": 9.3
 }

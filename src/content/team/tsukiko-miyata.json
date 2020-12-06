@@ -1,10 +1,10 @@
 {
   "name": "Tsukiko Miyata",
   "title": "Content Creator & Show Host",
-  "team-name": "Content Creators & Show Hosts",
-  "img-tq": "tsukiko-miyata-tq.jpg",
-  "img-rt": "tsukiko-miyata-rt.jpg",
+  "team_name": "Content Creators & Show Hosts",
+  "img_tq": "tsukiko-miyata-tq.jpg",
+  "img_rt": "tsukiko-miyata-rt.jpg",
   "bio": "Hello everyone! I am a PhD candidate in the Department of Medical Biophysics at University of Toronto. With my project, I am trying to understand how the brain facilitates its memory function and emotion regulation. I am a new Content Creator and Host for the Season 5, and I cannot wait to share informative and thought-provoking stories in Scinences with you all! When I am not wearing my scientist's hat on, I am usually found playing the violin, dancing like nobody's watching in Zumba classes, or watching movies at home.",
-  "bio-link": null,
+  "link": null,
   "no": 2.01
 }
