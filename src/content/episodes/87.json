@@ -1,0 +1,53 @@
+{
+  "no": 87,
+  "title": "Water: Access, Equity and Greater Impacts",
+  "blubrry": "71626626",
+  "date": "December 16, 2020",
+  "season": 5,
+  "img_tile": "jay-famiglietti.jpg",
+  "img_caption": "Dr. Ingrid Waldron, a sociologist and an Associate Professor at Dalhousie University, Director of the Environmental Noxiousness, Racial Inequities & Community Health Project (The ENRICH Project) and the Flagship Project Co-Lead of Improving the Health of People of African Descent at Dalhousie’s Healthy Populations Institute.",
+  "img_page": "ingrid-waldron.jpg",
+  "notes": "It's only natural to be curious about the most essential need for human health and survival: water. In this episode, we learn about clean water, recognizing the drastic difference in water security between communities and what can be done about it. We spoke with Dr. Jay Famiglietti, a hydrologist at the University of Saskatchewan, about water infrastructure in terms of freshwater availability, climate change, and the value of federal oversight and science communication. Dr. Madjid Mohseni, professor in Chemical and Biological Engineering at the University of British Columbia and Scientific Director of RES'EAU, shares his expertise in water quality and technologies, and his efforts to facilitate safe drinking water access. He emphasizes collaboration with Indigenous communities and the importance of water operators, echoed by John Millar, the founder of Water First. John delves into the training and education for Indigenous community members, as an essential way to combat water challenges on the ground. Currently, boil water advisories disproportionately affect Indigenous communities. We discuss environmental racism with Dr. Ingrid Waldron, Associate Professor at Dalhousie University and author of \"There's Something In The Water\". Dr. Waldron draws upon intersectionality in the context of environmental health inequities, and shares the impact of policy changes.",
+  "authors": ["Rachel Dadouch"],
+  "prod_team": {
+    "cc": ["Rachel Dadouch","Stephania Assimopoulos"],
+    "sh": ["Yagnesh Ladumor","Colleen Farrell","Seth Kibel"],
+    "ep": ["Yagnesh Ladumor"],
+    "ae": ["Helen Yang"],
+    "pv": ["Janine Truong"],
+    "sm": ["Atefeh Mohammadi"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Dr. Jay Famiglietti's website",
+      "href": "https://jayfamiglietti.com/"
+    },
+    { "title": "Dr. Famiglietti's podcast: Let's Talk About Water",
+      "href": "https://www.letstalkaboutwater.ca/"
+    },
+    { "title": "Dr. Madjid Mohseni's profile",
+      "href": "https://www.chbe.ubc.ca/profile/madjid-mohseni/"
+    },
+    { "title": "Dr. Ingrid Waldron's profile",
+      "href": "https://www.dal.ca/faculty/health/nursing/faculty-staff/faculty/ingrid-waldron.html"
+    },
+    { "title": "Emerging trends in global freshwater availability (Nature)",
+      "href": "https://www.nature.com/articles/s41586-018-0123-1"
+    },
+    { "title": "RES'EAU Centre for Mobilizing Innovation's (RES'EAU)",
+      "href": "https://www.reseaucmi.org/"
+    },
+    { "title": "59 long-term drinking water advisories",
+      "href": "https://www.sac-isc.gc.ca/eng/1506514143353/1533317130660"
+    },
+    { "title": "Water First",
+      "href": "https://waterfirst.ngo/"
+    },
+    { "title": "The ENRICH Project",
+      "href": "https://www.enrichproject.org/about/background/"
+    },
+    { "title": "Support Bill C-230",
+      "href": "https://www.enrichproject.org/billc-230/"
+    }
+  ]
+}
