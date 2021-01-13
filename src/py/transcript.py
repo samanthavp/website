@@ -4,7 +4,7 @@ import re
 import json
 from collections import OrderedDict as odict
 # file paths
-episode = '60'
+episode = str(sys.argv[1])
 ifile = os.path.join('.tmp',str(episode)+'.txt')
 bfile = os.path.join('.tmp',str(episode)+'.bak.json')
 ofile = os.path.join('src','content','transcripts',str(episode)+'.json')
