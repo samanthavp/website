@@ -1,0 +1,44 @@
+{
+  "no": 88,
+  "title": "Tuberculosis: The Forgotten Pandemic",
+  "blubrry": "72585644",
+  "date": "January 13, 2020",
+  "season": 5,
+  "img_tile": "amrita-daftary.jpg",
+  "img_caption": "Dr. Jun Liu, Full Professor in the Department of Molecular Genetics at University of Toronto working to develop novel strategies and vaccines in the fight against tuberculosis",
+  "img_page": "jun-liu.jpg",
+  "notes": "Tuberculosis (TB) is a bacterial infectious disease that affects millions of people globally every year. Despite being one of the oldest infectious diseases in humans, control of the epidemic through treatment and vaccination has remained out of reach. In today’s episode, we learned about what makes TB so difficult to control, from immunology to stigma. First, Dr. Jun Liu, a Professor in the Department of Molecular Genetics at University of Toronto, guides us through current knowledge on TB and discusses the difficulties and advances in developing TB vaccines. Next, Dr. Amrita Daftary, a Professor in the Department of Global Health at York University, explains the process of diagnosing and treating TB, and later highlights challenges that patients with TB may face while accessing care. Finally, Dr. Sarah Fortune, the Director of TB Research Program at Harvard T. H. Chan School of Public Health, helps us understand how TB drug resistance can arise, and why TB-HIV co-infection poses such a challenge. The figure against TB continues every day, by millions of patients, healthcare providers, and researchers alike. Join us as we learn about this forgotten pandemic.",
+  "authors": ["Tsukiko Miyata"],
+  "prod_team": {
+    "cc": ["Tsukiko Miyata"],
+    "sh": ["Claire Mazzia","Jason Lo Hog Tian","Zeynep Kahramanoglu"],
+    "ep": ["Jesse Knight"],
+    "ae": ["Alex Jacob"],
+    "pv": ["Janine Truong"],
+    "sm": ["Alison Wong"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Dr. Jun Liu - profile",
+      "href": "http://individual.utoronto.ca/LIULAB/"
+    },
+    { "title": "Dr. Amrita Daftary - profile",
+      "href": "https://www.mcgill.ca/tb/investigators/amrita-daftary"
+    },
+    { "title": "Dr. Sarah Fortune - profile",
+      "href": "https://sites.sph.harvard.edu/fortune-lab"
+    },
+    { "title": "What is DOTS? - report",
+      "href": "https://apps.who.int/iris/bitstream/handle/10665/65979/WHO_CDS_CPC_TB_99.270.pdf"
+    },
+    { "title": "Paul Farmer on Partners in Health, Harvard-Haiti, and making the lives of the poor the fight of his life",
+      "href": "https://news.harvard.edu/gazette/story/2018/05/harvards-paul-farmer-on-traveling-the-world-to-fight-inequality-in-health/"
+    },
+    { "title": "TB Personal Stories",
+      "href": "https://www.cdc.gov/tb/topic/basics/personalstories.htm"
+    },
+    { "title": "Vaccine Preventable Diseases",
+      "href": "https://www.publichealthontario.ca/en/health-topics/immunization/vaccine-preventable-diseases"
+    }
+  ]
+}
