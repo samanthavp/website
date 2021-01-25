@@ -4,13 +4,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#16264e">
-  <meta property="og:url" content="http://www.rawtalkpodcast.com/{{this.href}}">
   <meta property="og:type" content="website">
+  <meta property="og:url" content="{{this.og.url}}">
   <meta property="og:title" content="{{this.title}}">
-  <meta property="og:description" content="{{this.description}}">
-  <meta property="og:image" content="{{this.img}}">
-  <meta property="og:image:width" content="512">
-  <meta property="og:image:height" content="342">
+  <meta property="og:description" content="{{this.og.descr}}">
+  <meta property="og:image" content="{{this.og.img}}">
+  <meta property="og:image:width" content="{{this.og.width}}">
+  <meta property="og:image:height" content="{{this.og.height}}">
   <link rel="stylesheet" href="/css/bootstrap.min.css"/>
   <script src="/js/jquery-3.4.1.min.js"></script>
   <script src="/js/bootstrap-4.3.1.min.js"></script>
@@ -19,7 +19,7 @@
   <script src="https://www.googletagmanager.com/gtag/js?id=UA-148969430-1" async></script>
   <script src="/js/google-analytics.js"></script>
   <link type="text/css" rel="stylesheet" href="/css/rawtalkpodcast.css"/>
-  <link rel="icon" href="/img/icons/favicon.ico">
+  <link rel="icon" href="/img/icon/favicon.ico">
   <title>{{this.title}} | Raw Talk Podcast</title>
 </head>
 <body id="{{this.slug}}" class="dark">
@@ -45,7 +45,7 @@
             {% endfor %}
             <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
-                <h3><img class="search-icon" src="/img/icons/search.svg"/></h3>
+                <h3><img class="search-icon" src="/img/icon/search.svg"/></h3>
               </a>
             </li>
           </ul>
@@ -73,12 +73,12 @@
     <div class="row justify-content-between">
       <div class="footer-container col-12 col-lg-4 col-xl-3">
         <a href="https://ims.utoronto.ca" target="_blank">
-          <img class="sponsor-img lg-left" src="/img/sponsors/ut-ims.png"><br>
+          <img class="sponsor-img lg-left" src="/img/sponsor/ut-ims.png"><br>
         </a>
       </div>
       <div class="footer-container col-12 col-lg-4 col-xl-3">
         <a href="https://www.ciut.fm" target="_blank">
-          <img class="sponsor-img lg-right" src="/img/sponsors/cuit-fm.png">
+          <img class="sponsor-img lg-right" src="/img/sponsor/cuit-fm.png">
         </a>
       </div>
     </div>

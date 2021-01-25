@@ -23,29 +23,45 @@ X = dict(
   team        = sorted(C['team'].values(),key=sorter),
   events      = sorted(C['events'].values(),key=sorter,reverse=True),
   episodes    = sorted(C['episodes'].values(),key=sorter,reverse=True),
+  root        = 'http://www.rawtalkpodcast.com',
 )
+def ogfun(href,img='brand/logo.png',width=512,height=342,descr=''):
+  return {
+    'url':    X['root']+'/'+href,
+    'img':    X['root']+'/img/'+img,
+    'width':  width,
+    'height': height,
+    'descr':  descr,
+  }
 
 utils.log('saving',1)
 
 utils.search_save('episodes',X['episodes'])
 for episode in X['episodes']:
+  no = str(episode['no'])
+  href = 'episode/'+no
   episode.update(
     template    = 'episode',
-    href        = 'episode/'+str(episode['no']),
-    title       = '#{} {}'.format(episode['no'],episode['title']),
-    transcripts = C['transcripts'][str(episode['no'])],
+    href        = href,
+    title       = '#{} {}'.format(no,episode['title']),
+    og          = ogfun(href,href+'/'+episode['img_tile']),
+    transcripts = C['transcripts'][no],
   )
   utils.page_save(E,T,episode,**X)
 for event in X['events']:
+  href = 'event/'+event['slug']
   event.update(
     template = 'event-'+event['template'],
-    href     = 'event/'+event['slug'],
+    href     = href,
+    og       = ogfun(href,href+'/'+event['img'],width=512,height=287),
   )
   utils.page_save(E,T,event,**X)
 for page in C['pages']:
+  href = page['slug']
   page.update(
     template = page['slug'],
-    href     = page['slug'],
+    href     = href,
+    og       = ogfun(href,**page['og'])
   )
   utils.page_save(E,T,page,**X)
 latest = dict(

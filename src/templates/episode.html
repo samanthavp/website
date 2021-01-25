@@ -5,14 +5,14 @@
     <div class="link-arrow align-left col-2 col-md-1 order-md-1">
       {% if this.no < episodes|length %}
       <a href=/episode/{{this.no+1}}>
-        <img class="icon-arrow" src="/img/icons/arrow-left.svg"/>
+        <img class="icon-arrow" src="/img/icon/arrow-left.svg"/>
       </a>
       {% endif %}
     </div>
     <div class="link-arrow align-right col-2 col-md-1 order-md-3">
       {% if this.no > 1 %}
       <a href=/episode/{{this.no-1}}>
-        <img class="icon-arrow" src="/img/icons/arrow-right.svg"/>
+        <img class="icon-arrow" src="/img/icon/arrow-right.svg"/>
       </a>
       {% endif %}
     </div>
@@ -26,7 +26,7 @@
 <div class="container">
   <div class="row justify-content-end">
     <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-      <img class="episode-img-page" src="/img/episodes/{{this.no}}/{{this.img_page}}"></img> 
+      <img class="episode-img-page" src="/img/episode/{{this.no}}/{{this.img_page}}"></img> 
       <p class="img-caption">{{this.img_caption}}</p>
     </div>
     <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-8 col-xl-8">
