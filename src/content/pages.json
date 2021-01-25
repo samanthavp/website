@@ -28,7 +28,7 @@
     "slug": "episodes",
     "og": {
       "descr": "Browse, read the notes, and listen to the podcast right here.",
-      "img": "episodes/season-4.jpg", "width": 580, "height": 368
+      "img": "episode/season-4.jpg", "width": 580, "height": 368
     }
   },
   {
