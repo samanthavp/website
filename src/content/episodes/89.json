@@ -1,0 +1,38 @@
+{
+  "no": 89,
+  "title": "Vaccines: Making History",
+  "blubrry": "73110819",
+  "date": "January 27, 2021",
+  "season": 5,
+  "img_tile": "covid-stickers.jpg",
+  "img_caption": "Dr. Derrick Rossi, stem cell biologist, retired professor, co-founder of Moderna and Intellia Theraputics, and CEO of Convelo Therapeutics",
+  "img_page": "derrick-rossi.jpg",
+  "notes": "Vaccine technology has come a long way in terms of safety and understanding the underlying immunological principles. The first vaccine that was made was against smallpox in the late 18th century. Since then, vaccines have become the key tool in fighting against infectious diseases that have affected humans for centuries, including chickenpox, measles, and polio. But as the world prepares for the largest mass vaccination campaign in history with the COVID19 vaccines, there are many people that are somewhat hesitant about the vaccination process but are curious to learn more. The emergence of mRNA vaccines has allowed for the fastest development of a vaccine in history and could be a sign of what's to come in the future. In this episode, we talk about the COVID19 mRNA vaccine with the co-founder of Moderna, Dr. Derrick Rossi and about how mRNA can be used in personalized cancer vaccines with Providence Therapeutics' Chief Development officer, Dr. Natalia Martin Orozco. We look back at the history of vaccine development with Dr. Christopher Rutty. Finally, We also speak with Dr. Nicole Charles to explore the complexity of vaccine hesitancy in marginalized communities.",
+  "authors": ["Yagnesh Ladumor"],
+  "prod_team": {
+    "cc": ["Adrine de Souza","Anam Islam"],
+    "sh": ["Jenna Park","Tsukiko Miyata","Yagnesh Ladumor","Anam Islam"],
+    "ep": ["Yagnesh Ladumor"],
+    "ae": ["Esther Silk"],
+    "pv": ["Janine Truong","Changmo Kim"],
+    "sm": ["Eman Nishat"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Connaught Labs at UofT",
+      "href": "http://connaught.research.utoronto.ca/history/"
+    },
+    { "title": "History of Vaccination virtual exhibit",
+      "href": "http://www.museumofhealthcare.ca/explore/exhibits/vaccinations/"
+    },
+    { "title": "Dr. Charles' book - Suspicion. Vaccines, Hesitancy, and the Affective Politics of Protection in Barbados",
+      "href": "https://www.dukeupress.edu/suspicion"
+    },
+    { "title": "Seminal paper from the Rossi Lab about Modified RNAs",
+      "href": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(10)00434-0"
+    },
+    { "title": "Providence Therapeutics",
+      "href": "https://www.providencetherapeutics.com/#Technology"
+    }
+  ]
+}
