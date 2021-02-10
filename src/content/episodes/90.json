@@ -1,0 +1,65 @@
+{
+  "no": 90,
+  "title": "Anti-Black Racism in Healthcare",
+  "blubrry": "73652276",
+  "date": "February 10, 2021",
+  "season": 5,
+  "img_tile": "jessica-goncalves.jpg",
+  "img_caption": "Dr. Sean Wharton, Medical Director of the Wharton Medical Clinic, Adjunct Professor at McMaster University and York University, Staff Internist at Juravinski Hospital, and founder of the Black Medical Students' Association",
+  "img_page": "sean-wharton.jpg",
+  "notes": "Like so many institutions, anti-Black racism continues to pervade the healthcare system—rarely in overt, obvious ways, but in ways that undeniably lead to worse health outcomes for Black communities. In this episode, we discuss the uncomfortable truths of anti-Black racism in healthcare, and what we can do about it. We hear from Dr. Sean Wharton, Medical Director of the Wharton Medical Clinic, Internist, and Adjunct Professor at McMaster University and York University, about his experiences in the healthcare system, as a trainee, physician, and researcher. He discusses the roots of racist systems, and the impacts of subconscious biases on both the provision and receipt of patient care. As the founder of the Black Medical Students’ Association, he describes how the unique needs of different trainee and patient populations must be recognized and addressed if we hope to provide equitable care. We also spoke with Jessica Goncalves, a nursing student and the first Black President of the Nursing Undergraduate Society at the University of Toronto. She tells us about the labelling that begins long before members of the Black community enter health professions, and the importance of diverse representation within such professions. We hope that you are inspired—as we are—by our guests, to continue conversations, advocacy, and actions in the pursuit of health equity.",
+  "authors": ["Rachel Dadouch"],
+  "prod_team": {
+    "cc": ["Rachel Dadouch"],
+    "sh": ["Nathan Chan","Colleen Farrell","Adrine de Souza"],
+    "ep": ["Jesse Knight"],
+    "ae": ["Anukrati Nigam"],
+    "pv": ["Janine Truong"],
+    "sm": ["Atefeh Mohammadi"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Dr. Wharton - Wharton Medical Clinic",
+      "href": "https://whartonmedicalclinic.com/about-dr-wharton.html"
+    },
+    { "title": "Dr. Wharton - Feature UofT Temerty Faculty of Medicine",
+      "href": "https://medicine.utoronto.ca/news/uoftmed-alum-advocacy-stigma-and-20-years-black-medical-students-association"
+    },
+    { "title": "Dr. Wharton - Inaugural Lecture in Black Health for City-Wide Medical Grand Rounds",
+      "href": "https://www.youtube.com/watch?v=6cc6YvR1dJ0"
+    },
+    { "title": "Jessica Gonclaves - President of the Nursing Undergraduate Society",
+      "href": "https://www.uoftnus.com/copy-of-vice-president-5"
+    },
+    { "title": "Resource - The Implicit Project",
+      "href": "https://implicit.harvard.edu/implicit/takeatest.html"
+    },
+    { "title": "Article - The Effect of Race and Sex on Physicians' Recommendations for Cardiac Catheterization",
+      "href": "https://doi.org/10.1056/NEJM199902253400806"
+    },
+    { "title": "Resource - Anti-Racism Resources",
+      "href": "https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs"
+    },
+    { "title": "Article - For our White Friends Desiring to be Allies",
+      "href": "https://sojo.net/articles/our-white-friends-desiring-be-allies"
+    },
+    { "title": "Book - So You Want to Talk About Race by Ijeoma Oluo",
+      "href": "https://www.sealpress.com/titles/ijeoma-oluo/so-you-want-to-talk-about-race/9781580056779/"
+    },
+    { "title": "Book - How to be an Antiracist by Ibram X. Kendi",
+      "href": "https://www.penguinrandomhouse.com/books/564299/"
+    },
+    { "title": "Book - Black and Blue: The Origins and Consequences of Medical Racism by John Hoberman",
+      "href": "https://www.jstor.org/stable/10.1525/j.ctt1pq0j8 "
+    },
+    { "title": "Event - Black Physicians Association of Ontario Annual Health Symposium (Feb 27, 2021)",
+      "href": "https://bpao.org/annual-conference/"
+    },
+    { "title": "Organization - Black Physicians of Canada",
+      "href": "https://blackphysicians.ca/"
+    },
+    { "title": "Organization - U of T Black Medical Students Association",
+      "href": "https://twitter.com/uoftbmsa"
+    }
+  ]
+}
