@@ -1,0 +1,41 @@
+{
+  "no": 91,
+  "title": "Social Determinants of Health: Care beyond the Clinic",
+  "blubrry": "74173257",
+  "date": "February 24, 2021",
+  "season": 5,
+  "img_tile": "andrew-boozary.jpg",
+  "img_caption": "Dr. Kate Mulligan, Assistant Professor at Dalla Lana School of Public Health in the University of Toronto and Director of Policy and Communications at Alliance for Healthier Communities",
+  "img_page": "kate-mulligan.jpg",
+  "notes": "Many factors including income, food security, or housing can have a huge contribution to our health. These are known as the social determinants of health (SDoH). In this episode, we discuss some common SDoH, how they impact our health, and what some leading physicians are doing to tackle the issue. Our guests, Dr. Andrew Boozary, Dr. Andrew Pinto, and Dr. Kate Mulligan discuss topics such as, the  teaching of SDoH in the medical curriculum, how the SDoH have been exacerbated with the COVID-19 pandemic, as well as current and future efforts to address the SDoH and decrease the associated health disparities. All of our guests are actively working to change our health system and the way we provide care to improve the health disparities we see in Toronto, Ontario, Canada, and beyond.",
+  "authors": ["Larkin Davenport Huyer"],
+  "prod_team": {
+    "cc": ["Larkin Davenport Huyer","Eryn Tong"],
+    "sh": ["Aditi Desai","Noor Al Kaabi","Jason Lo Hog Tian"],
+    "ep": ["Yagnesh Ladumor"],
+    "ae": ["Helen Yang"],
+    "pv": ["Janine Truong"],
+    "sm": ["Alison Wong"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Dr. Andrew Boozary's Twitter",
+      "href": "https://twitter.com/DrAndrewB"
+    },
+    { "title": "Dr. Kate Mulligan's Twitter",
+      "href": "https://twitter.com/KateMMulligan"
+    },
+    { "title": "Dr. Andrew Pinto's Twitter",
+      "href": "https://twitter.com/andrewdpinto"
+    },
+    { "title": "Upstream Lab",
+      "href": "https://upstreamlab.org/"
+    },
+    { "title": "Social Medicine at UHN as reported by Toronto Star",
+      "href": "https://www.thestar.com/news/gta/2020/12/20/how-the-university-hospital-networks-new-social-medicine-innovation-centre-is-opening-eyes-to-other-ways-to-help-vulnerable-patients.html"
+    },
+    { "title": "Public Health Ontario's report on SDoH in COVID19",
+      "href": "https://www.publichealthontario.ca/-/media/documents/ncov/covid-wwksf/2020/05/what-we-know-social-determinants-health.pdf"
+    }
+  ]
+}
