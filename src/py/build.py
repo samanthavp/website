@@ -40,11 +40,12 @@ utils.search_save('episodes',X['episodes'])
 for episode in X['episodes']:
   no = str(episode['no'])
   href = 'episode/'+no
+  descr = episode['notes'][0:episode['notes'].find(' ',150)]
   episode.update(
     template    = 'episode',
     href        = href,
     title       = '#{} {}'.format(no,episode['title']),
-    og          = ogfun(href,href+'/'+episode['img_tile']),
+    og          = ogfun(href,href+'/'+episode['img_tile'],descr=descr),
     transcripts = C['transcripts'][no],
   )
   utils.page_save(E,T,episode,**X)
