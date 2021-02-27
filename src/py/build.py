@@ -71,3 +71,9 @@ latest = dict(
   to       = '/episode/'+str(X['episodes'][0]['no']),
 )
 utils.page_save(E,T,latest)
+E404 = dict(
+  template = '404',
+  href     = '404',
+  og       = ogfun('404'),
+)
+utils.page_save(E,T,E404)

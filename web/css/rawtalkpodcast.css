@@ -359,6 +359,9 @@ table tr:nth-child(1) {
   background-size: cover;
   height: 100%;
 }
+.logo-banner.E404 {
+  background-image: url("../img/brand/banner-dark-404.svg");
+}
 .tagline {
   padding: 50px 0;
   text-align: center;

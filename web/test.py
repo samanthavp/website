@@ -2,6 +2,8 @@ import os
 from http.server import SimpleHTTPRequestHandler, test
 # custom handler to assume default extension is html
 class Handler(SimpleHTTPRequestHandler):
+  with open('404.html','r') as f:
+    error_message_format = f.read()
   def translate_path(self,path):
     print(path)
     # pop off search query if any
