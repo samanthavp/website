@@ -2,9 +2,9 @@
 
 This site is live now at: https://rawtalkpodcast.com
 
-Last updated: 2020-12-06
+Last updated: 2021-02-27
 
-Maintainer: [Jesse Knight](jesse.x.knight@gmail.com)
+Maintainer: [Jesse Knight](mailto:jesse.x.knight@gmail.com)
 
 ## About Taw Talk
 
@@ -12,7 +12,7 @@ Maintainer: [Jesse Knight](jesse.x.knight@gmail.com)
   about medical science, and the people who make it happen.
   We focus on the journeys, perspectives, and expertise of
   health researchers, professionals, students, patients, and community members
-  at the University of Toronto and beyond. 
+  at the University of Toronto and beyond.
 
 ## About the Website
 
@@ -22,7 +22,7 @@ Maintainer: [Jesse Knight](jesse.x.knight@gmail.com)
   [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
   - **content/**: `json` content, e.g. episode info
   - **templates/**: `html` templates, e.g. page layouts
-  - **py/**: Python code to combine the above and write files to `web`
+  - **py/**: Python code to combine the above and write non-asset files to `web`
 - **docs/**: guide for how to edit the site
 - Audio files are hosted & distributed by
   [BluBrry](https://feeds.blubrry.com/feeds/rawdataims.xml)

@@ -1,7 +1,7 @@
 # How-To:
 # Editing the Raw Talk Podcast Website
 
-Author: [Jesse Knight](jesse.x.knight@gmail.com)
+Author: [Jesse Knight](mailto:jesse.x.knight@gmail.com)
 
 Last updated: 2019-11-08
 
