@@ -1,0 +1,56 @@
+{
+  "no": 92,
+  "title": "Producing and Pricing Drugs in Canada",
+  "blubrry": "74723253",
+  "date": "March 10, 2021",
+  "season": 5,
+  "img_tile": "durhane-wong-rieger.jpg",
+  "img_caption": "Dr. Joel Lexchin, Emergency physician at the University Health Network, Professor Emeritus at York University, and Associate Professor in the Department of Family and Community Medicine at the University of Toronto",
+  "img_page": "joel-lexchin.jpg",
+  "notes": "Pharmaceutical drugs are a pillar of modern healthcare - from preventative medicines to life-saving therapies. We therefore rely on pharmaceutical companies to discover, develop, and deliver new drugs to patients in need. We know that this process is both risky and expensive, but does that justify the drug prices we see in Canada today? Who decides what’s a fair drug price anyways?  And what is the role of academic science in this whole operation? Join us as we answer these questions and more, with our expert guests: Dr Alison Symington, consultant with Life Sciences Ontario, describes the process of drug discovery and the relationships between academia and industry. Dr. Wong-Rieger, President and CEO of Canadian Organization for Rare Disorders, describes the challenges faced by individuals with rare diseases. Dr. Nigel Rawson, Senior Fellow with the Fraser Institute, introduces us to the Patented Medicine Prices Review Board and their upcoming changes. Finally, Dr. Joel Lexchin, Emergency physician at the University Health Network and Canadian drug policy expert, explains some of the challenges to setting fair drug prices in Canada.",
+  "authors": ["Adrine de Souza"],
+  "prod_team": {
+    "cc": ["Adrine de Souza"],
+    "sh": ["Stephanie Tran","Seth Kibel","Tsukiko Miyata"],
+    "ep": ["Jesse Knight"],
+    "ae": ["Esther Silk"],
+    "pv": ["Janine Truong"],
+    "sm": ["Eman Nishat"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Profile - Dr. Alison Symington",
+      "href": "https://lifesciencesontario.ca/about/leadership/alison-symington/"
+    },
+    { "title": "Profile - Dr. Durhane Wong-Rieger",
+      "href": "https://en.wikipedia.org/wiki/Durhane_Wong-Rieger"
+    },
+    { "title": "Profile - Dr. Nigel Rawson",
+      "href": "https://www.fraserinstitute.org/profile/dr-nigel-rawson "
+    },
+    { "title": "Profile - Dr. Joel Lexchin",
+      "href": "https://www.dfcm.utoronto.ca/content/dr-joel-lexchin"
+    },
+    { "title": "Patented Medicine Prices Review Board (PMPRB)",
+      "href": "https://www.canada.ca/en/patented-medicine-prices-review.html"
+    },
+    { "title": "Proposed PMPRB changes",
+      "href": "https://www.canada.ca/en/patented-medicine-prices-review/services/consultations/draft-guidelines.html"
+    },
+    { "title": "Canada Pharmacare Act (Bill C-213)",
+      "href": "https://parl.ca/DocumentViewer/en/43-1/bill/C-213/first-reading"
+    },
+    { "title": "Canadian Organization for Rare Disorders (CORD)",
+      "href": "https://www.raredisorders.ca/"
+    },
+    { "title": "Innovative Medicines Canada",
+      "href": "http://innovativemedicines.c"
+    },
+    { "title": "Article - academic vs industry for drug discovery",
+      "href": "https://www.tandfonline.com/doi/full/10.1080/17460441.2019.1596080"
+    },
+    { "title": "Drug Discovery @ U of T",
+      "href": "https://pharmacy.utoronto.ca/research/research-areas/drug-development-and-disease-diagnostics"
+    }
+  ]
+}
