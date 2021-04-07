@@ -1,0 +1,56 @@
+{
+  "no": 94,
+  "title": "Child Maltreatment: Healing and Breaking the Cycle",
+  "blubrry": "75793081",
+  "date": "April 7, 2021",
+  "season": 5,
+  "img_tile": "tracie-afifi.jpg",
+  "img_caption": "Dr. Robert T. Muller, Clinical Psychologist, Professor of Psychology at York University, and bestselling author on trauma therapy",
+  "img_page": "robert-muller.jpg",
+  "notes": "For many people, childhood memories hold a special place in our hearts. Childhood experiences also impact our journey through life, shaping our personality, relationships, and conceptions of right and wrong. But not all childhood memories are bright, and many children suffer significant trauma through maltreatment by family members or other trusted adults. In this episode, we explore the difficult topic of child maltreatment with the help of our esteemed guests. First, Dr. Tracie Afifi, a Professor in Community Health Sciences at the University of Manitoba, describes the scope of child maltreatment in Canada, and describes intervention and prevention strategies. Next, Dr. Robert T. Muller, a Clinical Psychologist, Professor of Psychology at York University, and bestselling author on trauma therapy, tells us about the goals, pitfalls, and successful strategies in psychotherapy for patients with childhood trauma. Finally, Dr. Katreena Scott, a Professor and Clinical Psychologist at the University of Toronto, explores the complex familial contexts in which child maltreatment can arise, and describes the unique intervention program she and her team have pioneered to help break the cycle.",
+  "authors": ["Tsukiko Miyata"],
+  "prod_team": {
+    "cc": ["Tsukiko Miyata"],
+    "sh": ["Zeynep Kahramanoglu","Aditi Desai","James Saravanamuttu"],
+    "ep": ["Jesse Knight"],
+    "ae": ["Esther Silk"],
+    "pv": ["Janine Truong"],
+    "sm": ["Alison Wong"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Local Children's Aid Societies (Ontario)",
+      "href": "http://www.oacas.org/childrens-aid-child-protection/locate-a-childrens-aid-society/"
+    },
+    { "title": "Profile - Dr. Tracie Afifi",
+      "href": "https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/faculty_and_staff/4832.html"
+    },
+    { "title": "Profile - Dr. Robert T. Muller",
+      "href": "http://www.yorku.ca/rmuller/"
+    },
+    { "title": "Profile - Dr. Katreena Scott",
+      "href": "https://wordpress.oise.utoronto.ca/scottlab/people-2/katreena-scott-ph-d-c-psych/"
+    },
+    { "title": "Book - Trauma and the Struggle to Open Up: From Avoidance to Recovery and Growth",
+      "href": "https://www.amazon.com/Robert-T.-Muller/e/B0033AFO5A/ref=dp_byline_cont_book_1"
+    },
+    { "title": "Book - Trauma and the Avoidant Client: Attachment-Based Strategies for Healing",
+      "href": "https://www.amazon.com/gp/product/0393705730/ref=dbs_a_def_rwt_bibl_vppi_i1"
+    },
+    { "title": "Caring Dads",
+      "href": "https://caringdads.org/"
+    },
+    { "title": "Adverse Childhood Experiences",
+      "href": "https://www.cdc.gov/violenceprevention/aces/index.html"
+    },
+    { "title": "Global look at Child Maltreatment (WHO)",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/child-maltreatment"
+    },
+    { "title": "Child Maltreatment in Canada",
+      "href": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/prevention-resource-centre/children/child-maltreatment-canada.html"
+    },
+    { "title": "Indigenous people and Child Maltreatment",
+      "href": "https://www.justice.gc.ca/eng/rp-pr/jr/jf-pf/2017/july03.html"
+    }
+  ]
+}
