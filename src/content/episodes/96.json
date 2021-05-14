@@ -1,0 +1,47 @@
+{
+  "no": 96,
+  "title": "Generic Testing: What it Means for Families and the Future",
+  "blubrry": "77203510",
+  "date": "May 5, 2021",
+  "season": 5,
+  "img_tile": "jeff-carroll.jpg",
+  "img_caption": "Stacy Hewson, Director of Genetic Counselling at the Hospital for Sick Children, and Program Director for the Master of Science in Genetic Counselling at the University of Toronto",
+  "img_page": "stacy-hewson.jpg",
+  "notes": "The Human Genome Project -- to sequence all genes in human DNA -- took over a decade and about $5 billion dollars to complete. Today, we can get the same results in 2 months for about $5000, or even over a weekend if we really need it. As a result, more and more people have access to genetic testing. For many families affected by inheritable conditions, these tests can be invaluable. But is this the precision medicine revolution we've been promised? In this episode of Raw Talk Podcast, we gather experts in genetic testing and genetic counselling to find out. We'll explore what genetic testing really looks like, what the results can mean for families, and learn about the growing field of genetic counselling. First, we spoke with Dr. Raymond Kim, medical geneticist at the University Health Network, who told us about the history and future trajectory of medical genetics. We also sat down with genetic counsellors Stacy Hewson and Laura Zahavich, who direct and lecture for the genetic counselling master's program here at the University of Toronto; they shared with us their challenging but rewarding experiences supporting families to order, interpret, and process genetic tests. Finally, we heard from Huntington's Disease researcher and carrier Dr. Jeff Carroll, who shared his story with genetic testing personally and while family planning. We hope to shed a light on the exciting fields of medical genetics and genetic counselling, and the growing number of genetic tools that might truly revolutionize healthcare as we know it.",
+  "authors": ["Adrine de Souza"],
+  "prod_team": {
+    "cc": ["Adrine de Souza"],
+    "sh": ["Jenna Park", "Jason Lo Hog Tian", "Colleen Farrell"],
+    "ep": ["Jesse Knight"],
+    "ae": ["Anukrati Nigam"],
+    "pv": ["Janine Truong"],
+    "sm": ["Atefeh Mohammadi"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Dr. Raymond Kim - Webpage",
+      "href": "https://www.uhnresearch.ca/researcher/raymond-kim"
+    },
+    { "title": "Stecy Hewson - Webpage",
+      "href": "http://www.moleculargenetics.utoronto.ca/genetic-counselling-fac/2014/10/7/stacy-hewson"
+    },
+    { "title": "Laura Zahavich - Webpage",
+      "href": "https://www.sickkids.ca/en/staff/z/laura-zahavich/"
+    },
+    { "title": "Jeff Carroll - Webpage",
+      "href": "https://mclaughlinresearch.org/jeff-b-carroll-ph-d/"
+    },
+    { "title": "University of Toronto MSc in Genetic Counselling Program",
+      "href": "http://www.moleculargenetics.utoronto.ca/genetic-counselling"
+    },
+    { "title": "Article - Prioritizing diversity in human genomics research",
+      "href": "https://www.nature.com/articles/nrg.2017.89"
+    },
+    { "title": "gnomAD: Genome Aggregation Database",
+      "href": "https://gnomad.broadinstitute.org/"
+    },
+    { "title": "Raw Talk Podcast - Season 5 Listener Survey",
+      "href": "https://www.rawtalkpodcast.com/survey"
+    }
+  ]
+}
