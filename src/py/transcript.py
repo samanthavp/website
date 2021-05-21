@@ -15,14 +15,17 @@ with open(ifile,'r') as f:
 # parse the file
 print('parsing ...')
 data = []
+speakers = set()
 for match in re.findall('(.*)  (\d*\:*\d*\:\d\d)  \n(.*)',raw):
   print(' > [{}] {}'.format(match[1],match[0]))
+  speakers.add(match[0])
   data.append(odict([
       ('speaker', match[0].replace('Unknown Speaker','')),
       ('time', match[1]),
       ('text', match[2]),
     ]))
 print('N: {}'.format(len(data)))
+print('Speakers:\n > {}'.format('\n > '.join(speakers)))
 # output file: save backup before overwriting
 print('writing: {}'.format(ofile))
 with open(ofile,'r') as fo:
