@@ -1,7 +1,312 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Newscaster",
+    "time": "0:00",
+    "text": "About two thirds of antibiotics are actually used in animals. And antibiotics, unlike other drugs will develop resistance the more they're used."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "0:54",
+    "text": "Since the discovery of modern penicillin, antibiotics have been one of the most important classes of drugs we have available to us and are responsible for saving countless lives over the past century. However, due to the widespread and pervasive use, the problem of bacteria being resistant to antibiotics is increasing rapidly, and has been identified by the World Health Organization as one of the biggest threats of global health, development and food security."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:23",
+    "text": "As our options for effective antibiotics dwindle, new compounds and therapies are needed to replace them. Moving forward, it is also essential that we evaluate what is leading to this large scale resistance and what can be done to prevent or reduce it. In this episode, we explore the drivers of antibiotic resistance around the world and speak to researchers working to tackle this issue through innovative research for new therapies and solutions. I'm Grace"
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "1:46",
+    "text": "and I'm Yagnesh. Welcome to Episode 93 of Raw Talk podcast."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "2:13",
+    "text": "This meeting place is still home to many First Nations, Inuit and Metis peoples. And we are grateful for the opportunity to live and work on this land. As we explore the social determinants of health today, we also ask our listeners to reflect on the long history of science and medicine as tools of oppression against indigenous peoples, and the complex perceptions of and barriers to healthcare that are still experienced by indigenous peoples in Canada today."
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "2:37",
+    "text": "So antibiotic resistance. It's a phenomenon where bacterial species develop mechanisms to defeat drugs that previously killed them. So these are drugs that they were initially susceptible to, and after a period of time, they become resistant to those drugs. And they employ several mechanisms to do this, one of which is by modifying the drug targets, which the antibiotic naturally binds to so when they make this modification to drug targets, which could be by mutation or other, you know, cellular processes, then drugs that previously bound to them are unable to do so. So the bacteria survives. And that becomes unfortunate for the patient. Because then most of the patients, their conditions then get worse and some of them eventually die. Some bacteria also employ intelligent means such as inactivating the drugs by maybe inducing enzymes that deactivate drug activity. We also do have antibiotic resistant mechanisms such as efflux pump systems, which is a mechanism whereby the bacteria just pumps out the amount of antibiotics inside of them and that way they reduce the concentration that is needed to actually kill them. So yeah, antibiotic resistance is a big problem. And we do know that yearly more than 700,000 people die due to antibiotic resistance infections. As a matter of fact, in the United States alone, over 2.8 million people get ill due to antibiotic resistant pathogens, and we have what 35,000 deaths and, and the figures are quite startling, because we do know that if nothing is done, by the year 2050, we will have more than 10 million deaths yearly due to antibiotic resistant infections. So it is a big problem. And you know, it does pose a huge public health trip."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "4:29",
+    "text": "Chidozie Ojobor is a PhD candidate in Dr. Alan Davidson's lab in the Department of Molecular Genetics at the University of Toronto. He spent the last five years researching a novel way to fight antibiotic resistant bacteria. He describes his experience at a young age that drove him to become interested in studying this important topic."
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "4:48",
+    "text": "I first heard about it when I was around nine years old, and that's because a relative of mine had just passed on because she was ill and she was being treated with antibiotics and this is, she wouldn't feel better and she eventually died. This happened over 20 years ago. So I learned about antibiotic resistance that way. And since then, I just wanted to understand, you know, how microorganisms cause disease, how the human immune system mount up resistance against them how drugs work. And that eventually led me to study microbiology, in my bachelor's, and then I did medical microbiology in my master's, and then, and then yeah, I got more interested in projects relating to antibiotic resistance. And yeah, my PhD, trying to do what I can."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "5:41",
+    "text": "We'll hear more about Chidozie's work later. But first, we wanted to understand the impact of antibiotic resistant bacteria on human health, and what causes resistance to develop. Dr. Thomas Van Boeckel is a Spatial Epidemiologist and an assistant professor at ETH Zurich, who focuses on mapping antibiotic resistance around the world. He explained how antibiotic resistance affects human health."
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "6:06",
+    "text": "Okay, so very, very concretely, what happens, you have somebody showing up to your hospital or clinic with an infection. And so every doctor has learned what's the recommended treatment for what they suspect to be a certain condition. And then they say, okay, we'll start with this antibiotic. And that's what they would call the first line treatment. And then it works. And that's good, that's the end of the story, or it doesn't, and then you have to move to sort of a higher level antibiotic, second line treatment, third line treatment, that's what we call top shelf antibiotic. Eventually, you move on to the very new drug that hasn't had a lot of resistance reported yet. And you really hope that this works. The problem is that some of those stronger may also have side effects. So you ideally don't want to get to those very strong drugs. But eventually, we are now in a situation where some infections have become virtually untreatable. And so to give a very simple parallel that this brings us back sort of the century back, where we just had no treatment options against certain disease. So I think that's the easiest way to understand what it means. Losing antibiotic means taking is back in medical history effectively."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "7:10",
+    "text": "Is the emergence of antibiotic resistance a relatively new phenomenon?"
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "7:16",
+    "text": "No, no, the phenomenon has been identified almost just after antibiotics were first introduced in the 40s, and 50. So we know about this, and we know it could happen for quite a few decades now. I think the reason why we start talking a bit more about it is because resistance levels, start reaching quite concerning levels now. And now we really start to feel why it is that so many antibiotics have become resistant, and we're sort of running out of treatment options. So it's very different from COVID in a way, because, you know, infections, like COVID are very acute. So the problem is very obvious and coming very fast to us. Whereas the issue of antibiotic resistance is more of a slow moving tsunami, so to speak. We first started hitting limits in terms of our ability to treat infection with, uh, with tuberculosis. And then now what is happening with gonorrhea where we are literally winning out of treatment option. But I think what has made a big difference in the last five or six years or so when I started working on this topic, is the fact that finally this issue got into the international agenda. So you know, during the 72nd Assembly of the United Nation, the issue was on the agenda being discussed at the top level, and then brought through G 20. And I think this is when world leaders realized something needed to be done about this. The extent to which this has been done, can be discussed, but at least I think no one can pretend they don't know at this stage."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "8:41",
+    "text": "So what are the main drivers of antibiotic resistance around the world?"
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "8:46",
+    "text": "One of the main drivers is just Darwinian selection for bugs that can resist the effect of antibiotics. So concretely, how does that happen at a macro level first, bacterias have mutation all the time. And then some bacteria get some mutation in some of the genes and that gene would confer resistance to an antibiotic. So for example, it can be acquiring a gene for a pump that will pump out the antibiotic out of the cell. That means the microbe can withstand the effects of the treatment. And now that is this process of selection of acquiring those genes and having them fixed in the population. This is very much driven by the selection pressure, which would be the amount of antibiotic that we use or the frequency at which we use antibiotic. So at a very high level, what we can roughly say is that the more antibiotic you use, the higher the resistance rate you're going to observe in a population. Now, we can ask ourselves the question, why is there a lot of antibiotic being used. So in some cases, it could be that the disease burden is higher, so we do need effectively to use more antibiotic. But sometimes antibiotics are being used just because it's hard to pose a diagnostic or it is cheaper to use an antibiotic than a diagnostic to see exactly whether we have a bacterial infection or not. Or sometimes, like in the case of animal production, we use antibiotic more systematically just to prevent disease, or even to benefit from what is known as the growth promoting effects of low dose antibiotic, which is simply that by acting on the microbiome of the animal, it will increase the feed conversion ratio of the animals, which means that, the animals can grow faster using the same amount of food essentially. This effect you get it most when you use lodos, over an extended period of time, which is, of course, the best way to select for resistant bacteria."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "10:29",
+    "text": "Do the drivers of antibiotic resistance differ in high and low income countries?"
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "10:36",
+    "text": "So the fact that antibiotic use drives resistance is true everywhere around the world. And now what we have in somr low income country and middle income country is two phenomena. The first one is, if you have poor hygiene condition, it's just more likely you have an infection and then you will need to use antibiotic more often. So in an indirect way, hygiene conditions, and the overall level of healthcare affects the need for antibiotic and so affects the amount that people are going to use. Now, there's another aspect to it as well, which is the ease of access to antibiotic and the level of oversight there is into the decision of taking or not taking antibiotics. So in the United States, or in most European countries, you need have a prescription to have an antibiotic. In some European countries that's the case for animals in others not, whereas in some middle income country, you can just walk down the street, and there's a chemist that will provide you with antibiotics, and not only the first antibiotic, but sometime the top shelf antibiotic. So this ease of access resultes in this phenomenon where if people don't know what they have but they feel a bit funny, they might be tempted to pop a pill basically. And that's understandable for reason of access, that everyone should have access to antibiotic, but it has this harmful effect that perhaps quite often antibiotics are being taken when they are not actually needed. But we still see sometimes some some interesting effects where for example, in the United States, in locations where you have a high number of physician per capita, you also observe higher rates of prescription per capita. What we suppose happening there is there is a competition for the pool of patients among the physicians. So they're more inclined to give a patient an antibiotic, otherwise, the patient will go to the doctor next door. That's harder to do in a setting where you have less physician per capita. But overall, I would say that having prescription to take antibiotics is of course a very good thing."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "12:35",
+    "text": "As Dr. Van Boeckel shares, antibiotic resistance is driven by the overuse of antibiotics, that results in selecting for resistant bacteria. This can occur from multiple reasons, such as poor hygiene, unsustainable practices, and animal agriculture, or easy access to over the counter antibiotic availability that's present in some areas."
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "12:55",
+    "text": "I come from Nigeria, for example, where we can actually buy prescription drugs over the counter. And so the problem with that is, people who have viral infections or flu people are more likely to want to self medicate, and you're not supposed to use antibiotics to treat viral or fungal infections. And people are able to have access to these antibiotics. So they self medicate, they take these antibiotics, and what you're doing is you're selecting for resistance when you do that. So even if you actually do have a bacterial infection, and you're basically they're self medicating and especially if you do this for a prolonged period of time, what will happen is that there will be a subpopulation of the bacterial cells that will develop resistance to the use of those drugs, and that subpopulation will make more copies of themselves and more copies of themselves. And this then then spreads. And another problem with getting antibiotics over the counter is, apart from using them, you know, to self medicate is also to think about them when they are used for agricultural or veterinary use. So a lot of farmers in developing countries, basically just, you know, treat their livestock feed with antibiotics, because they want to ensure that their livestock are not being infected by bacterial infections or even for non therapeutic uses, such as like weight gain. And because, these farmers are not, they're not scientists, they're not doctors, they use them in concentrations that are self-inhibitory some concentrations are not. And what what then happens is that that selects antibiotic resistant strains in the livestalk. And one of the hugest sources of antibiotic resistant strains and fecal materials of this livestalk. So you treat them with antibiotics and the resistant strains that are shead through fecal materials are released on the farms, and in many places they use these fecal materials as manure So they use it and also take it and they're put on other farms. And this is how it then begins to spread and get into the environment. And there are evidences that groundwater also, or runoffs, also then, you know, move this antibiotic resistant strains into water bodies. And that also begins to select for resistant strains in aquatic ecosystems. So, although it is what one person does somewhere, the person thinks it's a standalone thing that he's done. No, it's it has a ripple effect. And this is how it basically spreads."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "15:33",
+    "text": "While overprescription and ease of access are big problems in terms of creating resistance. Dr. Van Boeckel told us about the biggest driver."
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "15:43",
+    "text": "Animal agriculture actually uses the majority of antimicrobials that are produced on this planet. So about three quarters of antimicrobials produced are actually used to feed mostly chicken, cattle and pig. And the reason for that is easy treatment, but that's very likely a small share of the cut. And then there's more systematic use for disease prevention and for growth promotion, which ultimately helps increase productivity and so the income of the farmers. And so that's, that's essentially the source of the problem. Most antibiotics we use, are actually used in animals. So there's, you know, we tend to recognize three routes by which antibiotic use in animal can eventually have effect in humans. The first one is direct contacts from humans with animals. So that would be the case of mersa, we get soft tissue infection, a farmer touches the tails of his pig and gets to an infection to the skin of his hand. The second process would be through foodchain. So that would be, you'd be buying a piece of chicken, maybe you don't cook it quite enough, it was contaminated with salmonella carrying drug resistant genes. And then you get an infection from eating the salmonella. And the third way, which is the hardest to quantify, if you want, but also potentially the one of the main mechanism, is that animal adapted pathogens would exchange resistant genes with human adapted pathogens. Now trying to track this sort of a chain event is extremely difficult. It requires really in depth genetic investigation, but essentially we have very little information about the magnitude of this third phenomenon compared to the two first ones. And so I think that as long as we don't know exactly how much of the resistant genes that we have in human pathogens were initially acquired in animals, we can't draw definitive conclusions on the exact role of animals. But given the amount of antibiotic use in animals, we have to consider the possibility that this is actually an important truth."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "17:43",
+    "text": "When animal adapted pathogens exchange genes with human pathogens, this can lead to the resistance that these animal pathogens have developed due to the misuse of antibiotics being transferred to pathogens that can then infect humans"
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "17:56",
+    "text": "to better identify and tackle the issue of emergence of antibiotic resistance. Dr. Van Boeckel and his research group are trying to create an atlas of trends in antibiotic resistance in animals across the world, and have recently published their results in a study highlighting the worrying trends of increased antibiotic resistant genes in animals being raised in low and middle income countries over the past 20 years."
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "18:21",
+    "text": "So that study starts from a simple observation that most high-income countries have now developed a systematic surveillance system to monitor trends and resistance in animals and humans. On the other hand, we also all know that it's mostly in middle income countries, that meat consumption and livestock product consumption is increasing the fastest, and it's increasing big, especially in China and India, the volumes we're talking about are gigantic. Now, the paradox of all that is actually little public data available about the trends and resistance in those countries that have a booming livestock sector. And so what we try to do with with my collaborators, that we try to gather all the evidence that was available in the public domain. And so that would typically be veterinarians who go around the university around the Institute, sample what's going on. The objective is not always to do surveillance, the objective might be to find new resistant genes. But it means that they measure resistance in the process. And what we did is that we collected a few hundreds of surveys almost 1000, and tried to then extrapolate the results of those surveys to all low and middle income countries. And the main objective was to create a map to sort of decide priority for action. So if you're international funder, why should you fund additional surveillance effort in priority. And the second objective is to create a baseline so that whatever those countries do in the future, maybe some will do better, maybe some will do worse. And then we sort of have a point back in time where we can compare the future situation. From the evidence available, where we see the biggest hotspots of resistance is in South India and Northeast China for the most part, also places like Turkey and Iran. I think the common characteristic between those region is that these are middle income countries where the population is demanding more livestock products. And so around the big cities in those regions, you have quite a huge industrial animal production that's being put in place, and it's probably using a lot of antibiotic. And that's why we see such high level of resistance."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "20:30",
+    "text": "We're seeing a growing amount of antibiotic resistance. But how are we currently treating infections that don't respond to antibiotics?"
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "20:37",
+    "text": "So superbugs are bacterial species that are resistant to many antibiotics, alright, so we treat them and they don't die. They've developed very brilliant means to defend themselves against these antibiotics. And because of that, the medical community are trying out different kinds of options to ensure that patients are saved, and that people can live on their lives. And one, one very popular one is combination therapy, which is using more than one antibiotics to treat multidrug resistant bacterial species. The essence of this is that, you know, each antibiotic would probably inhibit the target protein in different pathways, or, in some situations, you could be targeting the same protein in different parthways, you know, so that way you're trying to mount as much drug action on the bacteria just to disarm it, right. An other options, which is quite popular also is social condition therapy, but this time, it is like an antibiotic adjuvants combination. So adjuvants are basically these substances that which by themselves do not have any bactericidal activity, but when used in conjunction with antibiotics enhance the activity of those antibiotics, right. And one notable way that they work is some adjuvants helped to inhibit drug resistant genes. So by hitting drug resistant genes, you allow the antibiotics to work. A very popular antibiotic that works this way is Augmentin. So yeah, so these are these are the current treatment options that are being used to treat superbugs."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "22:21",
+    "text": "However, treatment options can differ by country. In some countries, antibiotics are available over the counter, which can lead to overuse as we've heard. In other countries, a treatment called phage therapy is available."
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "22:32",
+    "text": "In the Eastern Bloc, say Tiblisi, Georgia, Estonia, the tri-phage therapy, so phage therapy comes from the use of bacteriophages to treat bacterial infections. And bacteriophages are viruses that infect bacteria. And this is based on the principle that these bacteriophages are naturally able to infect bacteria. So they interact with bacterial cell surfaces in their fibers. And by that initial interaction that enables them, then inject their genetic material into the bacterial cell. What then happens is that they make more copies of themselves, and eventually they lyse the bacterial cell, then, one phage can eventually, by injecting its DNA into the bacterial cell, can eventually make more than 300,000 copies of itself. And they go on like that to infect other bacterial cells around that micro environment. And by so doing they kill all the bacteria, affecting bacterial cells. So this in places like Georgia has been practiced where they have then made phages into tablets. So you go into the pharmacy, and they can actually give you phages just as tablets to treat your bacterial infection. And these these things are not obtainable in the West here, where phage therapy is basically just used as an emergency treatment option. So there are a few people who have tried because it's still experimental, in the West. So there are people who, probably after they must have tested different antibiotics, and the last resort they have is probably to try something experimental, then they opt for phage therapy, which interestingly, has been quite successful from various examples that are out there. So it varies from country to country in the West here, as you know, mostly trying out stimulation therapies. In the Eastern Bloc phage therapy. In developing countries, research is quite lacking and it's difficult."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "24:32",
+    "text": "Although phage therapy is not a first line treatment for antibiotic resistance in North America, it is still being used as an emergency treatment in certain places in the United States with success. However, there are some concerns about how phage therapy can impact someone."
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "24:46",
+    "text": "So one of the concerns about the use of phages is the way they kill bacteria. So they inject their genetic material into the bacterial cells make more copies of themselves and then they lyse the bacteria. So the implication of that is that that by the bacterial cell lysing, that would then lead to the release of some bacterial endotoxin into the host microenvironment. And that could instigate some complex immunological reactions. Right. So that's one of the concerns of using phages to treat bacterial infection, although we've seen from people who have been treated with phages that this hasn't been the case for them. All right. Another another concern is that it's difficult to measure the dose response code, because you know, these phages are rapidly replicating, they're making more copies of themselves. So it's difficult to really measure, you know, dosage because you're replicating and the dosage that you give, the patient, is not exactly what's, what the output is, because they make more copies of themselves, they keep making copies of themselves. And because research in this field, we're still lacking some knowledge, we do not essentially know how the host immune system reacts to this. So the question has always been, does it eventually flush, so when all the battery cells die, does the immune system just flush out these phages out? But the cool thing is, there is no evidence that phages interact with eukaryotic itself. So that's not something to be worried about for now, as much as we know."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "26:19",
+    "text": "While there are many ways to combat bacterial infections, more research about potential solutions is always needed. And researching new antibiotics comes with its own challenges."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "26:29",
+    "text": "CARB-X was started with this very mission in mind. It is a global nonprofit partnership funded by the US to accelerate antibacterial research around the world. We spoke to Dr. Erin Duffy, their chief of research and development to hear more about the work being done there."
+  },
+  {
+    "speaker": "Dr. Erin Duffy",
+    "time": "26:44",
+    "text": "The \"CARB\" in CARB-X means combating antimicrobial resistance and the \"X\" is meant to stand for acceleration. So we are a biopharmaceutical accelerator. We're a global, not for profit organization led by Boston University, and funded by three international governments in two foundations. So the United States government through ASPR, BARDA, and the NIH. The UK Government and the German government, as well as the Wellcome Trust and the Bill and Melinda Gates Foundation. My role there is head of R&D. So our mission is and I think it's so much easier to articulate today, than, you know, a year minus one ago, before the pandemic hit. So while we don't focus on viruses, we focus on maintaining and building a pipeline of products that are meant to treat, prevent and diagnose bacterial infections."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "27:47",
+    "text": "CARB-X was founded in 2016, with up to $480 million dollars US to invest, and currently has a number of novel projects that they are supporting."
+  },
+  {
+    "speaker": "Dr. Erin Duffy",
+    "time": "27:56",
+    "text": "What we have in our portfolio today, we have 36 treatment programs. And of those many are direct-acting small molecules. But the novelty there is either that they are a completely new class, so they're not a penicillin, they might act in the same way as a penicillin does, but they don't look like penicillin. We also have small molecule antibiotics that not only have a novel class, but also a novel way of inhibiting or killing the bacteria. And the novelty, the degrees of novelty are important because of resistance. And so you know, if you think about it for a moment, if an antibiotic comes in looking like a penicillin, then the bacteria are going to know, you know how to how to change so that they render it ineffective, or in that case, you know, use sort of molecular scissors to cut the penicillin open and make it not work anymore. And so all of a sudden, if you're bringing in something that the bacteria haven't seen before, it's gonna take them a little while to think about, you know, how to to modify or mutate themselves to render them ineffective. Within the treatment portfolio, we have a lot of programs that we refer to as non traditional for that reason, so they're not direct-acting small molecule antibiotics. And so in that area, we have all sorts of programs where, you know, examples would be anti virulence. So, you know, these aren't targeting the bacteria specifically, but often they'll be used, you know, with an antibiotic but but they are making or rendering the bacteria, the infection, less virulent. And so we have examples in all stages of development, our portfolio, including one in first in humans, that GlaxoSmithKline is doing for recurrent urinary tract infections. So again, not targeting the bacteria itself, but in that case, targeting an adhesion site so that bacteria can't bind to the epithelial wall of the bladder and therefore establish infections. So that's an example of anti virulence. And we have CRISPR programs, CRISPR phage programs, both actually in prevention, but also in treatment. So these are engineered phage, which is pretty cool. Immune directing program, so in that case, we have a traditional antibiotic that's tethered to an epitopes. And the idea there is that it would harness the immune system so that you have a bigger effect than you would by using the antibiotic alone. We have therapeutic antibodies. So just an entire range of programs that are meant to, you know, provide ultimately many different ways, you know, to attack bacteria and of course, bring value to patients."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "30:49",
+    "text": "In addition to a number of strategies for treating infections, CARB-X is also supporting projects to prevent infections with antibiotic resistant bacteria before they happen."
+  },
+  {
+    "speaker": "Dr. Erin Duffy",
+    "time": "31:00",
+    "text": "In the prevention arena, we have vaccines, so you're hearing a lot about vaccines for COVID. But we are building bacterial vaccines as well. So if you think about and, again, infections, whether they're bacterial or viral, having a way to prevent them from happening in the first place would be great. And so you know, an example of a vaccine program that we support is focused specifically on a type of bacteria called klebsiella pneumoniae, and klebsiella pneumoniae typically causes respiratory infections, it can also cause bloodstream infections. And, you know, an area where, you know, there's great concern these days is in something called neonatal sepsis. So again, babies dying, you know, for bloodstream infections, and it's been known lately that a causative agent of those is klebsiella pneumonia. And so if you could have a vaccine that would prevent that, then, you know, you could certainly have babies that wouldn't be dying, you know, from these infections. Of course, this is particularly a challenge, in low middle income settings. We also have live biotherapeutic, or microbiome projects, we have a couple in portfolio. And there the focus is on typically on decolonization of, you know, the gut of, you know, bad bacteria, so that in cases where the stomach wall is breached, and these leak out, then they can get in the bloodstream and cause infection. And so, going in and removing the bad stuff and enhancing the good stuff. That's what those programs do. I mentioned phage, we have some preventative phage programs that have a similar tone in terms of decolonization. But we also have a program that's using phage as a delivery vehicle to, you know, put something into the bacteria. So again, many different approaches there. We also have a small molecule program that's focused on preventing recurrent C. difficile infections,"
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "33:05",
+    "text": "As well as projects related to treatment and prevention, there's also a lot of ongoing exciting work to better diagnose infections."
+  },
+  {
+    "speaker": "Dr. Erin Duffy",
+    "time": "33:12",
+    "text": "Finally, in our diagnostics portfolio, we think of that more in a syndromic way. So you know, where we have diagnostics that are focused on bloodstream infections, or lung infections, or urinary infections, or sexually transmitted diseases, and there the focus is on rapid bacterial identification, but not just \"oh, this is E. Coli\", but also the drug resistance phenotypes and genotypes there, and then also automated susceptibility testing that would occur in the hospital. And the reason I should say that we double down on diagnostics as part of the portfolio is that it's really for two reasons, and one is for the conduct of clinical trials for treatment and prevention. So I'll give you an example. We have programs in portfolio that are laser focused on a single pathogen. Okay. Acinetobacter Baumannii, you know, which the concern about that pathogen is drug resistance and lethality. But people when they get an infection, don't walk into the emergency room wearing a T shirt that says, I have an Acinetobacter infection, okay. But you know, if you don't treat them with an antibiotic that is able to cover Acinetobacter, you know, that's not going to be very good and they can die. But often if the infection is really life threatening, you don't have two days to wait around to do your typical susceptibility test. So you need something that's going to be able to address that quickly. So that's where diagnostics is very important to the uptake of our products."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "34:51",
+    "text": "Dr. Duffy has shared a diverse and exciting research CARB-X is supporting. Some of this research is also happening closer to home at the University of Toronto. Chidozie told us more about his exciting work on tailocins, a molecule naturally produced by some bacteria that they use to fight off competing bacteria."
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "35:11",
+    "text": "Tailocins are actually bacteria cells. So they are these proteinaceous molecules that are produced by several bacteria. And they are naturally included in bacterial cells. So you look into the bacterial genome and you see them including some tailocin foci are encoded within the bacterial genome. And we think that tailocins are naturally used as weapons to outperform other strains that coexist within the same ecological niche. So we think that because bacterial cells, and bacterial species and strains are also always competing for nutrients and space and all that, where it is limited, they need to compete with each other. And so we believe that tailocins are what they naturally part of what they naturally used to outcompetes their neighbors that live within that same natural environment. And the interesting thing about these tailocins is that they are very specific in action being they have a narrow spectrum, which makes them very excellent candidates for targeted therapy, right. So, even within the bacterial species, there is another differentiation, which is at strain level, right. So you know, how we have the genres, the subspecies, we also have the stream. So even within between these strains, there are differences and tailocins produced on one strain, we've seen them able to kill all the strains and not kill strains that produce them. So we think that this is a form of defense that they use to offer from their neighbors in their natural habitat."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "36:46",
+    "text": "As Chidozie shared, tailocins are specific to a strain of bacteria, which makes them great candidates to target certain types of dangerous bacteria that might be antibiotic resistant, while leaving our healthy bacteria alone, such as the bacteria in our gut. So what type of tailocins does he work on?"
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "37:01",
+    "text": "So the tailocins that I work on in the lab, are those produced by Pseudomonas Aeruginosa. So Pseudomonas Aeruginosa is a gram-negative bacteria, which mostly causes opportunistic infections, and say, and it's mostly implicated in patients that have cystic fibrosis, that is the genetic disorder that allows mucus to clog in  the lungs. And we've seen a huge amount of Pseudomonas Aeruginosa colonize patients that have cystic fibrosis. They're also implicated in patients that have wounds, open wounds and burn patients, so they involved in colonizing wounds and burn patients as well. We work on tailocins that are produced by Pseudomonas Aeruginosa. And because our lab is a phage lab, so it's difficult to talk about tailocins without having to talk about phages, because tailocins structurally resemble phages their structure resembles the tails of phages. So, the way they differ from phages is that they do not have a genetic material that is that is packaged in the head. So the phage has a head and a tail. And in the head is a genetic material, which is been introduced into the bacterial cells that they kill. But that's not the case for tailocins. Tailocins, they resemble the structure and even genetically also resemble the tails of these phages but they do not have a head and they do not have a genetic material, which makes us think that they have evolved evolutionarily differently. And they have adapted a very unique way of killing bacterial cells that are different from phages'. So the phages have been around for such a long time they were first discovered even before antibiotics. So we thought that because they're always concerned about, one major concern about phage therapies, people are quite paranoid about, taking in a replicating entity. And so we thought, okay, tailocins do not replicate, they're basically just proteinaceous molecules, so maybe if we worked on them and we made good progress with them maybe they could be something really interesting in the future."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "39:14",
+    "text": "Tailocins still need to be tested in mice and other preclinical models before they can be assessed in humans. It's also not clear yet what potential side effects there might be. However, Chidozie strongly believes the tailocins could be an important tool to fight antibiotic resistance in the future, and is planning to start a company following his PhD to pursue them further."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "39:33",
+    "text": "While innovation in the field is essential and ongoing, system wide policy level changes are required to tackle the threat of antibiotic resistance. Dr. Van_Boeckel tells us about the successful changes that have occurred so far."
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "39:48",
+    "text": "Well, I think you know that there's a few things that have worked pretty well in high income countries, which has been quite important investment in improving the conditions in which animals are raised. So that might be reducing stocking densities. But first and foremost is hygiene. So more frequent cleaning on the farm, basically all these actions that you can take to reduce the need to use antibiotic in the first place. And I think there there's really an opportunity to help middle income countries who are intensifying production moving to more factory farming style of farming, to try to do that in the most sustainable way when it comes to antibiotic use. And so one of our suggestions in that paper was to say, you know, if low and middle income countries do that step very well, that will benefit everyone around the world. And so there's a case to be made even for a high income country to help a low and middle income country upgrade the hygienic standard of production, because ultimately, everyone benefits from that."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "40:51",
+    "text": "While countries are beginning to try to address the issue of antibiotic resistance, there's still a lot of room for improvement."
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "40:58",
+    "text": "I think high income countries have more to do, you know, even within high income countries, the level of antibiotic consumption in animals between country can vary from one to three, basically. And so I think, if high income countries are to encourage low income countries to take certain steps, the least they can do is be exemplary about this. And so I think that we are in no position to advise, or even encourage, if we don't get our business in order first. And and I think, you know, until a few years ago, it was quite clear that for many low and middle income countries that had a booming livestock sector and little regulation of antibiotic use in animals, but as long as the United States was such a high consumer, it feels like the conversation was a little bit blocked, because they're like, \"Oh, well, why aren't you doing it?\". And so I think we need in the high income countries to move in the right direction, and then try to provide solutions to other countries that want to follow that track, but also really try to recognize that high income countries actually created the problem of resistance in the first place. And that if low and middle income countries are doing efforts now, and this is having an impact in the livestock sector, I'm personally of the opinion that we should support them financially, if they make choices that benefit the whole planet."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "42:16",
+    "text": "Chidozie expands on the challenges of implementing policy level changes."
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "42:20",
+    "text": "You know, the interesting thing is, in a system that works, where there are checks and balances, it is easier for policies to be implemented. And I must really say that there are also like international bodies that unite developing and developed countries in the concerted efforts to fight antibiotic resistance. But the problem is that when all these policies are made, and they are brought back to developed countries and implemented, in developing countries there are loose ends. So it is not that developing countries actually don't know what to do, they do know what to do. There's a lot of bright mindsets, a lot of, you know, professionals there, who know what to do. But the problem has always been implementation of these policies. And how to implement policies, it is by having viable institutions that are able to ensure that those policies that have been set up, right are implemented, that is what we enjoy in developed countries. That is why we can say that we are going to invest 100 billion dollars into certain project, and they're able to monitor the progress of the projects in the next 10 to 15 years. But is that the case everywhere else in the world? Maybe not. So..."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "43:34",
+    "text": "An important consideration is the balance of current versus future costs that come with investing in antibiotic resistance research and solutions."
+  },
+  {
+    "speaker": "Dr. Thomas Van Boeckel",
+    "time": "43:43",
+    "text": "You know, either removing antibiotic from production, or making investment in better hygiene standards are likely to result in an increase of cost. However, you know, we have tried to quantify this increase, it is not a dramatic increase. We estimated at between 1.3 and 3%, in a report with it for the OECD. But nevertheless, this is probably an increasing cost to change the way we do things. But then I would say that, we have to look at how we discount the future. Because if you want to be rich tomorrow, okay, don't change anything about the way you do things. If you want to create a sustainable future, it is clear that if we keep using antibiotic effectiveness, which can be seen as a natural resource to grow pigs and chicken, that's perhaps not the best use of such a precious drug that we can use if we want to be able to use it in the future. So I think that the idea of business-as-usual is is why short term in my view. What I think, you know, it's a bit like climate change now, but there are no, there are a few antibiotic resistance denials. I think most people are aware of the issue. The question is a bit hard to respond to that. I think there's room for improvement on a collective level. Well, it's obvious that we need drugs. But it's a bit like, you know, admitting that we're going to run out of fossil fuel at some point and some people say we just need to find new reserves of oil. I think relying only on the sort of innovation track is too limited a view to try to fix, we got to fix the problem like that. And there's actually quite good evidence that it's not economically sustainable, because every new drug we discover becomes marginally more expensive. So I think that we need to make ways more effort on the side of conservation of existing drugs, trying to do all the efforts we can with stewardship, to try to limit the use of good drugs that we already have, rather than just focusing on finding new drugs. I think there's been, there's been quite a few interesting conversation about new funding models to fund antibiotic. And I think this is crucial, because we have to acknowledge that antibiotic manufacturers in the current model don't make much money. And it's hard to pay back the investment. So maybe we need to move to different funding models by providing either market entry rewards or things like patent extension that are transferable to, to other drugs. These are all interesting ideas to foster innovation. But whatever can help preserve the existing drug need to be more present in the conversation, I think."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "46:13",
+    "text": "As Dr. Van Boeckel highlighted, one big challenge of developing new technology in this field is the lack of funding. Dr. Duffy tells us how the nonprofit CARB-X helps tackle this very issue."
+  },
+  {
+    "speaker": "Dr. Erin Duffy",
+    "time": "46:26",
+    "text": "You know, it's not as if you know how we use antibiotics necessarily has changed. But if you think about it, antibiotics are the cheapest life saving drugs, okay. Typically, when you have some infection, you're going to be given an antibiotic for 5 to 14 days, and you're going to be cured. And that's the end of that. Okay, if you contrast that with a cardiovascular medicine, or you know, a depression medicine, let alone your lifestyle medicines, these are things that you're going to take every day for the rest of your life, and a lot of other people too. And so you don't have to necessarily price those as high, but they're chronic therapy. So you have antibiotics, there's only so much people who are going to be willing to pay for an antibiotic and you don't have that continued revenue stream. So it's just a very different market. And so yet, I guess the other point here is that it doesn't cost any more or less to develop an antibiotic. So if you're a company, putting all of the resources into making them, you can't recoup your investment. It was recognized around 2015 that because so many companies had exited the area of antibiotics, there wasn't a lot of new discovery. So that preclinical stage going on. There were still companies that once you had a promising clinical candidate would take those on and support development. There were also organizations like BARDA in the US government who would support advanced development. But there wasn't a lot of support for the preclinical work. And of course, investment in that area, as you can imagine, from venture capital, or private equity really dried up too. And so CARB-X was created to address that very area, which is, of course, you know, what we call the \"valley of death\", but I think there are a lot of \"valleys that death\" along the way anyway, so we support everything from what we call \"hit to lead\", which is is a way of saying that, you know, you have something that a molecule or a vaccine cocktail that you think can be made into a product. "
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "48:42",
+    "text": "The lack of funding in the early preclinical phase of antibiotic development is a big challenge for many projects that are looking to innovate in this field. Dr. Duffy tells us how CARB-X provides support for these companies and these crucial early stages."
+  },
+  {
+    "speaker": "Dr. Erin Duffy",
+    "time": "48:54",
+    "text": "So we are actually very unique in this area. We do provide funding and it is non dilutive, completely non dilutive. So, the company owns the IP, you know, there's no equity stake that we take, it is completely non diluted. But what we also do is provide a whole set of what we call wraparound services. And, and what that means is, once we bring a program into our portfolio, we build a team around them. And what we often try to do is find subject matter experts from around the world who have expertise in areas where maybe the team is a little weak. And most of our companies are very small entities. I mean, we have a company in California, that I think it's five people and their lab is literally in one of these places, you know, where you see like people do long term storage, you know, with a corrugated, you know, steel door, you know, all the way up to we do support some larger programs too. But anyway, those small companies will have a depth of expertise but not a breadth of expertise and so we tend to build teams around them that do. We also internally have a research and development team that that's my group who, you know, then can also help to shepherd that science."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "50:13",
+    "text": "We've discussed a lot of work being done by companies and on the research and policy level, but what can we do as individuals to help prevent and mitigate this important issue?"
+  },
+  {
+    "speaker": "Chidozie Ojobor",
+    "time": "50:22",
+    "text": "Wash your hands at all times, keep your wonderful hygiene, where you're in, be careful of how you touch fomites, such as like beddings and materials in hospital settings, because there's an increased report of antibiotic resistance in nosocomial infections, you know, such as notorious Methicillin-resistant Staph. Aureus. So you want to be completely careful, make sure you take your prescription as written by a doctor, complete your prescriptions. And yeah, so it's mostly you know, your hygiene, follow doctor's prescription and do not misuse drugs. Don't take antibiotics for flu. Antibiotics do not kill flu, antibiotics do not kill fungal infections. Antibiotics are required to treat bacterial infections and we should all be responsible in our own different ways. It's a huge fight. It's a huge fight. And if you think about the fact that over 10 million people will die by the year, yearly, by the year 2050, if nothing is done, then that is enough to scare anybody. Right so we should be respond."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "51:37",
+    "text": "A growing number of infections, such as pneumonia, tuberculosis and gonorrhea are becoming harder to treat as the antibiotics we use to fight them become less effective. The misuse and overuse of antibiotics all around the world is accelerating the process of bacteria becoming resistant to them."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "51:56",
+    "text": "Without global changes, we will run out of effective antibiotics before the end of the 21st century. This will make both prevalent bacterial infections and many current commonplace medical interventions, from getting stitches to surgery, exponentially more dangerous. In addition to more funding and treatment advancements, we must make changes to our practices at the industry, policy and individual level if we're going to protect some of our most valuable medicines."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "52:22",
+    "text": "Thank you for listening to Episode 93 of RawTalk podcast. A very special thanks to our guests, Chidozie Ojobor, Dr. Thomas Van Boeckel, and Dr. Erin Duffy for speaking with us and sharing their insights. To learn more about their work, check out the links in our show notes."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "52:39",
+    "text": "This episode was hosted by myself, Grace, and Yagnesh. Anam helped conduct the interviews and Stephania helped develop content. Yagnesh was our executive producer, and Alex was our audio engineer. Be sure to check out our next episode in two weeks, where we discuss the psychology of abuse. Until next time."
+  },
+  {
+    "speaker": "Yagnesh Ladumor",
+    "time": "52:58",
+    "text": "RawTalk podcast is a student presentation of the Institute of Medical Sciences in the Faculty of Medicine at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the Faculty of Medicine for the University. To learn more about the show, visit our website rawtalkpodcast.com and stay up to date by following us on Twitter, Instagram, YouTube and Facebook @rawtalkpodcast. Support the show by using the affiliate link in our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify or wherever else you listen to podcasts and rate us five stars."
   }
 ]
