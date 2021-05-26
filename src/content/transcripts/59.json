@@ -1,7 +1,517 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Max Strauss",
+    "time": "0:00",
+    "text": "What's up listeners? Before we get started, we wanted to invite you to Raw Talk's upcoming event, Medicine Meets Machine."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:06",
+    "text": "The emerging world of artificial intelligence and healthcare. Join us on May 7 for some awesome panel discussions followed by a networking event."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "0:13",
+    "text": "We got refreshments, we got food, we got a bouncy castle."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:17",
+    "text": "Max, Max! Don't give it all away."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "0:19",
+    "text": "John Stamos."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:20",
+    "text": "Check out the event page link in the show notes. So without further ado, welcome to Episode 59 of Raw Talk."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "0:26",
+    "text": "Are you ready to get personal?"
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:40",
+    "text": "Hi, listeners. I'm Grace."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "0:42",
+    "text": "And I'm Max."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:43",
+    "text": "Today's episode is a special one for us. Max and I met because of one of the studies that we're going to talk about today."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "0:48",
+    "text": "Our first experience with research was when we both spent a summer in Dr. Jim Kennedy's neurogenetics lab, working on phenotyping for studies aimed at personalizing psychiatric treatment. "
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "0:58",
+    "text": "We learned a lot that summer, including that we both wanted to do graduate school from Dr. Kennedy, Director of the Tennenbaum Center for Pharmacogenetics, as well as our second guest, Dr. Daniel Mueller, Head of the Pharmacogenetics Research Clinic also at the Center for Addiction and Mental Health."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "1:12",
+    "text": "We also sat down with Dr. Christine Bear, a Senior Scientist in the Molecular Medicine Department at the SickKids Research Institute. She's also the Director of the Program for Individualized Cystic Fibrosis Therapy, or CFIT."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:25",
+    "text": "This is a collaborative program aimed at developing the resources and tools necessary for achieving a precision medicine approach for treating cystic fibrosis."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "1:33",
+    "text": "We're excited to explore the topic of personalized medicine since it's so well, personal."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:38",
+    "text": "As our understanding of human genetics increases, we are discovering why we differ so much in everything from what symptoms we present with to how we respond to treatments."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "1:47",
+    "text": "For example, many people react badly to certain antibiotics, while others don't seem to react at all. In fact, when prescribing drugs to patients, the differences in outcomes can be dramatic."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:57",
+    "text": "The top selling antidepressant Cymbalta only improves symptoms of depression in one patient for every five prescribe the drug. The same goes for Crestor, the leading high cholesterol medication with only one in 20 patients showing improvement."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "2:11",
+    "text": "So why do people differ so much and how they respond to the same treatment for the same condition? Well, it turns out that our genetic makeup plays a huge role in everything from how we metabolize drugs, to whether or not we even have the receptors capable of binding them"
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "2:25",
+    "text": "as our understanding of how our genes influence our response to medication grows. It's transforming the drug industry."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "2:31",
+    "text": "Not every treatment works for every patient. And this idea is revolutionizing the way we practice medicine."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "2:37",
+    "text": "One area where personalized medicine is really taking off is in how we approach cancer treatments."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "2:42",
+    "text": "And this method is something that we are starting to see spreading throughout the scientific and medical community with personalized medicine becoming a very hot topic."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "2:50",
+    "text": "But it's also a very broad topic. And we want to hear from some experts about what exactly personalized medicine means in the scientific context."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "2:58",
+    "text": "We sat down with our mentors, Dr. Kennedy and Dr. Mueller, and ask them what exactly is personalized medicine?"
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "3:06",
+    "text": "Personalized medicine for me is your personal DNA signature. But it also includes non DNA factors like stress levels you have, whether you smoke or not, and your job satisfaction. I can add a layer of epigenetics, which includes DNA modifications, which is partly influenced by the environment. So to me personalized medicine is starting with the DNA and then measuring all the circles of increasing complexity of the human themselves and then of their relationship to their family, and then their community. And all the environmental factors interacting with that person."
+  },
+  {
+    "speaker": "Dr. Daniel Mueller",
+    "time": "3:58",
+    "text": "Well, the idea of personalized medicine, obviously, is to choose and to predict a treatment or an intervention that fits the patient or the individual in question to that extent that the personal needs are met. If you think a little bit about medication, sometimes they're rather prescribed as one-size-fits-all kind of approach, right? And then you wait and see. If you're lucky things things work well without side effects. But if they don't, you might have to switch medications over and over again. Right. I would think that the concept personalized medicine could be seen in two ways. In a broader sense, medicine and psychiatry has probably ever since been to some extent personalized. Just by clinical experience, you would certainly choose certain medications based on the symptom profile, you would maybe adjust the dose based on the age of the patient or the gender. You would probably also take into account pre-existing medication or co-existing medications. In a certain way, personal medicine just really means that you are treating a special individual with all kinds of facets that are attached to that person. But in in a more modern sense personalized medicine rather applies to typically what we would call biomarker driven medicine, which is, you would also consider biological measures such as genetics, for example, in order to make a more precise estimate of which medication might better serve the purpose."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "5:34",
+    "text": "As Dr. Kennedy and Dr. Mueller mentioned, people experience many side effects from psychiatric medications."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "5:40",
+    "text": "Because of this, drugs are often prescribed on a trial and error basis over periods of weeks to months to years."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "5:47",
+    "text": "That's gonna have a huge impact on somebody's life. We want to know what some of these side effects were."
+  },
+  {
+    "speaker": "Dr. Daniel Mueller",
+    "time": "5:52",
+    "text": "Let's start with antidepressants. Most of the time, people will complain about some gastrointestinal symptoms in the beginning, in the first weeks, they will maybe feel somewhat nauseated. Some people feel over sedated. Some people feel restless. So these are typical side effects at the beginning of an antidepressant treatment. Now, the good news is that these effects often tend to go away. if people are willing to tolerate them. Tthe recommendation here is to go slow with the medication and to get the organism, time to adjust. Other common side effects was with most antidepressants, and people do not usually like to talk about them, neither the physicians, neither the patients, are sexual side effects, but they're quite common. And why because antidepressants can affect basically the three levels of sexuality, which is the one thing the libido, the physiological reaction, physiological predisposition. So, we're talking about erectile dysfunction in men, or lubrication problems in females. And third orgasmic dysfunction, which is often described as delayed orgasm, where people really struggle with having their sexuality in a fulfilling way. And I'm saying this, because, again, it's often then not verbalized, and patients then tend to not take the medications, when they notice that, but they don't inform the doctors, because they might be a bit too embarrassed. And again, some doctors also may don't want to talk about that all the time. So it's important to know and I would always argue to bring it up in any kind of conversation. Then there can be antidepressant and that's important for young people, that can be the paradox effect that some antidepressants cause restlessness in young people, and it might do so also in adults, but typically, for some reason, it's often more pronounced in younger people. We talk about people in adolescent age, and maybe early adults, and this restlessness, which is extremely unpleasant has sometimes probably provoked suicidal acts. So some people who have felt this restlessness, they were already, let's say, low in mood, they were already desperate and other feelings. This is kind of torturing restlessness and then sometimes impulsively, they might just act upon that by killing themselves. And that's why it's extremely important also to discuss that at the beginning of the treatment, and safe usually, if you feel restless, stop the medication immediately and come to see me again, rather than to not say anything and misjudging this as a kind of an inevitable situation, right? And then, unfortunately, we often see metabolic side effects, people will become more hungry, if you wish, they get more, they get more appetite, and they eat more. And by that, of course, they then  can become obese and develop diabetes, for example. That is, you know, side effects in about 30% or so of people taking antipsychotic medication that should also be addressed right at the beginning, and discussed how to avoid it, because there are things that can be done to avoid weight gain, but they should be discussed again, early on."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "9:26",
+    "text": "To dive further into what constitutes pharmacogenetics. Dr. Mueller told us about why some people experience these side effects and why some don't."
+  },
+  {
+    "speaker": "Dr. Daniel Mueller",
+    "time": "9:34",
+    "text": "Pharmacogenetics and process medicine is all about reducing the likelihood of developing these side effects, right? If we look 10 or 15 years ago, we had no genetic marker. Now we have genetic markers, and it does make a difference in many people. It has helped many people to avoid the side effects and with more research we hope that we get even further and further to identify other genetic markers and whatnot, that will even allow us to predict more side effects than we already can. People's DNA sequence vary substantially and that can affect also enzymes which metabolize medication. You know, we're talking about common variations, we're not talking about super rare or rare variants, which might also affect medication treatment. But we're talking about those common variants, which might have randomly or maybe through evolutionary pressure evolved, and also, sometimes more in certain ethnic groups and others, right?  We know that metabolizer rates, for example, can vary dramatically between ethnic groups. And what I typically like to tell the students is to take the example, alcohol. And now everyone smiles typically at this moment, take the example of alcohol, where you know that certain people, mostly from Asian countries, East Asian countries, like 10, to 20%, do not tolerate alcohol very well. And that's because they have a phase one enzyme ALDH2, to where they have genetic variants, which makes them to become slow metabolizers, which reduces the enzymatic activity in these individuals. And as a byproduct of alcohol metabolism, acid aldehyde is being created. And this as a highlight is extremely toxic, and definitely also causes all those the symptoms that, you know, we can see these people. However, with a rapid metabolism acid aldehyde will not accumulate, and would not cause the symptoms. But if you now have an automatic lowered activity as an aldehyde, can accumulate and cause all these problems, right? And now, obviously, imagine now that alcohol would be at medication. Here we go, where we would see that some people will just not tolerate medication because they metabolize it differently. And talking about phase one enzymes like ALDH2, there are other ones. They're called CYP2D6, for example, or CYP2C19. They are also extremely variable in terms of the genetic variation in terms of the enzymatic activity. And these two enzymes are extremely important in the metabolism of many psychiatric drugs."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "12:15",
+    "text": "Taking this knowledge of the genetics of poor versus rapid metabolizers, Dr. Kennedy and Dr. Mueller work together as co principal investigators of the IMPACT project, with one primary aim to modernize the way that psychiatric illnesses are treated with medication."
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "12:30",
+    "text": "IMPACT Study is an acronym stands for Individualized Medicine, Personalized Assessment, and Clinical Treatment. And that study started in 2012. Its central core is delivering panel of genetic test results to a physician who's ordered this panel as a guiding set of information to help them decide which medication to prescribe for a given individual patient sitting in their office. And this is for psychiatric medications, principally antidepressants, and antipsychotics. So this strategy I've been thinking about for a number of years, the data in the literature was becoming more and more supportive. And I could see the trend and trajectory of this area that DNA measurement was getting faster and cheaper. And there was already some very good sort of anchor genes to get good knowledge from and those are the genes in the liver that break down 80% of all medications, in one way or another. I saw that we could get traction with those liver genes, and then add on the more complex area of genetic variation in the receptors and the parts of the brain where the drug goes, where it has its action. So we created a test hidden lab with a few liver enzyme genes and a dopamine gene and serotonin gene. And that was our beginning rudimentary personalized medicine test. Based on that done in a few hundred patients, we were able to convince the Ontario government to fund this very promising area for an extended period of time. It was six and a half years in order that we could test patients and then follow them over time and see how the patient reacts to the test. How well did the doctor deliver the test? How well the doctor understand the results and did the patient get better, faster, did the patient have fewer side effects, because all of these are the predicted outcomes. And we want to get them on the right drug early on in their psychiatric care journey, and get them better faster. And that is a big help for the doctor patient relationship. And it avoids the terrible trial and error method, which psychologists have been practicing ever since the drugs were introduced in the 60s. Trial and error in this day and age of DNA assessment is just not acceptable to me. Having some decent information about your patient, based on their blueprint is a much better way to approach prescribing medicines. "
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "15:54",
+    "text": "One of the exciting things about the impact study is that it cuts across all different disorders and is applicable for a wide range of people and their symptoms."
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "16:02",
+    "text": "It went across all mental health disorders was not a study of particular disorder, like depression, or schizophrenia, or bipolar or panic disorder. It was a study of the medications used in psychiatry. The medications were the starting point, not the diagnosis, but of course, we recorded the diagnosis. In 11,000, we have 700 bipolar patients 600 schizophrenia patients, 3500 depression patients 3000 patients with quite severe anxiety and then obsessive compulsive disorder and on and on even some Alzheimers patients, Parkinson's patients who tend to be put on these antipsychotic or antidepressant medications. You could say that's unfocused. But we're not doing a clinical trial, we're doing a feasibility study in a naturalistic study. This is the way doctors treat patients. To summarize the how, it's done with a simple saliva test. We extract the DNA in our lab, and we run this panel of genes. That number can iteratively be increased as the data supports it."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "17:30",
+    "text": "Once the genetic test is completed, and easily interpreted report is sent back to the physician who referred the patient. On the front page drugs are divided into three different bins, green, yellow, and red, depending on how well they will work with that individual person. There are also recommended dosages for each drug."
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "17:49",
+    "text": "If they like they can look on the second page of the report and see the individual genotypes and the individual genes and they can Google those genes if they like and they can dig deeper into the interesting science of that particular patient."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "18:06",
+    "text": "Integrating genetics and using a personalized approach for how a treatment is chosen for someone has implications not only for how effective that treatment will be, but also that person's experience with the healthcare system and stigma they may face."
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "18:18",
+    "text": "It shifts the focus onto the patient. It's their uniqueness, as opposed to the doctor, typically, and this certainly was in my training, a physician will be trying a number of different alternatives in all different patients. And over time, that physician will develop a kind of familiarity of sorts clinically, with a few medications. And so the doctor will choose the medication based on their comfort, their familiarity with a particular set of medications. But that leaves the patient out of the picture. So it's inherently a great idea for the medication selection to be based on the patient's biological makeup, as well as their, you know, their family situation stress levels, as I mentioned, it's there's genes and there's the environment, they both have to be considered. But this whole emphasis of the doctor deciding with some sophisticated algorithm, you start with this and then you double the dose and then if that doesn't work, you add on this or you switch to that. That's not based on biomarkers of what that person's body is doing inside. It's based on statistical results from large groups of patients that average everything. Anyway, the patient feels less stigmatized because there's a scientific test based on evidence that has chosen their medication. So that invest them in the treatment gives them more confidence in the prescription that the doctor has written. Because they know that it's not so much of guesswork on the part of the doctor or their own particular clinical algorithm for working through medication choices. So it's really beneficial for the patient and the doctor and most importantly, the relationship between the patient in the doctor."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "20:38",
+    "text": "The IMPACT Study focuses on developing a personalized medicine approach for mental disorders. But it's becoming more and more apparent that taking a personalized medicine approach can be beneficial when it comes to treating just about any disease or condition."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "20:49",
+    "text": "So let's switch gears a little bit and talk about another exciting personalized medicine project coming out of Toronto. Cystic fibrosis or CF is a fatal genetic disease. "
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "20:59",
+    "text": "The gene causing CF was first discovered right here in Toronto back in 1989, at SickKids Hospital."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "21:04",
+    "text": "Now 30 years later, SickKids is right at the center of a huge collaborative program CFIT the program for individualized cystic fibrosis therapy."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "21:14",
+    "text": "Thamiya spoke with Dr. Christine Bear, the director of CFIT. "
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "21:18",
+    "text": "I've been working in the CF field for almost 30 years, which is really mind blowing to me. And I arrived at SickKids just at the time that the CF gene was discovered. And they wanted someone with the skills that I had. Because they they learned that the CF gene coded for a protein that works as a pore and membranes to allow the movement of chloride. So sodium chloride, which is salt and water."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "21:47",
+    "text": "CFTR is a gene which codes for a protein that works as a poor or a channel. It's found at the surface of cells, and it's responsible for the movement of chloride ions."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "21:55",
+    "text": "Mutations in the CFTR gene can lead to a dysfunctional CFTR protein, which impairs the movement of fluid across the cell membrane and results in cystic fibrosis."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "22:05",
+    "text": "So as you know, cystic fibrosis is a genetic disease. The disease itself is a life shortening disease. It's basically progressive. So when the child's born, they're fine. Some of them do have obstruction in their intestine, but most of the time, they're fine. It's just progressive over time, there's a worsening of lung function, worsening of digestive functions as well, and reproductive function eventually. What happens in the lung is that because the CFTR chloride channel. The pore and the membrane isn't working properly. Fluid transport is impaired and you need fluid moving into the airways, surprisingly, because it keeps the mucus moist. And so cilia would beat to remove bacteria from the airways can move properly if everything is moist. But if you don't have the CFTR protein, that moisture is not there, it get sticky, bugs get stuck, so there's recurrent infection, inflammation, and eventually, that leads to serious damage to the lung and transplantation is often the only recourse."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "23:26",
+    "text": "It's hard to imagine that this fatal disease with complications that end up affecting so many different organ systems is caused by a mutation in a single gene. What exactly is going wrong at the molecular level in patients with cystic fibrosis?"
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "23:39",
+    "text": "So when I came, I started to understand what the CFTR protein normally does, and then what different mutations do. So there are a large number of mutations that lead to the cystic fibrosis disease phenotype. And we're still trying to understand why those mutations make the protein non functional or not get to the right place in the cell. But we know what the major mutation does. So the major mutation, we call that delta 508. That is found in most people with cystic fibrosis. So in Canada, there's approximately 4600 people who have cystic fibrosis and half of those people close to half of those people will have two copies of the delta 508 mutation. The normal version of the protein and there's quite a few parts to it, it packs together tightly and it's trafficked properly to the cell surface. But that's not true for delta 508. It doesn't pack properly, and only a limited amount of it will get to the search surface where it helps to move the fluid that I was talking about. So that's the big problem with this mutation. It's just not at the right place. And even a little bit of it does get to the right place, it doesn't work properly as a channel. So these are the kinds of of studies that happened over the past decades understanding what the mutation does. And now there's a lot of excitement really over the past 10 years in learning that small molecule therapies can actually rescue some of these problems."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "25:15",
+    "text": "Since the discovery of the CFTR gene at SickKids, a lot of work has gone towards developing small molecule therapies or drugs that target the CFTR protein."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "25:24",
+    "text": "The drugs that are currently available mainly target the most common mutation, delta 508. "
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "25:29",
+    "text": "But there are hundreds of other rarer CF causing mutations, which are not as well characterized. And the discovery of drugs that target these mutations is limited."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "25:38",
+    "text": "To make things even more complicated. Even a group of patients who have the same mutation, such as delta 508, can have huge variability in the types of symptoms, they experienced, the severity of the symptoms, and the response to a particular drug."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "25:52",
+    "text": "So, for example, with the delta 508, where there's so much problem and how the protein packs we know inside the cell, there are many other proteins that help that process. So if you don't have a proper folding protein, auxilary protein, then that could worsen the outcome of the delta 508. So we're understanding that there are secondary genes, we call the modifier genes, which modify disease severity, and that's coming out of huge international consortium studying modifier genes. So there is one, Health Canada approved treatment known for delta 508 patients who have two copies, one from the mother, one from their father, it's called Orkambi and it's a combination drug. So there's one small molecule compound, which helps the delta 508 protein form properly to get to the cell surface where it needs to work, and then a second one, making it work properly. So it's a combination. And in theory, this should have a restorative effect on all of the delta 508 proteins, and it does in generic cell lines inside of the lab. But once you start looking at tissues from different patients, you can see that when you add these drugs onto tissues from different patients, those tissues respond differently. And you see this in the clinic."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "27:21",
+    "text": "And this is exactly why a personalized medicine approach is necessary for treating cystic fibrosis. Even patients who have identical mutations in the CFTR gene can have different responses to the drug that Dr. Bear mentions, Orkambi."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "27:34",
+    "text": "In 2016, it was approved by Health Canada. It was approved in 2015 in the States, so we're having a lot of clinical data now. Health Canada has decided not to reimburse the costs of this drug, because the average response is modest. That doesn't mean that they're not people that respond very well but there's also people that respond very poorly. So the average is modest and because that average is modest, Health Canada has said no we're not reimbursing. But that is a big, big problem for CF patients, because it's the only drug that targets that delta 508 mutation. There are other treatments that they're getting are basically treating the symptoms. But there was nothing until Orkambi, which would treat the basic defect. Some people respond really well. That's the stories that the patients and their parents are hearing. My kid or I could be responding really well but there's no way that I can afford this drug, which is $300,000 a year per patient. Not all insurance companies agree to fork over that amount of money either. If you don't happen to work for a company, your parent doesn't work for a company that has an insurance plan, you are out of luck. It's just a real sense of injustice that these patients have. That's why there's a need to have some kind of predictive tool, a doctor can agree that someone should go Orkambi on a case by case basis. After they decide yes or no. Then it's up to the insurance companies, whether it's going to be compensated or not. But if there was some way that we could say, well, this person would do really well, you should reimburse this patient because it's going to save their life. That's that's the goal of some of the work that we're doing now to develop those types of tests."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "29:50",
+    "text": "Dr. Bear shared an example of such a predictive test that has been developed in the Netherlands."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "29:55",
+    "text": "What they're doing in the Netherlands right now is they're taking biopsies from every CF patient and testing what little tissue avatars they make. They make tissue avatars from the biopsy. So they're called organoids."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "30:13",
+    "text": "Organoids can be thought of as simplified miniature versions of an organ. They're made from a small sample cells that are taken from a patient."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "30:20",
+    "text": "As Dr. Bear refers to them, they can be essentially thought of as avatars, a representation of a specific patient's tissue that has an identical genetic background to that patient."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "30:31",
+    "text": "They test these avatars, these organoids, for the available drugs to see if the avatars respond. They've been doing this now for hundreds of patients. So they're not only looking at the delta 508, but they're also looking at other mutations which are rare for which there is no drug available and asking will or can be work on these, or will any of the other the other available drug like Kalydeco work on these. Because they've looked at so many patients now, they're starting to develop convincing correlations between what they can see on the avatars in the lab, and what's happening in terms of the patient outcomes. The correlations are looking good, and they're really turning heads all over over the world."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "31:21",
+    "text": "Back here in Toronto, the CFIT program is paving the way to a personalized medicine approach for treating CF. The goal the program is to create a comprehensive resource with patient-derived stem cells, genetic data and detailed clinical information. Dr. Bear told us a little bit more about how it got started. "
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "31:36",
+    "text": "The CFIT program is basically a partnership, a partnership between CF Canada. CF Canada is the major charity, which funds research and a lot of clinical work in Canada. So the SickKids Foundation, and CF Canada decided to fund this work. And what they're funding is the generation of stem cells from each one of the donors. We also call the 100 cell line project, because we're collecting from 100 individuals trying to cover the types of mutations and the frequency of those mutations that we see in Canada. And we're up to 80 of the 100. So we're getting there. And that started back in 2016. That's when we started our first collection, and then it goes to 2020. We're well on our way to getting our 100. To start, we're getting a swab of nasal tissue from each patient. So that's not as intrusive, and it's really continuous with the airway. That's the part of the the body which is most effective. Again, we're making these little avatars from the nasal tissue and testing drugs on on these tissues. So that's what we're doing in Toronto. At the same time that we're looking at avatar responses, we're using a stem cell approach to make all of the different tissues that are affected."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "33:07",
+    "text": "Now, this is really cool. Cells that are obtained from a patient like from a nasal swab can be reprogrammed in the lab to become stem cells. These stem cells will then have an identical genetic background to the patient, including their specific CF causing mutation."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "33:22",
+    "text": "Patient-derived stem cells can then be differentiated into just about any different cell type that can be found in the body, including those that are affected by cystic fibrosis, but are much less accessible."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "33:33",
+    "text": "I mentioned that the lung is most severely affected but the intestine is affected, the pancreas - there's no way to really access the pancreas and test that - reproductive tract, the bile duct, all of these tissues we can make by differentiating stem cells into those those tissues. And Toronto is a real hub of stem cell biologists. Jenet Rossant and who is are CEOs of research at SickKids. She came up with a protocol and her postdoc at the time, Amy Wong who is now a scientist here, a protocol for turning stem cells, IPSCs into lung. And Gordon Keller, we're collaborating with him he makes bile duct cells. He's working on a way to make pancreatic cells. There are well established ways to make intestinal cells so we can make every affected tissue and basically not only look at each person's lung, but each person's different tissue to see if there's going to be tissues specific responses to these drugs."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "34:40",
+    "text": "In addition to all the local stem cell experts who are collaborating on this project, a big benefit of having CFIT centralized in Toronto is that a lot of the patients come from SickKids Hospital, which has thorough clinical data for each of them. The clinical component of this work is being led by Dr. Felix Ratjen, who is featured way back on Episode 14 of Raw Talk."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "35:01",
+    "text": "Two big components of this that I haven't talked about too much so far is a huge clinical component. So most of these people are individuals from SickKids, where there's a really comprehensive clinical data measurements of how they do on the drug. Most of them are from SickKids. But we're also recruiting from around Canada. So all of the provinces have sent people to SickKids to have cells taken and models made. And we're even starting to recruit from international places. And the states, they're coming. This resource that we're creating of methods, stem cells, and genomic information. So really in-depth, genomic information is also being generated for each one of these individuals. Lisa Strug, is in charge of that component I didn't mention before Felix Ratjen is in charge of clinical component. And she's using really state of the art sequencing methods to get a really deep read of the sequence for all of these individuals. We're hoping to have a avatar-based predictive tool, but we might end up having a gene chip. So these polymorphisms, and other genes will predict how well, a patient will respond. So we're going to have maybe a series of different tests that could be used as predictive tests. We're getting towards the end of our program, and all of the collection. And what we've collected is a resource for CF researchers and clinicians around the world. And they only have to pay for shipping to get stem cells from people with very comprehensive clinical description, and also deep sequencing done. So we're going to be in a place where we're going to have multiple patients tested, we'll be able to correlate their drug responses in the plate in the lab to what's happening in the clinics. We're not there yet but the correlations are good so far, we need more patients. But I hope we're at a point where we're going to be able to offer this as as a tool for the family doctor who needs to make a case to the insurance company that this person is worth the risk, and eventually turn it into a tool that regulatory agencies that Health Canada refers to, will also use this as a tool."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "37:34",
+    "text": "This is one of the goals of the CFIT program to develop a predictive tool. Dr. Bear also told us about some exciting ways that the resources and tools coming out of CFIT could be used by other researchers in the future."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "37:47",
+    "text": "Now with gene editing tools becoming more prominent in terms of thinking about how to cure genetic disease, people are developing ways to correct the mutation in patient-derived tissues. You could imagine a very effective way to do that is using some of the model systems that we have here. At the same time, we're learning the methods to correct that mutation. In decades from now, you could imagine a scenario where you might want to get rid of CF disease all together. Whereas that is light years away from where we are. But step by step, we're learning how to correct the mutation. I think one step that might be foreseeable is that you could correct the mutation in someone's stem cells and then do a cell replacement into that person. So example might be that you correct stem cells from somebody, and then generate pancreatic duct from that person using a differentiation method, and then introduce it back to that person and not have the risk of rejection because it's their own tissue that has been used to make an artificial duct."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "39:12",
+    "text": "Now, that's about as personal as you can get using a person's own cells to make tissues for transplants. Another future application of see fit is as a tool for drug discovery."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "39:22",
+    "text": "As we mentioned earlier, the drugs available for the rare CF causing mutations are basically non-existent. Having a bank of stem cells that can represent all of these different mutations means that any newly discovered perspective drugs can be tested on them."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "39:35",
+    "text": "Dr. Bear told us about one such rare mutation."
+  },
+  {
+    "speaker": "Dr. Christine Bear",
+    "time": "39:39",
+    "text": "So we've got a number of stem cell lines from different individuals with this mutation. It's very, very rare, especially in the homozygous form. And we've learned now how to fill a 96 well plate with avatars with this particular mutation to do drug testing for that. We're starting to see some hits come out of that. So because stem cells are really a renewable source of tissue, you can keep going back to the same vial of cells, recreate the tissue that you're interested in and test new interventions that come down the line,"
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "40:22",
+    "text": "Like CFIT, the IMPACT project is making a difference in personalized medicine. It has recently come to an end, having recruited over 11,000 patients over the last seven years,"
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "40:33",
+    "text": "We've just published a big paper. 2000 family doctors who ordered the test and that paper shows beyond doubt that primary care and family physicians can use this test easily and effectively. And patients have fewer side effects and get to recovery, the remission rate, meaning they got all the way to better is much higher in the genetically tested group than in the treatment, as usual, the trial and error approach. So it's clinically how the impact study has been very successful. And the doctors were overwhelmingly positive about the test. More than 80% endorsed it as working very well with their patients. 86% agreed that it would become a gold standard in the future. So that's been a very positive outcome of the IMPACT study."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "41:48",
+    "text": "Dr. Kennedy is currently working to fund the next steps of the study. "
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "41:52",
+    "text": "We can do a lot of great science on the 11,000 patients we've already tested over the last seven years. We want to create some small clinical trials of different new additions to the tests for more brain genes in particular. The only way to validate those genes is to run a proper clinical trial comparing one group that gets the test to a group who doesn't and people are randomized to those two groups. The raters are blind and, you know, randomized controlled trial. A number of us here are working on the design of IMPACT 2.0. So 1.0 that I've just been describing to you evaluated whether the test is usable, whether is it user friendly? How did the patients react to it? How did the doctors react to it? How does it work with side effects prediction? How does it work with patients getting better faster? I mentioned the big finding was much better total recovery rate in the patients who get the test versus patients who don't. We've also launched and almost completed a study with major insurance company in Canada, where we're testing their patients who are on disability. They're off work due to depression or severe anxiety or mental health problems. We're in a project with them, we've collected 150 patients who are on disability. So that's leading to the whole economic argument that this testing saves money for the health care system. And in disability patients, they're very costly to the insurance company. It's costly to the employer because they're not at work. It's costly to the healthcare system because they're visiting their doctor and trying to adjust things and that leads to very unpleasant situation for the patient, and a costly situation for the insurance company for the health care provider, which in our cases, the Government of Ontario. We got the patients to report on scales, proper questionnaires with the depression symptoms, anxiety symptoms and side effects, and psychotic symptoms if they had those at baseline when they got the test. Then at four weeks later and at eight weeks later after the doctor had chosen the medication based on the test. But a large group of doctors might for various clinical good reasons not want to change the medication, because it's very disruptive for the patient. They're kind of a control group because they're not following the guidance of the test, so we can compare those who they all got the test, but some follow the test and some didn't. So that's where we can show the efficacy of the test. We had enough funds to run these DNA chips that scan across all the chromosomes. We were able to do 3800 of these people. They're called genome scan chips. They look at every site on every chromosome across the whole human genome. You can then reach in and test whatever set of genes you're interested in. The dopamine genes are important for anti psychotic function. The serotonin genes are important for depression. "
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "45:54",
+    "text": "The IMPACT study has provided compelling evidence that integrating this pharmacogenetic test into the treatment process for a range of psychiatric illnesses can have huge benefits for people by finding ideal medications and doses more quickly and with fewer side effects."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "46:08",
+    "text": "But how does this project get translated from the bench to the bedside? It's been shown to have utility but how does this get through to the people to Canadians?"
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "46:16",
+    "text": "I've been working on that issue for all the years of study. We've put in an application to the Ministry of Health to have this test reimbursed by OHIP through health insurance. There's data from our partner in this industry. They had worked out all the delivery issues of getting it to the doctors through a web-based portal. So our volume of delivering the test to patients greatly increased. We showed basically that it's very scalable and  we could get it out to, for example, there's about 160,000 people in Ontario, who have medium to severe depression right now. Probably 70% of them could have some improvements to their medication. So we should be getting the test to over 100,000 people. That's a per year basis. So next year, there's going to be another hundred and 60,000, and another hundred 60,000. That's just for depression. We have anxiety and OCD and schizophrenia and bipolar and so on. So there's a lot of people who need this test, we're working with the Ontario health database, the OHIP billing database, which is ICES. That has all 13 million citizens of Ontario, registered through their OHIP numbers and with proper privacy and anonymization. So we can get the spending on those each of the 11,000 patients that we've tested.. We can get back from the database because we got our patients health care numbers. In any case, we got a pretty good estimation of the healthcare economics. We can compare the cost before they got the test and in the same person compare after and also the ICES database can create a control group, the age, sex, demographically-matched socio economic status match to our 11,000 patients. Another group of patients with similar or with the same working diagnosis, let's say you know a bunch with 3000 with depression, 3000 anxiety. We can compare the health care costs in those people who are the same illness, same severity, with our patients in IMPACT, who got the test. We hypothesize that they will cost the healthcare system less over the year and the next year, following the doctor using the guidance of the genetic test. In some studies done in the United States already with similar tests, a major depression patient will cost $8,000 under normal trial and error circumstances, and a similar patient but who does get the genetic test only cost $3,000. So that's in the 12 months, following them presenting themselves The doctor for help. So that's a $5,000 savings for a patient. When you start multiplying that by 100,000 patients, you get into very big numbers for saving money for our health care system."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "50:19",
+    "text": "Catherine Virelli is a student in the translational research program (TRP) at the University of Toronto. She's working with Dr. Kennedy on next steps for the IMPACT study, she told us a bit more about her project, which focuses on what barriers there are between technology innovation, and translating it for use by the public."
+  },
+  {
+    "speaker": "Catherine Virelli",
+    "time": "50:36",
+    "text": "One barrier to getting this kind of technology accepted, certainly by the government, but also just in disseminating it throughout the population is that we don't currently really understand the end user or the patient need for this testing. So IMPACT just wrapped up, we had some informal evidence that patients really liked the test because they were calling after the test ended, saying, where's my test, I want the test. But there's no formal needs assessment. Without that, anyone who's versed in entrepreneurship can tell you that if you don't understand your end user need you risk spending all kinds of money to offer a service that no one wants. So we want to characterize the patient need and therefore have a better idea of what's important to them about pharmacogenetic testing being implemented. So that's what my project is. I'm doing first a focus group with impact patients to get their feedback because their abusers have pharmacogenetic tests, they have really valuable information there. At that focus group, I also want to understand what's most important to them to consider when it does come time for implementation. So things like how much would it be acceptable to charge for this kind of thing, if we had to distribute it through the private sector, who has to have access to the bins or the results, in order for it to be most effective to them?"
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "51:57",
+    "text": "One of the things that Cathy and I are working on is patient empowerment. There's another great thing about personalized medicine is that as soon as the patient sees this information about their DNA and how these drugs are classified, they get an inherently better understanding of the pros and cons of figuring out which medication out of the 35 or so that are available. Tons of antidepressants, let's say which one is right for them. Some of them are kind of okay, so the patient is now driving some of the demand for this test because it's evidence-based. They have an inherent good sense that DNA is an information molecule. Of course it's complicated, and it's far from perfect, but we are pretty, we're quite good at accurately measuring the DNA. What we're not so good at is measuring all these other factors in the life of the patient, stress levels, and so on. But the patients are really getting behind this test because it's their own personal test of their DNA and they they own it basically. The patient of the near future will have their Apple Watch, they'll have a literally emergency screen. They could have a bracelet like a diabetic would have stamped into the bracelet the main genotypes they have. So many ways that the patient can empower themselves to give themselves a better journey through the healthcare system."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "53:49",
+    "text": "Looking forward, how can we expect pharmacogenetics and personalized medicine in general to be integrated into our healthcare system?"
+  },
+  {
+    "speaker": "Dr. Daniel Mueller",
+    "time": "53:56",
+    "text": "I would think in 30 years or so, we will have what we will call genomic medicine, where all our individual DNA is sequenced for every variant that we have. This sequence might either be available on servers that can be accessed by doctors, or maybe if for privacy reasons we prefer to keep it with us in a in a small USB stick or something, maybe we're gonna carry it around. But definitely when we go to see the doctor, or we go into a hospital or we are treated for emergency. Some health care provider will look at the sequence and now decide the treatment, the best treatment for us, depending on the DNA sequence. So the question though, is again, how to get there, right? How are we making it possible that in 30 years, the things will happen and occur? And the answer is, well, let's take a look at pharmacogenetics today where we can with relatively little investment with costs around. Let's say a couple of hundred dollars, identify all the gene variants that are important and relevant, and include that into our medical files information. It would already work today. It can already be done. There are hospitals who do that routinely and who also would transfer the information to the electronic health records. Now, we don't maybe have all the knowledge or the knowledge that we would like to have. For example, we still lack research in rare variants, which might cause also response and side effects in some people, copy number variants, we haven't really studied all of them, but with time we will study them. It's already doable is for for a relatively little amount of money to get the DNA sequence information, sequence probably in a few years, for $100 per individual, and storing it on someplace. That is definitely there. The interpretation, the recommendations, that will follow. But I'm confident that in 30 years, we will have it for everyone in our society available."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "56:07",
+    "text": "Although we still have a ways to go with integrating genetics into some aspects of our healthcare system, commercially-available tests or directed consumer genetic tests, such as 23andme, or ancestry.com, are available to everyone. What can we learn from these tests? And how should they be interpreted? "
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "56:24",
+    "text": "It's genetic information that is not legally usable, by physicians, for advising patients on healthcare decisions. Because the 23andme test is not based on clinical trials of illnesses. It's based on very large numbers of people who've had fairly quick self report questionnaires that they report on their symptoms. So the FDA has said in the fall of 2018, 23andme's test is, in terms of its technology, accurate, and meet standards of producing the DNA information. However, the FDA did not say that giving the test results directly back to the person without getting the help of your physician who knows a much wider amount about not only medications, but allyour medical problems, your family history. So it's it's very risky to have this information given to a person who doesn't have a coach or an interpreter as to how to use the information."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "57:49",
+    "text": "Dr. Kennedy has been working with large amounts of personal data for a long time."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "57:53",
+    "text": "DNA from 35,000 people in just four fridges in his lab to be precise."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "57:58",
+    "text": "What are the possible consequences of the collection of this data and if a person's privacy is breached? "
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "58:04",
+    "text": "It's a important thought experiment to try and predict how a nefarious diabolical agency let's say, could use your DNA to harm you. The ethics boards are very focused on the cost to the patient and society versus the benefits. There's possibilities for discrimination against people in terms of health insurance. Even in a stretch, in my IMPACT study, we identified some people who had several liver enzymes that didn't work very well, and put them at quite increased vulnerability to failing with a lot of medications. So a health insurance company that's aggressive in terms of reducing their costs and eliminating clients that would be costly, they might discriminate against patients who have, let's say uncooperative genes for the more inexpensive treatments that are out there. They would not want to offer health insurance. So that is against the law in the United States and in England, because they both passed genetic non-discrimination acts. In Canada, however, the legislation for our similar non-discrimination based on genetic information has not made it through to final approval. It's been languishing the federal government level for a couple of years now. I don't fully understand why. But the discrimination, not just healthcare,  employers might discriminate against people for doing a particular job. In an imaginative example, that I sometimes give is, we have a interesting statistical finding that's been replicated many times that the dopamine D4 receptor gene predicts people's ability to focus their attention. Basically, it's predicts risk for attention deficit hyperactivity disorder. So let's say you're running an air traffic control center. You want people with really, really good continuous focus for eight hours. There's a lot of lives flying around in the air that are depending on that good focus to prevent airline crashes and collisions. So would society want people to be screened for this gene, which has a statistical effect in predicting who would have a shorter attention span? And it's an interesting question for debate. Right now, the predictability of that gene is fairly low, it has some traction. So it's not a serious question yet. But it's a nice thought experiment. And the other side of that, because evolution and its selection, these genes are not there for you to annoy us and to get in our way of responding to medications or being air traffic controllers. These variants are there for good reason. So if you take that same person who thinks they want to be an air traffic controller, they might be a great day trader stock picker, they may be the greatest talent to do that kind of job where things are moving fast. So that's an interesting, pro and con and benefit in certain environments, liability and others. And that's why the more we understand that, the better we'll be able to avoid mistakes, and live our lives better. This is the way of the future. I think it's going to be a revolution in how treatments are decided upon. It's iteratively gonna get better and better. It's just a matter of time before it's very standard in medical care."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "1:02:50",
+    "text": "The more we learn about our own biology, and about how our genes influence our health and our response to treatments, the more personalized our healthcare will continue to become."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:02:59",
+    "text": "Even the way we approach biomedical research is becoming more focused on this. It's predicted that the market for personalized medicine will show steady growth over the coming decades. We already are seeing the impact of this new paradigm on everything from treatment approaches to how we approve new medications."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "1:03:14",
+    "text": "Currently, a new drug under development without specific biomarker information only has an 8% chance of making it from phase one to approval. But those with biomarker information increases their probability of success to 26%."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:03:28",
+    "text": "Often in science, we're all working on a small piece of the larger puzzle. But these large scale projects highlight the big picture and how a direct impact can be made on people's lives."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "1:03:38",
+    "text": "We're really happy to share this research that inspired us personally and is near and dear to our hearts."
+  },
+  {
+    "speaker": "Grace Jacobs",
+    "time": "1:03:44",
+    "text": "You're unique and pretty soon your healthcare will be to want to thank our guests, and Amber and Thamiya for creating content for this episode with us. So until next time, keep it raw."
+  },
+  {
+    "speaker": "Max Strauss",
+    "time": "1:03:54",
+    "text": "Raw Talk Podcast is a student presentation of the Institute of Medical Science in the Faculty of Medicine at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the Faculty of Medicine, or the University. To learn more about the show, visit our website at rawtalkpodcast.com and stay up to date by following us on Twitter, Instagram and Facebook @rawtalkpodcast. Support the show by using the affiliate link on our website when you shop on Amazon. Also, don't forget to subscribe on iTunes, Spotify, or wherever else you listen to podcasts and rate us five stars. Until next time, keep it raw."
+  },
+  {
+    "speaker": "Dr. James Kennedy",
+    "time": "1:04:35",
+    "text": "My Twitter handle is @JimKennedyMD. I did retweet Justin Bieber who grew up very close to me. I retweeted him in his major transformation in talking about mental health. It's really remarkable. Justin is growing up. He's 25 years old and he's got a lot to say about mental health. So I retweeted him."
   }
 ]
