@@ -25,7 +25,7 @@ for match in re.findall('(.*)  (\d*\:*\d*\:\d\d)  \n(.*)',raw):
       ('text', match[2]),
     ]))
 print('N: {}'.format(len(data)))
-print('Speakers:\n > {}'.format('\n > '.join(speakers)))
+print('Speakers:\n > {}'.format('\n > '.join(sorted(list(speakers)))))
 # output file: save backup before overwriting
 print('writing: {}'.format(ofile))
 with open(ofile,'r') as fo:
