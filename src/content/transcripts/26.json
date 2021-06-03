@@ -1,7 +1,647 @@
 [
   {
-    "text": "",
-    "time": "Coming soon!",
-    "speaker": ""
+    "speaker": "Richie Jeremian",
+    "time": "0:00",
+    "text": "What's going on everyone, Richie here welcoming you to another installment of Raw Talk Podcast where scientists talk and we listen. Today we'll be hearing from Dr. Sakina Rizvi who is a neuroscientist in the Li Ka Shing Knowledge Institute and Arthur Sommer Rotenberg Suicide and Depression Studies unit at St. Michael's Hospital. She's also the co-lead for the Ontario Depression Network Hub and Assistant Professor of Psychiatry in the University of Toronto Faculty of Medicine. Dr. Rizvi's work focuses on understanding the mechanics of depression, particularly in patients who haven't responded to conventional treatments. She and her colleagues do this by looking at neuroimaging networks of brain regions and trying to find biomarkers that connect to clinical traits. She's also involved on the treatment side and looks to see how deep brain stimulation, a type of neurosurgery, works on these networks to alleviate symptoms of depression. By identifying clinical subcategories, Dr. Rizvi hopes to translate this knowledge into a framework of personalized treatment of depression and suicide and by extension, other mood and psychiatric disorders. Oh, and we also talk inflammation, the cardiovascular system and personal identity. I bet you never thought all these things were linked to the brain. Now listeners, the topics we discuss on this episode are incredibly fascinating, but are also a source of struggle for many individuals. We advise you to listen with caution and appreciate the importance of mental health research and advocacy, and improving patient outcomes and overall wellbeing. Alright, that's all for me. Let's welcome Sakina. When do you know if you have treatment resistant depression?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "1:35",
+    "text": "Treatment-resistant depression really refers to people who have had repeated antidepressant trials and have not responded and antidepressant doesn't necessarily mean just a medication, it could also be like a psychotherapy or brain stimulation to me like repetitive transcranial magnetic stimulation. And the kind of minimum standard means that if you've been depressed, and you've had at least two adequate treatment trials, and it has not helped you, that you would meet criteria for like, mild level of treatment resistance at that point. We've done studies where we've been including people who've had over four treatments for their current episode of depression, and have not responded to anything. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "2:21",
+    "text": "And what percentage of total depression do you think is represented by a treatment-resistant depression? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "2:27",
+    "text": "There aren't really hard facts on that. But the estimates that we've been able to glean are probably around 20 to 30%, from the existing clinical trials. And we did a study not that long ago in primary care, and just across Canada, and among people from 1200 depressed patients, about 22% of them had treatment-resistant depression, and met criteria for that basic level of two treatments that they did not respond to. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "2:55",
+    "text": "Oh, wow. And can it be predicted by genetic factors? Or how do you know if someone has treatment-resistant depression? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "3:01",
+    "text": "Well, you know, at this point, just purely clinically, so we don't have good biomarkers yet for that. So interestingly enough, there hasn't been a lot of good biological research in treatment-resistant depression. So you tend to get depression overall studies, but not really targeted to the treatment-resistant,  it's starting to change that you're seeing more of it. So as these studies start to come out, we're gonna see more information about what actually is predicting those people who don't respond to medications."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "3:33",
+    "text": "And your group is actually in part contributing to that effort, right? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "3:36",
+    "text": "Yes, we are. So the work that we do is in deep brain stimulation, which is a neurosurgery for depression, that involves implantation of an electrode to part of the brain that's important for emotion regulation, connected to a pacemaker in the chest that remotely delivers electrical stimulation to the brain; all under the skin, you can't see anything. And this is a experimental neurosurgery for people who are very highly resistant. And I would say that the people that are included in our studies, on average, when we talk about episodes of depression, that could be you know, a couple months for these people, that's 12 years on average, where they've been depressed, straight, with no reprieve. So we've been doing these trials since around 2002. And have been doing some neuroimaging work to go along with that, and have been noticing some changes that before they get the surgery, that there might be some lower activity in some errors in the front of the brain, or that there might be some dysfunction in dopamine receptor binding. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "4:39",
+    "text": "Also in the front of the brain?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "4:41",
+    "text": "Yeah, in the front of the brain, also in a little bit of some other areas as well, and maybe in the temporal cortex too, but in the insula, but primarily, we're seeing a lot of differences in frontal cortex. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "4:53",
+    "text": "And it's interesting because just I've heard anecdotally that the frontal cortex actually has a lot to do with not only decision making but also who you are, kind of personality and sense of self. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "5:03",
+    "text": "Absolutely yeah. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "5:04",
+    "text": "And then the insular cortex, I've also heard is responsible for the feeling of misery, like the emotional component of pain? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "5:11",
+    "text": "Well, I don't know if I would agree with that one. But the insula is really also involved in your sense of self, I guess you could say in your surroundings and being able to regulate yourself as well. It is definitely involved in emotion as well. But I don't know if we've really been able to say that something, a particular brain area has the seat of, you know emotion. I mean, we really are seeing that in neuroscience, we're moving away from this brain area does this to more like this network of areas does this. So it's kind of harder to isolate one particular thing. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "5:50",
+    "text": "So how have you tried to connect those findings to a more big picture view of these networks of depression? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "5:56",
+    "text": "So the research that I'm doing is really in reward processing. That came about because working with these treatment-resistant depression patients for so long, I noticed that they were also very anhedonic. So they had a very significant loss of pleasure. And in some of the research that's been done, people who have treatment-resistance tend to have higher levels of anhedonia. What we know from the animal research is that dysfunctions in dopamine networks can actually contribute to anhedonia. But if we think of anhedonia as the clinical symptom of depression; so to have depression, you need to either have one of two symptoms at very basic level: so either you're sad and hopeless, or you have no pleasure or interest in things and have had an actual reduction in activities. Anhedonia is really the clinical symptom of depression. So if we take a broader perspective of the reward processing network, a dysfunction in any part in that network could potentially lead to the clinical symptom of anhedonia. The dopamine network, we have found has really important implications for like maybe the early phases of reward processing, so particularly around anticipation and motivation. That's what kind of led me to want to really look at the dopamine system, it's been mostly the one that's been most studied. Not to say that it's the only network involved reward processing, we know that's definitely not the case. They just want to spend the most studied and we have the most tools available to test it. We have been looking at dopamine D two D three receptor binding in the brain, in people with treatment-resistant depression, and who have undergone this DBS surgery, trying to kind of target what these reward processing networks can tell us about treatment resistance. Some early work that we can print, preliminary work that we've been doing, is showing that some of those changes in the frontal cortex are particularly important in the context of treatment resistance. So the frontal cortex part of the reward processing network is particularly relevant, potentially for treatment resistance. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "8:07",
+    "text": "And does this and do your other findings at all tie into treatment at all? Or are you kind of far away from that point? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "8:14",
+    "text": "Well, I mean, the work that we're doing is directly related to the treatment for the DBS. So we are looking at, can we tell at that baseline before they get the surgery in predict who's going to actually do well? Again, some preliminary work that I did a couple years ago showed that if you have really, really high binding potential, which you know, just take my word for it means that you have a lower dopaminergic tone in the system, means that you are maybe not as likely to respond to the DBS at one year. So that's just preliminary data that we are going to be exploring as the whole sample set, that's just the study we finished this year, so that we'll be able to tell."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "8:53",
+    "text": "And I guess the ideal looking ahead goal is, let's say you're a patient with depression, and it's really severe, and you've tried a lot of different things, and they're not working. And then maybe you're able to go to your physician or to your local hospital. And then they're able to do a scan of your brain and basically identify like, yes, you are a candidate for this advanced treatment of depression. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "9:14",
+    "text": "So I think when it comes to something like DBS because it's so invasive, them doing a scan might be reasonable before you actually do it. But for the majority of people, if you're just getting a medication or psychotherapy, it's not really feasible to always do a brain scan. So one thing that's really important in biomarker research is being able to develop behavioral or clinical proxies of what's going on in my brain. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "9:39",
+    "text": "Right. Because you're never really going to know in a way right I guess in your field, it's a little bit easier because you can look in the brain in vivo and kind of see what's going on in real time. Sort of right? You have a medium to high resolution image, right in my field, which is a little bit more molecular there's no way to extract brain tissue from someone and still be able to study them."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "9:57",
+    "text": "Exactly in, the in the. And at that we're only able to do that using PET, so we can only look at a brain in vivo that way. So we're limited by that technology, by the tracers that we have available at a particular institution. So it's still quite limited. And it's incredibly expensive. So that's why I'm saying it's not necessarily feasible to do it for everybody. But it's really important that we start to understand the mechanics behind what's happening when you're treatment resistant. Because, one, yes, it's important to be able to predict, but also if we know more about what's happening, then we can develop better treatments. So when people tell me like, oh, I'm treatment resistant, there's nothing I can do, it's like, well, you're not, it's actually a bit of an erroneous term, you're not treatment resistant, your are resistant to the treatments that are available to you. We're limited by the knowledge that we have. So as we increase that, we'll be able to increase what we know about treatment resistance. So several years ago, there was some really interesting research coming out on inflammation and treatment-resistant depression, and actually using an anti-inflammatory. And what was interesting was that patients that had treatment resistance that had high C reactive protein which is a general marker for inflammation in the system. If they had levels above five, they actually were likely to have their depression respond to an anti-inflammatory, which is very interesting. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "11:20",
+    "text": "That's fascinating, because you don't expect the two to be together?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "11:22",
+    "text": "No, but they are because I mean inflammation, if you think about it, especially in your brain, it affects everything, it can affect all of the networks in your brain. So it can lead to a lot of different changes in your brain that could induce symptoms of depression, which is why you tend to have a very high comorbidity amongst people with autoimmune disorders, with psychiatric disorders as well."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "11:44",
+    "text": "And what about cardiovascular disorders? I've actually heard something very similar from someone who studies Alzheimer's and other neurodegenerative disorders. And we've been looking at these solely as brain disorders, but they can actually be viewed also as cardiovascular disorders."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "11:56",
+    "text": "Yes. And I think that, really again, being able to understand the mechanics of depression, will help us to understand that stuff, because everything is so linked together, which is why I was saying we're kind of moving away from saying this brain area does this and this network does that. Because everything is so highly interconnected. That yes, your heart is connected to parts of your brain and your brain function. And those areas might be important for how you regulate your emotions."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "12:23",
+    "text": "Right. So there you go."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "12:24",
+    "text": " Yeah. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "12:25",
+    "text": "And this work is also tied into your interest in studying suicide. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "12:29",
+    "text": "Yes, couple years ago, when I started at St. Michael's Hospital, I came into the suicide research program. So I haven't really done suicide research extensively. So this is kind of my new foray of research for me, which has been absolutely fascinating and very humbling as a researcher, because it's a lot more challenging to do suicide research than depression research. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "12:52",
+    "text": "And why is that?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "12:53",
+    "text": "On various levels. So one, you have methodology, so being able to define even what suicidal ideation is having a common definition for certain terms, there's not always a consensus in the field on that. So there you have methodological issues. What is your endpoint? So like in other studies, you might say, okay, your depression is decreased. But if I decrease your suicidal ideationthat doesn't mean that you're no longer at risk. I can see that I've somewhat maybe inferred that I've decreased your risk. But that's not necessarily a good assessment. And having an outcome of death, you encounter some ethical dilemmas as well. Right. So a much more high risk group to work with. So there are a lot more ethical considerations that you have to consider because of that and especially if you're looking to do kind of long term studies. So what some studies are starting to do is look at population level data, epidemiological data, so they'll do like an intervention and then look at their healthcare utilization, post treatment, to see if it has actually reduced their, you know, presentation that you are or or actually maybe eventual, you know, attempt in the future. But those are longer studies. You're going like years out after intervention. So these studies are also longer to do. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "14:11",
+    "text": "Hey, what's going on, guys? It's Anton and Kat here. And today we have the privilege of sitting down chatting with Robb Johannes. Robb is, it's funny, it's actually easier to say what Robb isn't. Robb is a former mayoral candidate in the city of Toronto. Robb is a frontman of an indie rock band. He's also an Adjunct Professor at the University of Toronto, a social activist, and the list goes on and on. So how about you save me the trouble and introduce yourself, Robb. Tell us a little bit about yourself and what you're currently involved with, both from a professional and a personal front. "
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "14:40",
+    "text": "For me getting involved in social justice work wasn't really something that I thought of as like an act of charity, or something that I was doing as like a service. It was just an extension of being a member of a community, and just a basic responsibility. I grew up between Surrey, BC, and East Vancouver. So two kind of intense places. Surrey had a lot of indo Canadian gang violence. And I'm first generation indo Canadian born as well. So that was a very unique experience. I was actually born in Kelowna, BC, and like the only non white kid in the whole school. So right from day one of kindergarten, I got a crash course in racism. And that was good, because then as a result, I found a lot of the kids that didn't really fit in, were very accepting of me. And that's how I stumbled into the arts and music and everything. And that became one very important path to identity and I became involved in something called alternatives to violence, which is a restorative justice based, it's like a conflict resolution thing that happens in the federal prison system. And it actually led to a lot of victim offender mediations, particularly in cases of serious violence. So, families of people that had been murdered, would sit down across the table from the offenders. And they would actually have a dialogue that was mediated by somebody. So I got to experience the power of forgiveness, and what humans are really capable of, compassion and empathy and all these things from a very young age, I got to see that. And that was all happening while I was going to school, getting my master's degree in women's studies and criminology at Simon Fraser and to working full time as a musician as well. Then I ended up working in the downtown Eastside Vancouver, coordinating an Aboriginal Justice Studies Program at an all native College in East Van. And then I worked at the Vancouver area network of drug users, which is the world's largest peer based organization that was responsible for opening the supervised injection site in Vancouver. So I got to see how a community can gather and lobby for its own interests, be involved in its own affairs and be very empowered with the tools politically to make changes. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "16:52",
+    "text": "And can you comment on your role or the involvement of passing the law through the Supreme Court that has opened the first safe injection site in Vancouver."
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "16:59",
+    "text": "It was already open at the time that I was working there. But my involvement in the Supreme Court was essentially to have the exemption in order for Insight to stay open, it needed an exemption under the Drug Act, because these illegal drugs were on site. So, it still needed to operate without criminal penalty. So what we did is we had Vanu and then a couple of doors down was the pivot legal society, which helped us with cases of police brutality, police harassment, home evictions, and the missing women's case, as well as the Supreme Court stuff with Insight. So we would just kind of help gather a lot of the raw materials that we would then pass on to pivot. And they would put together the legal cases, and we would be there with them hand in hand to help with testimony providing foundation, like the raw research materials that they would need to put the cases together. So it was pretty cool stuff, to experience, you know, all before the time that I was, like, 25. So the line between us and them was completely gone. And I even found that in the downtown Eastside as well. Every second person, I would say, had some kind of accident that happened at some point in their lives. They were either in a car accident, an accident on the job, their WCB claim fell through, they're dealing with chronic pain, they can't return to work, they don't have the means to support themselves medically, to deal with the pain, the medications, the doctor's appointments, and all those things. So where do you turn, you go to Maine in Hastings, and you start doing heroin, because it's a real easy painkiller. And you're in a community where you're not going to be judged for it, because it's easy to get, and everyone else is doing it. But the problem is, once you're in that life, it's hard to get out of it, and it becomes its own trap, and then you can't return to work and it becomes a cycle. And that used to be something we, public education was a big thing that we would do. And I think that story is always one that would kind of turn their heads a little bit, because then you think about 'oh, yeah, like my dad worked at a factory and he was just one accident away from the job of being that and that could have been where our family ended up to'. And I mean, we're all two paychecks away from being on the street."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "19:07",
+    "text": "It's an interesting way to put it. "
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "19:09",
+    "text": "And that ended up happening to me, even after I had a master's degree and was halfway through a PhD, which I was on leave for, you know, it was in my 30s and had a marriage that ended and was left with a lot of debt, couldn't afford to keep my housing. And I was homeless for a year. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "19:29",
+    "text": "And so at that point in your life, what are some of the emotions you were feeling or some of the challenges that you faced?"
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "19:35",
+    "text": "A lot of the emotions were redirected inward.A lot of self loathing, a lot of what did I do? I must have done something wrong to ended up in this situation. When I found out what actually happened and what were the factors involved in the marriage ending, I was able to stop blaming myself. I sort of grew up in a setting where anything I did was never enough. I could come home with straight A's. It wasn't nice work. It was, what's wrong with you? Why aren't these A+? So teachers didn't really know what to do with me, because they didn't want to punish me because I was still a good student. So they kind of let me get away with a lot of stuff as well. But at the same token, this complex then started to get built in that anything I did, no matter how good it was, was never enough. So here I was, in my mid 20s, you know, Executive Director of this agency, had his master's degree and had done all of these these things that I think for anyone else at that point, even if they were in their 40s, and had accomplished that would have been, you know, pretty respectable. But for me, it was no, it was all it was all crap. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "20:48",
+    "text": "And it was this part of the reason why you decided to join a band? To sort of give voice to those emotions?"
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "20:54",
+    "text": "One of my favorite lines about being a musician, particularly being a singer comes from Bono, in all of his wisdom, you don't become a singer in a band, unless you're lacking some serious validation that your parents probably never gave you. And he's really bang on when it comes to some things like that. Yeah, I think that's where it came from, in the beginning. Performance. Yeah, validation from an audience. That's kind of where it starts in the beginning, it doesn't stay that way. Eventually, it becomes a craft, and it becomes its own thing. But yeah, the roots of it often start there, that goes back. I mean, I remember even being in like grade two and doing the performance in front of the whole school of the assembly and stuff like that. So I think that constant need for validation externally, but never being satisfied with myself at the end of it, no matter how much validation was there. But that spilled over into relationships as well. And finally, it got to a point where I really wanted to figure out why this kept happening. Instead of, again, looking externally blaming everybody else, while the common denominator in all these relationships is me, and it keeps happening to me. So I must be contributing to this somehow. And realizing that that feeling of not feeling good enough, kind of created this self fulfilling prophecy where you will act in such a way that will make that happen in the end. And that's what was happening in my case. I found that out in a very unsafe way, though, I found that out without the help of a therapist, I found that out without any counseling, without any real support, I found it out facilitated by heavy substance use. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "22:42",
+    "text": "And that's when you find yourself..."
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "22:43",
+    "text": "On my own.  "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "22:44",
+    "text": "And suicide, is that an extension of depression? Or does it kind of stand on its own? Because I've kind of heard that suicide is kind of a hallmark for how severe one's depression is. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "22:54",
+    "text": "So, you can actually be suicidal and not necessarily be severely depressed. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "23:00",
+    "text": "How does that work? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "23:01",
+    "text": "Well, actually, what we find sometimes is that when people are starting to get better, that's actually when their suicidal risk increases. It's a bit counterintuitive, because you're getting better. But we're not necessarily considering some of the issues that go along with getting better, as well. Right? One, now you have more energy, you have more motivation. You have also more responsibility now, more obligation, people are now expecting more from you."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "23:29",
+    "text": "And you're still not fully well."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "23:30",
+    "text": "You're still not fully well yet. So I mean, we're not totally sure why that happens. But there are some considerations around that, as you're getting better why that happens. But yeah, suicide is something that crosses all psychiatric disorders. So it's not something that's specific to depression. Depression definitely is associated with it very strongly, but you can have schizophrenia and be suicidal as well. And so there's definitely a kind of a controversy in the field at the moment about whether suicide is its own disorder. There are, you know, researchers like David Sheehan, who would argue that suicide is a separate entity, that we have to look at separately. And one reason why I think that that actually might be the case is that even in our treatment-resistant patients, about half of them have had a suicide attempt and half of them haven't, just by chance. So half of them were constantly having to manage their suicide risk. And the other ones are saying, you don't need to ask me that. I'm never gonna do that. So even within this group, that's, you know, very similar in terms of severity and life history and life events, there's a huge split in terms of risk. And so what's different about that group where we're constantly having to manage the risk. So there's something different that we don't quite understand yet. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "24:51",
+    "text": "Right, right. And it's not an environmental thing? It's not like an early adversity thing that maybe sets them up?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "24:57",
+    "text": "Those all can definitely be contributors to it. So, yes, definitely early childhood trauma can be a factor, your socio-economic status, like, you know, gender even can be a predictor, your sense of belongingness, your social support networks. Your environment does play a big role in your level of suicide risk as well. But it was not the only factor. There are biological factors. There are genetic factors that we do see that it tends to run in families, just as a anecdote, there was a participant that we had, who had maybe four or five suicides within her immediate kind of extended family. So as an example of how that can sometimes be inherited But you can't inherit the ability to kind of to make a suicide attempt, you can inherit suicide. There is some predisposition to suicidality that's there. But it doesn't mean that you're gonna actually make an attempt or anything like that. But it's like you can inherit a predisposition to have depression. It's similar to that. That doesn't mean you're gonna have it, action is something different."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "26:04",
+    "text": "I've read some of the the suicide literature. Is that David Brent, who studies families of suicide are maybe used to maybe a decade or so ago? And there is this notion that suicide is a familial trait, right, which I think makes it very tempting to treat it as something that's genetic or something that is molecularly passed on, which maybe there's there's some element of that as well. But I've heard that the biggest predictor of suicide in an individual is either a previous attempt, or an attempt or completion in a first degree relative, so a parent or sibling."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "26:36",
+    "text": "Right. So having a previous attempt is definitely a predictor. But I think it's important to kind of put into context, what we know about predictors of suicide risk is that none of them have actually been successful in terms of when you're in the clinic, and you're seeing a doctor and you're saying, I'm suicidal, being able to tell whether this is a person who's really at risk and this is a person who's not. Individually those predictors haven't been helpful for us. But we know like, for sure, even like addictions is definitely a strong, very, very strong predictor. So, you know, to that point, you might say that if someone comes in and says, I have an addiction, and I'm suicidal, you'd like to get into intervention right away. I don't need to assess your risk. It's just, that's risk enough, but we're not able to resolve to that level of detail yet. Who that group who is at risk, because what we find is that especially in depression, you know, you have a lot of people that experienced some level of suicidal thoughts, whether it means like, I just don't feel life is worth living to I have a plan in mind. So it can vary in severity, but say, around, maybe over 50% of people with depression have some level of suicidal ideation, but maybe only 20% will actually go on to make an attempt. So that makes it very challenging clinically. Who needs those additional resources? And we don't know who this 20% is yet. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "27:57",
+    "text": "I mean, just to talk to someone and you already kind of know they're at risk. But just to quantify that even further, and kind of as a physician trying to figure out is my patients still going to be around a month from now? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "28:07",
+    "text": "Yes, it's an incredible challenge. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "28:09",
+    "text": "So just listening to all this is very fascinating. And again, I have done some psychiatric research on my own and psychiatric disorders are very challenging to understand, because there's all this theory surrounding it. And I feel like it's been a very old-ish discipline where there has been a lot of theory. But now we're moving into the research era where we can actually ask these questions and try to maybe assess them in the lab in some way. But again, it just feels like everything is very connected. And yet, it's very challenging to be able to actually put the pieces together and say, like, this is the nature of the connections. And now we have a framework that works, you know, every single time."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "28:41",
+    "text": "Right. So I mean, the brain in and of itself, it's a very challenging thing to measure, because there's so much inter-individual variability. So there's a lot of noise in the data. Trying to find a way to parse out that data to decrease that noise is a big challenge. So there was a study done a couple years ago, where they were looking at the brain networks that were different between someone who's depressed and someone who's a healthy control, and there's over 400 different networks. So you have to detangle all of that. And then just how do you how do you go about doing that? You have to start somewhere. So you start in a certain spot, maybe a certain network, and then you kind of like expand outwards and try to put the puzzle pieces together. But it has been very challenging, and neuroimaging is a fairly new field. I think the first, you know, fMRI study was published in 1997. So it's very, I mean, PET is obviously much older than that. But it's still a very new field. And I think in the next, you know, 15-20 years, we're gonna see a lot of advancement in that technology that's going to help us resolve some of these questions."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "29:53",
+    "text": "Right, so how exactly do you see this coming together? And how do you feel that your work might fit into that so fitting imaging into kind of a mainstream paradigm of treatment?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "30:03",
+    "text": "I think you're going to end up with different types of technologies that are able to evaluate kind of more superficial brain activity, maybe in the clinic. So it's not necessarily going in to have a formal, you know, $500 to $2,000 brain scan, but you have like a little cabbie put on the head. And in those markers are good proxies for what we know is happening in those brain networks, you might have something like that. Or you might have some behavioral tasks or clinical tools that are very good predictors of what might be happening in the  brain. So I think what we're going to be seeing more is that as biomarker research kind of continues, there's going to be an integration of the clinical data with behavioral data with the biological molecular brain imaging data to see how it all fits together. So that I can say, okay, it's kind of like having blood ranges, you have your reference ranges, you're like, 'okay, well, if you're about here on this scale, that that's probably a good indication that there's something wrong in the system'. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "31:05",
+    "text": "And how do you see our system picking up the slack? Do you feel like we have the resources to support that kind of paradigm or?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "31:11",
+    "text": "No, not at the moment. I think that mental health, I think is only more recently becoming a priority, or you're starting to hear about it a lot more. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "31:22",
+    "text": "But to be fair, you hear a lot about it, right, so it's getting a lot of awareness which is great."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "31:26",
+    "text": "You hear a lot more about it which is great. But there's still a lot to be done in terms of like destigmatization and making sure that those mental health dollars are spent in the right way. And that maybe you need to have an overhaul of certain infrastructure, where we maybe have an environment where we're treating a lot of people to some extent, instead of treating fewer people, but really, really well, where do you go on that  spectrum? Because we are limited in resources. So how do you do it? So it is a big challenge."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "31:57",
+    "text": "And it's even harder to allocate those resources when you don't exactly know what you're looking at. And everyone is so different. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "32:04",
+    "text": "Yes, exactly. So we had those paradigms, where we could tell, you know, you should fit into here, you should get this treatment, it would actually be more streamlined. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "32:13",
+    "text": "Right. So, what would you tell someone who's going through either very severe depression or is suicidal? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "32:20",
+    "text": "I think the first thing is that, it's okay to not feel like you can't do this by yourself. It is a very serious thing. And I would always tell people that, you know, this is not something you have to do alone. So I think, you know, developing networks, and if you don't, some people don't have a lot of social support networks, but trying to seek that out, whether it's through, you know, even if it's a social worker, or someone in your care program, or, you know, seeking out friends or so, or support groups. It's really, really, really important to get connected to people and get connected to help. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "32:54",
+    "text": "Yeah, because it is available, you just have to ask."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "32:57",
+    "text": "Yes, and sometimes it can be difficult to find resources, like I'm not gonna lie. But it's still something that's really important to do, to try to access those resources, and also the resources that you have in your own life. People don't realize, people often don't use the resources that they have. So in drawing on the networks that you have, the more friends that you have who will be there for you and support you too. So I think that that is a very, very important first step is to don't be ashamed of it. It's not something to be ashamed of, and it's okay to lean on someone. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "33:29",
+    "text": "And perhaps they have the hope that things can be better."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "33:32",
+    "text": "Things can get better. I have really literally seen people come back from like the brink, like the very, very, very edge or they've actually already gone over the edge. And they've come back from it. So it is something that is very possible. And it is important to keep that hope."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "33:49",
+    "text": "Actually something I found particularly interesting last time we spoke was when you drew parallels between your experience and Chris Cornell. So for anyone who may not be familiar with who Chris Cornell is, can you mention who he is and why his story, or his experience really struck a chord with you. "
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "34:03",
+    "text": "Sure, Chris Cornell passed away on May 18 of this year, and he was a singer primarily. He's mostly known for being the singer of a band called Soundgarden, who was one of the forefathers of the Seattle movement in the early 90s. And then he was the singer in a band called audio slave with the guys from Rage Against the Machine. He had a very successful solo career as well. He did the James Bond themes and everything like that, also. So he had a very long career, very diverse career as a musician and was kind of known as one of the the most talented and strongest singers kind of in music history, actually. And he passed away by suicide this year. It's very interesting because he had been sober for 15 years. He had his battles with substance use, and was kind of that guy that everyone always looked up to and was like that, that wise elder that took everybody under his wing, was really supportive and was kind of like a role model and everyone really kind of saw him as like the rock almost in that sense. Not not Dwayne The Rock Johnson, just like, you know, the, the stand up guy. So it was really shocking that that happened. When the news broke of that it really kind of resonated. For me, it was quite triggering actually. Here, I was self medicating, like nobody's business, heavily, heavily, using alcohol and cocaine, just a ticking time bomb. I had had suicidal ideation for many years. And I'd had attempts even over the course of a decade, probably here and there. But it sort of came to a head. And there was one night in 2015, where I was at a rehearsal, and I normally am completely sober when I'm rehearsing, performing everything like that. Because that's, that's work. And I have my own rituals around that and routines. But yeah, for some reason, at this one rehearsal, I was just, I just got completely hammered, and things were not so great between myself and my spouse, we had a bit of an argument, I guess, she knew that things weren't so well with me. So she called to have me checked on. And luckily, I was found just in time. In Chris Cornell's case, he played a show, something seemed a little off. He was kind of stumbling around on stage, losing his words between songs and had a conversation with his wife after the show. And she was kind of like, something's not right here. And he said that he'd probably taken a few more ativan than he was supposed to. And she called to have him checked on. He was found dead. In my case, luckily, I was I was found just in time, you know, like, 10 minutes. Like, that's how close it was. I was really found just in time. So I'm really lucky that that happened. I was revived on the way to the hospital. And that's when I was connected to the urgent care program at St. Michael's. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "37:14",
+    "text": "And were you seeking some of the services at St. Michael's Hospital? Because from what I understand, right now, you sit on our community advisory panel for the Arthur Sommer Rottenberg, or ASR Suicide and Prevention's studies program there. So can you tell us a little bit about this program? And who it is geared for, what are the some of the services that they provide? And how are you currently involved with them? "
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "37:36",
+    "text": "Well, the first thing I was connected to is the urgent care program, which is part of the mental health and addictions services at St. Michael's, which operates on the 17th floor. And I participated, was referred actually then through the urgent care program into the it's called the PISA group. PISA. Psycho educational intervention for individuals with multiple suicide attempts. So I participated in that group. It's kind of like a Skills Development Group for how to cope with intense emotions, how to recognize your early warning signs. I'm sure if you're talking with Sakina, you'll probably be able to talk a little bit more about that. But through participation in that group, and I was on leave from my professional work at the time as well, it kind of helped me tap back into as I returned back to work. Recognize that, okay, there's things that are happening in this group that are really relevant to what I do in my professional work. And maybe it's time to start bridging these together. So as time went by, I was able to see it more as an asset, that I'd had this lived experience instead of something to not talk about. But I had to give it time, to be able to feel comfortable with that. So ASR really does a lot of research, program development, providing groups such as PISA for survivors, not just at the hospital, but elsewhere in the community. It's also done at Queen West Community Health Center. We're working on developing one here at Fred Victor as well. And I was invited by Yvonne Bergman who's kind of like the fairy godmother of the department to sit on the Community Advisory Council. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "39:23",
+    "text": "So before we leave off today, one message that Sakina had for anyone who's experiencing suicidal ideation is that it's okay, if you feel that you can't continue struggling alone, because frankly, you don't need to. Social support systems or networks are available. And she stresses the importance of seeking the support. As someone who had suicidal ideation or has had a personal experience is there anything else that you would like to add to this?"
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "39:46",
+    "text": "I think a big reason why I was able to, I mean, I'm now a couple years sober and everything's going pretty well in my life. A big reason why I was able to have that experience was because I worked as a practitioner for 18 years. I knew how to navigate the system. I knew how to speak the language. I knew how to self advocate, I knew how to get what I wanted. Not everybody has that skill set. So increasing general community capacity for that skill set, I think is very valuable. I think of a lot of clients that we have at Fred Victor who don't have the ability to navigate the system that way. So that's why we're here. That support to help with that. But I think of how many people aren't connected to services? And how discouraging it is because its own language, and it's so much based on power and, and keeping people disempowered that way. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "40:41",
+    "text": "And are these services readily available? Or for someone like myself, who's not very familiar with this. I imagine there's a lot of challenges to seeking the services or getting your foot in the door to service, is that correct?"
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "40:54",
+    "text": "I don't think it's really as challenging as it seems, it feels very daunting, okay. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "41:04",
+    "text": "That's a better way to put it. "
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "41:05",
+    "text": "Honestly, a lot of it is just like an AA or something like that, like, the first step is just admitting it and taking that first step yourself. It's no different when it comes to like suicidal ideation, or, or having experiences with self harm. Those things are often things that we keep to ourselves. The first step is actually reaching out yourself, because if you don't do that, then then nothing starts there. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "41:29",
+    "text": "So you very much agree with what Sakina said?"
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "41:31",
+    "text": "Yeah, I would say so. What's the REM line? Don't Don't let yourself go because everybody hurts sometimes. You're not alone. Yes, it's absolutely true. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "41:41",
+    "text": "All right. Well, thank you very much for your insight, Robb. It was really fascinating to hear about from someone who has such a moving and powerful story. And if our viewers want more information on your work, or things you're involved with, how can they reach out to you? What would be the best way to do so? I believe you are on Twitter. Is that correct? "
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "41:57",
+    "text": "Yeah, it's Robb Johannes. So there's two Bs in Rob, because that's the way you properly supposed to spell Rob. So it's Robb Johannes is my Twitter handle. And there's links to everything else from there. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "42:11",
+    "text": "All right. Great. Thanks so much again, for your time, Robb. "
+  },
+  {
+    "speaker": "Robb Johannes",
+    "time": "42:14",
+    "text": "You bet. Thank you."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "42:16",
+    "text": "So just switching gears, how did you get into this? How did you get to be interested in the brain and science?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "42:21",
+    "text": "Oh, so that was a kid. Oh, yeah. I was 10 years old. I've always found human behavior very fascinating. So I, you know, it'd be that that kid who just especially in high school, I would love to just observe how people interact with each other. And it just like in groups and their little cliques and stuff like that it."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "42:38",
+    "text": "You would go on vacation and people watch."
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "42:40",
+    "text": " I love people. Yeah. And interact with people as well. And to know why people do the things that they do, make the decisions that they make, because it's it's a complex process. So how did you arrive at that? And we think that like, Oh, it's just, I just chose to, but there was a host of things that maybe started from when you were five years old, that resulted in you making that decision. And then I think that it was the neuroscience, actually, my uncle was like, I just want to be psychiatrists, like, No, you should get into neuroscience. And I was like, Okay, yeah, maybe I should. And I can always see bio when I did a dissection of a brain and I was like, oh, this is so cool. I'm so old."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:16",
+    "text": "Was it a frog brain?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "43:17",
+    "text": "It was a sheep brain. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:21",
+    "text": "So where did that take you? Where did your undergrad?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "43:23",
+    "text": "At UofT. I'm a UofT lifer."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:28",
+    "text": "Same. How did you pick your graduate supervisor? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "43:31",
+    "text": "I think the way to choose your graduate supervisor is to choose the person you want to work with and apply to that university. So you see who's doing the work that you're interested in. And so that's what I did. So I looked up, you know, on IMS, or other university websites about who was doing the work I was really interested in, or even as you're doing your undergrad, you do research in your classes and you come across papers and you note okay, so and so and you note their name down. Yeah. And you just email them."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "44:00",
+    "text": "Right. And you ended up blending with Dr. Beth Sproule. And Dr. Sidney Kennedy?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "44:06",
+    "text": "Yes. So Sid Kennedy and Beth Sproule. Yeah. So I did my graduate work at the Faculty of Pharmacy. So Beth was my supervisor in Pharmacy. And Dr. Kennedy, who's based in IMS, was my supervisor in neuroscience. I was in the C program. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "44:21",
+    "text": "And you were. Right, that's the clinical program in neuroscienc?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "44:23",
+    "text": "A collaborative programming "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "44:24",
+    "text": "A collaborative program that's right. And your project was centered around depression as well?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "44:29",
+    "text": "Treatment-resistant depression and looking at the dopamine dysfunction that can happen with treatment-resistant depression."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "44:34",
+    "text": "It seems like a very natural fit to what you're doing now. Just like yes. So barely a transition there. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "44:39",
+    "text": "Well, yeah. So I mean, I'm extending that research. So that's kind of what you hope for your graduate work is that you did something that okay, I can actually build on this. So I am also going in different directions as well like kind of maybe moving away from the dopamine networks and looking more at other networks that are neuroinvolved  in reward processing like the opioid system and also how that might be related to suicide risk as well."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "45:00",
+    "text": "Are you collaborating with anyone on that? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "45:01",
+    "text": "I have lots of collaborators for suicide research, obviously our team here at St. Mike's, but also other people from UofT like Norman Farb and Diego Pizzagalli who's at Harvard, David Klonsky who is at UBC. So we have a wealth of of collaborators across the board. And that's actually, to me, that's the way that's the best way to do research."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "45:22",
+    "text": "Of course, and everyone tells us that. No one ever says that the best way to do research is just by yourself. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "45:28",
+    "text": "I think there used to be that way of doing research, but now it's like it went from your individual lab to like labs collaborating to city wide to national now it's becoming more international collaborations that people are, are seeing as really important. You need kind of different perspectives at the table. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "45:47",
+    "text": "Absolutely. And you don't only do science, you are also very passionate about writing. Is that true? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "45:52",
+    "text": "Yes. I have been a creative writer since I was a little kid. I remember r, like, probably grade two or grade one I remember writing a story with the gingerbread man. And it just continued. Yeah, short stories, poetry, love it. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "46:04",
+    "text": "And that's actually something you're still involved with. I'm holding a bookmark that you gave me for something called the storybook project. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "46:11",
+    "text": "Yes. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "46:11",
+    "text": "Tell me about that. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "46:12",
+    "text": "So the storybook project is basically an idea that I came up with about a year ago, when I was reading an article about a man who had sent a suicide note to about 10 Washington journalists, and he was in Japan at the time and said that this is what I'm going to do. And he was an English teacher, originally American. And I just thought it was so fascinating about what all these journalists chose to do with that information. Some of them did nothing. Some of them tried to find out who this person was. But then later in the article, because about a few hours after he sent it, he actually did make an attempt on his life, and he died. What I thought was really moving about this particular story was his brother and his brother had to go on a plane to collect his brother's belongings from Japan. So this is a man who maybe you know, living in the States has never maybe even gone on a plane, maybe, you know, you think you're on a plane, you think you're next to someone who's a businessman or on vacation, you don't think someone's on that kind of a mission, right? And really kind of makes you relive the stories that we have to tell. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "47:24",
+    "text": "Absolutely. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "47:25",
+    "text": "And we're not open about those things. You don't want to 'I don't want to be negative' or 'I don't want to be', 'I don't want to tell people certain things', or we feel we might get judged. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "47:34",
+    "text": "Absolutely, yeah. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "47:35",
+    "text": "So I really felt that, you know, in order to start to break down these barriers, and for people to understand what's actually happening when someone's feeling suicidal, is to tell stories, and storytelling is such a great way to do that. So we're inviting people who have been affected by suicide. So either they themselves have made an attempt and have found a path to healing, or they have lost a loved one, to contribute a story of it round, like five to 10 pages, short stories about what their experience was like, and how they're able to heal from it. Or maybe they weren't, you know, especially in the case of someone who's lost someone, you're never the same again. Right? So I volunteer at the Toronto Distress Center for the Suicide Survivor Support Program, which is an incredible program for anybody who is in Toronto and needs that service. And you really, it just, you're forever changed by that. And I think that that's also important for people to understand, because the grief that someone goes through when they lose someone also needs a voice. And sometimes those individuals feel like they can't express that because they also feel like they might be judged, or I think it's it's a way to educate. It's a way to create awareness and also to create some, you know, especially for someone who's going through it themselves to see that someone was able to find a path to healing. And also what could happen to their loved ones if they were to actually make that choice and what they would be leaving behind. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "48:55",
+    "text": "Absolutely, yeah, I think there's often with suicide, this fantasy that as soon as it's over, you're kind of free. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "49:03",
+    "text": "Yeah, I know, on Twitter actually saw this great quote that said that with suicide, it doesn't actually end pain. It just transfers it to somebody else. Yeah. So I think that this project is a great way to kind of talk about those issues."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "49:16",
+    "text": "And where can people find that? "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "49:17",
+    "text": "So if you go to our Arthur Sommer Rotenberg website, which is www.ASRlife.ca, you can find the storybook project details on there. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "49:29",
+    "text": "Alrighty, there you have it. Thanks again for chatting with us. "
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "49:33",
+    "text": "Thank you"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "49:33",
+    "text": "And where can people find you on? Are you on social media?"
+  },
+  {
+    "speaker": "Dr. Sakina Rizvi",
+    "time": "49:37",
+    "text": "Well, we have Twitter accounts. Again, it's under ASR life. And so I tweet through there. We are on Facebook as well. And yeah, you can find updates on our program, etc. "
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "49:49",
+    "text": "Check it out listeners till next time. Raw Talk podcast is a student presentation of the Institute of Medical Science at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, Faculty of Medicine or the University. To learn more about the show, visit our website at RawTalkPodcast.com and stay up to date by following us on Twitter, Instagram and Facebook @RawTalkPodcast. You can also support the show by using the affiliate link on our site when you shop on Amazon. Also, don't forget to subscribe on iTunes, Google Play and Stitcher and rate us five stars. Until next time, keep it raw. "
   }
 ]
