@@ -20,6 +20,7 @@ X = dict(
   navitems    = C['pages'],
   socials     = C['socials'],
   players     = C['players'],
+  positions   = C['positions'],
   team        = sorted(C['team'].values(),key=sorter),
   events      = sorted(C['events'].values(),key=sorter,reverse=True),
   episodes    = sorted(C['episodes'].values(),key=sorter,reverse=True),

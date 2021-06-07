@@ -24,6 +24,14 @@
     }
   },
   {
+    "title": "JOIN US",
+    "slug": "join-us",
+    "og": {
+      "descr": "We're recruiting! Apply now to join our Season 6 Cast.",
+      "img": "team/team-5.jpg", "width": 825, "height": 568
+    }
+  },
+  {
     "title": "EPISODES",
     "slug": "episodes",
     "og": {
