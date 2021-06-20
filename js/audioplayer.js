@@ -4,7 +4,11 @@ $(window).on("load",function(){
   const audio  = document.getElementById("audio");
   const pp     = document.getElementById("play-pause");
   const slider = document.getElementById("player-slider");
+  const seekl  = document.getElementById("seek-left");
+  const seekr  = document.getElementById("seek-right");
   const time   = document.getElementById("time-current");
+  const player = document.getElementById("player");
+  var focus = false;
   // print timestamp (audio player)
   const hms = function(dd){
     const hh = Math.floor(dd / 60 / 60);
@@ -20,7 +24,7 @@ $(window).on("load",function(){
     time.textContent = hms(audio.currentTime);
   };
   // proxy to make sure slider is always updated
-  const sprox = new Proxy(slider,{
+  const sprox = new Proxy(slider,{ // TODO: does beforeinput fix?
     set: function(target,key,value){
       if (key==="value"){
         sliderUpdate(value);
@@ -35,7 +39,7 @@ $(window).on("load",function(){
     raf = requestAnimationFrame(whileplay);
   };
   // play-pause button
-  pp.addEventListener("click",function(){
+  pp.addEventListener("click",function(e){
     if (pp.classList.contains("play")){
       audio.play();
       requestAnimationFrame(whileplay);
@@ -47,22 +51,48 @@ $(window).on("load",function(){
       pp.classList.remove("pause");
       pp.classList.add("play");
     }
+    // avoid spacebar issues
+    pp.blur();
+    // TODO: kill scroll too...
   });
-  // skip buttons
-  document.getElementById("seek-left").addEventListener("click",function(){
-    audio.currentTime -= 15;
-    sprox.value = dt * audio.currentTime;
+  // listeners
+  const seekfun = function(t){
+    audio.currentTime = t;
+    sprox.value = dt * t;
+  };
+  seekl.addEventListener("click",function(){
+    seekfun(audio.currentTime - 15);
   });
-  document.getElementById("seek-right").addEventListener("click",function(){
-    audio.currentTime += 15;
-    sprox.value = dt * audio.currentTime;
+  seekr.addEventListener("click",function(){
+    seekfun(audio.currentTime + 15);
   });
-  // slider listener
   slider.addEventListener("change",function(){
-    audio.currentTime = slider.value / dt;
-    sliderUpdate(slider.value);
+    seekfun(slider.value/dt);
+  });
+  // click to focus
+  $("body").click(function(e){
+    if (e.target.id=="player" || $(e.target).parents("#player").length) {
+      focus = true;
+    } else {
+      focus = false;
+    }
+  });
+  // key presses
+  $(document).keydown(function(e){
+    if (!focus){ return null; }
+    if (e.which == 32){ pp.click();    } // spacebar
+    if (e.which == 33){ seekl.click(); } // page up
+    if (e.which == 34){ seekr.click(); } // page down
+    if (e.which == 35){ seekfun(slider.max); } // end
+    if (e.which == 36){ seekfun(slider.min); } // home
+    if (e.which == 37){ seekfun(audio.currentTime - 1); } // arrow left
+    if (e.which == 39){ seekfun(audio.currentTime + 1); } // arrow right
   });
   // set static audio stuff
-  document.getElementById("time-total").textContent = hms(audio.duration); // TODO
-  slider.max = dt*audio.duration; // TODO
+  const metaloaded = function(){
+    document.getElementById("time-total").textContent = hms(audio.duration);
+    slider.max = dt*audio.duration;
+  };
+  metaloaded();
+  audio.addEventListener("onloadedmetadata",metaloaded);
 });
