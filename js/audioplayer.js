@@ -51,15 +51,19 @@ $(window).on("load",function(){
       pp.classList.remove("pause");
       pp.classList.add("play");
     }
-    // avoid spacebar issues
-    pp.blur();
-    // TODO: kill scroll too...
+    document.activeElement.blur();
   });
   // listeners
   const seekfun = function(t){
     audio.currentTime = t;
     sprox.value = dt * t;
+    document.activeElement.blur();
   };
+  const ekill = function(e){
+    if (e.target = document.body){
+      e.preventDefault();
+    }
+  }
   seekl.addEventListener("click",function(){
     seekfun(audio.currentTime - 15);
   });
@@ -80,13 +84,13 @@ $(window).on("load",function(){
   // key presses
   $(document).keydown(function(e){
     if (!focus){ return null; }
-    if (e.which == 32){ pp.click();    } // spacebar
-    if (e.which == 33){ seekl.click(); } // page up
-    if (e.which == 34){ seekr.click(); } // page down
-    if (e.which == 35){ seekfun(slider.max); } // end
-    if (e.which == 36){ seekfun(slider.min); } // home
-    if (e.which == 37){ seekfun(audio.currentTime - 1); } // arrow left
-    if (e.which == 39){ seekfun(audio.currentTime + 1); } // arrow right
+    if (e.which == 32){ ekill(e); pp.click(); } // spacebar
+    if (e.which == 33){ ekill(e); seekl.click(); } // page up
+    if (e.which == 34){ ekill(e); seekr.click(); } // page down
+    if (e.which == 35){ ekill(e); seekfun(slider.max); } // end
+    if (e.which == 36){ ekill(e); seekfun(slider.min); } // home
+    if (e.which == 37){ ekill(e); seekfun(audio.currentTime - 1); } // arrow left
+    if (e.which == 39){ ekill(e); seekfun(audio.currentTime + 1); } // arrow right
   });
   // set static audio stuff
   const metaloaded = function(){
