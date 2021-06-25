@@ -1,7 +1,7 @@
 {
   "no": 80,
   "title": "COVID Decoded: Science and Society in the New Normal",
-  "blubrry": "67131303",
+  "mp3": "https://mcdn.podbean.com/mf/web/v696ns/rawdataims_content_blubrry_com_rawdataims_RTP-episode80.mp3",
   "date": "September 9, 2020",
   "season": 5,
   "img_tile": "covidecoded-lens.jpg",
@@ -14,7 +14,7 @@
     "sh": ["Ekaterina An","Yagnesh Ladumor","Jesse Knight","Eryn Tong","Nathan Chan","Thamiya Vasanthakumar","Grace Jacobs"],
     "ep": ["Jesse Knight","Yagnesh Ladumor","Ekaterina An"],
     "ae": ["Alex Jacob"],
-    "pv": [], 
+    "pv": [],
     "sm": ["Alison Wong"]
   },
   "tags": [],

@@ -2,7 +2,7 @@
 
 This site is live now at: https://rawtalkpodcast.com
 
-Last updated: 2021-02-27
+Last updated: 2021-06-25
 
 Maintainer: [Jesse Knight](mailto:jesse.x.knight@gmail.com)
 
@@ -25,4 +25,4 @@ Maintainer: [Jesse Knight](mailto:jesse.x.knight@gmail.com)
   - **py/**: Python code to combine the above and write non-asset files to `web`
 - **docs/**: guide for how to edit the site
 - Audio files are hosted & distributed by
-  [BluBrry](https://feeds.blubrry.com/feeds/rawdataims.xml)
+  [PodBean](https://rawtalkims.podbean.com)

@@ -1,4 +1,7 @@
 {% extends "page.html" %}
+{% block scripts %}
+  <script src="/js/audioplayer.js"></script>
+{% endblock %}
 {% block pagetitle %}
 <div class="container-fluid">
   <div class="row justify-content-between no-gutters">
@@ -26,15 +29,28 @@
 <div class="container">
   <div class="row justify-content-end">
     <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-      <img class="episode-img-page" src="/img/episode/{{this.no}}/{{this.img_page}}"></img> 
+      <img class="episode-img-page" src="/img/episode/{{this.no}}/{{this.img_page}}"></img>
       <p class="img-caption">{{this.img_caption}}</p>
     </div>
     <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-8 col-xl-8">
       <div class="player-container">
-        <iframe id="player"
-        src="https://player.blubrry.com/id/{{this.blubrry}}/#shownotesBackground-16264e&downloadBackground-16264e&subscribeBackground-16264e&shareBackground-16264e"
-        scrolling="no" width="100%" frameborder="0"></iframe>
-        <div class="player-fix"></div>
+        <div class="player" id="player">
+          <audio id="audio" preload="metadata"
+            src="{{this.mp3}}">
+          </audio>
+          <div class="controls">
+            <input class="control" type="range" id="player-slider" max="360" value="0">
+          </div>
+          <div class="controls">
+            <span class="time" id="time-current">0:00:00</span>
+            <div class="controls">
+              <button id="seek-left"  class="control"></button>
+              <button id="play-pause" class="control play"></button>
+              <button id="seek-right" class="control"></button>
+            </div>
+            <span class="time" id="time-total">0:00:00</span>
+          </div>
+        </div>
       </div>
       <p class="date">
         {{this.date}}

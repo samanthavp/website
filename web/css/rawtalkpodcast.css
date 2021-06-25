@@ -181,12 +181,6 @@ img.img-link-hover-content {
 .section {
   margin: 30px auto;
 }
-#player {
-  height: 138px;
-}
-.player-container {
-  padding-bottom: 10px;
-}
 table {
   margin-top: 15px;
   margin-bottom: 15px;
@@ -525,7 +519,7 @@ p.date{
   width: 40px;
   margin: 5px;
 }
-.player-container-tmp {
+.player-container {
   padding: 30px 5px;
 }
 .player .controls {
