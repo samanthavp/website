@@ -452,7 +452,11 @@ p.date{
   font-weight: bold;
 }
 .transcript.timestamp {
-  color: var(--t-mid);
+  color: var(--c-blue-light);
+}
+.transcript.timestamp:hover {
+  color: var(--white);
+  cursor: pointer;
 }
 .episode-img-tile {
   width: 100%;

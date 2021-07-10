@@ -16,6 +16,11 @@ $(window).on("load",function(){
     const ss = Math.floor(dd % 60);
     return(String(hh)+":"+(mm<10?"0":"")+String(mm)+":"+(ss<10?"0":"")+String(ss))
   }
+  // parse timestamp
+  const tstot = function(ts){
+    m = ts.match(/(\d*?)\:?(\d+)\:(\d\d)$/)
+    return((m[1].length?parseInt(m[1])*3600:0)+parseInt(m[2])*60+parseInt(m[3]))
+  }
   // slider update function
   const sliderUpdate = function(value){
     const p = 100*(value-slider.min)/(slider.max-slider.min);
@@ -91,6 +96,10 @@ $(window).on("load",function(){
     if (e.which == 36){ ekill(e); seekfun(slider.min); } // home
     if (e.which == 37){ ekill(e); seekfun(audio.currentTime - 1); } // arrow left
     if (e.which == 39){ ekill(e); seekfun(audio.currentTime + 1); } // arrow right
+  });
+  // clickable timestamps
+  $(".timestamp").on("click",function(e){
+    seekfun(tstot(e.target.innerText.slice(1,-1)))
   });
   // set static audio stuff
   const metaloaded = function(){
