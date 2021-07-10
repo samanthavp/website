@@ -78,7 +78,7 @@
         {% for clip in this.transcripts %}
         <p class="notes">
           <span class="transcript speaker">{{clip.speaker}}</span>
-          <span class="transcript timestamp">[{{clip.time}}]</span>
+          <span class="transcript timestamp">{% if clip.time|length %}[{{clip.time}}]{% endif %}</span>
           <span class="transcript text">{{clip.text}}</span>
         </p>
         {% endfor %}
