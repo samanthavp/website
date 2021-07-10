@@ -18,8 +18,8 @@ $(window).on("load",function(){
   }
   // parse timestamp
   const tstot = function(ts){
-    m = ts.match(/(\d*?)\:?(\d+)\:(\d\d)$/)
-    return((m[1].length?parseInt(m[1])*3600:0)+parseInt(m[2])*60+parseInt(m[3]))
+    var m = ts.match(/(\d*?)\:?(\d+)\:(\d\d)$/);
+    return((m[1]?parseInt(m[1])*3600:0)+parseInt(m[2])*60+parseInt(m[3]))
   }
   // slider update function
   const sliderUpdate = function(value){
@@ -99,7 +99,7 @@ $(window).on("load",function(){
   });
   // clickable timestamps
   $(".timestamp").on("click",function(e){
-    seekfun(tstot(e.target.innerText.slice(1,-1)))
+    seekfun(tstot(e.target.innerText.slice(1,-1)));
   });
   // set static audio stuff
   const metaloaded = function(){
