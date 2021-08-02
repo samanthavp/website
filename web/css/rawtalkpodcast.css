@@ -17,27 +17,27 @@ body {
   display: flex;
   flex-direction: column;
   font-family: 'Fakt Pro', serif;
-  color: #cccccc;
+  color: #dddddd;
   background: #16264e;
 }
 ::selection {
-  background: #6186d133;
+  background: #5495ce33;
 }
 ::-webkit-scrollbar {
   background: #233f77;
 }
 ::-webkit-scrollbar-thumb {
-  background: #6186d133;
+  background: #5495ce33;
 }
 p {
   font-family: 'Fakt Pro Light', sans-serif;
   margin-bottom: 5px;
 }
 a {
-  color: #6186d1;
+  color: #5495ce;
 }
 a:hover {
-  color: #ffffff;
+  color: #a8e9ff;
   text-decoration: none;
 }
 h1 {
@@ -65,7 +65,7 @@ button {
   padding: 0;
 }
 .date {
-  color: #999999;
+  color: #bbbbbb;
 }
 .hidden {
   display: none;
@@ -93,8 +93,8 @@ table.center {
   display: inline-block;
 }
 .loader {
-  border: 5px solid #6186d133;
-  border-top: 5px solid #6186d1;
+  border: 5px solid #5495ce33;
+  border-top: 5px solid #5495ce;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -122,7 +122,7 @@ table.center {
   left: 0;
   height: 100%;
   width: 100%;
-  background: #6186d133;
+  background: #5495ce66;
   text-align: center;
 }
 .img-link-hover-content {
@@ -158,7 +158,7 @@ table td {
   padding: 5px;
 }
 table tr:nth-child(2n+1) {
-  background: #6186d133;
+  background: #5495ce33;
 }
 table tr:nth-child(1) {
   font-weight: bold;
@@ -180,7 +180,7 @@ table tr:nth-child(1) {
   margin: 5px 0;
 }
 .navbar-toggler:hover > .navbar-toggler-bar {
-  background: #6186d1;
+  background: #5495ce;
 }
 .nav-link {
   color: #ffffff;
@@ -192,7 +192,7 @@ table tr:nth-child(1) {
 }
 .nav-link:hover,
 .nav-link:hover i {
-  color: #6186d1;
+  color: #5495ce;
   cursor: pointer;
 }
 .searchbar {
@@ -201,7 +201,7 @@ table tr:nth-child(1) {
 .search {
   color: #ffffff;
   background-color: #16264e;
-  border: 2px solid #cccccc33;
+  border: 2px solid #dddddd33;
   padding: 8px;
   margin: 0;
   width: 100%;
@@ -361,7 +361,7 @@ table tr:nth-child(1) {
 .tile-profile-header {
   position: absolute;
   color: #ffffff;
-  background: #16264e99;
+  background: #16264ecc;
   padding: 5px;
   margin: 0;
   bottom: 15px;
@@ -376,8 +376,8 @@ table tr:nth-child(1) {
 .modal-content {
   border-radius: 0;
   background: #16264e;
-  color: #cccccc;
-  border: 2px solid #cccccc33;
+  color: #dddddd;
+  border: 2px solid #dddddd33;
 }
 .modal-content h4 {
   text-align: left;
@@ -391,7 +391,7 @@ table tr:nth-child(1) {
   right: 0;
   top: 0;
   z-index: 99;
-  color: #999999;
+  color: #bbbbbb;
   font-size: 200%;
   font-family: Arial, sans-serif;
   text-shadow: none;
@@ -421,10 +421,10 @@ p.date{
   font-weight: bold;
 }
 .transcript.timestamp {
-  color: #6186d1;
+  color: #5495ce;
 }
 .transcript.timestamp:hover {
-  color: #ffffff;
+  color: #a8e9ff;
   cursor: pointer;
 }
 .episode-img-tile {
@@ -460,7 +460,7 @@ p.date{
   text-align: left;
 }
 .tile-exerpt {
-  color: #cccccc;
+  color: #dddddd;
   padding: 8px;
   position: relative;
 }
@@ -566,7 +566,7 @@ img.img-panelist {
 }
 .btn:hover {
   color: #ffffff;
-  background: #6186d1;
+  background: #49659D;
 }
 .btn > * {
   margin: 0;
