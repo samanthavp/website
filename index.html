@@ -66,14 +66,14 @@
               <a class="nav-link" href="/contact"><h3>CONTACT</h3></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="collapse" data-target="#searchbar">
+              <button class="nav-link" data-toggle="collapse" data-target="#searchbar" aria-label="search">
                 <h3><img class="search-icon" src="/img/icon/search.svg"/></h3>
-              </a>
+              </button>
             </li>
           </ul>
         </div>
       </nav>
-      <form class="collapse searchbar" id="searchbar" method="GET" action="/episodes">
+      <form class="collapse searchbar" id="searchbar" method="GET" action="/episodes" role="search" aria-label="episode">
         <input class="search" type="text" name="q" placeholder="Search">
       </form>
     </div>
