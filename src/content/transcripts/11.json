@@ -1,7 +1,502 @@
 [
   {
-    "text": "Coming soon!",
-    "time": "",
-    "speaker": ""
+    "speaker": "Richie Jeremian",
+    "time": "0:00",
+    "text": "How's it going guys? This is Episode 11 of Raw Talk, where scientists talk and we listen. This month we're taking a trip down memory lane and chatting with some people who've helped influence us under the theme of student engagement. First up is the world's only Dr. Reinhart Reithmeier, who is Professor at the University of Toronto in the department of biochemistry, and my undergrad biochemistry prof. If you frequent the medical sciences building with any regularity, you're sure to have seen Dr. Reithmeier around, probably grabbing coffee and bestowing wisdom upon past and present students. In this episode, we sat down with him to talk about the importance of mentorship and translational skills, and got him to reflect upon some of the people who've helped influenced him along the way. This episode is a major throwback for me, and I hope it will help inform your future path, whether you're a postdoc, a grad student, or still an undergrad. Now, if you like what you're hearing, come at us on Twitter, Instagram, or Facebook @rawtalkpodcast, or leave us a comment on our website. Ready? Okay, let's go."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "1:27",
+    "text": "Yeah, funny, you should say that I just gave a Biochem 210 lecture this morning to about 1400 students. And I actually do remember you, because you were one of those students, I believe we came up and asked me questions,"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "1:42",
+    "text": "There may have been a question or two. Yeah."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "1:44",
+    "text": "And these other students I really loved I come up to the front afterwards. Sometimes they ask me questions, just for clarification. I always stick around for about a half an hour after every lecture, to take questions in person. And I actually have the students all grouped around rather than in a line because they can learn from each other. And many times there's a student that's curious about biochemistry and wants to learn more. And every now and then a student comes to me and said, You know, I kind of thought biochem was boring, but in your lecture, I find it really interesting, and I want to learn more about biochemistry, and especially about research. And this is all about a student's voyage of discovery. And I'm really keen always to help promote and stimulate that. Curiosity is a great thing. And often through education, we're told not to be curious about stuff, just learn the facts. But this is what I think education is really about."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "2:33",
+    "text": "Yeah, that biochem course was definitely my, I tell everyone, it was my first favorite science course. And I knew that that was true, sort of implicitly, when I found myself, in my downtime. I think I was taking a German class, I was doodling the fluid mosaic model on my notebook."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "2:49",
+    "text": "Yeah. So that I mean, that's great. So you found you know, a nice, your passion, you never know what it is. And one of the pieces of advice I give to students, especially the undergraduate level is to stay open to think about things outside of your comfort zone. So you might take a course that's not really in your area of interest, but by doing so you might think, Well, that was kind of interesting, that might open up a whole new window for you. And that's really I think, you know, the advantage of an undergraduate education. Everyone has sort of a, maybe a goal in mind, where they want to end up but, you know, things happen in life, and it's a voyage of discovery. You might be looking for the Northwest Passage, but you'll discover rediscover Canada."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "3:28",
+    "text": "And you certainly are the the can we save the poster prop for graduate professional development, you know, thinking outside the box thinking outside the lab. And we'll talk a little bit about what you're doing right now to address that. But let's talk a little bit about where you came from your your early beginnings."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "3:43",
+    "text": "Okay. So I grew up in Ottawa, as a son of immigrant parents, I moved to Canada when I was two years old, and I brought my parents with me, I thought it would be a good idea. So living in the countryside, my father was a nature lover, I sort of liked sort of nature biology, and in grade 13, you had a really fantastic science teacher, Mr. Gibson, who gave us the opportunity to carry out a research project of our own design. So living out in the countryside, I decided to do a population study comparing black grey squirrels to red squirrels. So every evening and weekend I wander around our house with a map and put x's on the map where I spotted a squirrel."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "4:26",
+    "text": "You actually went out and did this? You went out into the field?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "4:29",
+    "text": "This is like this is why it's called a field study. So yeah, and I love you know, exploring, Anyway, so"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "4:36",
+    "text": "Listen up Pokemon GO trainers. This is some good advice here."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "4:39",
+    "text": "Yeah, so I just met Pikachu yesterday and standing outside of my Biochem 210 class."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "4:44",
+    "text": "Did you catch him?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "4:45",
+    "text": "No."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "4:47",
+    "text": "They always get away."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "4:48",
+    "text": "They always get away. Yeah, but I did send the link to my granddaughter who does play Pokemon Go in Vancouver. She's eight years old and she knows all of the characters and is quite proficient at catching even high value ones. So I did my population study and I found lots of gray-black squirrels, put them on the map. But I couldn't find one red squirrel. So I'm a B plus student. And I thought, Oh, man, this is another project not going to go that well for me. So one weekend, I went further afield and went into a climax forest. It's pine trees are about 100 years old, absolutely gorgeous grove. And I walk into this and then I spotted a red squirrel at the very top of one of these pine trees chattering madly at me and holding a pinecone in his hands. So I marked the red squirrel down, I wrote up the project handed into Mr. Gibson, thinking again, if I get my B+, I'll be happy. I get it back a week later. And in those days, they used to write with red ink on the front of every essay and you could see your mark right away. A+. Oh yeah, they're all in a pile on the desk. A+. So Wow,"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "5:58",
+    "text": "Amazing."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "5:59",
+    "text": "Yeah, I was amazed. And so Mr. Gibson told me, and this has stayed with me for like 50 years is that Reinhart, you have discovered a fundamental principle of nature, that is gray black squirrels are gregarious, and living communities in deciduous forest, eat acorns, things like that, like we see in Queen's Park. Red squirrels are solitary. They defend their territory, even against other red squirrels, and they live in coniferous forests. So I thought that is amazing."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "6:27",
+    "text": "And it was eating a pine cone."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "6:29",
+    "text": "Yeah, is that everything there had the diet had the environment had the solitary, the gregarious all figured out. And what I realized from that is, it's amazing what you can learn by just looking around. And it was really at that point that I decided I'd like to be a scientist. And since my golf career wasn't working out as a PGA Professional. I still love golf, I still play it occasionally as an opportunity for mentoring, for example. I decided to go into science at Carleton University. And I started off in chemistry because I really like molecules and molecular stuff. I did okay. I did better than high school. But I find it really difficult, especially the math and physics. It wasn't my forte. So in second year, I switched to biology. So I switched majors. And I loved that I did extremely well. And then in third year, Carleton created biochemistry program between the chemistry department and the biology. So I had the best of both worlds really. I had the really good rigor of chemistry and this biology that I loved. And they found that as my niche, and I realized that was for me. So I was in the first biochem [cohort], I think we had six students. I actually finished number one, but it was out of six. All the other guys went to medical school, so I think they were pretty good. And while I was an undergrad, I had an opportunity. Actually it was a really interesting story, because I was in a physical chemistry lab, which is not one of my favorite courses. But there were two retired scientists who ran the lab, we used to work at the National Research Council, and I had expressed an interest in doing research. And they said to me, Well, you're in biochemistry. We know some people in biochemistry, the National Research Council labs, and they hire summer students and they said oh great, so you should apply. They wrote me really nice letter said I did a good job in the physical chem lab. And I got in. And they had young kids from all across Canada. So I started building like kind of network there but people interested in science like me,"
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "8:19",
+    "text": "And where is this National Research Council?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "8:20",
+    "text": "So it's the National Research Council, It's 100 Sussex Drive. It's right beside the French Embassy and the Prime Minister's residence. And actually if you go to Ottawa, you should visit it. It's Canada's 150th anniversary next year, please visit Ottawa. Visit the National Research comes in labs. It's modeled on Buckingham Palace. Actually inside it didn't look like much like a palace. It looked like a lab. Pretty messy and smelly."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "8:44",
+    "text": "Kind of like MSB."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "8:45",
+    "text": "Yeah, kind of like Yeah, you got it. The first summer I worked with Makiguchi, a Japanese scientist, and he taught me science was hard work. I did very, very well in his lab, and he was really encouraging me to, you know, work hard and do well. I ended up getting a paper out of that work. A few years later, I had sequenced e-coli protein S small subunit 14, that was my work as a third year undergrad. So I got a publication a few years later. The second year, I worked with Louis Visentin, an Italian scientist and he told me that research was fun. In those days, you could drink coffee in the lab. I still have a picture in my album of Louis coming in the lab, not that early in the morning, as opposed to Makiguchi who was in at like seven o'clock with a coffee in his hand saying, Reinhart, How did that experiment work out last week? And then I showed him the results, and he was all enthused, said, That's fantastic. That's great. Now next week, we should do this. So he again like, two things. They taught me researches hard work. And it also has got to be fun, because it is too hard otherwise."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "9:51",
+    "text": "How did you learn that, that it's got to be fun?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "9:53",
+    "text": "From Louis because again, he was - I didn't realize at the time, but he was really mentoring me and encouraging me in his own style. He wasn't faking anything. He was really, he was enthusiastic about science and discoveries. I said, that's kind of, you know, I found something I thought was kind of trivial. It's a small thing, right. And he was so enthusiastic about that my work mattered. That's kind of cool. Even this little thing I did was important, great. It can lead to something else and you never know. Right? So he taught me that. And the other part Makiguchi with the hard work is, you've got to put the hours in, you got to dedicate, you got to know what you're doing, and you know, be an expert in techniques and apply them properly and don't waste time, etc. So it was it was great."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "10:31",
+    "text": "By the way, did either of you see the the single author paper published in the New England Journal of Medicine by Barack Obama, about healthcare reform in the US, it's just him."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "10:40",
+    "text": "Well, I haven't read that paper. But I did read the paper published by Margaret Thatcher who was actually an undergrad and published on lipids, so she has a paper you can look up."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "10:50",
+    "text": "Oh, interesting."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "10:51",
+    "text": "She's a published biochemist. She didn't follow the biochemical pathway, literally."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "10:59",
+    "text": "Little little biochem humor there."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "11:01",
+    "text": "It's right. Sorry about that. I'm back to my Biochem 210 mode. Trying to get out of that."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "11:06",
+    "text": "By the way, I just love how you remember names."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "11:09",
+    "text": "Well, these important people in my life, right? They helped make my career, right? I didn't do it by myself. These are people that helped me every way as mentors, collaborators, etc."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "11:18",
+    "text": "And that's an important point. I think for the students, too. You got to have mentors, but I think we're foreshadowing a little bit here. But"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "11:24",
+    "text": "Yeah, but again, I, I started off, I could consider Mel Gibson, my grade 13 biology teacher, you know, one of my first mentors that said, You can do this, and here's something that I'll support you in, and gave me again, positive reinforcement when I came through, I don't know, I don't even know if I really deserved the A+, but he knew that this is something I really bought into. And I really liked. And I did a great job on it. And like I said, interesting insights. Great."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "11:48",
+    "text": "And by the way, just going back to that grade 13 moment, I feel like having had a similar experience myself, that A+ probably meant a lot more to you than just Hey, I got an awesome grade, right? It probably meant, hey, I didn't know I could work this hard. Like, I've never seen a grade like this on a paper with my name on it."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "12:04",
+    "text": "Yeah, I mean, it was kind of funny, because I ended up as the top student in biology at my high school, which I must say please my parents to no end, because I'd never got any award or anything. And I was like top and I got some kind of a prize for it, right? And so it's kind of, it's rewarding. I didn't do it for that purpose. That was sort of unintended consequence. But as I said, it made my parents very proud that I was like, number one in the, you know, huge high school in biology, grade 13."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "12:30",
+    "text": "And you probably thought, Hey, I could probably do this again, if I just put my mind to it."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "12:33",
+    "text": "And he did, he was number one in biochemistry, six students."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "12:36",
+    "text": "Yeah, I was number one in biochem, I could do it again. They were again, pretty bright students. All my friends were small class, but we all kinda worked together. And I just, I found my niche."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "12:45",
+    "text": "Actually, before we jump into GPS stuff, I wanted to ask you, are you active in research right now? Do you have a running lab?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "12:51",
+    "text": "Oh, yeah, for sure. I have probably about seven papers right now that I want to finish off. I finished applying for research grants, I'm done with that I was funded for 35 years, like straight. I'm very happy with MRC, CIHR. They're very supportive of me, even back to when I won awards, which I never thought I would do. So they've been very good to me. My last graduate student is defending next week, her master's. I'm very pleased to say she's already got a job with GSK."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "13:22",
+    "text": "Oh, great."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "13:22",
+    "text": "So she's going to transition. She's all set. So she's very happy. That's what she wants to do. She wants to  - she's a very good people person. I recognize that. She's not that keen on doing bench research, I recognize that, but she's got real talent, and she knows it herself. And through actually some graduate professional development, she recognized her strengths and weaknesses, worked on our weaknesses, developed her strengths. And she interviews extremely well and landed a very competitive job with really good company. GSK. Right? And I think she probably starts October one, so in a couple of weeks. So she's keen to -"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "14:01",
+    "text": "She hasn't even defended yet."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "14:02",
+    "text": "No. But she has a job, already. So I told her, I had a meeting with her, of course, as a good supervisor. We went through her presentation, we really grilled her on questions, said that, there's one more thing you have to do, you still have to defend your brilliant thesis. But take it seriously. I know you're all keen to get out into the real world and start your new job. But that's the task at hand. So focus on that for the next week. Do I know you'll do a great job, but you got to get that done. And then away you go on, so it was great. So that's that's been fantastic. Yeah. So I published, you know, my school papers, I still go to meetings and if I'm invited. I have collaborations all around the world in Heidelberg, and Oxford, and the States. And that's good stuff I learned when I was a grad student, postdoc. So find bright people doing good things. So it still continues even today. So it's sort of a lifelong thing doesn't just stop suddenly that you're all good in a lab and don't have to collaborate anymore. I've always looked for really good collaborations. So that's again, a thing I'd emphasize with students is if you can set up your own collaboration and develop it. Because you might have a problem you want to draft or you have a technique you think could apply, like, go for it, certainly talk to your supervisor, don't do it on the sly, be forthcoming. It'll help your development incredibly, that might end up being your transition to a new career. Oh, that is, that's where I want to go actually. You know, I like my project now, but this other thing I'm doing is really cool. And I don't want to go off. Again, you know, I think great things happen in interfaces between different disciplines these days. And if you can find someone who complements you, rather than as a clone of you, that's better, right? Really, I think it's the amazing thing that can be done."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "15:40",
+    "text": "It sounds like through the different places that you've been, you've picked up a lot of different sort of helpful points and insights, and about the importance of mentorship and knowing that everyone's different, and different skills are more conducive to different people. And you've managed to bring that to the people now as part of your GPS program. Can you tell us about that?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "16:00",
+    "text": "Yeah. So it's always interesting how you transition into something right? And it wasn't necessarily deliberate. So when I was chair of Biochem, we have to do these reports, every five years. We have external people come in, and [ask] are you up to snuff? Are you you know, internationally recognized as a great department, in terms of undergraduate teaching, graduate education, research, the whole thing, right? So I wrote this report, and I realized that we didn't have any outcome data for our masters or PhD. So that's kind of poor. Like we're graduaing all these people and we don't even know what they're doing, except anecdotally. Maybe so and so went here, so and so went there. So actually, what I did was I hired a grad students who use their social media skills - so this was in about 2010, something like that - to find all of our graduates, masters or PhDs, and where they ended up. So I got lots of interesting data out of that. And one piece of data that we got was our PhD graduates, 15% of them were professors. I said, No, I can't be right. Like we're one of the top biochem departments in Canada. In the world, U of T is ranked top 20. We must be populating departments all around the world."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "17:06",
+    "text": "It's got to be up to 70."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "17:07",
+    "text": "It must be, easily Yeah. Checked the numbers. Absolutely right. So then that brought up the question, Well, what are the other 85% doing? Are they working? like as baristas? Am I going to meet him in a limo going to the airport? Oh, weren't you a PhD student in biochem? What happened?"
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "17:23",
+    "text": "Were you in my lab?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "17:26",
+    "text": "I messed up as a mentor, right? Yeah. No I started thinking that way. Anyway, so we did the survey, because we contact these people. And it turned out to be awesome. These people were doing incredible things. So things just some sort of examples for the masters, PhDs. Head of scientific publishing at Oxford press, right. Okay, that's pretty cool. Dean of Students at Trinity College."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "17:47",
+    "text": "Not bad."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "17:48",
+    "text": "Chief Litigator at Eli Lilly, a big drug company. This person went to law school, did patent law, and away you go, right? And so what we decided to do - this is cool stuff. I didn't know about it as chair. The grad students didn't know about this stuff. And most faculty members didn't know except anecdotally. Oh, so and so went to here. And if basically, they went into biotech, they went to the dark side and I don't know where they are, now they're doing, I don't know. And so we said, we have a resource here, now. We have a cadre of alumni doing cool things, including being an academic, right, or a lecturer or whatever, or being an administrator at a University, right? All great, so what we decided to do - it was Nana Li, who is one of our PhD graduates who we found, who had done a postdoc and then worked in biotech, and worked as a freelancer and a consultant doing all kinds of cool things. So she and I got together and says, you know, we should maybe organize some kind of a course for grad students to make them aware of these opportunities, let's call it career development, but also how to transition from this beautiful academic world that we know so well, to, let's call it, in quotation marks the real world, right? I mean, our stuff is very real. But let's call it that just for fun. So we put together this course as a pilot, we restricted it to 20 students, senior PhD students, and we brought in experts from the Career Center, from SGS, from our cadre of graduates, always had a career panel, and they would come in and tell their story. How did you get to be head of scientific publishing at Oxford Press, and it wasn't a linear path was never the guy's career. In fact, what happened there, he'd gone to a scientific meeting. During one of the breaks he wandered around the exhibits, just to look at the books and the journals as we all do, and he started chatting to the guy. And he said, we're looking for recruiters. Guy says, recruiters, what are those? He says, Well, we hire people to find authors who are going to write books for us, textbooks, monographs, review articles. You've got to know the field. You got to know the best people in the field and you got to use persuasive communication to get them signed up as authors. So [he says] I can do that. I know that I know field. I know the best people in my field. I have the skills to do that. Started off doing that. Travelled the world, meeting people, and then work up the ladder, incredible. The Chief Litigator at Eli Lilly. Lawyer. He says, what I do is I have to go to court. And I'm defending Eli Lilly's patents against infringement, right? From other little startups. We have the patent on that, you guys don't. So I have to take highly sophisticated chemistry, pharmacology, biochem, medicine, and explain it to a judge who's not a scientist or an MD, that's going to make the decision. How do I do that? I can't dumb it down. So I learned that method being a TA and biochem, when I had to take complex material presented by the professor in class at too fast, too high a level, and explain it to bright but naive undergraduates. That's how I did. I didn't dumb it down, but I used new language. So that blew away the students in the class because they said I just TA to get teaching on my resume, like it's a checkbox. No, that's a skill you're developing. You're communicating with a group, with individuals, you're doing quality control, because the lab reports, you're organizing time management, all these skills. So that's one thing the emphasize in our courses: You don't even know you're learning these skills, but we had to put a name on it. You're doing project management, you don't even know you're doing it. So one of the things we did was we asked the students one question, the first thing we asked them was, in the first session, How many of you have been to the Career Center? Of 20 students, how many?"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "21:30",
+    "text": "I've never been to the Career Center,"
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "21:31",
+    "text": "I will be honest, I had never been."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "21:34",
+    "text": "Neither have they. And I said, you know, you guys are paying for this, like on your fees. Like this is like that money you're [spending]. So they didn't see Career Centre as a resource for them. So we brought career people to them. And the thing that they did for us was they allowed people to convert their CV to a resume and write a cover letter for a job, a dream job. It wasn't necessarily an opening, but if they found Oh, I like, I am interested in that kind of job. Then what we did was we got them to learn how to do cold calls, informational interviews. So you found a job, you found somebody doing that job. Sometimes they were one of our alumni. So we got the students to reach out to the people. I am a PhD student in biochem. I said, I saw so are you, I see you're working at, you know, Glaxo or something, right? GSK. You know, I'd like to talk to you about what it's like to be a medical liaison officer. I don't even know what that is. So then you go and meet them, having coffee with them, discuss what their job is like. And you say, well, that's maybe that's for you. And then we have the students, 20, report back with you learned the whole group. Sometimes they went out and said it's not for me. And someone else said, that sounds really cool, can I, then they connect on LinkedIn and away you go. So we're starting to do their professional development. So that was very successful in biochem. Nana Li is now organizing it. She was hired into biochem as a professor teaching stream to do this professional development. Immunology, she's teaching in there as well. I know now, pharmacology's putting a course together. This is a four credit course, graduate course. We thought it was so important that the student should get credit for it's not co-curricular, or extra-curricular, its curricular. Some places like IMS embed it within their normal seminar series, that's another great model to do it, but just shows that it's really important to do these, have these skills. And again, it's you know, a bit of hard work, but it's also fun to do these kinds of things. We had students do pitches for ideas that they had to a panel and they use like, for example, the Globe and Mail sciencer, writer we brought in, we brought this litigator in, like patent lawyer, and bought someone in from MaRS, an angel investor kinda who actully had money. You have three minutes to make a pitch for a million dollars. Go for it, tell your story, they couldn't do it. Why? We train students, title, introduction, methods, results. And finally, the conclusion. No,"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "23:46",
+    "text": "I think that this point about developing skills and the importance of having a diverse skillset ties in, it doesn't sound like it ties in but it's it ties in pretty closely with the fact that you say that only 15% of PhDs coming out of U of T actually go to academia. Because I tell all my friends, you know, they say what are you going to do after your PhD? And I say, I don't really know, I kind of want to do everything, but I'll figure it out. But I tell everyone, the PhD is kind of like a Swiss Army knife. Yes, I spend most of my time in the lab doing research, reading, experiments, analysis, writing, whatever. But there's a host of other skills that you pick up as you say that you don't even know you're picking up right communication, translation, teaching, yeah, emotional intelligence, patience, dexterity if you pipet at all. I'm serious about that, you know, I feel like I can grip things just better just having worked in a lab for six years, right. And it's way more than just your career path. It's it's what you can pick up along the way."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "24:42",
+    "text": "So that's really good. So there's two parts of that. One is that you are developing high level skills and maybe don't even know it because you're so focused on your technical and writing papers and presenting, and getting published all that. But that brings up the issue we found with our students is they couldn't find the right vocabulary for those skills, that would work in the place, the private sector. And one way that I encourage students to do that is just do this, try to do this CV to resume conversion. It's very, very difficult to do. And we have programs that SGS - I'll talk about that in a second - to help you do that, you should have a go at it on your own, like find a job, write a resume targeted to the job, write a cover letter to the right person, not dear occupant, you have to find the person, you know how to do research, who's the real person in charge of that, and find out about the job. Do research about the job that position the company. So I give some examples. In the federal government. So a lot of people want to work in the federal government, it's great place to work. They scan all applications by computer first for keywords. So if you don't have in your cover letter and resume the words in that job description, you're not going to get an interview at all. So write that very strategically. That means you don't have, you might have one CV, but you're gonna have many resumes, right? So that's one. And then there's the once you get through that process, then there's the interview. And what it really tells you when you get an interview, you're qualified for the job, you wouldn't get an interview if they thought you were not qualified. So now it's whether can we work with this person? And one of the questions, very favorite questions that people ask in interviews is, what did you do to prepare for this interview? So if you said, Well, I don't know, I bought a suit, you know, okay, good. So, in some cases, when people said was, they never even went to the website, they didn't read the mission statement of the organization, or their strategic plan. So you say, Oh, yes, I read your, you know, strategic plan. And I noticed that and away you go, there's a conversation,"
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "26:41",
+    "text": "That's usually the first question."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "26:42",
+    "text": "Yeah. So you know, so you don't have that. And then also on your resume you put down kind of interesting things. So they might be interviewing people, all who have PhDs, so you're not going to sit there for half an hour, even though you want to tell them about your great research project that you did. And how's it was so cool. And you published all these papers, they're not interested in that. They know that, right? They want to know about other things that you did, right. And sometimes it's hobbies or activities that actually attracts them. So tell me about, especially engaging with the public and other people where he is effective member of a team. Can you demonstrate that? Was there ever a problem? And how did you address it? And also, I never had any problems I was, I went to school, no problem at all. You're not going to get the job, because that's not true. But everyone has challenges, whatever. And so you have to say, think about problems you've had, and how did you address those problems, whether there might have been with your supervisor, might have been a family crisis, might have been monetary, whatever it is. But, here's what I did. So that's really the kind of skills you need to develop all the way through."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "27:57",
+    "text": "Which is a very good question to end the interviews."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "28:00",
+    "text": "And that's how you want to be remembered right about?"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "28:02",
+    "text": "A tagline or a slogan."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "28:04",
+    "text": "So you should think about that right? Yeah. So when I finished as chair, I kinda had this graduate professional development [project]. And then I knew at the graduate school, they had a new dean, Locke Rowe, and I heard lots of great things about him. So I took a leaf out of our own graduate professional development course, if there's not a job out there for you, create your own job. So I wrote up a job description as a special advisor, the dean for graduate professional development, just a one paragraph thing. I invited the dean for lunch at the Faculty Club. And we sat down and I gave him this one pager and said, this is what I want to do."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "28:37",
+    "text": "So why was that position necessary?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "28:39",
+    "text": "Because I thought I was a vacuum. We had in biochemistry, because I'm familiar with the Faculty of Medicine, it was the same in every department. And then I didn't know much about humanities, social science, when I talked to other people. So I did my research, I said, there's big issues in humanities of evaluating the PhD in humanities people are taking too long and are getting jobs because his academic job market is drying up. So I thought, this is a very common theme here, right? So maybe I could do similar things at the graduate school. So I did find out about the GPS program, which has been in place for a while. And Liam O'Leary is the person that runs it. So I met with Liam and talked about the kind of cool stuff he was doing. So they had recognized the need for professional development for graduate students. Part of it was that realization that the university put a lot of resources into undergraduates, about the undergraduate experience because they basically didn't do so well in a lot of the McLean's polls, you know, decades or so ago, about classes are too big, you didn't take care of undergrads. Then you realize, it's very similar for graduate students, either domestic or international coming here. It's a big place. We have like 17,000 grad students, you know, lots happening, and they need to have some support and development as well. But it's different from undergrads. The Career Center was really good at undergrads, and as you guys have said, grad students even today don't see the Student Life or Career Center is a place for them. That's for undergrads, right? And so SGS was really keen to develop programming targeted specifically for graduate students and their needs, into the career development. So the end, but but also about how you can be more efficient, effective as a graduate student develop those skills right now, that'll help you as a graduate student. But then, of course, those are translatable, and you're going to keep them for lifelong, right? Whether it's project management, time management, how to work as effective member of a team, how to lead a team, how to communicate effectively to the non-expert, all these things, right. So we're really keen at the graduate school to develop programming that's targeted for graduate students. As I said, I'm a child of the 60s, I'm really into student empowerment. So I really like what you guys are doing there, you're coming out and challenging faculty members. So we have a fund for example, SGS, which is an Innovation Fund for graduate professional development. So I want to hear from students what you think your needs are right? Rather than me telling you, because I'm not you, right? I've got a job. I'm okay. But you guys are, you know, what are your concerns? What are your issues? And we can help design programming either in situ, like for IMS, for example. Or if it's sort of common, we can do things for the university. One initiative I'm working on right now is an IDP. So I encourage everybody to go online and look up myIDP, it's an individual development plan. It's really targeted for Life Sciences students, it started off as a way of career development for postdocs, because they were realizing that academic jobs in the states were drying up, and what am I gonna do now? Because I, my whole life has been targeted to this, then FASEB, took it on. So it's part of FASEB, Federation. And then, more recently, last couple years, any trainee, undergrad, grad, or postdoc funded by NIH is mandated to do a myIDP. So I encourage everybody to just go online, look at the myIDP. Have a look at what it's like, and maybe have a go at it. But it's really the idea that you're in charge of your own career development, right. And it may not be what your supervisor thinks, but it's the real power of it is that you again, sort of do a self assessment of your own kind of thoughts. It's a plan, that plan is going to change. It's not you're not locked into it, but at least you have a plan. And you can discuss it with your supervisor and during your [meetings]. What your career aspirations are. They may think that you want to stay on the academic path, which they know so well. So we love working on the apprenticeship model. Like I'm a successful scientist, do what I did, and you'll be successful too. But the reality is, the numbers vary. But let's say we're looking at biochem at 15%, 85, are not in that path. And quite frankly, most faculty members are not able or willing to give career advice outside of their own domain, they just don't have that experience. That's where SGS can play a role. So I would encourage anybody who's interested in programming to look in to the GPS program, if there's stuff there you like, great if there isn't, let us know at the School of Graduate Studies, that we can create programming for you."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "33:02",
+    "text": "To your point about the supervisor, I think it was Dr. Alan Kaplan, the former director of our department, the IMS, who once told me that a great mentor does everything that a good mentor does, but also knows when to let go."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "33:14",
+    "text": "Right, exactly. So it's like, you know, I'm a parent, you guys are young. So it's the same thing. If you want your children to grow up to be well, first of all, happy and healthy, that's the two most important things, right? Doesn't matter what else happens if they're happy, healthy, that's great. But then you want, you have to let them go at some point, right? You know, about the bird and the nest, like, you have to, sorry, you don't know how to fly, but I'm going to kick you out of the nest anyway, and you're gonna learn to fly today, because you need to know how to fly so you can survive, right? So that's really great. And some students need a lot of help and kind of leaving the nest. Others like don't even want to be in the nest in day one."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "33:49",
+    "text": "And for different reasons."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "33:50",
+    "text": "But definitely, as I said before, everybody's an individual and what how that relationship works out. I mean, it's, you know, it's a complex one supervisor student relationship. And you know, the university is very keen on looking at that from all angles to make it the most effective and productive relationship possible. Often, it does go awry, not often, but sometimes it does go awry for various reasons. But that has to be a really good open, working relationship. If it's not open and working, that you cannot tell your supervisor what your thoughts are, then that's not the kind of relationship you want to have. I can give one quick example of that. I had a really great graduate student came from life sciences, Queens, and he came to work with me directly because again, one of the professors at Queen's recommended me was a colleague of mine from UBC days, part of my network. He was great. He published a lot of great papers. I said, john it's time for you to write up your thesis and do a postdoc. I can phone and so and so at Stanford, and you can get into right away. So we're sitting my office, and John says, I don't want to do a postdoc. I was floored. This, but it's a John, but you're like one of my best students. Why wouldn't you want to do a postdoc like I did in the states and you know, go on the academic path? He said, I want to become a high school science teacher. But john, you're good. You could be like a professor."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "35:03",
+    "text": "You're throwing everything away."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "35:06",
+    "text": "That's right. And then I realized, okay, so this was like 20 years ago. I said, Oh, okay, I think I get this. You're a TA, you won, like all kinds of TA awards. You're awesome with students, you've completely revitalized lab courses and everything. So I wrote him a great letter for Teachers College, he got in, got a job as a teacher became head of a science department, within a couple years where, you know, with the union, and then started writing science curriculum for the province, Ontario, right. So he's transforming science education for 1000s of students, he could have gone to Stanford discovered a cancer gene and become, you know, famous scientist. But when I think about impact, he's one of my proudest graduates, that he went off to become a high school science teacher, because that was his passion, teaching. I finally, again, everybody's an individual, they're not me. That's your thing. I'll support you in that as much as you can. And you're going to have an impact."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "35:54",
+    "text": "Is he still at it?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "35:55",
+    "text": "Oh, absolutely. He loves it."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "35:57",
+    "text": "So So for a prospective student who's looking into industry, or type of PhD should they be looking for so?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "36:04",
+    "text": "Okay, so I would say it's almost irrelevant."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "36:06",
+    "text": "Really?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "36:07",
+    "text": "Yeah. What kind of PhD you want, they're not looking for that, necessarily that area. A PhD, that degree tells an employer something about you. You can work hard, you can focus, you can write, you can present, you can do research, you can problem solve, you can do critical analysis, all this stuff. My view on that is you should look at the career opportunities. That's where you should focus. Don't try to be strategic in terms of what you're studying in the hope that's going to lead to something, they're not going to hire you because you know how to pipette. They're going to hire you as you know, to think, right and problem solve. And you're in biotech, you're going to work on one project today. You come in on Monday, that projects been cancelled by head office, we're working on something else."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "36:48",
+    "text": "Same skills, though, right?"
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "36:50",
+    "text": "Yeah, they're transferable. You say, Okay, maybe I'm not happy, I thought that was a great project, but you gotta go do it. So again, when I was a summer student, when I worked in one lab with Makiguchi, I loved it, I thought I'd work with him again. But then he said No, we're gonna put you in another lab with Louis Visentin. So I said oh, but I like - so I go, okay, I can do that. And that was great. So I would work on looking at career opportunities that are out there, they're going to change. By the time, you know, a PhDs is five or six years, what's out there now maybe totally different. And a new technique will come in. You can say I'm going to be an expert on CRISPR. It's hot. And five years from now there could be a new technology discovered that CRISPR is obsolete. So if you're the CRISPR person, that's how you're doing, you're not going to get a job. But if you say oh, I can use this technique, this technique, this thing, I can learn these things. I'm adaptable, and nimble and flexible. That's what employers are looking for. So my advice to students is, start your career development day one. I know you're in graduate school, it's all overwhelming. But you know, it's just an orientation, there's lots thrown at you, you got to do this, you got to do that, this form, that fun, get your committee do this, do that. But then start thinking about that. The IDP is a good way of kind of taking some time away. You know, a little personal intelligence. Step back a little bit, every now and then and look at where you're going. Am I really happy where I'm going? Is is the right great place? Check out all kinds of jobs. One great resource every department will have, because they're connecting more and more with alumni, are the alumni. Find out who in your department is doing cool things. They love to come back in a course at SGS? Where we phone up people or email, and say, Hey, could you participate in this panel? They love to do that. Why? Because you're sitting across the table from someone was them not that long ago, I know exactly where you are, what you're thinking, here's my process. And it was not linear. Right? I met somebody a conversation that ended up opening a new door for me and I went for it right?"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "38:41",
+    "text": "It's almost never linear. By the way. I think we only have spoken to one scientist who, when we asked him, was there ever a moment of doubt when you thought this isn't for me? He just said no. It was always for me, this was always my path."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "38:54",
+    "text": "Yeah. So yeah. So I think I feel very privileged being a University Professor, because again, as I mentioned before, I had an opportunity to do a sort of civil service job and I decided I needed more freedom, and it's called academic freedom to follow my nose be my - and that's sort of guiding me along the way. I'm curious about things like I knew from my squirrel days that just looking around, you can figure out stuff. So let's keep looking around in different places. You never know what you're going to find, right. And then universities are great. I love September, when the campus fills up again, I see myself reflected, I go back to the 60s while I was on campus and so keen, and I just love this time of year. September for me is the beginning of the year. It's not January one, it's not July one, not some financial year, September after Labor Day. Okay, now my year has begun."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "39:45",
+    "text": "I agree."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "39:46",
+    "text": "And I'm back in Biochem 210 with you know, 1000 you know, fresh faces out there. Why am I in his biochemistry class? Can I get out? and I say all I want to do is, you know, convince you that there's some cool stuff about biochemistry that I'm excited about. And maybe some of you might be able to get excited about. I think this is great. I think that excitement has got to go all the way through your career, right? Tell your senior Professor like I am, I still love coming to campus, I still love doing research. I still love interacting with students, because they're bright, motivated and challenging. I love that part of the university. Like I say I feel extremely privileged to be a University Professor, especially at a great place like U of T, it's a fantastic place."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "40:31",
+    "text": "There you go, step one, find out what matters most to you. Step two, just do it."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "40:34",
+    "text": "Well, we got people in our graduate professional development courses introduce themselves, I mean, standard thing. I am a third year PhD student working for so and so on my project is is - No, I don't want to hear that. I want to hear what you care about. What are you passionate about? Why are you working in cancer? Right? Why did you pick that? You can pick any area, right? Why is that the area? Well, my aunt, you know this, you tell the story, right? And that got me really keen, or I had an experience in a lab, and I said, this is really cool. And I started - so what is your passion? And if you can marry your passion with the hard work, again, with the equation of fun, plus hard work equals success in my book, right? So you have this passion. That's the fun part. I like doing the stuff. That's really cool. And then I know it's hard work. And I have to learn this technique. Okay, I'll buckle down. I have to read these papers, I'll do it. Those are that's the marriage is good. But you got to have that passion, because it's hard. Research is going into the unknown, right? Often I have been even [tell] my parents that, you know, you're, Oh, you went to university, you're smart. No I'm not smart Mom, you know that. I'm not smart. You know. So if you learn everything that's in the biochemistry textbook, that's not going to do anything, because you're advancing knowledge. And that, to me is the excitement. That's that trip I took into that climax forest. I mean, because I did that, and went further than I should have right? And probably leave for dinner or something. I went further, I've made this discovery. And that's the whole thing about research. He got to just go that - and those are the successful people, they take that one. Why are you looking at that when you shouldn't? Because I think there's something there. And maybe you're wrong, maybe it's a risk. But maybe it's Wow, look at that. I didn't think that protein was involved in this. I mean, you've found it. Yeah, it is actually a central key feature, and away you go, right. So again, advice: stay open, you have to be willing to take some risks. And then those pathways can lead you to anywhere. And that's the exciting part."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "42:27",
+    "text": "So tell us again, where people can find your work if they're interested as well as your initiatives."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "42:31",
+    "text": "Okay, so again, if you Google my name, Reinhart Reithmeier with a T. Right, but you'll find me and all my publications, and I've written some stuff off up on graduate professional development for like magazines like University Affairs, if you're just even, my red squirrel story has been written up. So you want to read about that. One thing I encourage people to do, however, is to look at my YouTube video, which is entitled How to sleep in biochemistry class. It's probably one of the most useful videos that you'll watch and it's certainly useful and the classes at U of T."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:07",
+    "text": "Check it out everyone."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "43:08",
+    "text": "Yeah. Alrighty, Reinhard, thank you so much. It's always a pleasure."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:11",
+    "text": "Thank you guys. This is awesome. And I really am very pleased to be here."
+  },
+  {
+    "speaker": "Jabir Mohamed",
+    "time": "43:15",
+    "text": "We're pleased that you're here."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "43:16",
+    "text": "Taking the time to talk to me, it's been really great. I love it"
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:18",
+    "text": "Till next time."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "43:19",
+    "text": "Yeah, for sure."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:20",
+    "text": "Raw Talk is a student presentation of the Institute of Medical Science at the University of Toronto. The opinions expressed on the show are not necessarily those of the IMS, the Faculty of Medicine or the University. To learn more about the show, visit our website at rawtalkpodcast.com and stay up to date by following us on Facebook, Instagram @rawtalkpodcast. Also, don't forget to subscribe on iTunes and rate us five stars. Until next time, keep it raw."
+  },
+  {
+    "speaker": "Dr. Reinhart Reithmeier",
+    "time": "43:45",
+    "text": "But john, you're good, you could be like a professor."
+  },
+  {
+    "speaker": "Richie Jeremian",
+    "time": "43:46",
+    "text": "You're throwing everything away."
   }
 ]
