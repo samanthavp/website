@@ -46,10 +46,10 @@ def json_drill(path):
       Dk.update({file.replace('.json',''):json_load(os.path.join(root,file))})
   return(D)
 
-def json_save(path,content):
+def json_save(path,content,**kwargs):
   log('save: '+path, level=2)
   with open(path,'w') as f:
-    json.dump(content,f)
+    json.dump(content,f,**kwargs)
 
 def file_save(path,string):
   log('save: '+path, level=2)
@@ -62,4 +62,4 @@ def page_save(E,T,page,**kwargs):
 
 def search_save(path,content):
   path = os.path.join(root,'search',path)+'.json'
-  json_save(path,content)
+  json_save(path,content,indent=1)
