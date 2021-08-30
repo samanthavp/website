@@ -5,28 +5,13 @@
     "img": "/img/team/recruit/show-host.jpg"
   },
   {
-    "title": "Content Creator",
-    "doc": "/docs/recruit/RawTalk-ContentCreator.pdf",
-    "img": "/img/team/recruit/content-creator.jpg"
-  },
-  {
     "title": "Audio Engineer",
     "doc": "/docs/recruit/RawTalk-AudioEngineer.pdf",
     "img": "/img/team/recruit/audio-engineer.jpg"
   },
   {
-    "title": "Promotions & Social Media",
-    "doc": "/docs/recruit/RawTalk-Promotions+SocialMedia.pdf",
-    "img": "/img/team/recruit/promotions-social-media.jpg"
-  },
-  {
     "title": "Public Relations - Events",
     "doc": "/docs/recruit/RawTalk-PublicRelations-Events.pdf",
     "img": "/img/team/recruit/public-relations-events.jpg"
-  },
-  {
-    "title": "Science Writer",
-    "doc": "/docs/recruit/RawTalk-ScienceWriter.pdf",
-    "img": "/img/team/recruit/science-writer.jpg"
   }
 ]
