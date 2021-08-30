@@ -1,7 +1,492 @@
 [
   {
-    "text": "Coming soon!",
-    "time": "",
-    "speaker": ""
+    "speaker": "Melissa Galati",
+    "time": "0:00",
+    "text": "Hey everyone, this is Melissa"
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "0:01",
+    "text": "and this is Swapna."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "0:02",
+    "text": "Today you're going to hear from Dr. Carmela Tartaglia. She's a clinician investigator at the Krembil Research Institute at the Toronto Western Hospital. She maintains the memory clinic as a neurologist at the University Health Network, and she's an assistant professor at the University of Toronto. She's also the Marion and Gerald Soloway, Chair in brain injury and concussion research and on today's episode, we are going to talk about her research on a disease called frontotemporal lobar degeneration, or ftld. We talked about ftld as a form of early onset dementia, how ftld presents, and factors that contribute to its development. Dr. Tartaglia also shares her advice for management of dementia for patients and in particular their caregivers."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "0:44",
+    "text": "We also discuss her research on concussion and her involvement in knowledge translation in the field, including a conference that she recently co chaired at the Canadian Concussion Center, the inaugural Canadian Conference on Concussion in Women and Girls, and she shares her insights on the importance of skepticism when reading about new scientific findings in popular media, specifically on the topic of biomarkers and concussion research."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "1:09",
+    "text": "Finally, you're going to hear from James and Anton who caught up with two other very special guests. James sat down with Dennis Hunkin, who lives with Parkinson's disease. They talk about the importance of physical activity and individuals with neurodegenerative diseases specifically, Dennis's experience with the Parkinson's disease boxing group called Rocksteady"
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "1:29",
+    "text": "And Anton had a chance to chat with Dr. Eve Valera, a renowned expert on domestic violence related brain injury in women who have been in abusive relationships. We hope you enjoy our conversation with Dr. Tartaglia as much as we did. And if you have any feedback, subscribe and rate the show on iTunes or wherever else you listen to podcasts. And, as always, keep it raw."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "1:59",
+    "text": "Thank you for joining us today. Dr. Tartaglia. And so we usually like to start with sort of an origin story and journey, then you have a bit of an unconventional scientific or non scientific background, really. So can you talk about how you got into research and ultimately medicine?"
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "2:14",
+    "text": "Yeah, so I guess I took the scenic route to where I am today. I started off... "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "2:19",
+    "text": "The best route! "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "2:20",
+    "text": "Yeah, I think so. I went to film school and did arts for a little bit. And then I decided that I was going to get into. I was always interested in the brain and I actually had done quite a lot of training in philosophy of mind, except that I was always left with this feeling that I wasn't really getting to what I was interested in. So I decided that I was going to go into neuroscience, but having had really limited scientific training, I had to go back to school to get all my courses. Yes. All those lovely science courses like organic chemistry. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "2:57",
+    "text": "Oh, yeah. Lovely. "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "2:58",
+    "text": "And, and so at the time, I had a friend who was working in imaging, and he thought that maybe I would like that, because I was into photography, and that he was working with MRIs. And it was black and white pictures, black and white pictures. So I thought, yeah, right up your alley. And it's of the brains I went to. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "3:18",
+    "text": "And this was at a gala at the Montreal biological Institute. Exactly. Beautiful. And so you did research while you were completing the science courses? And then did you just decide to go into medicine? Or were you actually planning on doing research?"
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "3:30",
+    "text": "Yeah, I was always planning on doing some research, so that I kind of saw as part of my life, but I was working with patients and the person I was working with most closely, who would have been my supervisor, thought it would be a good idea to go to medical school, because I really look like I enjoyed working with the people and the kinds of questions that I would ask. And so I thought, okay, maybe, maybe he doesn't think I could do a masters or a PhD. So I applied to medical school. And I asked him about it later. And he's like, I just thought, you know, you enjoyed it so much. And I was like, Oh, okay. Great. Yeah. No, it worked out well, but you know, big misunderstanding. So, yeah, so I applied to McGill. And then, yeah. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "3:37",
+    "text": "And so you already had a background in neuroscience a little bit. So neurology was kind of your first choice. I guess. "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "4:20",
+    "text": "Actually, it was my only choice. That's all I wanted to do. And I always tell medical students, they should cast a wide net, but actually, I didn't. I was only interested in you were on one track. Yeah, very much one track mind. But it's worked out well, so far. Yeah, I'm really happy. I can't imagine my life just not doing research. I love the research aspect. And I think in neurodegenerative disease, it helps you understand what's going on, it helps you, you know, try to move the field forward. Like we all know that we need more understanding to be able to cure any of these diseases and so falsely or truly, you feel like you're working towards that."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "4:56",
+    "text": "So you come from this film background and while you're completing those courses, you We're looking at these MRIs and you're used to talking to people working with people. And that whole idea of having a story when people come into your clinic, do you think your background has kind of prepared you for that?"
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "5:09",
+    "text": "Yeah, for sure. Because I'm always, I've always been interested in people's stories. So when people would tell me about what's changed in them, I mean, when you're working in film, a lot of times, that's what you're doing, right, you have a story. And even if you're building characters, you know, you have to give them a story. But when people tell me the stories, I am actually interested. And I'm always relating it back to what's going on in their brain, because you know, you are a reflection of your brain. And so if your brain changes, you change, and so your story will change. "
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "5:37",
+    "text": "So how important is the story of the patients in medicine and in advocacy, because this is a place where you do a lot of work to an advocacy."
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "5:46",
+    "text": "I think it's essential, because if you're not interested in people and their stories, you probably won't end up in medicine, first thing. And secondly, the kind of medicine that I practice, which is, I'm a cognitive neurologist. So I deal with changes in the brain changes in personality changes in cognition, it really is all about the story, right? Like, the person comes to you. And sometimes it's not them telling the story because their diseases so advanced, but you know, some change in their ability to do something, you know, has happened, somebody has noticed, and they're telling you that and so if that's not of interest, trying to piece that together, I don't think you're going to end up in medicine. And unfortunately, in the brain, unlike in other areas, we don't really have the best diagnostic tools, you know, we don't like to take a piece of your brain unless you have to write, you need all the brain that you have. And it's not easy to get to. Right. So we have access to the cerebral spinal fluid, which is, you know, at least that, but it's not easy to do brain biopsies unless absolutely essential. And we have imaging, but unfortunately, a lot of diseases that we treat are below the threshold, and especially at the early stages. So two of the illnesses that I deal with, one is post concussion syndrome. People have had some brain injury when they had the concussion, and then you know, they should have gotten better, but they don't, and they end up with lingering symptoms. But the MRIs look fine, regular clinical MRI. So does that mean there's no injury? I mean, we just kind of have to assume right now that there's the injury, but it's below the threshold of our detection. In neurodegenerative diseases, when people are at early stages of disease. It's very hard to see anything on the clinical scans, right. But that's the time you would like to intervene. You don't want to wait till their brain is degenerated because it's very hard to bring back brain. Yeah. So yeah."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "7:40",
+    "text": "Well, it almost sounds like the story is partly a diagnostic tool, like exploring the story helps you proceed in your diagnosis. "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "7:48",
+    "text": "Yes. And we spend a lot of time getting that story. So when people come to us, a lot of times, they recognize symptoms that have been kind of told to them or that are in the popular culture, right. So what's in the popular culture, memory problems. So everybody comes to us with memory problems. I'll tell you that in my clinic, a lot of times, it has nothing to do with, you know, the aspects of memory that they think it does, right, because you can have a memory problem because you can't even register information, you know. You can be taking some medications that actually interfere with that. There's some people who can't remember, because the information actually can't be stored properly, right? When you store information, you have to store it in a way that you can actually retrieve it. And there's some people who have a memory problem because there's a real hippocampal problem. So the memory network can break down at many different areas and different diseases affect different parts of that pathway. And so when they're telling you the story, they're going to tell you that they don't remember, but you know, you might figure out it's actually only the memory for words that they don't have anymore, right? Or even worse than that the family tells you they don't remember, but you start talking to the person saying, well, the person probably has a very good memory, but they actually don't understand anything, you're saying to them anymore because they have such extreme semantic loss. And you would be amazed how advanced the person could be living in their own home, with the family just kind of supporting them. And you could ask them anything, and the person has, not because they don't know the answer, they actually don't even know what the question is. And to the point where we get people sometimes where they don't know what food is. So you know, the family starts noticing something is really wrong, because they're putting paper clips in their mouths. And you know that their bingo game and they ended up with bingo chips in their mouths, because they don't know that bingo chips are not edible and they got hungry. So you need to get to, you know, the part of the brain that's not working properly. And really the story allows you to do that because we ask about changes in personality, changes in behavior, changes in social interactions and relationships. Some diseases really affect your empathy. You don't care about your family anymore, you don't care about anything like your job, you don't care about your children. And that's not something that necessarily people will come to a clinic with that symptom, but if you ask the right questions, you can get a sense that, oh, yeah, this is a real change of, you know, social interactions and where does that localize in the brain and what diseases affect that. Because empathy is a symptom that an Alzheimer's disease is actually quite well preserved, not perfectly preserved, but a lot better preserved than in frontal temporal dementia. Behavioral variant or in semantic variant primary progressive aphasia, where they have no empathy anymore. So I think the story allows you to get to that."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "10:40",
+    "text": "And I want to back up because you used memory as something that people come into with assumptions of, oh, this must be a memory problem but, what are some of the things that people make assumptions about personality in particular, where they see change in personality? And, you know, you talked about frontal temporal lobe word. First of all, can you say that five times fast? "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "10:59",
+    "text": "Temporal lobar degeneration? "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "11:01",
+    "text": "Okay, cool. Yeah, this really is an early onset form of dementia, but not very many people know that that can exist. We know about early onset Alzheimer's, for example. But there's this lack of knowledge in the public that, you know, your personality can actually change and it's nothing to do with depression or anything else that's happening in your life, it's a brain chemical. And I think you've said before you are a reflection of your brain. So if your brain changes, then you change. So can you elaborate on that."
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "11:26",
+    "text": "So frontotemporal lobar degeneration, as you mentioned, is a group of different diseases than Alzheimer's disease. It is a group of six syndromes. And basically, frontotemporal lobar degeneration basically tells you where in the brain you should look for the change the frontal lobes, and the temporal lobes are the hardest hit by these diseases. And then six syndromes come from that one is behavioral variant Frontotemporal dementia, there's a semantic variant primary progressive aphasia, and nonfluent variant, primary progressive aphasia, then there's two that used to be thought to belong to Parkinson's disease, and they're not they belong to this syndrome. One is corticobasal syndrome, and one is progressive supranuclear Palsy. And the last one is that we now have an understanding that Frontotemporal dementia, and ALS or motor neuron disease actually belong to the same spectrum. So now you can end up with frontal temporal dementia, slash motor neuron disease, ALS. And so these syndromes really comprise significant changes in personality, because the frontal lobes and the temporal lobes are affected. And really, that's where a lot of your personality lives. And so when people have significant frontal loss, especially like the orbital frontal areas, they have significant changes in their personality. So they can become disinhibited, act inappropriately in public, they can still do their taxes, they can still manage companies, but they don't know that when you get on the bus and you see something you don't like, you don't go up to the person and tell them, because those are social norms. And actually, those belong to the brain. And if you lose the social norms, if you lose that understanding that there's a way to behave in public, based on these rules, you don't act properly anymore, you know, you wouldn't really even understand necessarily the repercussions or even if you understood you actually like it or not care about the repercussions of that action. The understanding that the meaning of something belongs, you know, really in the left anterior temporal lobe. And if you lose that area, you could have a great visual memory, right, you could find your way back to Mexico City, probably, but you might not know the meaning of anything that's told to you on the way, and you can order from a menu because you wouldn't know what to get. So it really depends on the area of the brain that's affected. And a lot of actually all of what we do, all our interactions are based on the brain. And if it's not working properly, you're not going to be who you are."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "13:48",
+    "text": "And is there a genetic component to frontotemporal lobar degeneration?"
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "13:56",
+    "text": "Yeah, so because this is a disease that is quite different from Alzheimer's disease, the genetics of frontotemporal lobar degeneration is actually quite significant. The contribution of Alzheimer's disease we think is quite minimal, doesn't mean that there's no polygenetic, you know, like some people are more predisposed, yes. But in Alzheimer's disease, we think, you know, along the 1% range, in front of temporal lobe or degeneration, 40% are familial. So we in 40% of our cases, we have some familial background. Doesn't mean we always find the gene, there's, you know, there's three genes that are associated with frontotemporal lobar degeneration, and we check everybody for them. Because even if you don't have a very strong family history, you could be the first one of your family to get it. So there's a C9 expansion, there's microtubules, associated protein tau and progranulin. And those are the three fundamental ones but, if you look through the literature, every day, there's more and more genes being found that are being associated especially in ALS. There's been significant strides made in genetic contribution to that disease. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "14:55",
+    "text": "And so you've also said and this is something Swapna and I talked about, that the management of Dementia is more like a marathon than a sprint. So can you talk about that a little bit? "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "15:03",
+    "text": "Yeah. So the issue is that these neurodegenerative diseases of the brain are quite slow compared to other diseases. So when you think of Parkinson's disease, it's 20-30 years. Alzheimer's disease, same thing. These illnesses, frontotemporal lobar, degeneration are a bit faster, but they're still you know, 6,10, 15 years. So when you're a care partner, or a caregiver, you have to think that this is not something that's going to be a few years, you're going to just go all out, you know, you're not going to sleep, you're going to be able to devote your whole time to this person. You get tired, you get sick, right? So that's what we tell people is, you know, you have to preserve strength, so try to get as much help as you can. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "15:47",
+    "text": "Are there any things that you tell caregivers, specifically, what kind of services should they seek out not just for the patient, but for themselves. "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "15:55",
+    "text": "So the first thing we tell people is, it's important to stay active. It's important for the patient to stay active, that's physically active and cognitively active, so have their brain stimulated. And for the patient, we often encourage people to go to day programs, if they're more advanced. If they're in the early stages, I say just join a community center, go to their gym, go take seminars, keep learning, as long as you can keep learning, it's really good for the brain. There's a lot of evidence that there's plasticity until you know, very late in the game.  For them too, for the caregivers, you know. Go to support groups, go find respite whenever you can. So, you know, if a family member can come and stay with that person, take it. If you really need to take some time to rest, find a place for them to stay, there are homes that we can put people in for a short period of times. And then you know, sometimes people, it's not manageable at home, right? There are no government supports that will provide 24/7 care, and most of us cannot afford 24/7 care. So at some point, when that's the requirement, you know, it's better that a person go in a long-term care facility, and then you can go visit the person, but they'll have at least the services that they need, but it's very hard for families, right? Amongst families, we'd like to keep the person at home and provide all the help, and we have that sometimes. We see the kids have moved back or are taking turns. But, because these are slow diseases, it tires people out, you know, and they run out of funds. So that's why we say, you know, you have to prepare for the long journey, it's not a short sprint."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "17:30",
+    "text": "Yeah. And you speak of funding these resources and being active and that's really important for self care for caregivers. But self care is also really important for clinicians. And we heard that you ran the Boston Marathon, and you run quite a bit. So can you speak to how you find yourself able to balance everything that you do? You're a clinician scientist, you run, you've got your background in film and photography. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "17:55",
+    "text": "She's fast, she is fast!"
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "17:57",
+    "text": "I would not say fast. You can age and then qualify for Boston. I think it's really important to have balance. And I actually am a strong advocate for exercise for aerobic exercise. I think there's a lot of evidence out there that it's good for the brain. And there's more and more evidence that exercise throughout your life is good for the brain and delaying the onset of neuro degeneration of slowing it down. So I promote that and I do practice what I preach. I mean, that's probably why I went to extreme resources to try to set up an exercise and Alzheimer's disease program here. So we have patients that we actually scan them at baseline, provide them with an exercise program on recumbent bicycles. The cardiac rehab group were gracious enough to offer us a little bit of their cardiac rehab time, because, unfortunately, there is no brain rehab with a gym unit that we can have access to right now. But this is what we would like is that our patients, you know, have access to a gym. It's very hard for people in more advanced stages to go to a regular gym. They can't even navigate between treadmills that are like half a foot apart from each other. So, you know, here it's supervised. I mean, really, we have great students, you know, people who are really, you know, encouraging them because when you think about it when you exercise, and some days you don't feel like it right? But you remember why you're doing it. And while you're doing it, sometimes you don't really feel like it either. But you remember what the goal is right? But imagine you didn't have that. Yeah, so it really is like these students who are encouraging them and motivating them and reminding them you know what they're there for but, one of my students, Cassandra, has done a study and we have looked at whether connectivity in the brain changes after six months of aerobic exercise and we have some preliminary results that it does. So that's to us encouraging. You know when we would love to have a program but I think even when I look at the number of people exercising now compared to 10 years ago, it's it's gone up exponentially so I'm it's very encouraging. I think people are buying this and they see the benefits. I mean, most patients who come to clinic and their family members and get them to buy recumbents, you know, because we're coming bicycles are quite safe for people, even people who have trouble walking, they see the difference. They see the changes in mood, they'd see the benefits in sleep, and you know, sometimes they feel better so they maybe remember a little bit better too."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "20:22",
+    "text": "Hi, listeners, James here, as we've just heard from Dr. Tartaglia, exercise has a tremendous therapeutic effect on neurodegenerative disease. On this patient perspective segment, we learn how boxing is used to fight back against Parkinson's, the second most prevalent neurodegenerative disorder in the world. Today, we're joined by Dennis Hunkin. Dennis and I have gone back almost a year now. He's a member of the support group that I facilitate for individuals with Parkinson's disease. On top of that, he's a big supporter of research, and has been super generous with his time and his brain by participating in my thesis study a couple months ago, which is awesome. Thanks so much for joining me."
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "21:06",
+    "text": "Electrodes all over the place."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "21:10",
+    "text": "I hope it was a pleasant experience nonetheless. I'd like to start off by asking you around how long ago you were diagnosed with Parkinson's and what that experience was like? "
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "21:22",
+    "text": "December last year, a year ago, December I should say. I was sort of diagnosed with as a possibility amongst diseases, and then asked for an MRI, which didn't get scheduled because I was away for a few months. The result of that was June before it got analyzed and so forth. And that definitively became Parkinson's at that point in June. All right, so I've had been defined as a Parkinson for nine months or so but natural fact a little over a year."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "21:56",
+    "text": "Okay. Now in the main interview, Dr. Tartaglia speaks to the benefits of exercise on brain health. From my understanding, you've been a lifelong skier. And what I find particularly interesting is that you've recently picked up boxing in a program dedicated for people with Parkinson's. Could you tell us a bit about this program and how this method to keep fit has affected your journey with the disease?"
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "22:25",
+    "text": "I was looking for an exercise program, because I'd done exercise for probably almost 40 years, in one manner or another, whether running or bicycling or going to classes as the Y for many years, I probably 20 years of the Y. And I needed to be also with a group for the social contacts. Ski friend of ours was connected with Rocksteady "
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "22:49",
+    "text": "Which is the name of the program, "
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "22:51",
+    "text": "Which is the program. And I joined that group and found this other gym that is closer to my home. And it's worked out very well. So I spent three months with one in Don Mills  and I've spent four months now with this other one."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "23:07",
+    "text": "That's fantastic. And what sort of benefits have you seen?"
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "23:11",
+    "text": "The general opinion in the change room is that exercise of this nature that pushes you to do a little more than you would otherwise on your own, because of the group aspect of it draws you out and it has the same effects as the medication by amplifying the effects of the medication. "
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "23:32",
+    "text": "Right. "
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "23:32",
+    "text": "But it's important in your daily life as it is to have the medication, they have the exercise. And when you're not doing the exercise, you feel the craving to do something active."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "23:44",
+    "text": "Right. And I'm sure you know, in our group, and I'm sure in all your clinic visits everyone always says for this specific neurodegenerative disease, and I'm sure all the others exercise is the go to."
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "23:57",
+    "text": "Well, I was feeling weak last June. I couldn't walk quickly, I was stooped over. Some of those effects have been erased, reversed by the exercises. I think that's in general that if you do the exercises, under the Rocksteady program, it corrects a lot of the daily ails that create greater problems later on and it has the effect of neutralizing the degeneration of the body."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "24:27",
+    "text": "And you'd suggest it for other individuals that are"
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "24:30",
+    "text": "I do, any any exercise program that gets you up to sweating and doing a little more than you might otherwise, is good. But I think this one is a nicely balanced one because it involves balance, timing, reactions, and motor skills "
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "24:47",
+    "text": "Right. "
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "24:48",
+    "text": "And then what you are forced to do because it's boxing is large motor exercises of swinging the arm extending the arm at full, which is a Parkinson problem of not moving the arms enough? And not thinking quick enough."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "25:04",
+    "text": "Right. So it also helps, do you find with the cognitive aspects?"
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "25:08",
+    "text": "Yeah, there's always in the Rocksteady program when we're doing exercise to go to different stations as our part of the program. And each morning class that you'll go through, whether it's jumping jacks or whatever you're doing, crawling or throwing balls, various things, you go through five or six things, including the speed bag, and so forth. But there'll be a table set up with a card game or a balance game or a thought game and you draw a card, maybe it describes the city or something, and you have to figure out which one it is. All those kinds of games, or a dexterity one that which we were doing stacking cups this morning, without them falling sort of a Jenga, kinda exercise. It may be something rolling coins in your most your fingers. "
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "25:55",
+    "text": "Right? "
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "25:55",
+    "text": "So it deals with large motor skills balance, small motor skills covers the gamut."
+  },
+  {
+    "speaker": "James Saravanamuttu",
+    "time": "26:02",
+    "text": "That's fantastic. Well, I'm glad to hear that the program is working for you. And you're finding that exercise is helping. I'd like to thank you for joining me today and sharing your insights. "
+  },
+  {
+    "speaker": "Dennis Hunkin",
+    "time": "26:14",
+    "text": "You're welcome. great pleasure."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "26:17",
+    "text": "You mentioned the physical activity study that your student is doing. I have a friend who had multiple concussions playing hockey and when she she ended up with a hematoma terrible, yeah. But when that happened to her, the result was Oh, he spent X amount of time stay in the dark, don't look at screens, no physical activity. And now she recently had a minor concussion again and she's went to see the same doctor and it's totally different. It's like they really promote light activity, and they give you a list of brain foods. So are there such a thing as brain foods? She's laughing at brain foods? Yeah. Okay. Well, I'd like some."
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "26:58",
+    "text": "Brain foods, but but I agree. So this is, so this is the issue that we have in medicine, right? It's, and this is the art. So the idea that, you know, rest would be good for you wasn't actually based in real science, right? Not evidence based. But the idea probably made sense because there were a lot of people getting concussions from sport. So the worst possible thing would be for you to end up with another concussion while your brain is still healing from the first one. So how would we avoid that? We take you out of sport, and we put you to bed. Except that that went too far, right? And the pendulum swung all the way to the other end, where people were like, in dark rooms for six months, not in school, not at work, not with their families and not with their children. Not with anything. I'm like, Okay, well, most of us will get depressed if you were like that. So now that they're starting to be a little bit of evidence, okay, the evidence, it's not conclusive, but the evidence is going the other way, where, you know what, there's nothing wrong with a little bit of light activity, and really activity makes people happier, and helps the brain. So there's no reason to prevent people from doing light activity, especially if it doesn't bring on symptoms. Now, obviously, you know, if it brings on symptoms, right away, we actually need to look at what's happened, right? Because Is it something more severe? Or is it you need some treatment? You know, there's also this idea that, you know, you got a concussion? And well, you'll get better. And if you don't, you must have done something wrong. It's like, Well, actually, no, right? Because we do know that even though Luckily, most people who get a concussion recover, a certain portion of the population doesn't. And, you know, for them, it's been a more significant injury, their healing process is slower. It's same thing as we cut yourself, you know, some people scar so beautifully, you don't see anything and other people end up with like, huge, awful scar, and you're like, we don't understand we got the same paper cut. So, you know, we're all different. We all respond to injury different, we all injure differently. So I think the issue is that we're going to move towards what we call precision medicine, knowing so much about you and the way your genes interact with your environment. But right now, we're still doing group analyses, right. And so the problem with that is that as groups, it's hard to put everybody into the same box. And so some people, you know, they should never have a concussion. You know, someday there might be what we call vulnerability genes versus resiliency genes and we say, okay, you know, what, you with this genetic makeup, you should not be a hockey player, you should not be a football player, you should not be a boxer. Versus you, well, maybe you could stand a few little hits to the head, you seem to be that kind of resiliency. And it would be different for other things, too, right? Because that's the way we are. We're all different. Yeah."
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "29:48",
+    "text": "And speaking of concussions, you were recently co chair of one of Canada's first Canadian Symposia on Concussion in Women and Girls. I was wondering if you can speak to that because we recently observed the International Day of Women and Girls in Science. And this symposium was focused on that population on Women and Girls, why is it important to focus on that population?"
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "30:08",
+    "text": "Well, I think, you know, women and men are different. And there's been a real movement in science, in clinical work to try to homogenize populations as much as possible. And we know actually, that doesn't work very well. And there are certain things that you know, men are more predisposed to we don't even understand it, right? Like there are certain neurodegenerative diseases where the incidence in men is much higher than in women, other ones where women are higher than men. In concussion, we have some accumulating evidence that women seem to be more vulnerable, and their symptoms seem to persist longer. So you know, we all have hypotheses of why that is, none of these hypotheses have been proven. It's, you know, an interesting area to study. So is it related to hormones? Is it related to culture? Is it related to neck muscles? We don't know that. So I think that the area, though, deserves research, because it's a finding that we have, so we have to try to explain it. Like I said before, I think it's important to start thinking of people, not necessarily as a group, I mean, that's the way we analyze things now, because we have a crude way of doing things. But at the end of the day, we need to know about you. What is it about you that has changed, that is giving you the symptoms that you have, and that will only happen once we become more precise in our diagnostic tools?"
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "31:36",
+    "text": "Hey, what's going on listeners? We've been hearing Dr. Tartaglia talk about mild brain injury and specifically concussion within the context of sports. But what most people don't realize is that there's a high incidence of concussion from non sports related events. In fact, intimate partner violence or domestic violence is a common cause of brain injury primarily in women, which unfortunately, remains a family or even a societal secret. We're lucky to have Dr. E. Valera with us today who will be joining us over Skype. Dr. Valera is an assistant professor in psychiatry at Harvard Medical School and research scientist at Massachusetts General Hospital, and a leading expert in the field of brain injury and intimate partner violence. Thank you for being on the show. "
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "32:16",
+    "text": "You're welcome. It's my pleasure. Thank you for having me. "
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "32:19",
+    "text": "So I think an important place to start would be to give the listeners a little bit of a background on specifically what intimate partner violence is, and how prevalent is it."
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "32:27",
+    "text": "So intimate partner violence is simply violence perpetuated by a current or former spouse, partner, significant other, boyfriend, or girlfriend. So that's basically what it boils down to one person actually asked me what's the difference between that and domestic violence, domestic violence is much broader and may include abuse towards a child or abuse towards the elderly or something like that. And intimate partner violence is specific to a partner. Unfortunately, it's extremely prevalent. One in three women report at least some instance of physical or sexual violence perpetrated against them by a partner. If we're talking globally, the number varies quite a bit. It's still too high, no matter how you look at it, but the lowest and the safest would be close to 16%. But in some places, it's easily 70% or higher."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "33:19",
+    "text": "Wow. So those are some startling numbers. But that begs the question of intimate partner violence is so prevalent, why can't women simply leave the situation?"
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "33:27",
+    "text": "So it's actually a very difficult and complex situation? And unfortunately, I think that question, it seems to make a lot of sense, but it also sort of puts the blame on on the women. And so that I think leads to under appreciation of this problem. So women who are in these situations are often in situations that are almost impossible to leave. And the number one time that women are murdered, in intimate partner violence situations is when either they are leaving the situation or after they have left the situation. IPV is actually the leading cause of homicide for women globally. And it's also the most common form of violence against women. So it's not like, well, you know, who's really going to get killed if they leave the situation. But that is actually when these people get killed. But there's also so many other reasons. There's financial reasons. A lot of these women, their partners, basically isolate them, they say, Oh, your friends don't treat you well. Your family is no good. Things like that. And so you know, they love this person, they move out to the country or somewhere else and, or, you know, they just start stop talking to their friends. And so then when the abuse starts, you don't really have any support system. Maybe you're not working because you're raising the kids, you don't have any finances. And if this person is abusing you, they're also probably threatening you if you say you're going to leave. They may threaten to take the kids away, they may threaten to kill you or hurt the child. You know, the threat of being killed and having your body chopped up and thrown in the river, so they can't find you is not something that no wants to really test."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "35:07",
+    "text": "So something definitely needs to change. And obviously these issues aren't going to change on their own. From a research perspective, why do you believe this topic is so overlooked and underreported?"
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "35:17",
+    "text": "So I think it goes back a little bit to the other question, I think there is a bit of victim blaming, people don't understand it, they think women are in these situations, and they can get out of them. I think there's also a little bit of misogyny. I mean, it's you know, most research and science is done in males. There's a staggering disproportionate amount of research in males in both the human and animal research world. And I think there's also a misperception of who this is happening to, I think people tend to think that maybe this only happens to those people over there, or the poor people. IPV traverses all socio economic boundaries, and it's not necessarily different between black, Hispanic, or white people. And so I think people don't necessarily think it's relevant to them sometimes. But the numbers alone, you can imagine if it's one in three people, one in three women, I should say, sorry, I guarantee that almost everybody knows at least one person, even if you don't know it, because it's very stigmatizing people don't want to talk about it. So it's partly hidden, you're being abused and abused in a really demoralizing way, it's not really something you want to talk about, right. And if you're affluent, you try to hide it. And you can do a little better job of hiding it, because you may be a little hotel room, or maybe you have another friend you can crash with, you can buy the right sunglasses to cover, potentially a black guy. If you're not as well off, you may be more likely to end up in a shelter and that's, I think, what people think of when they think of intimate partner violence and who these people are."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "36:49",
+    "text": "So now I want to switch gears a bit and focus a little bit on your research, what motivated you to get involved in this area of research? "
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "36:56",
+    "text": "I was in graduate school, and I had an interest already in domestic violence more generally. So I was doing some work teaching a child abuse prevention course and I was also volunteering in partner violence shelters. And my other interest in graduate school was neuro psychology and so I started learning a lot about traumatic brain injuries, and how to test them, how they happen. And by knowing both of those fields, it became really obvious to me that there must be something going on with women experiencing intimate partner violence. So I looked it up and low and behold, there wasn't a single article addressing this, the intersection of these two at all. So you know, I said, Okay, well, let's try to change that and I started working towards it."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "37:48",
+    "text": "And so since your graduate work, how far have we come? What do we now know and what remains to be known?"
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "37:53",
+    "text": "Well, unfortunately, we haven't come very far, we know a little bit more. So basically, what has happened is, since that time, there have been a couple of different groups of people who have been sustaining repetitive brain injuries that were kind of going unrecognized or unnoticed. And one, for example, is the athletic realm. So the football players and maybe in Canada, it's more likely the National Hockey League, or maybe people recognizing concussions in hockey. Whereas in the States, it's more the football and the chronic traumatic encephalopathy that people are associating with extended play in football. So that has received tons of attention. And so now people are realizing well, concussions are bad, but they're not realizing that it's actually happening in these women. There are really not a lot of people studying this, but there are some now. And there's also a number of calls for research in the IPV literature, where people who know about in the partner violence are saying, Hey, this is a big problem. We have women who are sustaining repetitive brain injuries, and we need to study this. That said, there's a lot of calls for research, not necessarily a lot of research. But I'm certainly trying to change that. I know there's several other people who are sharing."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "39:10",
+    "text": "So one shortcoming in the field is that there are currently no diagnostic or screening tools, which is very problematic because most victims show no visible signs of injury. Do you see this changing in the future?"
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "39:21",
+    "text": "So your question actually addresses not just TBI in IPV, but TBI more generally. And that's sort of the holy grail in terms of searching for a diagnosis for concussion. There is not a diagnosis for concussion right now. And I don't necessarily seeing one that, you know, will come up in the immediate future. There are ways to identify. I mean, there's a definition of concussion and that sort of having some type of mechanical force to the head. You have to have some alteration and consciousness to have a concussion. So I don't know when there may be something that is diagnostic. There are groups out there who are trying to look at things, for example, say, you know, looking at tau levels and trying to see if that may get us closer to diagnosing. We know that CT scans MRI scans typically do not show anything. So right now there isn't something that can clearly diagnose concussion in terms of like taking a picture of a brain or doing some blood work,"
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "40:23",
+    "text": "Reading into some of the work you're involved with, today, I came across your international collaboration efforts, which are directed towards validating an international neurophysiological instrument, which hopefully can be used specifically for victims of intimate partner violence. Can you speak to where you're currently at with this project and some of the challenges you're facing?"
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "40:41",
+    "text": "So that project is, as you said, done in collaboration with some folks in Spain, they initiated it, and then they came up here to try to validate it in United States as well. And when women, you know, if they sustained concussions, as we know many of them do, then they may have cognitive difficulties with certain things. One of the things that ends up happening is that women end up in legal cases, forensic issues. And so one thing that somebody may do is say, Okay, let's do a neuropsychological assessment and try to determine whether or not this person seems to have difficulties with memory or attention or concentration. And so you might use that to support an argument that she is suffering from damage from brain injury against the abuser. So what somebody may say is, well, she's just speaking bad. This measure is designed to counter that. So if she's really, quote, unquote, faking bad, this would be the measure that would identify that, then that's what we're doing we're validating this measure so that we know that this measure works. So basically, the reason that's important is because then if somebody says, well, they're just faking that, a lawyer can then say, Well, no, actually, if you were faking bad, she would have done more poorly on this measure as well. And she didn't. So we really don't think she's faking that. And this is really evidence that she's genuinely impaired to this degree on these tests."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "42:12",
+    "text": "So it sounds like a lot of important, impactful work is being done in this field. Who do you want your work to reach?"
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "42:18",
+    "text": "So I want my work to reach basically everybody. I mean, and when I say that, I mean, I do want to be more specific. There are some stakeholders, so to speak, I think are particularly important. And those would be people like judges and police officers, first responders, the women themselves. So judges, for example, are important, because when they hear a case that involves a woman who is in an intimate partner violence situation, they may hear a story that seems inconsistent. So first, she said this at the scene, then within that same period, she said something slightly different, she couldn't recall how she got from the bedroom to the bathroom, is this woman really telling the truth. And that may seem like someone who's either being uncooperative or someone lying, but certainly not someone who you're going to give a judgment to. Now, if a judge understands that a traumatic brain injury may have just occurred, and that's why there's these inconsistencies, that will make a tremendous difference in her case. And so I want judges, and likewise, that similar type of situation on the scene, like a police officer, to entertain the idea that, okay, this could be a couple of different things we don't know, but throw the idea that this could be the result of a brain injury in there, and then move on that. Because I think that is where we're gonna gain important information in terms of how to interact with this woman, and what really happened. Because otherwise, it may just look like I mean, alcohol and drugs are involved in many IPV cases, either from the abuser or sometimes both. And even if it's not, unfortunately, having a brain injury looks a little bit like intoxication. If you think of a football player, or a hockey player who just got knocked out, he gets up, he looks disoriented,  he's asking where he is, or maybe he thinks he's in a totally different game. You know, you're very confused. And that doesn't go away necessarily immediately. So if you look like that, and someone doesn't realize you've sustained a brain injury, they may assume the worst and think that, you know, what are you on? Or you're lying or being uncooperative? So I think understanding that and entertaining that idea before making an assumption, some negative assumption that's not going to help the woman, I think that will be very important. And then just in terms of the women themselves, I mean, understanding that the situation you're in, may be resulting in a number of brain injuries. I think that's important information for someone to know. Now, as I said, it's still not necessarily easy to get out of a relationship. But if you have that additional piece of information, you're in a better place to try to make a decision or to try to figure out how to move forward and if you're completely out of the situation and you're suffering from certain issues that you don't understand, like, why can't I remember this? It may be related to previous history of repetitive concussions. And in that case, you want to work with someone to address your strengths and weaknesses so that then you can manage things better, rather than just assuming that it's because you're just kind of messed up."
+  },
+  {
+    "speaker": "Anton Rogachov",
+    "time": "45:19",
+    "text": "Now, before we leave off, what would be your advice or suggestions for women who have experienced intimate partner violence firsthand,"
+  },
+  {
+    "speaker": "Dr. Eve Valera",
+    "time": "45:25",
+    "text": "Intimate partner violence is very, very diverse, and phenotypically sort of different, it's not going to look the same for all women, obviously. So it depends a little bit on what each woman has gone through, and whether or not you're still in the relationship or not. If you're not in the relationship anymore, and you think you are having problems, and you don't understand them, I would try to look at your history and see if it's possible that you are sustaining concussions and you know, talk to somebody if you're not sure if you may have been sustaining concussions."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "46:00",
+    "text": "You actually also received the Marion and Gerald Soloway Chair in Brain Injury and concussion research, which was a big award and has funded some of your work. And so I think the focus of that research, you've mentioned is looking for biomarkers actually, and so can you talk about why that's important? "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "46:15",
+    "text": "You know, we don't have ways of diagnosing these diseases right now, it's kind of based on this, like you hit your head, and then you have these symptoms, and the symptoms are headache, and fogginess and dizziness, and some people have tinnitus and, you know, constellation of symptoms, and then the symptoms should go away. But they don't they persistence on people. But we actually have nothing to look at, if I want to know if you're a diabetic or not, I have something I can test. Same for thyroid disease, no liver disease, we don't have anything for concussion. And so the same is true for concussion, as it is for post concussion syndrome as it is for chronic traumatic encephalopathy. And that's the issue is, you know, we don't even know if these things are actually related and how they're related. Actually, this week, there was a blood test that was released as a test for concussion. If you look at the data, it's actually there is no data because it's a an abstract, an abstract that has all x's in it. That's how it was published in the annals of emergency medicine. But I'm sure there's data, the FDA would have looked at this data. The people in the study are people who had a GCS, a Glasgow Coma Scale of 9 to 15. So "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "47:24",
+    "text": "What's a Glasgow Coma Scale?"
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "47:24",
+    "text": "What that means that are some of those people were actually kind of coma like, you know, really not responding at all. So their injury was pretty significant. The gold standard that they've used is a CT scan, which cannot diagnose concussion at all. So it's actually not clear like it's come out in the media. And, you know, but I have no understanding how this test could be a test for concussion. I do think it might be a good test for moderate traumatic brain injury and so if you don't have this spilling out in the blood, maybe you don't need a CT scan. So yes, it might be useful? I have no idea because I haven't seen the data. But for concussion, we don't have any tests for concussion, we don't even know what's happened to the brain. And then the problem becomes, let's say you have post concussion syndrome. So something happened, and it persisted, triggered something else, we don't know, because we don't have a marker for that. And then you have maybe multiple concussions. And then you end up with chronic traumatic encephalopathy like symptoms, right? Because the symptoms of chronic traumatic encephalopathy are exactly the same as many of the neurodegenerative diseases. And when somebody is 70 years old, or 75 years old, they're sitting in front of you, and they're telling you like, my memory is not good, and my wife tells me that I'm really bad now, and I used to be a really nice guy, and you know, I lost my car in the parking lot. And I don't know what you have, right? You could have Alzheimer's disease, because those are the symptoms we see in Alzheimer's disease and when you're 75, your risk of Alzheimer's is pretty high. So we don't have any markers for that. That's why in our research program, we're trying to look at all different aspects of brain function. So we track eye movements, we track tracks in the brain, the white matter tracks of the brain, we look at the blood for genes, we look in the cerebrospinal fluid to measure different proteins and see if something has gone up. And with PET Scan, we're trying to tag that tau in the brain, which has been associated with chronic traumatic encephalopathy. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "48:12",
+    "text": "And tau is a protein? "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "49:25",
+    "text": "Yeah, is an abnormal protein. It's normal in the brain, but it gets altered in some way. And that alteration makes it clump up and that clumping is toxic to the cells. Now tau is exists in Alzheimer's disease. It exists in frontotemporal lobar degeneration, and it exists in chronic traumatic encephalopathy. It's slightly different in different areas. So we do have this PET ligand a PET tag. And so we're trying to see whether this will be a good marker for chronic traumatic encephalopathy. We're still at the research phase. So we're optimistic but yeah, well we see"
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "49:58",
+    "text": "Fingers crossed"
+  },
+  {
+    "speaker": "Swapna Mylabathula",
+    "time": "49:59",
+    "text": "Just going back to what you were talking about the blood biomarker, a story that just broke recently in the news, and talking about the importance of being careful about what information is out there, because there's a lot of misinformation about concussion, and about a lot of different disease processes, but particularly concussion, because that's what we were talking about. And that's what's in the media right now and the fear that the public feels when they hear something that's maybe not necessarily accurate, but that's out there. For example, I work with schools, and I talk to parents, sometimes surrounding the topic of concussion, and I hear parents saying they don't want their kids to go into sport. But at the same time, there's a lot of benefit to be gained from it. So how do we make sure that the information that gets out there as clinicians, as scientists, how do you make sure that it's accurate? "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "52:38",
+    "text": "And also, I think the fact that when clinician scientists have an advantage, because you actually see the repercussions on your patients, right? I know that in the next few weeks, I'm going to have all these people coming to see me and talking about this test, right? And the same is true, and somebody says that there's a brain food for concussion or a new miracle treatment, you know, because they want it and you're going to spend a lot of your time explaining that there's actually no science behind that. And that's a big problem. So yeah, I think as clinician scientists, we understand the repercussions of what we say and what's out there. And that it has impact. So you know, if you give people false hope it has impact if you give people no hope it has impact. So you know, you walk a fine line."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "53:27",
+    "text": "Beautiful. Okay, thank you so much for joining us today. "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "53:29",
+    "text": "Thank you. "
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "53:30",
+    "text": "All right, here's a sneak peek of our next episode, Kat sat down with Dr. Chung Hua Chow respirologists, and scientist at Toronto General Hospital to delve into her work on the health effects of air pollution in Canada."
+  },
+  {
+    "speaker": "Dr. Chung-Wai Chow",
+    "time": "53:42",
+    "text": "Overall, air pollution is actually one of the biggest burdens in terms of health to the entire world. And the WHO has already published findings to suggest that it is responsible for something like 3 million premature deaths, annually, as a result of exposure to air pollution. And in Canada and in North America, we are very fortunate that we live with very good air quality. But despite that we are still impacted significantly by the health impacts of air pollution."
+  },
+  {
+    "speaker": "Melissa Galati",
+    "time": "54:13",
+    "text": "Tune in on May 2 for the full episode. "
+  },
+  {
+    "speaker": "Dr. Carmela Tartaglia",
+    "time": "54:47",
+    "text": "You know some people scar so beautifully, you don't see anything, and other people end up with like huge awful scar and you're like, I don't understand we got the same paper cut."
   }
 ]
