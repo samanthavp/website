@@ -27,12 +27,8 @@
 {% endblock %}
 {% block body %}
 <div class="container">
-  <div class="row justify-content-end">
-    <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-      <img class="episode-img-page" src="/img/episode/{{this.no}}/{{this.img_page}}"></img>
-      <p class="img-caption">{{this.img_caption}}</p>
-    </div>
-    <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-8 col-xl-8">
+  <div class="row justify-content-center">
+    <div class="episode-col col-12 col-sm-12 col-md-10 col-lg-10 col-xl-8">
       <div class="player-container">
         <div class="player" id="player">
           <audio id="audio" preload="metadata"
@@ -52,6 +48,8 @@
           </div>
         </div>
       </div>
+    </div>
+    <div class="episode-col col-12 col-sm-12 col-md-10 col-lg-10 col-xl-8">
       <p class="date">
         {{this.date}}
       </p>
@@ -70,8 +68,19 @@
         {% endfor %}
       </p>
     </div>
-    <div class="episode-col col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
-      <button class="btn" style="margin-left: 5px;" type="button" data-toggle="collapse" data-target="#transcripts">
+    <div class="episode-col col-12 col-sm-12 col-md-10 col-lg-10 col-xl-8">
+      <div class="row justify-content-center">
+        {% for guest in this.guests %}
+        <div class="guest col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+          <img class="circle" src="/img/episode/{{this.no}}/{{guest.img}}"/>
+          <h4>{{guest.name}}</h4>
+          <p class="title">{{guest.title}}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="section episode-col col-12 col-sm-12 col-md-10 col-lg-10 col-xl-8">
+      <button class="btn" style="margin: 0px;" type="button" data-toggle="collapse" data-target="#transcripts">
         Transcripts
       </button>
       <div id="transcripts" class="collapse transcripts-container">
