@@ -1,5 +1,97 @@
 [
  {
+  "no": 97,
+  "title": "Let's Talk Grad School ",
+  "mp3": "https://mcdn.podbean.com/mf/download/m8jat2/_97_Let_s_Talk_Grad_Schoolapl4w.mp3",
+  "date": "Sept 15, 2021",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "zoom.jpg",
+  "guests": [
+   {
+    "name": "Samantha Ing-Esteves",
+    "title": "PhD Candidate, Department of Molecular Genetics; Founder, Graduate Representation Committee",
+    "img": "samantha-ing-esteves.jpg"
+   },
+   {
+    "name": "Melissa Galati",
+    "title": "PhD, Institute of Medical Science; Show Host & Former Co-Executive Producer, Raw Talk Podcast",
+    "img": "melissa-galati.jpg"
+   },
+   {
+    "name": "Jesse Knight",
+    "title": "PhD Candidate, Instite of Medical Science; Webmaster & Co-Executive Producer, Raw Talk Podcast",
+    "img": "jesse-knight.jpg"
+   },
+   {
+    "name": "Helen Yang",
+    "title": "MSc Student, Instite of Medical Science; Show Host & Audio Engineer, Raw Talk Podcast",
+    "img": "helen-yang.jpg"
+   },
+   {
+    "name": "Noor Al Kaabi",
+    "title": "MSc Student, Instite of Medical Science; Show Host & Co-Executive Producer, Raw Talk Podcast",
+    "img": "noor-al-kaabi.jpg"
+   },
+   {
+    "name": "Daniel Li",
+    "title": "MSc Student, Instite of Medical Science; Show Host, Raw Talk Podcast",
+    "img": "daniel-li.jpg"
+   }
+  ],
+  "notes": "Post-graduate education. This is where students learn the joy and importance of scientific discoveries and advancement firsthand. This is also where students face realities of research and of adulthood all at once. In today\u2019s episode, we have a roundtable discussion to exchange views on our hopes and struggles as a graduate student. From sharing our unique stories, we see common themes such as building a healthy relationship with our supervisor, networking with peers, managing stress from the recent COVID-19 pandemic, and coping with failure to prevent burnout. Our fellow graduate student Samantha Ing-Steves, the founder of the Graduate Representation Committee (GRC) in the Temerty Faculty of Medicine at University of Toronto, also joins us and speaks to the data collected by GRC representing our financial struggles. Sam also explains to us how GRC strives to advocate for domestic and international graduate students. From the good, the bad, and the ugly, we gain rich learning experiences as a graduate student and continue to contribute to science the best we can. The struggle is real, but so is the adventure. We have fun together, we support each other, and we grow stronger. And most importantly, we keep it raw.",
+  "authors": [
+   "Tsukiko Miyata"
+  ],
+  "prod_team": {
+   "cc": [
+    "Tsukiko Miyata"
+   ],
+   "sh": [
+    "Melissa Galati",
+    "Helen Yang",
+    "Daniel Li",
+    "Jesse Knight",
+    "Noor Al Kaabi"
+   ],
+   "ep": [
+    "Noor Al Kaabi"
+   ],
+   "ae": [
+    "Alex Jacob"
+   ],
+   "pv": [
+    "Janine Truong"
+   ],
+   "sm": [
+    "Atefeh Mohammadi"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "GRC Student Finance and Living Survey 2021-2022",
+    "href": "https://forms.gle/RFqijgwRTR6EJGNh8"
+   },
+   {
+    "title": "GRC Student Finance and Living Report 2019",
+    "href": "https://drive.google.com/file/d/1rMMaRPtTEVeE7RsklH3pg7Tk5mZ9BZ7t/view"
+   },
+   {
+    "title": "U of T Community of Support",
+    "href": "https://applymd.utoronto.ca/community-support"
+   },
+   {
+    "title": "Tips and Secrets to Choosing your IMS Courses",
+    "href": "https://www.youtube.com/watch?v=uXj1IG3mxpA"
+   },
+   {
+    "title": "100 Reasons Not to Go to Graduate School",
+    "href": "http://100rsns.blogspot.com/p/complete-list-to-date.html"
+   }
+  ]
+ },
+ {
   "no": 96,
   "title": "Genetic Testing: What it Means for Families and the Future",
   "mp3": "https://mcdn.podbean.com/mf/web/n12p2n/rawdataims_content_blubrry_com_rawdataims_RTP-e96.mp3",
