@@ -4,7 +4,7 @@
   "team_name": "Promotions & Social Media",
   "img_tq": "janine-truong-tq.jpg",
   "img_rt": "janine-truong-rt.jpg",
-  "bio": "Hey listeners! I'm Janine, a MSc student in the Department of Molecular Genetics, and Raw Talk's graphic designer! I'm super excited to be part of the Raw Talk team and to support our upcoming episodes with fun illustrations! My research is interested in understanding how mRNA is regulated during early embryogenesis. When I'm not at the lab, you can catch me cycling, playing the piano, and, of course, drawing!",
-  "link": "https://www.instagram.com/j9truong",
-  "no": 4.4
+  "bio": "Hello! I'm Janine, and I'm the graphic designer for Raw Talk Podcast! I am a recent graduate of the University of Toronto, where I did my Masters in the Department of Molecular Genetics. This is my second season with the podcast, and I'm excited to learn interesting new things and share them with you! Outside of the lab and the podcast, you'll find me cycling around the city or exploring new restaurants.",
+  "links": {"instagram":"https://www.instagram.com/j9truong"},
+  "no": 5.5
 }

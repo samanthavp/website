@@ -1,10 +1,10 @@
 {
   "name": "Melissa Galati",
-  "title": "Advisor",
-  "team_name": "Advisors",
+  "title": "Show Host & Advisor",
+  "team_name": "Show Hosts & Content Creators",
   "img_tq": "melissa-galati-tq.jpg",
   "img_rt": "melissa-galati-rt.jpg",
-  "bio": "Hello! I'm a 6th year PhD student in the Institute of Medical Science here at U of T. When I'm not podcasting, I study cancer genetics at the Hospital for Sick Children. I've been with Raw Talk since Season 1 doing everything from hosting to communications! It's been exciting for me to watch the show grow and evolve. We have so many unique perspectives on diverse topics in medicine, all inspired by working being done in our own backyard - The University of Toronto. Other interests: Coffee, sleeping, soccer, cooking, coffee, yoga, rock climbing, comedy, coffee, napping, reading, and writing.",
-  "link": null,
-  "no": 9.4
+  "bio": "Hello hello! Melissa here. I’m currently a first year medical student at U of T, and just recently finished my PhD in the Institute of Medical Science studying cancer genetics at SickKids. I've been with Raw Talk since Season 1 doing everything from hosting to communications! It's been exciting for me to watch the show grow and evolve. We have so many unique perspectives on diverse topics in medicine, all inspired by work being done in our own backyard. Other interests: Coffee, sleeping, soccer, cooking, coffee, yoga, rock climbing, comedy, coffee, napping, reading, and writing.",
+  "links": {"twitter":"https://twitter.com/Melissa_Galati"},
+  "no": 1.02
 }

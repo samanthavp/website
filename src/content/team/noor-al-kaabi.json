@@ -1,10 +1,10 @@
 {
   "name": "Noor Al Kaabi",
-  "title": "Show Host",
-  "team_name": "Content Creators & Show Hosts",
+  "title": "Executive Producer & Show Host",
+  "team_name": "Executive Producers",
   "img_tq": "noor-al-kaabi-tq.jpg",
   "img_rt": "noor-al-kaabi-rt.jpg",
-  "bio": "Hey folks! I'm Noor, a recent graduate from UTM with a double major in Biology for Health Sciences & Psychology. I'm currently a research assistant with the Kidney Health Education Group at TGH where I work on projects with the goal of improving equitable access to transplants for racialized communities and quality of life for transplant recipients. I'm an advocate for using science communication to bridge gaps between the public, scientists, & healthcare. I'm also passionate about writing and photography as tools for storytelling & advocacy. #keepitraw!",
-  "link": "https://instagram.com/archivesbynoor?igshid=eri0dgam481h",
-  "no": 1.11
+  "bio": "Hi! I'm Noor, a 1st year master's student at the Institute of Medical Sciences. I work with Dr. Dmitry Rozenberg at the GoodHope EDS clinic at Toronto General Hospital, and my research is focused on characterizing respiratory issues and their association with physical functioning and quality of life in people with Ehler's Danlos Syndrome. I'm really excited to work with the team to bring you episodes spanning topics in biomedical sciences, health equity and more! Outside of the hospital, I dabble in some photography and digital art.",
+  "links": {"twitter":"https://twitter.com/noornotnour","instagram":"https://instagram.com/archivesbynoor?igshid=eri0dgam481h"},
+  "no": 0.2
 }

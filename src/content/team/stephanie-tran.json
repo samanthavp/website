@@ -1,10 +1,10 @@
 {
   "name": "Stephanie Tran",
-  "title": "Transcriber",
-  "team_name": "Content Creators & Show Hosts",
+  "title": "Promotions & Content Creator",
+  "team_name": "Promotions & Social Media",
   "img_tq": "stephanie-tran-tq.jpg",
   "img_rt": "stephanie-tran-rt.jpg",
-  "bio": "Hey listeners, I'm Stephanie! I am third-year PhD student at the Institute of Medical Science. In the lab, I use a variety of techniques to stimulate the brain and assess how it changes with aging and disease. Specifically, I research sensorimotor control in Parkinson's disease patients. Outside of school, I am addicted to travelling, hiking, and finding the best bakeries. This is my first year with Raw Talk and I am thrilled to be a part of the team. Check out some old gems on our website and follow along with our newly added episode transcripts!",
-  "link": null,
-  "no": 2.51
+  "bio": "Hi, I’m Stephanie! I'm a 4th year PhD Candidate in the Institute of Medical Science. I study balance in Parkinson’s disease using virtual reality, brain stimulation, and motion analysis. Outside the lab, I love biking, being outdoors with my dog, and trying new food. Science communication is my passion so I am excited to return for a second season of Raw Talk. This year, I am working on content creation and promo. Can’t wait to share our Season 6 with you all!",
+  "links": {"twitter":"https://twitter.com/synaptic_steph","linkedin":"https://www.linkedin.com/in/stephanie--tran"},
+  "no": 5.3
 }

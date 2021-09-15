@@ -1,10 +1,10 @@
 {
   "name": "Jenna Park",
-  "title": "Show Host",
-  "team_name": "Content Creators & Show Hosts",
+  "title": "Show Host & Content Creator",
+  "team_name": "Show Hosts & Content Creators",
   "img_tq": "jenna-park-tq.jpg",
   "img_rt": "jenna-park-rt.jpg",
-  "bio": "Hi listeners! My name is Jenna, and I'm super excited to be one of the new Show Hosts for Season 5! I can't wait to learn more about the cool research happening here at UofT and to be able to share it with everyone! Currently, I'm a 2nd year MSc student in the Department of Medical Biophysics researching what signaling pathways regulate Neuroblastoma metastasis to the bone and the brain. Outside of my passions for all things research and scientific communication, you can find me anywhere food is involved, on the volleyball court, traveling, or trying new activities with my friends.",
-  "link": null,
-  "no": 1.12
+  "bio": "Hey everyone! I'm Jenna, a Master's student in the Department of Medical Biophysics. I'm currently located at the Peter Gilgan Centre for Research and Learning (PGCRL) at SickKids, where my research is focused on elucidating the molecular mechanisms behind neuroblastoma metastasis. Specifically, I look at signaling pathways that enable this cancer to spread to specific areas such as the bone and the brain. Outside of research, my other passions include scientific communication, exploring the city, trying new foods, playing sports, and discovering bomb playlists on Spotify.",
+  "links": {"twitter":"https://twitter.com/jparkscience"},
+  "no": 1.08
 }
