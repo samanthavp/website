@@ -36,9 +36,11 @@
                   <h4><i>{{profile.title}}</i></h4>
                   <div class="profile-bio">
                     <p>{{profile.bio}}</p>
-                    {% if profile.link %}
-                    <p><a href="{{profile.link}}">[link]</a></p>
-                    {% endif %}
+                    {% for type,href in profile.links.items() %}
+                    <a href="{{href}}" target="_blank">
+                      <img class="icon-profile" src="/img/icon/{{type}}.svg"/>
+                    </a>
+                    {% endfor %}
                   </div>
                 </div>
               </div>

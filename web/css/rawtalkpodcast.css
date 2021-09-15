@@ -373,6 +373,10 @@ table tr:nth-child(1) {
   width: 100%;
   margin-bottom: 10px;
 }
+.icon-profile {
+  width: 25px;
+  margin: 5px;
+}
 .modal-content {
   border-radius: 0;
   background: #16264e;
