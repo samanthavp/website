@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/web/x3hjoq/rawdataims_content_blubrry_com_rawdataims_RTP-episode52.mp3",
   "date": "January 9, 2019",
   "season": 3,
+  "template": "episode-old",
   "img_tile": "martin-ralph-landscape.jpg",
   "img_caption": "Dr. Martin Ralph, Professor, University of Toronto",
   "img_page": "martin-ralph-portrait.jpg",

@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/web/v696ns/rawdataims_content_blubrry_com_rawdataims_RTP-episode80.mp3",
   "date": "September 9, 2020",
   "season": 5,
+  "template": "episode-old",
   "img_tile": "covidecoded-lens.jpg",
   "img_caption": "Alex Jacobs, our quadruple screen-weilding, double headphoned, one-man audio-visual department, hard at work streaming COVIDecoded #4, hosted by Nathan Chan.",
   "img_page": "covidecoded-tech.jpg",

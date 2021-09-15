@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/web/loeu7w/rawdataims_content_blubrry_com_rawdataims_RTP-episode62.mp3",
   "date": "July 31, 2019",
   "season": 3,
+  "template": "episode-old",
   "img_tile": "med-ai-chairs.jpg",
   "img_caption": "Panel 1: (left to right) Dr. Joanna Yu, Dr. Jason Lerch, Dr. Marzyeh Ghassemi, Dr. Oren Kraus, and Dr. Shreejoy Tripathy",
   "img_page": "med-ai-panel-1.jpg",

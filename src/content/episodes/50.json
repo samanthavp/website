@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/play/9a9kk0/rawdataims_content_blubrry_com_rawdataims_RTP-episode50.mp3",
   "date": "November 7, 2018",
   "season": 3,
+  "template": "episode-old",
   "img_tile": "david-urbach-landscape.jpg",
   "img_caption": "Dr. David Urbach, Surgeon-in-Chief, Women's College Hospital",
   "img_page": "david-urbach-portrait.jpg",

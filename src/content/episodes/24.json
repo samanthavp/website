@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/web/fvn20g/rawdataims_content_blubrry_com_rawdataims_RTP-episode24.mp3",
   "date": "October 13, 2017",
   "season": 2,
+  "template": "episode-old",
   "img_tile": "jonathan-downar-wide.jpg",
   "img_caption": "Dr. Jonathan Downar, Co-Director of the MRI-Guided rTMS Clinic at the Toronto Western Hospital.",
   "img_page": "jonathan-downar-long.jpg",

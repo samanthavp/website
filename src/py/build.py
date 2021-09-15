@@ -43,7 +43,6 @@ for episode in X['episodes']:
   href = 'episode/'+no
   descr = episode['notes'][0:episode['notes'].find(' ',150)]
   episode.update(
-    template    = 'episode',
     href        = href,
     title       = '#{} {}'.format(no,episode['title']),
     og          = ogfun(href,href+'/'+episode['img_tile'],descr=descr),

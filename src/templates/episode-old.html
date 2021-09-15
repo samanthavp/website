@@ -1,0 +1,89 @@
+{% extends "page.html" %}
+{% block scripts %}
+  <script src="/js/audioplayer.js"></script>
+{% endblock %}
+{% block pagetitle %}
+<div class="container-fluid">
+  <div class="row justify-content-between no-gutters">
+    <div class="link-arrow align-left col-2 col-md-1 order-md-1">
+      {% if this.no < episodes|length %}
+      <a href=/episode/{{this.no+1}}>
+        <img class="icon-arrow" src="/img/icon/arrow-left.svg"/>
+      </a>
+      {% endif %}
+    </div>
+    <div class="link-arrow align-right col-2 col-md-1 order-md-3">
+      {% if this.no > 1 %}
+      <a href=/episode/{{this.no-1}}>
+        <img class="icon-arrow" src="/img/icon/arrow-right.svg"/>
+      </a>
+      {% endif %}
+    </div>
+    <div class="center col-12 col-md-10 order-md-2">
+      <h1>{{this.title}}</h1>
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block body %}
+<div class="container">
+  <div class="row justify-content-end">
+    <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+      <img class="episode-img-page" src="/img/episode/{{this.no}}/{{this.img_page}}"></img>
+      <p class="img-caption">{{this.img_caption}}</p>
+    </div>
+    <div class="episode-col col-12 col-sm-12 col-md-6 col-lg-8 col-xl-8">
+      <div class="player-container">
+        <div class="player" id="player">
+          <audio id="audio" preload="metadata"
+            src="{{this.mp3}}">
+          </audio>
+          <div class="controls">
+            <input class="control" type="range" id="player-slider" max="360" value="0">
+          </div>
+          <div class="controls">
+            <span class="time" id="time-current">0:00:00</span>
+            <div class="controls">
+              <button id="seek-left"  class="control"></button>
+              <button id="play-pause" class="control play"></button>
+              <button id="seek-right" class="control"></button>
+            </div>
+            <span class="time" id="time-total">0:00:00</span>
+          </div>
+        </div>
+      </div>
+      <p class="date">
+        {{this.date}}
+      </p>
+      <p class="notes">
+        {{this.notes}}
+      </p>
+      <p class="notes">
+        <i>Written by: {{' and '.join(this.authors)}}</i>
+      </p>
+      <!--<p class="notes">
+        <i>Production Team: {{this.prod_team}}</i>
+      </p>-->
+      <p class="notes">
+        {% for link in this.links %}
+        <a href={{link.href}}>{{link.title}}</a><br>
+        {% endfor %}
+      </p>
+    </div>
+    <div class="episode-col col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
+      <button class="btn" style="margin-left: 5px;" type="button" data-toggle="collapse" data-target="#transcripts">
+        Transcripts
+      </button>
+      <div id="transcripts" class="collapse transcripts-container">
+        {% for clip in this.transcripts %}
+        <p class="notes">
+          <span class="transcript speaker">{{clip.speaker}}</span>
+          <span class="transcript timestamp">{% if clip.time|length %}[{{clip.time}}]{% endif %}</span>
+          <span class="transcript text">{{clip.text}}</span>
+        </p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

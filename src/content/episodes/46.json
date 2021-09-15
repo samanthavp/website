@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/web/6bx9tf/rawdataims_content_blubrry_com_rawdataims_S3E1_teaser_final.mp3",
   "date": "September 5, 2018",
   "season": 3,
+  "template": "episode-old",
   "img_tile": "grace-and-mel.jpg",
   "img_caption": "",
   "img_page": "raw-talk-logo.jpg",

@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/web/yy39w4/rawdataims_content_blubrry_com_rawdataims_RDP-episode1.mp3",
   "date": "September 16, 2016",
   "season": 1,
+  "template": "episode-old",
   "img_tile": "season-1-team.jpg",
   "img_caption": "Raw Talk Season 1 Team",
   "img_page": "raw-talk-logo.jpg",

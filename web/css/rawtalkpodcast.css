@@ -439,6 +439,14 @@ p.date{
   width: 100%;
   margin-bottom: 10px;
 }
+.guest img.circle {
+  padding: 15px 0px;
+  border-radius: 50%;
+  width: 100%;
+}
+.guest .title {
+  text-align: center;
+}
 .tile-episode {
   padding: 5px;
   margin: 0;
@@ -497,7 +505,7 @@ p.date{
   margin: 5px;
 }
 .player-container {
-  padding: 30px 5px;
+  padding: 5px;
 }
 .player .controls {
   display: flex;

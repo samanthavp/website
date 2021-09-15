@@ -4,6 +4,7 @@
   "mp3": "https://mcdn.podbean.com/mf/web/0ryt9a/rawdataims_content_blubrry_com_rawdataims_RTP-episode15.mp3",
   "date": "May 12, 2017",
   "season": 1,
+  "template": "episode-old",
   "img_tile": "helen-mcneill-wide.jpg",
   "img_caption": "Dr. Helen McNeill, expert in biology and molecular genetics",
   "img_page": "helen-mcneill-long.jpg",
