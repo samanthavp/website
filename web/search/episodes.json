@@ -1,5 +1,81 @@
 [
  {
+  "no": 98,
+  "title": "Podium Pills: Fame or Folly?",
+  "mp3": "https://mcdn.podbean.com/mf/web/qsard8/RTP-episode98.mp3",
+  "date": "Sept 29, 2021",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "russian-race-walkers.jpg",
+  "guests": [
+   {
+    "name": "James Fitzgerald",
+    "title": "Senior Manager, Media Relations and Communications, World Anti-Doping Agency (WADA)",
+    "img": "james-fitzgerald.jpg"
+   },
+   {
+    "name": "Maddy Kelly",
+    "title": "Canadian Olympian, Women's Track and Field, Tokyo 2020",
+    "img": "maddy-kelly.jpg"
+   },
+   {
+    "name": "Evan Dunfee",
+    "title": "Canadian Olympian & Bronze Medalist, 50km Race Walk, Tokyo 2020",
+    "img": "evan-dunfee.jpg"
+   },
+   {
+    "name": "Dr. Dean St. Mart",
+    "title": "Product Formulator, Supplement Needs",
+    "img": "dean-st-mart.jpg"
+   }
+  ],
+  "notes": "Have you ever wondered how the World Anti-Doping Agency (WADA) decides what substances are banned in professional sport? Or what it\u2019s like to get tested for prohibited substances? In this episode of Raw Talk, we interview experts on anti-doping and the use of performance enhancing drugs. James Fitzgerald explains the many tools that WADA uses to combat doping in sport, from dried blood spot analysis to machine learning. We also speak to two Canadian Olympic athletes, Evan Dunfee and Maddy Kelly, about their experiences getting tested, what kinds of pressures they felt to perform, and the tainted beef controversy. Lastly, Dr. Dean St. Mart tells us about the health risks of steroids - in the context of bodybuilding - from androgen receptors to \u201cblasting and cruising\u201d, and explores whether its possible to use such performance enhancing drugs safely. We hope you enjoy the expertise and diverse perspectives our fascinating guests shared with us on this week\u2019s episode.",
+  "authors": [
+   "Claire Mazzia"
+  ],
+  "prod_team": {
+   "cc": [
+    "Claire Mazzia"
+   ],
+   "sh": [
+    "Braeden Page",
+    "Swapna Mylabathula",
+    "Jenna Park"
+   ],
+   "ep": [
+    "Jesse Knight"
+   ],
+   "ae": [
+    "Alex Jacob"
+   ],
+   "pv": [
+    "Janine Truong"
+   ],
+   "sm": [
+    "Eman Nishat"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "World Anti-Doping Agency (WADA)",
+    "href": "https://www.wada-ama.org/"
+   },
+   {
+    "title": "Global Drug Reference Online (Global DRO)",
+    "href": "https://www.globaldro.com/"
+   },
+   {
+    "title": "Yes, Evan Dunfee is the Kraft Dinner guy",
+    "href": "https://twitter.com/kraftdinner/status/1435713931620851712"
+   },
+   {
+    "title": "Supplement Needs",
+    "href": "https://www.supplementneeds.co.uk/"
+   }
+  ]
+ },
+ {
   "no": 97,
   "title": "Let's Talk Grad School ",
   "mp3": "https://mcdn.podbean.com/mf/download/m8jat2/_97_Let_s_Talk_Grad_Schoolapl4w.mp3",
