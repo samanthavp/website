@@ -1,0 +1,54 @@
+{
+  "no": 99,
+  "title": "Refugee Healthcare in Canada",
+  "mp3": "https://mcdn.podbean.com/mf/web/gqrv4x/Episode_99_Refugee_Health801o9.mp3",
+  "date": "Oct 13, 2021",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "praseedha-janakiram-wide.jpg",
+  "guests": [
+    { "name": "Steve Meagher",
+      "title": "Project Director, Centre for Refugee Children; Co-Chair, Family Sector Table, Toronto Shelter Network",
+      "img": "steve-meagher.jpg"
+    },
+    { "name": "Dr. Meb Rashid",
+      "title": "Family Doctor & Medical Director, Crossroads Clinic, Women's College Hospital; Co-Founder, Canadian Doctors for Refugee Care & Christie Refugee Health Clinic",
+      "img": "meb-rashid.jpg"
+    },
+    { "name": "Dr. Praseedha Janakiram",
+      "title": "Family Doctor, Crossroads Clinic, Women's College Hospital; Assistant Professor, Dept Family and Community Medicine, University of Toronto",
+      "img": "praseedha-janakiram.jpg"
+    }
+  ],
+  "notes": "Humanitarian crises from around the world, attributed to various causes such as war and climate change, have resulted in the displacement of millions of people worldwide. Some of these displaced individuals journey to other countries, such as Canada, to settle and start new lives. However, a refugee’s journey doesn’t end once they arrive in their new home, they must navigate a new system to access housing, healthcare, and education, while potentially facing numerous barriers along the way. In this episode of Raw Talk, we interview experts to gain a Canadian perspective on the unique health experience of refugees, and the resettlement process for refugees living in Canada. Steve Meagher discusses who refugees are and the barriers they face to accessing healthcare services in Canada. Dr. Praseedha Janakiram sheds light on the diversity of refugees and their journeys from leaving their homeland to settling into a new life. Dr. Meb Rashid speaks to the routine health issues that refugee families face and how primary and community healthcare is tailored to those needs.",
+  "authors": ["Junayd Hussain","Janine Truong"],
+  "prod_team": {
+    "cc": ["Janine Truong","Stephania Assimopoulos"],
+    "sh": ["Atefeh Mohammadi","Kayvan Aflaki"],
+    "ep": ["Noor Al Kaabi"],
+    "ae": ["Esther Silk"],
+    "pv": ["Janine Truong"],
+    "sm": ["Stephanie Tran"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Centre for Refugee Children",
+      "href": "http://crcrefugee.ca/"
+    },
+    { "title": "Women’s College Hospital Crossroads Clinic",
+      "href": "https://www.womenscollegehospital.ca/care-programs/crossroads-clinic/"
+    },
+    { "title": "The Toronto Addis Ababa Academic Collaboration (TAAAC)",
+      "href": "https://taaac.com/toronto-addis-ababa-academic-collaboration"
+    },
+    { "title": "The Canadian Collaborative Mental Health Care Conference - Dr. Janakiram speaking",
+      "href": "http://www.shared-care.ca/conference"
+    },
+    { "title": "Christie Refugee Welcome Centre",
+      "href": "https://christiestreetrc.com/"
+    },
+    { "title": "Canadian Centre for Victims of Torture",
+      "href": "http://ccvt.org/"
+    }
+  ]
+}
