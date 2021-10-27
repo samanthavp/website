@@ -1,0 +1,57 @@
+{
+  "no": 100,
+  "title": "Years Later: Insulin and Beyond",
+  "mp3": "https://mcdn.podbean.com/mf/web/haeexw/RTP-episode100.mp3",
+  "date": "Oct 27, 2021",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "insulin-discovery.jpg",
+  "guests": [
+    { "name": "Dr. Daniel Drucker",
+      "title": "Professor, Temerty Faculty of Medicine, University of Toronto; Senior Scientist, Lunenfeld-Tanenbaum Research Institute",
+      "img": "daniel-drucker.jpg"
+    },
+    { "name": "Jennifer Da Cruz",
+      "title": "Registered Nurse & Diabetes Educator, Unison Health and Community Services",
+      "img": "jennifer-da-cruz.jpg"
+    },
+    { "name": "Dr. Paraish Misra",
+      "title": "Nephrologist & PhD Candidate, University of Toronto",
+      "img": "paraish-misra.jpg"
+    }
+  ],
+  "notes": "In honour of our 100th episode here at Raw Talk Podcast, we are celebrating another anniversary this year: 100 years since the discovery of insulin, a life saving treatment for diabetes that happened here at the University of Toronto. This discovery earned the scientists behind it the 1923 Nobel Prize in Medicine, and was a pivotal moment in Canadian medical science research. In this episode, we sat down with Dr. Daniel Drucker, a senior scientist at the Lunenfeld Tanenbaum Research Institute who gave us a crash course on diabetes, insulin, and the research leading up to the discovery of insulin. Next, we spoke with Jennifer Da Cruz, a diabetes patient, educator and public health nurse at Unison Health and Community Services in Toronto. Finally, we met with Dr. Paraish Misra, a nephrologist, and a PhD candidate in the Nostro lab at the University of Toronto, who told us about some of the exciting new frontiers in stem cell research for diabetes treatment - or possibly even cure.",
+  "authors": ["Prisca Hsu"],
+  "prod_team": {
+    "cc": ["Prisca Hsu"],
+    "sh": ["Daniel Li","Yagnesh Ladumor","Swapna Mylabathula"],
+    "ep": ["Jesse Knight"],
+    "ae": ["Esther Silk"],
+    "pv": ["Janine Truong"],
+    "sm": ["Atefeh Mohammadi"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Dr. Daniel Drucker",
+      "href": "https://www.glucagon.com/druckerlab.html"
+    },
+    { "title": "Diabetes Canada",
+      "href": "https://www.diabetes.ca/"
+    },
+    { "title": "Dr. Paraish Misra",
+      "href": "https://twitter.com/paraishm "
+    },
+    { "title": "Open Insulin Foundation",
+      "href": "https://openinsulin.org"
+    },
+    { "title": "Article - The absurdly high cost of insulin, explained",
+      "href": "https://www.vox.com/2019/4/3/18293950"
+    },
+    { "title": "Article - Why people with diabetes can't buy generic insulin",
+      "href": "https://www.hopkinsmedicine.org/news/media/releases/why_people_with_diabetes_cant_buy_generic_insulin"
+    },
+    { "title": "Review Article - Stem cell-derived insulin-producing cells",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/33826915/"
+    }
+  ]
+}
