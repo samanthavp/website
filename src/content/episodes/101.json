@@ -1,0 +1,47 @@
+{
+  "no": 101,
+  "title": "The Many Faces of Burnout in Healthcare",
+  "mp3": "https://mcdn.podbean.com/mf/web/682hj4/The_Many_Faces_of_Burnout_in_Healthcare71lti.mp3",
+  "date": "Nov 10, 2021",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "burnout.jpg",
+  "guests": [
+    { "name": "Dr. Kim McMillan",
+      "title": "Assistant Professor, School of Nursing, University of Ottawa",
+      "img": "kim-mcmillan.jpg"
+    },
+    { "name": "Simone Bernstein",
+      "title": "Dr. Psychiatry Resident Physician, Washington University School of Medicine",
+      "img": "simone-bernstein.jpg"
+    },
+    { "name": "Yezarni Wynn",
+      "title": "Psychiatry Resident Physician, St. Michael's Hospital, Unity Health Toronto",
+      "img": "yezarni-wynn.jpg"
+    },
+    { "name": "Emily Rowland",
+      "title": "Registered Nurse; PhD Candidate, University of Toronto",
+      "img": "emily-rowland.jpg"
+    },
+    { "name": "Amit Arya",
+      "title": "Palliative Care Physician, North York General; Palliative Care Lead, Kensington Hospice; Board Member, Canadian Society of Palliative Care Physicians; Lecturer, University of Toronto; Assistant Professor, McMaster University",
+      "img": "amit-arya.jpg"
+    }
+  ],
+  "notes": "Throughout the COVID-19 pandemic, there has been an increased use of the terms \"healthcare provider burnout\" and \"healthcare heroes\". Within the media, we have seen these terms be trending hashtags, top news headlines, or we may have heard them stated by government officials in their press releases ... but what do they really mean? In this episode from Raw Talk you will hear from our guests - Dr. Kim McMillan, a nurse-researcher and assistant professor at the University of Ottawa; Dr. Amit Arya a palliative care physician at North York General and Kensington Hospice; medical residents Dr. Simone Bernstien from Washington University and Dr. Yezarni Wynn from the University of Toronto; and nurse and PhD candidate Emily Rowland from the University of Toronto - burnout affects each person differently and has a rippling effect for both the individual and the health system as a whole. Our guests also share their perspectives of what a \"healthcare hero\" means to them, perspectives that may be different from how they were portrayed in the media. Finally, we conclude our episode with ideas to decrease provider burnout and advice for our medical learner listeners. Happy listening!",
+  "authors": [],
+  "prod_team": {
+    "cc": ["Larkin Davenport Huyer"],
+    "sh": ["Atefeh Mohammadi","Helen Yang"],
+    "ep": ["Noor Al Kaabi"],
+    "ae": ["Alex Jacob"],
+    "pv": ["Janine Truong"],
+    "sm": ["Anam Islam"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Article - Exploring the impact of rural health system factors on physician burnout: a mixed-methods study in Northern Canada",
+      "href": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-06899-y"
+    }
+  ]
+}
