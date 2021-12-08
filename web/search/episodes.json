@@ -1,5 +1,110 @@
 [
  {
+  "no": 102,
+  "title": "Healthcare behind bars",
+  "mp3": "https://mcdn.podbean.com/mf/web/btqthk/Healthcare_Behind_Bars718tg.mp3",
+  "date": "Dec 8, 2021",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "behind-bars.jpg",
+  "guests": [
+   {
+    "name": "Dr. Kiran Patel",
+    "title": "Staff Psychiatrist, Forensics, CAMH; Assistant Professor, University of Toronto",
+    "img": "kiran-patel.jpg"
+   },
+   {
+    "name": "Catherine Latimer",
+    "title": "Executive Director, John Howard Society of Canada; Member, Order of Canada; Co-Host, Voices Inside and Out Podcast",
+    "img": "catherine-latimer.jpg"
+   },
+   {
+    "name": "Lawrence Da Silva",
+    "title": "Consultant, John Howard Society of Canada; Co-Host, Voices Inside and Out Podcast",
+    "img": "lawrence-da-silva.jpg"
+   }
+  ],
+  "notes": "As a patient, you would want the best care to come to you. You would want to be able to access health services, empathetic staff, and any medications you need. As a citizen, you likely want that for others who are in need of healthcare assistance. So why is this not the case once people are behind bars? \"Imagine yourself in a box trying to reach out for help.\" That is what one of our guests, Lawrence Da Silva, host of Voices Inside and Out, described what it was like to be in need of healthcare services in prison. In this episode, we dive deep into the reality that is healthcare in a prison setting. We are also joined by Catherine Latimer, the executive director of the John Howard Society, and Dr. Kiran Patel, a staff psychiatrist at CAMH's Forensic Division. They touch on topics like the accessibility of care as related to the Canada Health Act, specific challenges like mental health and the effect of prison transfers, and what is being done by organizations like the John Howard Society to help. We hope this episode can highlight some important aspects about the reality of life behind bars.",
+  "authors": [],
+  "prod_team": {
+   "cc": [
+    "Angela Dela Cruz",
+    "Zeynep Kahramanoglu",
+    "Junayd Hussain",
+    "Veena Sanmugananthan"
+   ],
+   "sh": [
+    "Atefeh Mohammadi",
+    "Kayvan Aflaki",
+    "Braeden Page"
+   ],
+   "ep": [
+    "Noor Al Kaabi"
+   ],
+   "ae": [
+    "Anukrati Nigam"
+   ],
+   "pv": [
+    "Janine Truong"
+   ],
+   "sm": [
+    "Anam Islam",
+    "Stephanie Tran"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "The Nelson Mandela Rules",
+    "href": "https://www.un.org/en/events/mandeladay/mandela_rules.shtml"
+   },
+   {
+    "title": "The Ashley Smith Inquest",
+    "href": "https://globalnews.ca/news/5336592/ashley-smith-solitary-confinement-family/"
+   },
+   {
+    "title": "Elizabeth Fry Toronto",
+    "href": "https://www.efrytoronto.org/about"
+   },
+   {
+    "title": "The John Howard Society",
+    "href": "https://johnhoward.ca/mission-values/"
+   },
+   {
+    "title": "Voices Inside and Out Podcast",
+    "href": "https://johnhoward.ca/voices-inside-out-podcast/"
+   },
+   {
+    "title": "Canada Health Act",
+    "href": "https://www.canada.ca/en/health-canada/services/health-care-system/canada-health-care-system-medicare/canada-health-act.html"
+   },
+   {
+    "title": "Corrections and Conditional Release Act (CCRA)",
+    "href": "https://laws-lois.justice.gc.ca/eng/acts/C-44.6/index.html"
+   },
+   {
+    "title": "Indigenous People in Federal Custody: Government of Canada",
+    "href": "https://www.oci-bec.gc.ca/cnt/comm/press/press20200121-eng.aspx"
+   },
+   {
+    "title": "Race and Incarceration: The Representation and Characteristics of Black People in Provincial Correctional Facilities in Ontario, Canada",
+    "href": "https://journals.sagepub.com/doi/full/10.1177/21533687211006461"
+   },
+   {
+    "title": "Houses of hate: How Canada's prison system is broken",
+    "href": "https://journals.sagepub.com/doi/full/10.1177/21533687211006461"
+   },
+   {
+    "title": "How You Can Get Involved: John Howard Society of Canada",
+    "href": "https://johnhoward.ca/resources/get-involved/"
+   },
+   {
+    "title": "CAMH: Services and Support After Incarceration",
+    "href": "https://www.camh.ca/-/media/files/community-resource-sheets/after-incarceration-resources-pdf.pdf"
+   }
+  ]
+ },
+ {
   "no": 101,
   "title": "The Many Faces of Burnout in Healthcare",
   "mp3": "https://mcdn.podbean.com/mf/web/682hj4/The_Many_Faces_of_Burnout_in_Healthcare71lti.mp3",
