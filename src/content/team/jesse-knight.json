@@ -1,10 +1,10 @@
 {
   "name": "Jesse Knight",
-  "title": "Executive Producer & Website",
+  "title": "Website & Advisor",
   "team_name": "Executive Producers",
   "img_tq": "jesse-knight-tq.jpg",
   "img_rt": "jesse-knight-rt.jpg",
   "bio": "Hello world! Third year IMS PhD student here, working with Dr Sharmistha Mishra at St Michael's Hospital. In my research, I simulate HIV epidemics in Sub-Saharan Africa, with the aim of helping to inform intervention priorities, especially for key populations like sex workers and young women. I'm mainly interested in the influence of modelling assumptions on simulation results. These days I also help support COVID modelling. I'm super excited to be working with the amazing Raw Talk Team to explore leading biomedical science research and highlight important issues in health. Outside the lab, I like to go backcountry camping, convince you to try LaTeX, and tweet at politicians about the climate crisis.",
   "links": {"twitter":"https://twitter.com/jessexknight","github":"https://github.com/jessexknight","web":"https://www.ipcc.ch/report/ar6/wg1/"},
-  "no": 0.1
+  "no": 8.1
 }
