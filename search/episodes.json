@@ -1,5 +1,74 @@
 [
  {
+  "no": 103,
+  "title": "Raw Talk Roundtables: Underrepresentation in STEM",
+  "mp3": "https://mcdn.podbean.com/mf/web/ji4wba/E103_draft3_FINAL2_1_6841h.mp3",
+  "date": "Feb 2, 2022",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "zoom.jpg",
+  "guests": [
+   {
+    "name": "Dr. Andrea Boggild",
+    "title": "Medical Director, Tropical Disease Unit, University Health Network; Associate Professor, Temerty Faculty of Medicine, University of Toronto",
+    "img": "andrea-boggild.jpg"
+   },
+   {
+    "name": "Mohsen Poorganji",
+    "title": "PhD Candidate, Institute of Medical Science & Co-founder, IMS International Group, University of Toronto",
+    "img": "mohsen-poorganji.jpg"
+   },
+   {
+    "name": "Layan Elfaki",
+    "title": "MSc Student, Institute of Medical Science & President, Black Graduate Student Association, University of Toronto",
+    "img": "layan-elfaki.jpg"
+   }
+  ],
+  "notes": "Students from under-represented groups in STEM (science, technology, engineering, and mathematics) fields often experience a myriad of challenges due to a variety of systemic barriers such as lack of representation or diversity, appropriate financial support, and having a supportive learning environment. In this episode, our team and guests take a deep dive into the importance of representation, mentorship and community within STEM fields, as well as elaborate on how they feel these environments should be improved. We speak to Mohsen Poorganji, the co-founder of the Institute of Medical Science (IMS) International Student Group, Layan Elfaki, the president of the Black Graduate Student Association (BGSA) at the University of Toronto (UofT), and Dr. Andrea Boggild, the Medical Director of the Tropical Diseases Unit at University Health Network and an Associate Professor at UofT. Listen to these conversations along with our hosts, Daniel and Rachel, who chime in and reflect on their learnings throughout the episode.",
+  "authors": [],
+  "prod_team": {
+   "cc": [
+    "Atefeh Mohammadi",
+    "Veena Sanmugananthan"
+   ],
+   "sh": [
+    "Daniel Li",
+    "Rachel Peiris"
+   ],
+   "ep": [
+    "Noor Al Kaabi"
+   ],
+   "ae": [
+    "Alex Jacob"
+   ],
+   "pv": [
+    "Janine Truong"
+   ],
+   "sm": [
+    "Stephanie Tran"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "Incorporating Indigenous Cultures and Realities in STEM",
+    "href": "https://fsc-ccf.ca/wp-content/uploads/2020/07/24559_10697_incorporating-indigenous-culture-and-realities_primer.pdf"
+   },
+   {
+    "title": "IMS International Student Group",
+    "href": "https://ims-international.ca/"
+   },
+   {
+    "title": "Black Graduate Student Association",
+    "href": "https://twitter.com/bgsa_uoft?lang=en"
+   },
+   {
+    "title": "Community of Support",
+    "href": "https://applymd.utoronto.ca/community-support"
+   }
+  ]
+ },
+ {
   "no": 102,
   "title": "Healthcare Behind Bars",
   "mp3": "https://mcdn.podbean.com/mf/web/btqthk/Healthcare_Behind_Bars718tg.mp3",
