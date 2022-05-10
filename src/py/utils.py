@@ -1,9 +1,7 @@
 import os
 import json
-from collections import OrderedDict as odict
 
 verbose = 3
-ext  = '.html'
 root = 'web'
 
 def log(msg,level):
@@ -23,19 +21,19 @@ def key_drill(D,keys):
     if key in D:
       return key_drill(D[key],keys)
     else:
-      D.update({key:odict()})
+      D.update({key:{}})
       return D[key]
   else:
     return D
 
 def json_load(path):
   with open(path,'r') as f:
-    return json.load(f,object_pairs_hook=odict)
+    return json.load(f)
 
-def json_drill(path):
+def json_drill(path,ext='.json'):
   # clean path
   path = path.rstrip(os.path.sep)+os.path.sep
-  D = odict()
+  D = {}
   for root,dirs,files in os.walk(path):
     # prepare for key_drill
     base = root.replace(path,'')
@@ -43,7 +41,8 @@ def json_drill(path):
     Dk = key_drill(D,keys)
     # load the files (assume all .json)
     for file in files:
-      Dk.update({file.replace('.json',''):json_load(os.path.join(root,file))})
+      if file.endswith(ext):
+        Dk.update({file.replace(ext,''):json_load(os.path.join(root,file))})
   return(D)
 
 def json_save(path,content,**kwargs):
@@ -56,7 +55,7 @@ def file_save(path,string):
   with open(path,'w') as f:
     f.write(string)
 
-def page_save(E,T,page,**kwargs):
+def page_save(E,T,page,ext='.html',**kwargs):
   path = os.path.join(root,page['href']+ext)
   file_save(path,T.load(E,page['template']+ext).render(this=page,**kwargs))
 

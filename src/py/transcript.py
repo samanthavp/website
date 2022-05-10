@@ -1,8 +1,4 @@
-import sys
-import os
-import re
-import json
-from collections import OrderedDict as odict
+import sys,os,re,json
 # file paths
 episode = str(sys.argv[1])
 ifile = os.path.join('.tmp',str(episode)+'.txt')
@@ -19,11 +15,11 @@ speakers = set()
 for match in re.findall('(.*)  (\d*\:*\d*\:\d\d)  \n(.*)',raw):
   print(' > [{}] {}'.format(match[1],match[0]))
   speakers.add(match[0])
-  data.append(odict([
-      ('speaker', match[0].replace('Unknown Speaker','')),
-      ('time', match[1]),
-      ('text', match[2]),
-    ]))
+  data.append(dict(
+      speaker = match[0].replace('Unknown Speaker',''),
+      time = match[1],
+      text = match[2],
+    ])
 print('N: {}'.format(len(data)))
 print('Speakers:\n > {}'.format('\n > '.join(sorted(list(speakers)))))
 # output file: save backup before overwriting
