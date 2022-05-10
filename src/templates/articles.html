@@ -1,0 +1,13 @@
+{% extends "page.html" %}
+{% block body %}
+<div class="container load-content hidden">
+  <div class="row">
+    {% for article in articles %}
+      <a href={{article.href}}>
+        {{article.title}}
+      </a>
+    {% endfor %}
+  </div>
+</div>
+<div class="loader"></div>
+{% endblock %}

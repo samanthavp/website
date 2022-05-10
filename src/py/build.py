@@ -12,7 +12,7 @@ E = ji.Environment(
   lstrip_blocks=True,
 )
 
-sorter = lambda e: e['no']
+sorter = lambda obj: obj['no']
 X = dict(
   listfun     = lambda l: ', '.join(l[0:-1])+', and '+l[-1],
   slugfun     = lambda s: s.lower().replace(' ','-'),
@@ -22,6 +22,7 @@ X = dict(
   players     = C['players'],
   positions   = C['positions'],
   team        = sorted(C['team'].values(),key=sorter),
+  articles    = sorted(C['articles'].values(),key=sorter,reverse=True),
   events      = sorted(C['events'].values(),key=sorter,reverse=True),
   episodes    = sorted(C['episodes'].values(),key=sorter,reverse=True),
   root        = 'http://www.rawtalkpodcast.com',
@@ -49,6 +50,14 @@ for episode in X['episodes']:
     transcripts = C['transcripts'][no],
   )
   utils.page_save(E,T,episode,**X)
+for article in X['articles']:
+  href = 'article/'+article['slug']
+  article.update(
+    template = 'article',
+    href     = href,
+    og       = ogfun(href), # TODO
+  )
+  utils.page_save(E,T,article,**X)
 for event in X['events']:
   href = 'event/'+event['slug']
   event.update(
