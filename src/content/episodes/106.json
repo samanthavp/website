@@ -1,0 +1,45 @@
+{
+  "no": 106,
+  "title": "Raw Talk Unsolved: Investigating Forensics",
+  "mp3": "https://mcdn.podbean.com/mf/web/j3wpx9/E106_Draft_3_-_volume_normalized85mvu.mp3",
+  "date": "2022 April 4",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "",
+  "guests": [
+    { "name": "Dr. Dirk Huyer",
+      "title": "Chief Coroner for Ontario",
+      "img": "dirk-huyer.jpg"
+    },
+    { "name": "Sheila Early",
+      "title": "President & Co-founder, Canadian Forensic Nurses Association",
+      "img": "sheila-early.jpg"
+    },
+    { "name": "Dr. Jayantha Herath",
+      "title": "Deputy Chief Forensic Pathologist, Program Director of the Forensic Pathology Program, University of Toronto",
+      "img": "jayantha-herath.jpg"
+    }
+  ],
+  "notes": "The field of forensics encompasses the intersection between law and science. This episode explores forensics in more detail. Our guests, Chief Coroner of Ontario, Dr. Dirk Huyer, and Deputy Chief Forensic Pathologist, Dr. Jayantha Herath, share the investigative perspective including behind the scenes of their professions, the intersection with the judicial system, and systemic social issues in forensics. Sheila Early, a forensic nurse and co-founder of the Canadian Forensic Nurses Association (CFNA), shares how healthcare contributes to this field, how it is to work with forensic patients, and her history with the CFNA. This episode takes a deep dive into the truth about forensics, its misconceptions, and how technology evolves alongside. ",
+  "authors": ["Gil Angela Dela Cruz"],
+  "prod_team": {
+    "cc": ["Gil Angela Dela Cruz","Larkin Davenport Huyer"],
+    "sh": [""],
+    "ep": ["Atefeh Mohammadi"],
+    "ae": ["Anukrati Nigam"],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Clinical Examination and Reporting of a Victim of Torture",
+      "href": "https://journals.sagepub.com/doi/10.23907/2017.030"
+    },
+    { "title": "Lawyer's Guide to the Forensic Sciences",
+      "href": "https://canadiancoursereadings.ca/product/lawyers-guide-to-the-forensic-sciences/"
+    },
+    { "title": "Making Sense of a Global Pandemic Book",
+      "href": "https://kpu.pressbooks.pub/nevr/"
+    }
+  ]
+}

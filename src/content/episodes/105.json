@@ -1,0 +1,54 @@
+{
+  "no": 105,
+  "title": "Science Accessibility: How Open Is Too Open?",
+  "mp3": "https://mcdn.podbean.com/mf/web/3dm9n5/RTP105_Science_Accessibilitty_Final72v73.mp3",
+  "date": "2022 March 3",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "",
+  "guests": [
+    { "name": "Dr. Leslie Chan",
+      "title": "Associate Professor, Department of Global Development Studies, University of Toronto; Director, Knowledge Equity Lab",
+      "img": "leslie-chan.jpg"
+    },
+    { "name": "Dr. Anthony Bonato",
+      "title": "Professor, Department of Mathematics, Ryerson University",
+      "img": "anthony-bonato.jpg"
+    },
+    { "name": "Dr. Brian Baigrie",
+      "title": "Associate Professor & Director of Graduate Studies, Institute for the History and Philosophy of Science and Technology; Associate Professor, Institute of Health Policy, Management and Evaluation, University of Toronto",
+      "img": "brian-baigrie.jpg"
+    }
+  ],
+  "notes": "One of the most underappreciated inventions in history can be dated back to 15th century Europe when German goldsmith Johannes Gutenberg developed the printing press which, for the first time ever, automated the book-printing process. This newfound ability to productively disseminate knowledge and ideas revolutionized society overnight. In fact, English intellectual Francis Bacon, who is known for popularizing the scientific method, famously wrote that the three inventions that forever changed the world were gunpowder, the nautical compass, and the printing press. Books and libraries opened science for citizens outside of the elite intellectual circle. And now, with the advent of computers and digitalization of information, we continue to see science become more accessible. On this episode, show hosts Zeynep and Sumi speak to Dr. Anthony Bonato, Mathematics professor at Ryerson University, Dr. Leslie Chan, principal investigator of the Open and Collaborative Science in Development Network, and Dr. Brian Baigrie, associate professor at University of Toronto’s Institute for the History and Philosophy of Science and Technology. We hear about their thoughts on open access, how it is generally perceived in the scientific community, its importance and feasibility globally, and finally, how it helped shape scientific communication throughout the COVID-19 pandemic.",
+  "authors": ["Sumiha Karunagaran"],
+  "prod_team": {
+    "cc": ["Seth Kibel","Larkin Davenport Huyer","Prisca Hsu","Dennis Gotthardt"],
+    "sh": ["Zeynep Kahramanoglu","Sumiha Karunagaran"],
+    "ep": [],
+    "ae": ["Helen Yang"],
+    "pv": [],
+    "sm": ["Anam Islam"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Unsettling Knowledge Inequities Podcast",
+      "href": "https://knowledgeequitylab.ca/podcast/"
+    },
+    { "title": "Bioline International",
+      "href": "http://www.bioline.org.br/"
+    },
+    { "title": "Information on Open Access",
+      "href": "https://www.carl-abrc.ca/advancing-research/scholarly-communication/open-access/?cn-reloaded=1"
+    },
+    { "title": "Budapest Open Access Initiative",
+      "href": "https://www.budapestopenaccessinitiative.org/read/"
+    },
+    { "title": "Rachael Ainsworth TedTalk: Research Culture is Broken; Open Science can Fix It",
+      "href": "https://www.ted.com/talks/rachael_ainsworth_research_culture_is_broken_open_science_can_fix_it"
+    },
+    { "title": "#65 Investing in Knowledge: The Life Cycle of Research ",
+      "href": "https://www.rawtalkpodcast.com/episode/65"
+    }
+  ]
+}

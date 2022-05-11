@@ -1,0 +1,52 @@
+{
+  "no": 104,
+  "title": "A New Era of Knowledge: Science on Social Media",
+  "mp3": "https://mcdn.podbean.com/mf/web/wj5bez/RTP103_Final_1_9d25o.mp3",
+  "date": "Feb 26, 2022",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "",
+  "guests": [
+    { "name": "Sandhya Mylabathula",
+      "title": "STEAM Sister; PhD Candidate, Faculty of Kinesiology & Physical Education, University of Toronto",
+      "img": "sandhya-mylabathula.jpg"
+    },
+    { "name": "Swapna Mylabathula",
+      "title": "STEAM Sister; MD/PhD Candidate, Temerty Faculty of Medicine, University of Toronto",
+      "img": "swapna-mylabathula.jpg"
+    },
+    { "name": "Dr. Anna Blakney",
+      "title": "Assistant Professor, School of Biomedical Engineering, University of British Columbia",
+      "img": "anna-blakney.jpg"
+    },
+    { "name": "Dr. Eric Merkley",
+      "title": "Assistant Professor, Department of Political Science, University of Toronto; Affiliated Faculty, Policy, Elections, and Representation Lab",
+      "img": "eric-merkley.jpg"
+    }
+  ],
+  "notes": "Should bad science be censored on social media? This complex ethical dilemma, stemming from the Information Age beginning in the mid 20th century, is proving to be a real challenge as we continue to navigate the unprecedented repercussions of widespread technology implementation in human life. With the advent of computers, we’ve seen exponential growth in the capacity to process, store, and communicate information. This epochal shift in knowledge transmission has undoubtedly catalyzed many scientific discoveries, improving the lives of millions. However, among this information explosion we also find false, fabricated, or misleading information which ultimately countervails the goals of science to pursue truth. On this episode, show hosts Dennis and Jason interview Dr. Anna Blakney, assistant professor at the University of British Columbia, and Sandhya & Swapna Mylabathula (STEAM sisters), PhD students at U of T, to find out how they use TikTok, YouTube, and other social media platforms to communicate science responsibly and effectively. Additionally, Dr. Eric Merkley, assistant professor at U of T, shares his perspective on the political mechanisms of misinformation spread on mass media. Raw Talk members Jesse, Junayd, Jason & Sumi also contribute their thoughts on the potential for censorship as a means to regulate bad science.",
+  "authors": ["Sumiha Karunagaran"],
+  "prod_team": {
+    "cc": ["Sumiha Karunagaran","Junayd Hussain","Veena Sanmugananthan"],
+    "sh": ["Jenna Park","Jason Lo Hog Tian","Dennis Gotthardt"],
+    "ep": ["Jesse Knight"],
+    "ae": ["Helen Yang"],
+    "pv": [],
+    "sm": ["Eman Nishat"]
+  },
+  "tags": [],
+  "links": [
+    { "title": "How do I spot misinformation? University of Toronto Libraries",
+      "href": "https://onesearch.library.utoronto.ca/faq/how-do-i-spot-misinformation"
+    },
+    { "title": "Birdwatch on Twitter",
+      "href": "https://help.twitter.com/en/using-twitter/birdwatch"
+    },
+    { "title": "ScienceUpFirst",
+      "href": "https://www.scienceupfirst.com/"
+    },
+    { "title": "Canada’s Digital Citizen Research Program",
+      "href": "https://www.canada.ca/en/canadian-heritage/services/online-disinformation.html"
+    }
+  ]
+}
