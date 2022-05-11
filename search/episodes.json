@@ -1,5 +1,224 @@
 [
  {
+  "no": 106,
+  "title": "Raw Talk Unsolved: Investigating Forensics",
+  "mp3": "https://mcdn.podbean.com/mf/web/j3wpx9/E106_Draft_3_-_volume_normalized85mvu.mp3",
+  "date": "2022 April 4",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "",
+  "guests": [
+   {
+    "name": "Dr. Dirk Huyer",
+    "title": "Chief Coroner for Ontario",
+    "img": "dirk-huyer.jpg"
+   },
+   {
+    "name": "Sheila Early",
+    "title": "President & Co-founder, Canadian Forensic Nurses Association",
+    "img": "sheila-early.jpg"
+   },
+   {
+    "name": "Dr. Jayantha Herath",
+    "title": "Deputy Chief Forensic Pathologist, Program Director of the Forensic Pathology Program, University of Toronto",
+    "img": "jayantha-herath.jpg"
+   }
+  ],
+  "notes": "The field of forensics encompasses the intersection between law and science. This episode explores forensics in more detail. Our guests, Chief Coroner of Ontario, Dr. Dirk Huyer, and Deputy Chief Forensic Pathologist, Dr. Jayantha Herath, share the investigative perspective including behind the scenes of their professions, the intersection with the judicial system, and systemic social issues in forensics. Sheila Early, a forensic nurse and co-founder of the Canadian Forensic Nurses Association (CFNA), shares how healthcare contributes to this field, how it is to work with forensic patients, and her history with the CFNA. This episode takes a deep dive into the truth about forensics, its misconceptions, and how technology evolves alongside. ",
+  "authors": [
+   "Gil Angela Dela Cruz"
+  ],
+  "prod_team": {
+   "cc": [
+    "Gil Angela Dela Cruz",
+    "Larkin Davenport Huyer"
+   ],
+   "sh": [
+    ""
+   ],
+   "ep": [
+    "Atefeh Mohammadi"
+   ],
+   "ae": [
+    "Anukrati Nigam"
+   ],
+   "pv": [
+    ""
+   ],
+   "sm": [
+    ""
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "Clinical Examination and Reporting of a Victim of Torture",
+    "href": "https://journals.sagepub.com/doi/10.23907/2017.030"
+   },
+   {
+    "title": "Lawyer's Guide to the Forensic Sciences",
+    "href": "https://canadiancoursereadings.ca/product/lawyers-guide-to-the-forensic-sciences/"
+   },
+   {
+    "title": "Making Sense of a Global Pandemic Book",
+    "href": "https://kpu.pressbooks.pub/nevr/"
+   }
+  ]
+ },
+ {
+  "no": 105,
+  "title": "Science Accessibility: How Open Is Too Open?",
+  "mp3": "https://mcdn.podbean.com/mf/web/3dm9n5/RTP105_Science_Accessibilitty_Final72v73.mp3",
+  "date": "2022 March 3",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "",
+  "guests": [
+   {
+    "name": "Dr. Leslie Chan",
+    "title": "Associate Professor, Department of Global Development Studies, University of Toronto; Director, Knowledge Equity Lab",
+    "img": "leslie-chan.jpg"
+   },
+   {
+    "name": "Dr. Anthony Bonato",
+    "title": "Professor, Department of Mathematics, Ryerson University",
+    "img": "anthony-bonato.jpg"
+   },
+   {
+    "name": "Dr. Brian Baigrie",
+    "title": "Associate Professor & Director of Graduate Studies, Institute for the History and Philosophy of Science and Technology; Associate Professor, Institute of Health Policy, Management and Evaluation, University of Toronto",
+    "img": "brian-baigrie.jpg"
+   }
+  ],
+  "notes": "One of the most underappreciated inventions in history can be dated back to 15th century Europe when German goldsmith Johannes Gutenberg developed the printing press which, for the first time ever, automated the book-printing process. This newfound ability to productively disseminate knowledge and ideas revolutionized society overnight. In fact, English intellectual Francis Bacon, who is known for popularizing the scientific method, famously wrote that the three inventions that forever changed the world were gunpowder, the nautical compass, and the printing press. Books and libraries opened science for citizens outside of the elite intellectual circle. And now, with the advent of computers and digitalization of information, we continue to see science become more accessible. On this episode, show hosts Zeynep and Sumi speak to Dr. Anthony Bonato, Mathematics professor at Ryerson University, Dr. Leslie Chan, principal investigator of the Open and Collaborative Science in Development Network, and Dr. Brian Baigrie, associate professor at University of Toronto\u2019s Institute for the History and Philosophy of Science and Technology. We hear about their thoughts on open access, how it is generally perceived in the scientific community, its importance and feasibility globally, and finally, how it helped shape scientific communication throughout the COVID-19 pandemic.",
+  "authors": [
+   "Sumiha Karunagaran"
+  ],
+  "prod_team": {
+   "cc": [
+    "Seth Kibel",
+    "Larkin Davenport Huyer",
+    "Prisca Hsu",
+    "Dennis Gotthardt"
+   ],
+   "sh": [
+    "Zeynep Kahramanoglu",
+    "Sumiha Karunagaran"
+   ],
+   "ep": [],
+   "ae": [
+    "Helen Yang"
+   ],
+   "pv": [],
+   "sm": [
+    "Anam Islam"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "Unsettling Knowledge Inequities Podcast",
+    "href": "https://knowledgeequitylab.ca/podcast/"
+   },
+   {
+    "title": "Bioline International",
+    "href": "http://www.bioline.org.br/"
+   },
+   {
+    "title": "Information on Open Access",
+    "href": "https://www.carl-abrc.ca/advancing-research/scholarly-communication/open-access/?cn-reloaded=1"
+   },
+   {
+    "title": "Budapest Open Access Initiative",
+    "href": "https://www.budapestopenaccessinitiative.org/read/"
+   },
+   {
+    "title": "Rachael Ainsworth TedTalk: Research Culture is Broken; Open Science can Fix It",
+    "href": "https://www.ted.com/talks/rachael_ainsworth_research_culture_is_broken_open_science_can_fix_it"
+   },
+   {
+    "title": "#65 Investing in Knowledge: The Life Cycle of Research ",
+    "href": "https://www.rawtalkpodcast.com/episode/65"
+   }
+  ]
+ },
+ {
+  "no": 104,
+  "title": "A New Era of Knowledge: Science on Social Media",
+  "mp3": "https://mcdn.podbean.com/mf/web/wj5bez/RTP103_Final_1_9d25o.mp3",
+  "date": "Feb 26, 2022",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "",
+  "guests": [
+   {
+    "name": "Sandhya Mylabathula",
+    "title": "STEAM Sister; PhD Candidate, Faculty of Kinesiology & Physical Education, University of Toronto",
+    "img": "sandhya-mylabathula.jpg"
+   },
+   {
+    "name": "Swapna Mylabathula",
+    "title": "STEAM Sister; MD/PhD Candidate, Temerty Faculty of Medicine, University of Toronto",
+    "img": "swapna-mylabathula.jpg"
+   },
+   {
+    "name": "Dr. Anna Blakney",
+    "title": "Assistant Professor, School of Biomedical Engineering, University of British Columbia",
+    "img": "anna-blakney.jpg"
+   },
+   {
+    "name": "Dr. Eric Merkley",
+    "title": "Assistant Professor, Department of Political Science, University of Toronto; Affiliated Faculty, Policy, Elections, and Representation Lab",
+    "img": "eric-merkley.jpg"
+   }
+  ],
+  "notes": "Should bad science be censored on social media? This complex ethical dilemma, stemming from the Information Age beginning in the mid 20th century, is proving to be a real challenge as we continue to navigate the unprecedented repercussions of widespread technology implementation in human life. With the advent of computers, we\u2019ve seen exponential growth in the capacity to process, store, and communicate information. This epochal shift in knowledge transmission has undoubtedly catalyzed many scientific discoveries, improving the lives of millions. However, among this information explosion we also find false, fabricated, or misleading information which ultimately countervails the goals of science to pursue truth. On this episode, show hosts Dennis and Jason interview Dr. Anna Blakney, assistant professor at the University of British Columbia, and Sandhya & Swapna Mylabathula (STEAM sisters), PhD students at U of T, to find out how they use TikTok, YouTube, and other social media platforms to communicate science responsibly and effectively. Additionally, Dr. Eric Merkley, assistant professor at U of T, shares his perspective on the political mechanisms of misinformation spread on mass media. Raw Talk members Jesse, Junayd, Jason & Sumi also contribute their thoughts on the potential for censorship as a means to regulate bad science.",
+  "authors": [
+   "Sumiha Karunagaran"
+  ],
+  "prod_team": {
+   "cc": [
+    "Sumiha Karunagaran",
+    "Junayd Hussain",
+    "Veena Sanmugananthan"
+   ],
+   "sh": [
+    "Jenna Park",
+    "Jason Lo Hog Tian",
+    "Dennis Gotthardt"
+   ],
+   "ep": [
+    "Jesse Knight"
+   ],
+   "ae": [
+    "Helen Yang"
+   ],
+   "pv": [],
+   "sm": [
+    "Eman Nishat"
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "How do I spot misinformation? University of Toronto Libraries",
+    "href": "https://onesearch.library.utoronto.ca/faq/how-do-i-spot-misinformation"
+   },
+   {
+    "title": "Birdwatch on Twitter",
+    "href": "https://help.twitter.com/en/using-twitter/birdwatch"
+   },
+   {
+    "title": "ScienceUpFirst",
+    "href": "https://www.scienceupfirst.com/"
+   },
+   {
+    "title": "Canada\u2019s Digital Citizen Research Program",
+    "href": "https://www.canada.ca/en/canadian-heritage/services/online-disinformation.html"
+   }
+  ]
+ },
+ {
   "no": 103,
   "title": "Raw Talk Roundtables: Underrepresentation in STEM",
   "mp3": "https://mcdn.podbean.com/mf/web/ji4wba/E103_draft3_FINAL2_1_6841h.mp3",
