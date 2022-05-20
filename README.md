@@ -2,9 +2,11 @@
 
 This site is live now at: https://rawtalkpodcast.com
 
-Last updated: 2021-06-25
+Last updated: 2022-05-20
 
-Maintainer: [Jesse Knight](mailto:jesse.x.knight@gmail.com)
+Maintainer:
+  - [Mauro Mendez Mora](mauro.mendez@mail.utoronto.ca) - current
+  - [Jesse Knight](mailto:jesse.x.knight@protonmail.com) - retired
 
 ## About Taw Talk
 
@@ -23,6 +25,6 @@ Maintainer: [Jesse Knight](mailto:jesse.x.knight@gmail.com)
   - **content/**: `json` content, e.g. episode info
   - **templates/**: `html` templates, e.g. page layouts
   - **py/**: Python code to combine the above and write non-asset files to `web`
-- **docs/**: guide for how to edit the site
+- **docs/**: guide for how to edit & maintain the site
 - Audio files are hosted & distributed by
   [PodBean](https://rawtalkims.podbean.com)
