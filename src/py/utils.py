@@ -27,8 +27,9 @@ def key_drill(D,keys):
     return D
 
 def json_load(path):
-  with open(path,'r') as f:
+  with open(path,'r', encoding="utf8") as f:
     return json.load(f)
+
 
 def json_drill(path,ext='.json'):
   # clean path
@@ -52,7 +53,7 @@ def json_save(path,content,**kwargs):
 
 def file_save(path,string):
   log('save: '+path, level=2)
-  with open(path,'w') as f:
+  with open(path,'w', encoding="utf8") as f:
     f.write(string)
 
 def page_save(E,T,page,ext='.html',**kwargs):
