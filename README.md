@@ -5,7 +5,7 @@ This site is live now at: https://rawtalkpodcast.com
 Last updated: 2022-05-20
 
 Maintainer:
-  - [Mauro Mendez Mora](mauro.mendez@mail.utoronto.ca) - current
+  - [Mauro Mendez Mora](mailto:mauro.mendez@mail.utoronto.ca) - current
   - [Jesse Knight](mailto:jesse.x.knight@protonmail.com) - retired
 
 ## About Taw Talk
