@@ -5,7 +5,7 @@
   "date": "2022 April 4",
   "season": 6,
   "template": "episode",
-  "img_tile": "",
+  "img_tile": "temp-title-image.jpg",
   "guests": [
     { "name": "Dr. Dirk Huyer",
       "title": "Chief Coroner for Ontario",

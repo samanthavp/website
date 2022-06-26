@@ -6,7 +6,7 @@
   "date": "2022 April 4",
   "season": 6,
   "template": "episode",
-  "img_tile": "",
+  "img_tile": "temp-title-image.jpg",
   "guests": [
    {
     "name": "Dr. Dirk Huyer",
@@ -72,7 +72,7 @@
   "date": "2022 March 3",
   "season": 6,
   "template": "episode",
-  "img_tile": "",
+  "img_tile": "temp-title-image.jpg",
   "guests": [
    {
     "name": "Dr. Leslie Chan",
@@ -149,7 +149,7 @@
   "date": "Feb 26, 2022",
   "season": 6,
   "template": "episode",
-  "img_tile": "",
+  "img_tile": "temp-title-image.jpg",
   "guests": [
    {
     "name": "Sandhya Mylabathula",
