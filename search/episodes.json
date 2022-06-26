@@ -1,5 +1,88 @@
 [
  {
+  "no": 107,
+  "title": "Unravelling the Nobel Prize and Touch Sensations",
+  "mp3": "https://mcdn.podbean.com/mf/web/enbzzd/Ep107-Draft3.mp3",
+  "date": "2022 May 26",
+  "season": 6,
+  "template": "episode",
+  "img_tile": "temp-title-image.jpg",
+  "guests": [
+   {
+    "name": "Dr. Robert Bonin",
+    "title": "Assistant Professor, Leslie Dan Faculty of Pharmacy Scientist, University of Toronto Centre for the Study of Pain",
+    "img": "rob-bonin.png"
+   },
+   {
+    "name": "Dr. Abdel El Manira",
+    "title": "Professor, Department of Neuroscience, Karolinska Institutet, Sweden + Member of the Nobel Assembly, Royal Swedish Academy of Sciences",
+    "img": "abdel-el-manira.png"
+   },
+   {
+    "name": "Dr. Rose Hill",
+    "title": "Ph.D., Postdoctoral Fellow, Scripps Research, United States, Member of The Patapoutian Lab",
+    "img": "rose-hill.png"
+   }
+  ],
+  "notes": "In 2021, Dr. David Julius and Dr. Ardem Patapoutian won the Nobel Prize in Physiology and Medicine for their discoveries related to temperature and touch receptors. In this episode, Dr. Rose Hill and Dr. Robert Bonin introduce us to this topic of  sensory perception, specifically touch and pain. Dr. Bonin describes how we experience pain, delving into acute vs chronic pain, thresholds to pain, and the distinction between nociception and pain. Dr. Hill also shares about her experience being in Dr. Patapoutian's Nobel winning lab, and her work on the perception of itch. Additionally, we get a deeper look into the inner workings of the Nobel Prize, as Dr. Abdel El Manira shares about his time on the Nobel Committee and the inner workings of the Nobel. Join us on this episode, as we unravel touch and the Nobel Prize.",
+  "authors": [
+   "Veena Sanmugananthan"
+  ],
+  "prod_team": {
+   "cc": [
+    "Angela Dela Cruz",
+    "Veena Sanmugananthan",
+    "Swapna Mylabathula",
+    "Junayd Hussain",
+    "Junayd Hussain",
+    "Yagnesh Ladumor"
+   ],
+   "sh": [
+    "Elizabeth Karvasarski",
+    "Michelle Li"
+   ],
+   "ep": [
+    "Yagnesh Ladumor"
+   ],
+   "ae": [
+    "Anukrati Nigam"
+   ],
+   "pv": [
+    ""
+   ],
+   "sm": [
+    ""
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "Discoveries of receptors for temperature and touch",
+    "href": "https://www.nobelprize.org/prizes/medicine/2021/advanced-information/#:~:text=The%202021%20Nobel%20Prize%20in,has%20fascinated%20humankind%20for%20millennia"
+   },
+   {
+    "title": "Bonin Lab",
+    "href": "https://www.sensoryplasticity.com/"
+   },
+   {
+    "title": "UofT Centre for the Study of Pain",
+    "href": "http://sites.utoronto.ca/pain/"
+   },
+   {
+    "title": "Dr. Hill profile",
+    "href": "https://mcb.berkeley.edu/content/rose-hill"
+   },
+   {
+    "title": "A trio of ion channels takes the heat",
+    "href": "https://www.nature.com/articles/d41586-018-02663-1"
+   },
+   {
+    "title": "Profile of 2021 Nobel Prize winners",
+    "href": "https://www.pnas.org/doi/10.1073/pnas.2121015119"
+   }
+  ]
+ },
+ {
   "no": 106,
   "title": "Raw Talk Unsolved: Investigating Forensics",
   "mp3": "https://mcdn.podbean.com/mf/web/j3wpx9/E106_Draft_3_-_volume_normalized85mvu.mp3",
