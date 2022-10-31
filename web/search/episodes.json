@@ -1,5 +1,74 @@
 [
  {
+  "no": 108,
+  "title": "The Psychology of Love and Relationships",
+  "mp3": "https://mcdn.podbean.com/mf/web/wd7a3e/E108_draft5_1_8rdu7.mp3",
+  "date": "2022 Sept 16",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "heart.jpg",
+  "guests": [
+   {
+    "name": "Carole Sandy",
+    "title": "Couple and family therapist (MEd Counselling, MSc Couple and Family, RSW) at Carole Consults Inc.",
+    "img": "carole-sandy.png"
+   },
+   {
+    "name": "Dawn Maslar-Biggie",
+    "title": "Biologist, Adjunct Professor, Author (Men Chase, Women Choose), Founder of Biggie Bioscience",
+    "img": "dawn-maslar.png"
+   },
+   {
+    "name": "Rebecca Horne",
+    "title": "PhD Candidate, Department of Psychology - University of Toronto",
+    "img": "rebecca-horne.png"
+   }
+  ],
+  "notes": "Love is a complicated, painful, wonderful, and abstract thing we are all familiar with. From the fleeting moments of bliss to the deepest relationships, love has also been the subject of objective study, yielding some diverse yet incredible insights. In this episode, we are joined by Rebecca Horne (PhD candidate in the Department of Psychology, University of Toronto), Carole Sandy (a couples and family therapist based in Toronto), and Dawn Maslar-Biggie (award-winning author and Adjunct Professor of Biology based in Fort Lauderdale, Florida) as we explore the science behind love, attraction, and relationships. We hope this episode can highlight some interesting facts about the neuroscience and psychology of love, and how we can use that to create better relationships.",
+  "authors": [
+   ""
+  ],
+  "prod_team": {
+   "cc": [
+    ""
+   ],
+   "sh": [
+    ""
+   ],
+   "ep": [
+    ""
+   ],
+   "ae": [
+    ""
+   ],
+   "pv": [
+    ""
+   ],
+   "sm": [
+    ""
+   ]
+  },
+  "tags": [],
+  "links": [
+   {
+    "title": "How Your Brain Falls in Love",
+    "href": "https://www.youtube.com/watch?v=eyq2Wo4eUDg"
+   },
+   {
+    "title": "Men Chase, Women Choose",
+    "href": "https://www.goodreads.com/book/show/29440863-men-chase-women-choose"
+   },
+   {
+    "title": "From Heartbreak to Heart's Desire: Developing a Healthy GPS",
+    "href": "https://www.goodreads.com/en/book/show/10115596-from-heartbreak-to-heart-s-desire"
+   },
+   {
+    "title": "What science still can't explain about love (Vox)",
+    "href": "https://www.vox.com/science-and-health/2022/2/9/22914378/the-science-and-mystery-of-love"
+   }
+  ]
+ },
+ {
   "no": 107,
   "title": "Unravelling the Nobel Prize and Touch Sensations",
   "mp3": "https://mcdn.podbean.com/mf/web/enbzzd/Ep107-Draft3.mp3",
