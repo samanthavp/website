@@ -1,0 +1,37 @@
+{
+  "no": 109,
+  "title": "Caregivers: The Forgotten Pillars of Healthcare",
+  "mp3": "https://mcdn.podbean.com/mf/web/stx86z/E109_draft3.mp3",
+  "date": "2022 Oct 14",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "title.jpg",
+  "guests": [
+    { "name": "Dr. Danielle Alcock",
+      "title": "Indigenous Leader in Residence, Schulich, School of Medicine and Dentistry, Assistant Professor, Department of Epidemiology and Biostatistics",
+      "img": "danielle-alcock.jpeg"
+    },
+    { "name": "Ron Beleno",
+      "title": "Family Caregiver, Advocate for caregivers for older adults with AGEWELL",
+      "img": "ron-beleno.jpg"
+    },
+    { "name": "Taylor Booroff",
+      "title": "Personal Support Worker, Spokeperson for Ontario PSW Association",
+      "img": "taylor-booroff.jpg"
+    }
+  ],
+  "notes": "Think back to the last time you fell ill or were having a bad day - you likely reached out to your loved ones for support to help you feel better and get through the day productively. Now, think of those with terminal illness or those from marginalized communities seeking care for a chronic condition - for many of them, the first point of contact is a caregiver, helping them with following treatment regimens to even daily activities of living, like eating or changing. They are instrumental to the wellbeing of those who cannot care for themselves - but who cares for the caregivers? This episode aims to explore the role of personal support workers and family caregivers in promoting health in families and communities, and the unique physical, cultural, and policy challenges they face, especially in light of the COVID-19 pandemic. We speak with Taylor Booroff (spokesperson of the Ontario PSW Association), Ron Beleno (family caregiver and advocate for caregivers of older adults with AGE-WELL), and Danielle Alcock (patient navigator for Indigenous communities in Southwestern Ontario).",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
