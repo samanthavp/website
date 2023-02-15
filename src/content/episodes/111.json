@@ -1,0 +1,45 @@
+{
+  "no": 111,
+  "title": "Tiny Tots, Huge Hurdles",
+  "mp3": "https://mcdn.podbean.com/mf/web/inse43/E111_draft4.mp3",
+  "date": "2023 Feb 15",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "website photo  option 1oscar nicu.jpeg",
+  "guests": [
+    { "name": "Estelle Gauda, MD",
+      "title": "Professor of Pediatrics, University of Toronto; Head, Division of Neonatology, Hospital for Sick Children, Director, Toronto Centre for Neonatal Health; The Hospital for Sick Children",
+      "img": "estelle-gauda headshot.jpg"
+    },
+    { "name": "Tamorah Lewis, MD, PhD",
+      "title": "Division Head for Clinical Pharmacology and Toxicology at SickKids, Associate Professor, Department of Paediatrics at the University of Toronto",
+      "img": "tamorah-lewis-headshot-300.jpg"
+    },
+    { "name": "Pia Wintermark, MD",
+      "title": "Associate Professor, Department of Pediatrics, Faculty of Medicine and Health Sciences, McGill University; Department of Pediatrics, Division of Neonatology, MUHC",
+      "img": "Wintermark - Headshot.jpg"
+    },
+    { "name": "Dr. Zulfiqar Bhutta",
+      "title": "Co-Director, Director of Research, Centre for Global Child Health",
+      "img": "zulfiqar-bhutta-headshot-300x450.jpg"
+    },
+    { "name": "Kimberley and Christina Foreman",
+      "title": "",
+      "img": "foreman family.jpeg"
+    }
+  ],
+  "notes": "In this episode of Raw Talk Podcast, we dive into the big world of little humans as we explore the topic of neonatology. Our guests give us an overview of what neonatology as a field encompasses and the very special population that neonatologists serve. This episode also dives into the impacts of research and new medications in the NICU, challenges regarding disparities of care, and the real life experience of a NICU family. This episode features notable guests like Dr. Estelle Gauda (Division Head, Neonatology at SickKids and Professor of Pediatrics at University of Toronto), Dr. Pia Wintermark (Associate Professor, Department of Pediatrics at McGill University), Dr. Tamorah Lewis (Division Head for Clinical Pharmacology and Toxicology at SickKids), Dr. Zulfiqar Bhutta (Director of Research at the Centre for Global Child Health, SickKids), and most especially, Kimberley and Christina Foreman, who kindly shared their personal experiences at the NICU with us.",
+  "authors": [""],
+  "prod_team": {
+    "cc": ["Sena Gok", "Angela Dela Cruz"],
+    "sh": ["Atefeh Mohammadi", "Sonika Kumari"],
+    "ep": ["Atefeh Mohammadi"],
+    "ae": ["Alex Jacob"],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
