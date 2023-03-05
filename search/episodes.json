@@ -1,5 +1,61 @@
 [
  {
+  "no": 112,
+  "title": "Architecture x Health: The Blueprints behind Healthcare Spaces",
+  "mp3": "https://mcdn.podbean.com/mf/web/x5gh28/112_draft4_fixed.mp3",
+  "date": "2023 Mar 01",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "arch_health.jpg",
+  "guests": [
+   {
+    "name": "Dr. Diana Anderson",
+    "title": "Dochitect (Licensed Healthcare Architect and Geriatric Neurology Fellow, VA Boston Healthcare System",
+    "img": "Diana_Headshot.jpg"
+   },
+   {
+    "name": "Dr. Michaela Cada",
+    "title": "Chief Clinical Planning Officer of Project Horizon + Pediatric Hematologist/Oncologist, SickKids Hospital",
+    "img": "michaela-cada.jpg"
+   },
+   {
+    "name": "Dr. John Straube",
+    "title": "Registered Professional Engineer at RDH Building Science and Associate Professor, Department of Civil and Environmental Engineering, University of Waterloo",
+    "img": "John Straube Headshot.jpg"
+   }
+  ],
+  "notes": "The spaces we live, work, play in shape our health and our psyche - and healthcare spaces are no different. In this episode, we take a deep, multifaceted look at the field of healthcare architecture. Our guests give us valuable insights into how hospitals are designed and how elements of clinical care, sound design, and innovative research combine to create spaces we all experience sickness and health in. We hear from \"dochitect\" Dr. Diana Anderson (board-certified healthcare architect and internist at VA Boston Health System), Dr. Michaela Cada (hematologist-oncologist and Chief Clinical Planning Officer of Project Horizon), and Dr. John Straube (registered professional engineer and Associate Professor, Department of Civil and Environmental Engineering, University of Waterloo).",
+  "authors": [
+   ""
+  ],
+  "prod_team": {
+   "cc": [
+    "Rachel",
+    "Teo",
+    "Raina"
+   ],
+   "sh": [
+    "Rachel",
+    "Kavyan",
+    "Julia"
+   ],
+   "ep": [
+    "Junayd"
+   ],
+   "ae": [
+    "Junayd"
+   ],
+   "pv": [
+    ""
+   ],
+   "sm": [
+    ""
+   ]
+  },
+  "tags": [],
+  "links": []
+ },
+ {
   "no": 111,
   "title": "Tiny Tots, Huge Hurdles",
   "mp3": "https://mcdn.podbean.com/mf/web/inse43/E111_draft4.mp3",
