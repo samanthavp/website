@@ -47,7 +47,7 @@ Last updated: 2022-05-20, Jesse Knight
 |   |   ├── audioplayer.js              # custom js - for player on episode pages
 |   |   ├── bootstrap-4.3.1.min.js      # DNE imported js - framework
 |   |   ├── fuse-3.4.5.min.js           # DNE imported js - for search
-|   |   ├── jquery-3.4.1.min.js         # DNE imported js - jquery
+|   |   ├── jquery-3.7.0.min.js         # DNE imported js - jquery
 |   |   └── rawtalkpodcast.js           # custom js - basically just search (consider renaming)
 |   ├── latest/index.html               # AG redirect page pointing to most recent episode
 |   ├── search/                         # AG json files for performing search using fuse.js
