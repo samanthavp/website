@@ -1,0 +1,45 @@
+{
+  "no": 115,
+  "title": "The Future of Paramedicine",
+  "mp3": "https://mcdn.podbean.com/mf/web/ffsmax/E115_-_Draft_38dtal.mp3",
+  "date": "2023 Jul 21",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "ambulance.jpg",
+  "guests": [
+    { "name": "Amir Allana",
+      "title": "Paramedic with experience in Ontario and British Columbia; Fellow at McNally Project for Paramedicine Research; MSc at IHPME UofT",
+      "img": "amir-allana.jpg"
+    },
+    { "name": "Cheryl Cameron",
+      "title": "Advanced Care Paramedic in Alberta; PhD Candidate at Monash University; Senior Fellow at McNally Project for Paramedicine Research",
+      "img": "cheryl-cameron.jpg"
+    },
+    { "name": "Melissa Vose",
+      "title": "Advanced Care Paramedic in British Columbia",
+      "img": "melissa-vose.jpg"
+    }
+  ],
+  "notes": "When 911 is called for medical assistance, paramedics are the personnel that are dispatched to provide transport and emergency medical care. Paramedics are generally known to play an essential role in our healthcare systems and are often regarded as the first-line of medical services in the community before reaching the hospital setting. However, paramedicine is more than just ambulatory and emergency care. In this episode, we hear from Cheryl Cameron (Paramedic from Alberta; Director of Operations of Canadian Virtual Hospice; PhD Student at Monash University; Senior Fellow with the NcNally Project for Paramedicine Research), Melissa Vose (Advanced Care Paramedic from British Columbia) and Amir Allana (Paramedic from Ontario and British Columbia; Masters Degree in the Institute of Health Policy Management and Evaluation at the University of Toronto; Fellow at the McNally Project for Paramedicine Research) who provide us with a deep dive into the fascinating and dynamic discipline of paramedicine. Our guests share their experiences as paramedics, address systemic issues within paramedicine, and introduce us to the expansion of paramedicine outside of primary and emergency care.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Damning report into BCEHS workplace culture released after CTV News FOI requests",
+      "href": "https://bc.ctvnews.ca/damning-report-into-bcehs-workplace-culture-released-after-ctv-news-foi-request-1.6471734"
+    },
+    { "title": "B.C. Emergency Health Services needs to do more to address sexual harassment and morale: report",
+      "href": "https://www.msn.com/en-ca/news/canada/bc-emergency-health-services-needs-to-do-more-to-address-sexual-harassment-and-morale-report/ar-AA1dC3s6"
+    },
+    { "title": "Proposed settlement reached in Alberta class action over workplace sexual misconduct",
+      "href": "https://www.cbc.ca/news/canada/edmonton/city-of-leduc-fire-lawsuit-1.6884128"
+    }
+  ]
+}

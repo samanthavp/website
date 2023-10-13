@@ -1,0 +1,33 @@
+{
+  "no": 117,
+  "title": "Endometriosis: Common Disease, Uncommon Diagnosis",
+  "mp3": "https://mcdn.podbean.com/mf/web/y6iib3/117_Part_1_FINAL_26-098j5hg.mp3",
+  "date": "2023 Sep 27",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "ambulance.jpg",
+  "guests": [
+    { "name": "Dr. Jamie Kroft",
+      "title": "Gynecologic Surgeon and OB, Sunnybrook Hospital; Associate Professor, Obstetrics and Gynaecology UofT, Core Obstetrics & Gynaecology - Minimally Invasive Gynaecologic Surgery",
+      "img": "jamie-kroft.jpg"
+    },
+    { "name": "Amanda Weston",
+      "title": "Research Quality Associate, University Health Network",
+      "img": "amanda-weston.jpg"
+    }
+  ],
+  "notes": "In this two-part episode, we discuss two very important topics related to Women's Health; Endometriosis and Cervical Cancer. \\nPart 1: \\nEveryone wants to be seen and heard, especially in the context of their health and well-being. Unfortunately, this hasn't always been the case for individuals with endometriosis. In Part 1, we take a deep dive into understanding endometriosis and gain some valuable insight into the journey of being diagnosed from our guests. We hear from Dr. Jamie Kroft (Obstetrician-Gynaecologist and Gynaecologist surgeon at Sunnybrook Hospital) and Amanda Weston (Research Quality Associate, University Health Network) who has lived experience with endometriosis.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}

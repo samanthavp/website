@@ -1,0 +1,34 @@
+{
+  "no": 114,
+  "title": "Inclusivity in Sports and Fitness",
+  "mp3": "https://mcdn.podbean.com/mf/web/pd7p5g/E113_-_Sports_-_draft_386xm1.mp3",
+  "date": "2023 Jun 14",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "inclusivity-sports.jpg",
+  "guests": [
+    { "name": "Rishada Majeed",
+      "title": "Program Director, Hijabi Ballers",
+      "img": "rishada-majeed.jpg"
+    }
+  ],
+  "notes": "The sports and fitness spaces play an important role in fostering communities - we can challenge our physical and mental capabilities, form ever-lasting bonds with teammates, find an avenue to relieve stress and find a sense of connectedness with other people. Our very own Braeden and Swapna sit down to talk about their love for sports and their journeys in this space. We hope their conversation inspires you to start your own journey in this space. In this episode, we also listen to valuable insights about the different barriers Muslim women face when pursuing athletic activities in our conversation with Rishada, a program director at Hijabi Ballers, an organisation based in the Greater Toronto Area that aims to recognize and celebrate the athleticism of Muslim girls and women.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    { "title": "Hijabi Ballers",
+      "href": "http://www.hijabiballers.com/"
+    },
+    { "title": "Hijabi Ballers Community App coming soon!",
+      "href": ""
+    }
+  ]
+}

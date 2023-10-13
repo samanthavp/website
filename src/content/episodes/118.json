@@ -1,0 +1,33 @@
+{
+  "no": 118,
+  "title": "Cervical Cancer Screening: The Smear Test Alternative",
+  "mp3": "https://mcdn.podbean.com/mf/web/xrje8d/Women_s_Health_Part_2_Sep27_draft37bopz.mp3",
+  "date": "2023 Sep 27",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "ambulance.jpg",
+  "guests": [
+    { "name": "Naomi Forward",
+      "title": "Co-Founder, Thyia",
+      "img": "naomi-forward.jpg"
+    },
+    { "name": "Beth Dobson",
+      "title": "Senior Designer, Mettle Studio",
+      "img": "beth-dobson.jpg"
+    }
+  ],
+  "notes": "In this two-part episode, we discuss two very important topics related to Women's Health; Endometriosis and Cervical Cancer. \\nPart 2: \\nCervical cancer is a very common cancer among young women. Early detection, primarily done via cervical screening (also known as a pap smear), greatly improves the chances of successful treatment and survival. In Part 2, we hear from Naomi Forward (Co-Founder of Thyia) and Beth Dobson (Senior Designer at Mettle Studio), who discuss the screening process behind cervical cancer and the importance of early detection of this condition. They also discuss accessibility of screening, cost of screening, screening inside and outside a healthcare setting, and many more important topics.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no": 116,
+  "title": "Medical Imaging: Radiology Revolution",
+  "mp3": "https://mcdn.podbean.com/mf/web/xex8sz/Medical_Imaging_Draft_76b0he.mp3",
+  "date": "2023 Aug 09",
+  "season": 7,
+  "template": "episode",
+  "img_tile": "ambulance.jpg",
+  "guests": [
+    { "name": "Michael McInnis",
+      "title": "Thoracic Radiologist at JDMI; Radiology Quality Assurance Lead at UHN High Risk Lung Cancer Screening Program; Assistant Professor at UofT",
+      "img": "michael-mcinnis.jpg"
+    },
+    { "name": "April Khademi",
+      "title": "Associate Professor, Department of Electrical, Computer and Biomedical Engineering at TMU; PI, Image Analysis in Medicine Lab; Affiliate Scientist, St. Michael's Hospital; Researcher at iBEST, TMU; Researcher at T-CAIREM, UofT",
+      "img": "april-khademi.jpg"
+    },
+    { "name": "Trevor McKee",
+      "title": "CEO and Co-founder, Pathomics; Adjunct Lecturer, Department of Laboratory Medicine and Pathobiology, UofT",
+      "img": "trevor-mckee.jpg"
+    }
+  ],
+  "notes": "Medical imaging, from the familiar X-rays to advanced MRI and CT scans, has revolutionized healthcare. These techniques allow us to glimpse inside, aiding in the diagnosis and treatment of various conditions. At the heart of these processes are radiologists, the medical detectives who decipher these images and translate them into diagnoses guiding patient care. Looking ahead, artificial intelligence (AI) looms large on the horizon. The potential for AI to enhance medical imaging has received increased interest. Imagine algorithms that can spot anomalies in seconds or even predict diseases before symptoms occur! In this episode, we hear from Dr. Michael McInnis (Thoracic Radiologist at JDMI; Radiology Quality Assurance Lead at UHN High Risk Lung Cancer Screening Program; Assistant Professor at UofT), Dr. April Khademi (Associate Professor, Department of Electrical, Computer and Biomedical Engineering at TMU; Principal Investigator of the Image Analysis in Medicine Lab; Affiliate Scientist, St. Michael’s Hospital; Researcher at iBEST, TMU; Researcher at T-CAIREM, UofT), and Dr. Trevor McKee (CEO and Co-founder, Pathomics; Adjunct Lecturer, Department of Laboratory Medicine and Pathobiology, UofT).  Join us as we explore the basics of medical imaging, the critical role of radiologists, the dynamic partnership of industry and academia, and the potential integration of AI in medical imaging. This episode will shine light on how medical imaging is shaping the present and the future of healthcare.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
